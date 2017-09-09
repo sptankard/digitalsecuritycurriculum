@@ -372,14 +372,20 @@ If you are concerned about being followed by fake Antifa accounts consider insta
 
 * Through block together you can follow trusted collaborators or accounts who begin blocking Antifa and other hostile sites. 
 * This is a good practice to build within your own network as you will be able to start to see fake accounts through a pattern of similar messages, bad grammar, or even copy and paste texts. 
-* Blocking them collectively ensures you can operate with a greater peace of mind because their goals again are to harass and spread disinformation. 
-* Once you have installed block together you can subscribe to other users lists to spread community resilence. 
+* Blocking them collectively ensures you can operate with a greater peace of mind because their goals again are to harass and spread disinformation. Once you have installed block together you can subscribe to other users lists to spread community resilence. 
 * A good one for fake Antifa accounts is the list run by the twitter hand @antifachecker. You can subscribe to their list here: https://blocktogether.org/show-blocks/UQ_ZPDyCHCygI-EUU_6xLY23sewTWFbPA8k7cCdz . 
 * You can also use services like Troll Busters to attack a troll swarm with affirmative messages that can help drown out the abuse. Learn more at http://www.troll-busters.com.
 
 ### ✔KILL ALL ORPHAN ACCOUNTS. 
 
-Remember trolls are going to use whatever information they have of you online to get into as many acccouts you have. Orphan accounts or accounts you have not used in a long time can make you vulnerable because if they are using and older password they can try that accounts technical support to get more data about you that they can try to use for other accounts. So be on the safe side and shut them down.
+Remember trolls are going to use whatever information they have of you online to get into as many accounts you have. 
+
+* Orphan accounts or accounts you have not used in a long time can make you vulnerable because 
+* if they are using an older password they can try that accounts technical support to
+* get more data about you that 
+* they can try to use for other accounts. 
+
+So be on the safe side and shut them down.
 
 ### ✔USE ALIASES WHEN SIGNING PETITIONS OR SIGN-IN SHEETS FOR MEETINGS. 
 
