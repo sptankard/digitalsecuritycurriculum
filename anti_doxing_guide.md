@@ -134,7 +134,7 @@ This is crucial to
 
 A sample log could look like this: ...put the sample here...
 
-https://cdn-images-1.medium.com/max/1600/1*J3t67fwqvZljZWdDHZXn4w.jpeg
+![Incident response log. Columns: date, time, description, result/recommendation](https://cdn-images-1.medium.com/max/1600/1*J3t67fwqvZljZWdDHZXn4w.jpeg)
 
 But please feel free to create one that makes sense for you and that you can adapt to your situation. The most important thing is that you 
 
