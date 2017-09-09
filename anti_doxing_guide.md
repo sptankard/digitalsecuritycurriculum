@@ -157,14 +157,30 @@ But please note: we recommend that you keep incident logs not in google docs but
 
 ### ✔ CHANGE YOUR EXISTING PASSWORDS
 
-Trolls will be trying their best to get into all of your accounts. You can find out if you e-mail is part of any recent hacks at www.haveibeenpwned. This will let you know what level of risk you are at for penetration of your accounts.
+What's up
 
-After you have made that quick assessment, make a list of all of your crucial accounts and change the passwords immediately so you have fresh passwords for each.
+* Trolls will be trying their best to get into all of your accounts. 
+* You can find out if you e-mail is part of any recent hacks at www.haveibeenpwned.com 
+* This will let you know what level of risk you are at for penetration of your accounts.
+
+After you have made that quick assessment,
+
+* make a list of all of your crucial accounts and 
+* change the passwords immediately so you have fresh passwords for each.
+* Ideally, passwords should be randomly generated (by a computer, not by your human head) & 
+* should be different for each account (never reuse passwords).
 
 Additionally, if you have time we strongly recommend:
-* use a password manager to to generate and store all of your new passwords. 
-* This will allow you a greater capability to create complex passwords for all of your accounts while limiting you to only remember one. 
-* We recommend 1password at https://1password.com/ , keepassX at ,and lastpass.
+
+* Use a password manager to to generate and store all of your new passwords. 
+* This will allow you a greater capability to create complex passwords for all of your accounts while 
+* limiting you to only have to remember one.
+
+Password manager software recommendations:
+
+* 1password at https://1password.com/ 
+* KeePassXC  https://keepassxc.org/
+* LastPass https://lastpass.com/
 
 ### ✔ TURN ON 2-FACTOR AUTHENTICATION (2FA) for all your accounts. 
 
