@@ -315,7 +315,7 @@ What is it how's it work
 
 Go get it
 
-* Main website (where you can find how to download): signal.org
+* Main website (where you can find how to download): [Signal.org](https://signal.org)
 * Handy mini-guide/shameless self-plug: https://medium.com/@sptanager/intro-to-signal-d3bc095a115a
 
 Go get it now. What are you waiting for?
