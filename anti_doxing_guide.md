@@ -208,7 +208,7 @@ So if can lock them all down. When in doubt, lock it down.
 * We recommend using Google Authenticator app or an app like Authy or FreeOTP. 
 * These can generate codes on your phone and can be revoked remotely in the chance that our phone is confiscated, stolen, or lost.
 
-However, text/SMS 2fa is always better than no 2fa! (OTP-2fa > SMS-2fa > no 2fa)
+However, text/SMS 2fa is always better than no 2fa! (`OTP-2fa > SMS-2fa > no 2fa`)
 
 You can find tutorials for all 2FA instructions for most of your accounts here: 
 
