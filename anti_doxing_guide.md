@@ -184,13 +184,41 @@ Password manager software recommendations:
 
 ### ✔ TURN ON 2-FACTOR AUTHENTICATION (2FA) for all your accounts. 
 
-This means you are adding another verification method when you sign into your accounts. This helps when you have trolls trying to break into your account. If they only have your password they will be stopped at the second point of verifcation.
+2fa wuts that
 
-When thinking about which accounts you want to add 2FA you have to think like a troll. Which accounts do you have that would cause the most damage if it was compromised. By taking over your e-mail they can release and interfere with your communication, by taking over you bank account they wreak havok with your finances, etc. So if can lock them all down.
+* This means you are adding another verification method when you sign into your accounts. 
+* This helps **A LOT** when you have trolls trying to break into your account. 
+* If they only have your password they will be stopped at the second point of verifcation.
 
-2FA is available for G-mail, Facebook, Twitter, Amazon and more. We recommend that you add 2FA but please when possible avoid using Text/SMS as your method of verification. This is because texts can be intercepted and so are not secure. We recommend using Google Authenticator app or an app like Authy. These can generate codes on your phone and can be revoked remotely in the chance thaty our phone is confiscated, stolen, or lost.
+Thinking like the adversary
 
-You can find tutorials for all 2FA instructions for most of your accounts here at. https://www.turnon2fa.com/tutorials/ and also here https://twofactorauth.org.
+* When thinking about which accounts you want to add 2FA you have to think like a troll. 
+* Which accounts do you have that would cause the most damage if it was compromised? 
+
+E.g. 
+
+* By taking over your e-mail they can release and interfere with your communication, and 
+* likely gain much sensitive information about you (scan of your passport? driver's license?)  
+* by taking over you bank account they wreak havok with your finances, etc. 
+
+So if can lock them all down. When in doubt, lock it down.
+
+* 2FA is available for G-mail, Facebook, Twitter, Amazon and more. 
+* When possible avoid using Text/SMS as your method of verification. This is because texts can be intercepted and so are not secure. 
+* We recommend using Google Authenticator app or an app like Authy or FreeOTP. 
+* These can generate codes on your phone and can be revoked remotely in the chance that our phone is confiscated, stolen, or lost.
+
+However, text/SMS 2fa is always better than no 2fa! (OTP-2fa > SMS-2fa > no 2fa)
+
+You can find tutorials for all 2FA instructions for most of your accounts here: 
+
+* https://www.turnon2fa.com/tutorials/ 
+* https://twofactorauth.org
+
+Not going to lie to you, at first you are going to find 2fa a little annoying. But:
+
+* **It's worth it.** It really is.
+* It will get less annoying pretty quickly as you get used to it.
 
 ### ✔ FIND OUT WHAT INFORMATION TROLLS CAN FIND OUT ABOUT YOU. 
 
