@@ -2,17 +2,22 @@
 
 Adapted from: https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
 
-equality labs
-equalitylabs.org
-Sep 1
+Originally published by equality labs, 12017 Sep 1. 
 
+[equalitylabs.org]
 
+> Hey Movement Fam,
+> 
+> It is the folks from Equality Labs and we have an urgent Anti-Doxing guide to support the activists who are getting slammed by Alt-right Forces around the country for coming out and resisting Nazis from Charlottesville to Berkeley.
+> [...]
+> Post Charlottesville, Boston, and the Bay Area Anti-White supremacist marches we are seeing an unprecedented number of doxing attacks on all members of the movements.
 
-Hey Movement Fam,
+This guide has been created to deal with the current issues we are seeing.
 
-It is the folks from Equality Labs and we have an urgent Anti-Doxing guide to support the activists who are getting slammed by Alt-right Forces around the country for coming out and resisting Nazis from Charlottesville to Berkeley.
-
-This guide has been created to deal with the current issues we are seeing and should be incorporated into your regular digital security practices. We know that the escalated activity of the White Supremacists is scary, but the best defense now is one rooted in information, compassion and self-care for ourselves and each other, and a commitment to collective resilence.
+* it should be incorporated into your regular digital security practices. 
+* We know that the escalated activity of the White Supremacists is scary, but 
+* the best defense now is one rooted in information, compassion and self-care for ourselves and each other, and 
+* a commitment to collective resilence.
 
 With that we have broken up this guide in terms of background and next steps. 
 
@@ -20,10 +25,6 @@ Equality Labs welcome questions at:
 
 * email: equalitylabs@protonmail.com 
 * upon the twitterplace: @EqualityLabs
-
-## BACKGROUND
-
-Post Charlottesville, Boston, and the Bay Area Anti-White supremacist marches we are seeing an unprecedented number of doxing attacks on all members of the movements.
 
 ## What is doxing?
 
@@ -61,22 +62,39 @@ Sometimes your adversaries will be some random rich person, governments, corpora
 
 ## Overview
 
-✔ CREATE A SELF-CARE PLAN
-✔ CREATE AN INCIDENT LOG
-✔ CHANGE YOUR EXISTING PASSWORDS
-✔ TURN ON 2-FACTOR AUTHENTICATION (2FA) for all your accounts. 
-✔ FIND OUT WHAT INFORMATION TROLLS CAN FIND OUT ABOUT YOU. 
-✔ CALL YOUR CREDIT CARDS, CELL PHONE PROVIDER, UTILITIES, AND BANK AND LET THEM KNOW YOU ARE A TARGET. 
-✔ INSTALL A VIRTUAL PRIVATE NETWORK (VPN) 
-✔ USE THE TOR BROWSER. 
-✔ INSTALL SIGNAL. 
-✔ WEAN YOURSELF OFF G-MAIL AND BEGIN USING ENCRYPTED E-MAIL. 
-✔ FOR SECURE GROUP CONVERSATIONS USE TALKY.IO OR ZOOM. 
-✔ CHANGE YOUR PRIVACY SETTINGS ON YOUR SOCIAL NETWORKS. 
-✔ KILL ALL ORPHAN ACCOUNTS. 
-✔ USE ALIASES WHEN SIGNING PETITIONS OR SIGN-IN SHEETS FOR MEETINGS. 
-✔ FINALLY SECURE AND BACK UP YOUR HARDWARE. 
+Logistics and human-y stuff
 
+* ✔ CREATE A SELF-CARE PLAN
+* ✔ CREATE AN INCIDENT LOG
+
+Techy stuff *immediately*
+
+* ✔ CHANGE YOUR EXISTING PASSWORDS
+* ✔ TURN ON 2-FACTOR AUTHENTICATION (2FA) for all your accounts. 
+
+Techy stuff day #2
+
+* ✔ FIND OUT WHAT INFORMATION TROLLS CAN FIND OUT ABOUT YOU. 
+* ✔ CALL YOUR CREDIT CARDS, CELL PHONE PROVIDER, UTILITIES, AND BANK AND LET THEM KNOW YOU ARE A TARGET. 
+* ✔ INSTALL A VIRTUAL PRIVATE NETWORK (VPN) 
+* ✔ USE THE TOR BROWSER. 
+* ✔ INSTALL SIGNAL. 
+
+Techy stuff days 3 & 4+
+
+* ✔ WEAN YOURSELF OFF G-MAIL AND BEGIN USING ENCRYPTED E-MAIL. 
+* ✔ FOR SECURE GROUP CONVERSATIONS USE TALKY.IO OR ZOOM. 
+* ✔ CHANGE YOUR PRIVACY SETTINGS ON YOUR SOCIAL NETWORKS. 
+* ✔ KILL ALL ORPHAN ACCOUNTS. 
+* ✔ USE ALIASES WHEN SIGNING PETITIONS OR SIGN-IN SHEETS FOR MEETINGS. 
+* ✔ FINALLY SECURE AND BACK UP YOUR HARDWARE. 
+
+Final little note -- Actually, install [Signal](signal.org) immediately. Like right now while you're reading this.
+
+* It's incredibly easy and quick. Literally takes 2 minutes to install and set up.
+* It's very effective.
+* Everybody should be using it all the time.
+* Install Signal! & use it :)
 
 ## Details
 
