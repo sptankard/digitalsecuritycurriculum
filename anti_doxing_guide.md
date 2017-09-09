@@ -9,8 +9,8 @@ Originally published by equality labs, 12017 Sep 1.
 > Hey Movement Fam,
 > 
 > It is the folks from Equality Labs and we have an urgent Anti-Doxing guide to support the activists who are getting slammed by Alt-right Forces around the country for coming out and resisting Nazis from Charlottesville to Berkeley.
-> [...]
-> Post Charlottesville, Boston, and the Bay Area Anti-White supremacist marches we are seeing an unprecedented number of doxing attacks on all members of the movements.
+> 
+> [...] Post Charlottesville, Boston, and the Bay Area Anti-White supremacist marches we are seeing an unprecedented number of doxing attacks on all members of the movements.
 
 This guide has been created to deal with the current issues we are seeing.
 
@@ -126,13 +126,34 @@ A way forward
 
 ### ✔ CREATE AN INCIDENT LOG
 
-This is crucial to establish patterns of your attacks and can be useful to compare with other organizers to identify larger patterns within the attacks to identify opponents and their organizations.
+This is crucial to 
 
-A sample log could look like this:
+* establish patterns of your attacks and can be useful to 
+* compare with other organizers to identify larger patterns within the attacks to 
+* identify opponents and their organizations.
 
-But please feel free to create one that makes sense for you and that you can adapt to your situation. The most important thing is that you keep notes throughout your attack and share with your security professional when you can. If you like this one you can use this document as an example. Plese feel free to make a copy.
+A sample log could look like this: ...put the sample here...
 
-But please note: we recommend that you keep incident logs not in google docs but in an encrypted word processing platform like Etherpad on Riseup at https://pad.riseup.net or Cryptpad at https://cryptpad.fr.
+https://cdn-images-1.medium.com/max/1600/1*J3t67fwqvZljZWdDHZXn4w.jpeg
+
+But please feel free to create one that makes sense for you and that you can adapt to your situation. The most important thing is that you 
+
+* keep notes throughout your attack and 
+* share with your security professional when you can. 
+
+If you're not attached to an org that provides you something like a security professional, then you can either:
+
+* Talk to the person who is giving you this presenteation :)
+* Contact an org like equalitylabs.org, or
+* [Security Without Borders](securitywithoutborders.org) or
+* EFF's cooperating techs network cooptechs@eff.org
+
+If you like Equality Labs' incident log example you can use it document as an example. Please feel free to make a copy.
+
+But please note: we recommend that you keep incident logs not in google docs but in an encrypted word processing platform like
+
+* Etherpad on Riseup at https://pad.riseup.net or 
+* Cryptpad at https://cryptpad.fr
 
 ### ✔ CHANGE YOUR EXISTING PASSWORDS
 
