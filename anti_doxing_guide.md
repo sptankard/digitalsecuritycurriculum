@@ -338,18 +338,44 @@ For All of your Facebook privacy settings you can find them here https://www.fac
 
 Key to change are the following settings.
 
-    Change your settings so that only your friends can see your current posts. When you want to post something work related as public, set those individual posts as public. Protect past timeline posts by watching this video. How To Video.
-    If you can review your friends lists. Unfriend all those people who follow you or who are your friends but you can’t remember who they are or maybe vaguely remember some awkward interaction with them. Double check that each of your friends is unique and no one has created accounts with similar names and photos to a real friend in order to access your private friend only communications.
-    Also go through your profile information and make sure your phone number and email are set to be viewed by “only you”. Remove featured photos and/or any information in your “About” section in your profile that you would not want to see appear on doxing sites. This is because a common tactic trolls will do is to take your album photos and spread them across the internet. They will do this to either create a fake profile for you or to make harassing memes or messages about you.
-    Remove your Facebook public photo, and replace it with a generic photo that doesn’t have your actual picture and remove your full birthday (or replace it with inaccurate information).
+Post visibility 
+
+* Change your settings so that only your friends can see your current posts. 
+* When you want to post something work related as public, set those individual posts as public. 
+* Protect past timeline posts by watching this video. How To Video. ...link...
+
+Friends lists
+
+* If you can review your friends lists. 
+* Unfriend all those people who follow you or who are your friends but you can’t remember who they are or maybe vaguely remember some awkward interaction with them. 
+* Double check that each of your friends is unique and no one has created accounts with similar names and photos to a real friend in order to access your private friend only communications.
+    
+Other stuff 
+
+* Also go through your profile information and make sure your phone number and email are set to be viewed by “only you”. 
+* Remove featured photos and/or any information in your “About” section in your profile that you would not want to see appear on doxing sites. 
+* This is because a common tactic trolls will do is to take your album photos and spread them across the internet. They will do this to either create a fake profile for you or to make harassing memes or messages about you.
+
+* Remove your Facebook public photo, and replace it with a generic photo that doesn’t have your actual picture and remove your full birthday (or replace it with inaccurate information).
 
 #### TWITTER
 
-    In your Account settings make sure you have verify all login requests so you can flag anyone trying to get into your account.
-    In your Privacy and Safety Settings make sure you turn of Tweet with a location. This prevents you leaking your location through your twitter statuses.
-    Turn of photo tagging so that random troll accounts can’t tag you on harassing content or statuses.
-    Turn off discoverability by e-mail or phone.
-    If you are concerned about being followed by fake Antifa accounts consider installing an application like block together. Through block together you can follow trusted collaborators or accounts who begin blocking Antifa and other hostile sites. This is a good practice to build within your own network as you will be able to start to see fake accounts through a pattern of similar messages, bad grammar, or even copy and paste texts. Blocking them collectively ensures you can operate with a greater peace of mind because their goals again are to harass and spread disinformation. Once you have installed block together you can subscribe to other users lists to spread community resilence. A good one for fake Antifa accounts is the list run by the twitter hand @antifachecker. You can subscribe to their list here: https://blocktogether.org/show-blocks/UQ_ZPDyCHCygI-EUU_6xLY23sewTWFbPA8k7cCdz . You can also use services like Troll Busters to attack a troll swarm with affirmative messages that can help drown out the abuse. Learn more at http://www.troll-busters.com.
+In your Account settings make sure you have **verify all login requests** so you can flag anyone trying to get into your account.
+
+In your Privacy and Safety Settings make sure you **turn off Tweet with a location**. This prevents you leaking your location through your twitter statuses.
+
+**Turn off photo tagging** so that random troll accounts can’t tag you on harassing content or statuses.
+
+Turn off discoverability by e-mail or phone.
+
+If you are concerned about being followed by fake Antifa accounts consider installing an application like block together. 
+
+* Through block together you can follow trusted collaborators or accounts who begin blocking Antifa and other hostile sites. 
+* This is a good practice to build within your own network as you will be able to start to see fake accounts through a pattern of similar messages, bad grammar, or even copy and paste texts. 
+* Blocking them collectively ensures you can operate with a greater peace of mind because their goals again are to harass and spread disinformation. 
+* Once you have installed block together you can subscribe to other users lists to spread community resilence. 
+* A good one for fake Antifa accounts is the list run by the twitter hand @antifachecker. You can subscribe to their list here: https://blocktogether.org/show-blocks/UQ_ZPDyCHCygI-EUU_6xLY23sewTWFbPA8k7cCdz . 
+* You can also use services like Troll Busters to attack a troll swarm with affirmative messages that can help drown out the abuse. Learn more at http://www.troll-busters.com.
 
 ### ✔KILL ALL ORPHAN ACCOUNTS. 
 
