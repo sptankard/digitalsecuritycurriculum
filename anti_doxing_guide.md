@@ -4,7 +4,7 @@ Adapted from: https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-f
 
 Originally published by equality labs, 12017 Sep 1. 
 
-[equalitylabs.org]
+[equalitylabs.org](https://equalitylabs.org)
 
 > Hey Movement Fam,
 > 
@@ -31,7 +31,7 @@ Equality Labs welcome questions at:
 Doxing is the violent Internet-based practice of:
 
 * researching and broadcasting private or identifiable information about an individual or organization 
-* ...in order to harass and traumatize activists from organizing activity
+* ...in order to harass and traumatize activists from organizing activity.
 * Additionally such attacks can also be accompanied by real world violence and spread disinformation about and individual and/or a movement.
 
 How's it work, concretely?
@@ -44,8 +44,8 @@ What to do?
 
 * Adopt best practices to stay safe 
 * The practices below will help lock you down through the attacks
-* You need to maintain these things to keep your digital resilence
-* "Security is a process, not a product."
+* You need to maintain these things to keep your digital resilience
+* *"Security is a process, not a product."*
 
 ## What this guide covers, and what it doesn't
 
@@ -72,7 +72,7 @@ Techy stuff *immediately*
 * ✔ CHANGE YOUR EXISTING PASSWORDS
 * ✔ TURN ON 2-FACTOR AUTHENTICATION (2FA) for all your accounts. 
 
-Techy stuff day #2
+Techy stuff day 2
 
 * ✔ FIND OUT WHAT INFORMATION TROLLS CAN FIND OUT ABOUT YOU. 
 * ✔ CALL YOUR CREDIT CARDS, CELL PHONE PROVIDER, UTILITIES, AND BANK AND LET THEM KNOW YOU ARE A TARGET. 
@@ -89,7 +89,7 @@ Techy stuff days 3 & 4+
 * ✔ USE ALIASES WHEN SIGNING PETITIONS OR SIGN-IN SHEETS FOR MEETINGS. 
 * ✔ FINALLY SECURE AND BACK UP YOUR HARDWARE. 
 
-Final little note -- Actually, install [Signal](signal.org) immediately. Like right now while you're reading this.
+Final little note -- Actually, install [Signal](https://signal.org) immediately. Like right now while you're reading this.
 
 * It's incredibly easy and quick. Literally takes 2 minutes to install and set up.
 * It's very effective.
@@ -241,14 +241,19 @@ Learn a bit about the tools and know when to use what for what.
 
 ### ✔INSTALL SIGNAL. 
 
+What is it how's it work
+
 * This secure messaging and voice/video-call app can take the place of text, phone, and e-mail when installed on your phone and computers. 
 * Install it on your phone first. Available for Android and iPhone. 
 * As an extra, verify all the users you are concerned about talking to privately (there is a Verify feature in the app)
 * Additionally you can add Signal Messaging to your desktop, by adding it to your Chrome/Chromium browser (install the extension/add-on)
 
+Go get it
+
 * Main website (where you can find how to download): signal.org
 * Handy mini-guide/shameless self-plug: https://medium.com/@sptanager/intro-to-signal-d3bc095a115a
 
+Go get it now. What are you waiting for?
 
 ### ✔WEAN YOURSELF OFF G-MAIL AND BEGIN USING ENCRYPTED E-MAIL. 
 
