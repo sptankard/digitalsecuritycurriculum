@@ -14,31 +14,31 @@ Originally published by equality labs, 12017 Sep 1.
 
 This guide has been created to deal with the current issues we are seeing.
 
-* it should be incorporated into your regular digital security practices. 
-* We know that the escalated activity of the White Supremacists is scary, but 
-* the best defense now is one rooted in information, compassion and self-care for ourselves and each other, and 
+* It should be incorporated into your regular digital security practices. 
+* We know that the escalated activity of the White Supremacists is scary, but...
+* the best defense now is one rooted in information, compassion and self-care for ourselves and each other, and...
 * a commitment to collective resilence.
 
-With that we have broken up this guide in terms of background and next steps. 
+With that, we have broken up this guide in terms of background and next steps. 
 
 Equality Labs welcome questions at: 
 
 * email: equalitylabs@protonmail.com 
-* upon the twitterplace: @EqualityLabs
+* upon the twitterplace: [@EqualityLabs](https://twitter.com/EqualityLabs)
 
 ## What is doxing?
 
-Doxing is the violent Internet-based practice of:
+Doxing (or "doxxing") is the violent Internet-based practice of:
 
-* researching and broadcasting private or identifiable information about an individual or organization 
+* Researching and broadcasting private or identifiable information about an individual or organization 
 * ...in order to harass and traumatize activists from organizing activity.
-* Additionally such attacks can also be accompanied by real world violence and spread disinformation about and individual and/or a movement.
+* Additionally, such attacks can also be accompanied by real world violence and spread disinformation about and individual and/or a movement.
 
 How's it work, concretely?
 
 * Easier to do than you might think. A wealth of information on the internet is hidden in plain sight.
 * Hostile individuals can get this information by searching publicly available databases and social media websites like Facebook, as well as by hacking, and social engineering.
-* Alt-right attackers of our colleagues around the country are using their full social media ecosystem to both attack and spread disinformation. 
+* Alt-right attackers of our colleagues around the country are using their full social media ecosystem both to attack and to spread disinformation. 
 
 What to do?
 
@@ -59,6 +59,7 @@ Sometimes your adversaries will be some random rich person, governments, corpora
 * In that case, you would need to do some other things that aren't covered in this guide.
 * There's overlap -- much of the advice would be the same, but also a lot of it wouldn't.
 
+...image here of the trumpeye
 
 ## Overview
 
@@ -72,7 +73,7 @@ Techy stuff *immediately*
 * ✔ CHANGE YOUR EXISTING PASSWORDS
 * ✔ TURN ON 2-FACTOR AUTHENTICATION (2FA) for all your accounts. 
 
-Techy stuff day 2
+Techy stuff step/day 2
 
 * ✔ FIND OUT WHAT INFORMATION TROLLS CAN FIND OUT ABOUT YOU. 
 * ✔ CALL YOUR CREDIT CARDS, CELL PHONE PROVIDER, UTILITIES, AND BANK AND LET THEM KNOW YOU ARE A TARGET. 
@@ -80,7 +81,7 @@ Techy stuff day 2
 * ✔ USE THE TOR BROWSER. 
 * ✔ INSTALL SIGNAL. 
 
-Techy stuff days 3 & 4+
+Techy stuff steps/days 3 & 4+
 
 * ✔ WEAN YOURSELF OFF G-MAIL AND BEGIN USING ENCRYPTED E-MAIL. 
 * ✔ FOR SECURE GROUP CONVERSATIONS USE TALKY.IO OR ZOOM. 
@@ -104,11 +105,11 @@ Here is our check-list for protecting your identity...
 
 * Create a plan
 * Recruit your family and friends to help support you. 
-* Let them know whats going on, because trolling and doxing can be traumatic and you must priortize your mental and physical health so that you can last past these attacks.
+* Let them know whats going on, because trolling and doxing can be traumatic and you must prioritize your mental and physical health so that you can outlast these attacks.
 
 We take our lead from our collaborators at Stop LAPD Spying Coalition:
 
-* They talk about adopting a vision of *Security Culture* that centers all collective security practices as a form of expressing love and solidarity. 
+* They talk about adopting a vision of *security culture* that centers all collective security practices as a form of expressing love and solidarity. 
 * We all have a sense of it from being marginalized, targeted, activists. 
 * It’s about harnessing those good instincts with knowledge and practice.
 
@@ -121,34 +122,36 @@ Staying sane in insanity
 
 A way forward
 
-* We can build power instead of paranoia and meet people where they’re at. 
+* We can build power instead of paranoia, and meet people where they’re at. 
 * From there we can have communities of practice that normalize better practices in a way that is resilient in a crisis.
 
 ### ✔ CREATE AN INCIDENT LOG
 
-This is crucial to 
+This is crucial to:
 
-* establish patterns of your attacks and can be useful to 
-* compare with other organizers to identify larger patterns within the attacks to 
+* establish patterns of your attacks and can be useful to...
+* compare with other organizers to identify larger patterns within the attacks to...
 * identify opponents and their organizations.
 
-A sample log could look like this: ...put the sample here...
+A sample log could look like this:
 
 ![Incident response log. Columns: date, time, description, result/recommendation](https://cdn-images-1.medium.com/max/1600/1*J3t67fwqvZljZWdDHZXn4w.jpeg)
 
-But please feel free to create one that makes sense for you and that you can adapt to your situation. The most important thing is that you 
+(Just a simple table with four columns: date, time, description, result/recommendation.)
+
+But please feel free to create one that makes sense for you and that you can adapt to your situation. The most important thing is that you:
 
 * keep notes throughout your attack and 
 * share with your security professional when you can. 
 
 If you're not attached to an org that provides you something like a security professional, then you can either:
 
-* Talk to the person who is giving you this presenteation :)
-* Contact an org like equalitylabs.org, or
-* [Security Without Borders](securitywithoutborders.org) or
+* Hopefully, talk to the person who is giving you this presentation :)
+* Contact an org like [Equality Labs](https://www.equalitylabs.org/), or
+* [Security Without Borders](https://securitywithoutborders.org) or
 * EFF's cooperating techs network cooptechs@eff.org
 
-If you like Equality Labs' incident log example you can use it document as an example. Please feel free to make a copy.
+If you like Equality Labs' incident log example you can use it as an example. Please feel free to make a copy.
 
 But please note: we recommend that you keep incident logs not in google docs but in an encrypted word processing platform like
 
@@ -172,19 +175,19 @@ After you have made that quick assessment,
 
 Additionally, if you have time we strongly recommend:
 
-* Use a password manager to to generate and store all of your new passwords. 
-* This will allow you a greater capability to create complex passwords for all of your accounts while 
-* limiting you to only have to remember one.
+* Use a password manager to generate and store all of your new passwords. 
+* This will allow you a greater capability to create complex passwords for all of your accounts, while 
+* limiting you to only have to remember one!
 
 Password manager software recommendations:
 
-* 1password at https://1password.com/ 
+* 1password https://1password.com/ 
 * KeePassXC  https://keepassxc.org/
 * LastPass https://lastpass.com/
 
 ### ✔ TURN ON 2-FACTOR AUTHENTICATION (2FA) for all your accounts. 
 
-2fa wuts that
+2fa wuts that?
 
 * This means you are adding another verification method when you sign into your accounts. 
 * This helps **A LOT** when you have trolls trying to break into your account. 
@@ -198,19 +201,20 @@ Thinking like the adversary
 E.g. 
 
 * By taking over your e-mail they can release and interfere with your communication, and 
-* likely gain much sensitive information about you (scan of your passport? driver's license?)  
-* by taking over you bank account they wreak havok with your finances, etc. 
+* likely gain much sensitive information about you (scan of your passport? driver's license?).
+* By taking over your bank account they wreak havok with your finances, etc. 
 
-So if can lock them all down. When in doubt, lock it down.
+So if possible lock them all down. When in doubt, lock it down.
 
-* 2FA is available for G-mail, Facebook, Twitter, Amazon and more. 
-* When possible avoid using Text/SMS as your method of verification. This is because texts can be intercepted and so are not secure. 
+* 2FA is available for GMail, Facebook, Twitter, Amazon and more. 
+* When possible avoid using Text/SMS as your method of verification. This is because texts can be intercepted and so are not as secure as...
+* the other commmon method: "OTP" (aka "TOTP").
 * We recommend using Google Authenticator app or an app like Authy or FreeOTP. 
 * These can generate codes on your phone and can be revoked remotely in the chance that our phone is confiscated, stolen, or lost.
 
 However, text/SMS 2fa is always better than no 2fa! (`OTP-2fa > SMS-2fa > no 2fa`)
 
-You can find tutorials for all 2FA instructions for most of your accounts here: 
+You can find tutorials for 2FA instructions for most of your accounts here: 
 
 * https://www.turnon2fa.com/tutorials/ 
 * https://twofactorauth.org
@@ -226,7 +230,7 @@ Get a quick idea:
 
 * Search for yourself on DuckDuckGo and try doing this search in incognito mode. 
 * This will give you a sense of how much data exists about you online to people who are not in your network. 
-* After that inital search you can go on to looking at all of the data brokers sites that trade in our personal livs.
+* After that inital search you can go on to looking at all of the data broker sites that trade in our personal livs.
 
 Check your Data leaks and Opt out here:
 
@@ -268,7 +272,7 @@ Also, Privacy Duck share all their free how-to opt-out videos on their YouTube w
 
 ### ✔INSTALL A VIRTUAL PRIVATE NETWORK (VPN) 
 
-A VPN is like a layer between you and the big bad internet. You should use one.
+A VPN is like a layer between you and the big bad internet (the internet is very big & bad). You should use one.
 
 * Helps to privatize your network traffic and bypass filtering happening at your internet service provider. 
 * It also makes sure that trolls can’t find you by using your IP address.
@@ -289,15 +293,15 @@ This is because rather than going through a VPN’s servers, with Tor:
 
 Using Tor...
 
-* TorProject.org
+* [TorProject.org](https://www.torproject.org/)
 * Tor Browser is free and provides real anonymity but does not always load multimedia heavy sites. 
 * Try it out and see!
-* We recommend using TOR at least once a day so it becomes part of your daily usage and it won’t be unusual if you have to use it for an urgent situation.
+* We recommend using TOR at least once a day so it becomes part of your daily usage and it won’t be unusual if you have to use it for an urgent situation. *(Make privacy normal again :P)*
 
 Tor also comes with security downsides:
 
-* Don't do your banking over Tor!
-* Disable JavaScript when using Tor!
+* **Don't do your banking** etc. over Tor!
+* Do **disable JavaScript** when using Tor!
 * You can re-enable JavaScript specifically *only* on **httpS** (TLS) website connections.
 
 Tor is the only tech that offers real, strong anonymity, but it's not a tool for everything.
@@ -306,9 +310,10 @@ Learn a bit about the tools and know when to use what for what.
 
 ### ✔INSTALL SIGNAL. 
 
-What is it how's it work
+What is it & how's it work?
 
 * This secure messaging and voice/video-call app can take the place of text, phone, and e-mail when installed on your phone and computers. 
+* It's a lot like texting or WhatsApp.
 * Install it on your phone first. Available for Android and iPhone. 
 * As an extra, verify all the users you are concerned about talking to privately (there is a Verify feature in the app)
 * Additionally you can add Signal Messaging to your desktop, by adding it to your Chrome/Chromium browser (install the extension/add-on)
