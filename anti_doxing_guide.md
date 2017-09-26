@@ -408,10 +408,10 @@ https://docs.google.com/presentation/d/1rtWqtbY_tVnncCEEEfRXInN1atSjodloBAaJqRIC
 
 OKAY! We know that is a lot but keep in mind. But: 
 
-* digital security is a system 
-* you are creating and implementing it as part of your core skills as an organizer 
-* There is no silver bullet to digital security, it is an awareness and a practice 
-* it gets better with reiteration and with a community committed together to stay safe
+* Digital security is a system.
+* You are creating and implementing it as part of your core skills as an organizer.
+* There is no silver bullet to digital security, it is an awareness and a practice.
+* It gets better with reiteration and with a community committed together to stay safe.
 * The best defense now is a collective one and we are all in it together.
 
 So please stay safe and if you have any urgent questions please contact us at:
