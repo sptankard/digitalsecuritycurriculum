@@ -6,7 +6,7 @@ title: 'Chapter 2: How To Use This Curriculum'
 
 So, now that we know how big the problem is letís start with a
 definition: What the heck is [digital security]
-anyway?
+anyway? blh balh balh
 
 [AN ECOSYSTEM OF DIGITAL SECURITY]
 
