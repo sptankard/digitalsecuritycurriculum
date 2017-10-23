@@ -1,0 +1,5 @@
+---
+title: foobar
+---
+
+blah blah
