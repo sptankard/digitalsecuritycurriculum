@@ -27,5 +27,8 @@ title: foobar
 	</div>
 </div>
  ![](moduleIcon_Conclusion.gif)
+![](subIcon_fullCurriculum.gif)
+![](subIcon_quickStart.gif)
+![](subIcon_videos.gif)
 
 blah blah
