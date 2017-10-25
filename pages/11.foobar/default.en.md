@@ -1,16 +1,18 @@
 ---
 title: foobar
+markdown:
+    extra: true
 ---
 
-<div class="boxer">
+<div class="boxer" markdown="1">
 	<div class="box-row">
 		<div class="box">
             <div class="box-top-row">
-                <div class="big-box-top">![](moduleIcon_Conclusion.gif)  ![](moduleIcon_Conclusion.gif) </div>
+                <div class="big-box-top" markdown="1">![](moduleIcon_Conclusion.gif)  ![](moduleIcon_Conclusion.gif) </div>
             </div>
             <div class="box-bottom-row">
                 <div class="small-box-bottom">![](subIcon_quickStart.gif)  ![](subIcon_quickStart.gif)</div>
-                <div class="small-box-bottom">![](subIcon_fullCurriculum.gif)</div>
+                <div class="small-box-bottom" markdown="1">![](subIcon_fullCurriculum.gif)</div>
                 <div class="small-box-bottom">![](subIcon_quickStart.gif)</div>
             </div>
         </div>
