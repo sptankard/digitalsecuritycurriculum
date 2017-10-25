@@ -5,9 +5,9 @@ markdown:
 ---
 
 <div class="boxer" markdown="1">
-	<div class="box-row">
-		<div class="box">
-            <div class="box-top-row">
+	<div class="box-row" markdown="1">
+		<div class="box"  markdown="1">
+            <div class="box-top-row"  markdown="1">
                 <div class="big-box-top" markdown="1">![](moduleIcon_Conclusion.gif)  ![](moduleIcon_Conclusion.gif) </div>
             </div>
             <div class="box-bottom-row">
