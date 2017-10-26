@@ -4,10 +4,10 @@ markdown:
     extra: true
 ---
 
-<div class="boxer" markdown="1">
-	<div class="box-row" markdown="1">
-		<div class="box"  markdown="1">
-            <div class="box-top-row"  markdown="1">
+<div class="boxer" >
+	<div class="box-row" >
+		<div class="box"  >
+            <div class="box-top-row" >
                 <div class="big-box-top" markdown="1"><img alt="" src="/user/pages/11.foobar/moduleIcon_Conclusion.gif"> </div>
             </div>
             <div class="box-bottom-row">
