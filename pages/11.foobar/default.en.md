@@ -8,7 +8,7 @@ markdown:
 	<div class="box-row" markdown="1">
 		<div class="box"  markdown="1">
             <div class="box-top-row"  markdown="1">
-                <div class="big-box-top" markdown="1">![](moduleIcon_Conclusion.gif)  ![](moduleIcon_Conclusion.gif) </div>
+                <div class="big-box-top" markdown="1"><img alt="" src="/user/pages/11.foobar/moduleIcon_Conclusion.gif"> </div>
             </div>
             <div class="box-bottom-row">
                 <div class="small-box-bottom">![](subIcon_quickStart.gif)  ![](subIcon_quickStart.gif)</div>
