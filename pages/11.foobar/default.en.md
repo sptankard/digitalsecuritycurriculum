@@ -13,7 +13,7 @@ markdown:
             <div class="box-bottom-row" style="display: table;  width: 100%;">
                 <div class="small-box-bottom" style="display: table-cell;" markdown="1">[![](subIcon_quickStart.gif)](http://www.amishrakefight.org/gfy/) </div>
                 <div class="small-box-bottom" style="display: table-cell;" markdown="1">[![](subIcon_fullCurriculum.gif)](http://zombo.com)</div>
-                [<div class="small-box-bottom" style="display: table-cell;" markdown="1">![](subIcon_quickStart.gif)](http://www.amishrakefight.org/gfy/)</div>
+                [<div class="small-box-bottom" style="display: table-cell;" markdown="1">[![](subIcon_quickStart.gif)](http://www.amishrakefight.org/gfy/)</div>
             </div>
         </div>
             
