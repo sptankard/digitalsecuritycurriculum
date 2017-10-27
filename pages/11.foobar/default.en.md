@@ -8,9 +8,9 @@ markdown:
 	<div class="box-row" >
 		<div class="box"  >
             <div class="box-top-row" >
-                <div class="big-box-top" markdown="1"><img alt="" src="/user/pages/11.foobar/moduleIcon_Conclusion.gif"> </div>
+                <div class="big-box-top" markdown="1" ><img alt="" src="/user/pages/11.foobar/moduleIcon_Conclusion.gif"> </div>
             </div>
-            <div class="box-bottom-row" style="display: table;">
+            <div class="box-bottom-row" style="display: table;  width: 100%;">
                 <div class="small-box-bottom" style="display: table-cell;" markdown="1">![](subIcon_quickStart.gif) </div>
                 <div class="small-box-bottom" style="display: table-cell;" markdown="1">![](subIcon_fullCurriculum.gif)</div>
                 <div class="small-box-bottom" style="display: table-cell;" markdown="1">![](subIcon_quickStart.gif)</div>
