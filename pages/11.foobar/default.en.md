@@ -5,9 +5,9 @@ markdown:
 ---
 
 <div class="boxer" >
-	<div class="box-row" >
-		<div class="box"  >
-            <div class="box-top-row" >
+	<div class="box-row" style="display: table;  width: 100%;" >
+		<div class="box" "display: table;  width: 100%;" style="display: table-cell;" >
+            <div class="box-top-row"  >
                 <div class="big-box-top" markdown="1" ><img alt="" src="/user/pages/11.foobar/moduleIcon_Conclusion.gif"> </div>
             </div>
             <div class="box-bottom-row" style="display: table;  width: 100%;">
