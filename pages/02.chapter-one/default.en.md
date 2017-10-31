@@ -2,6 +2,8 @@
 title: 'Why Should We Care About Digital Security in The Age Of Trump'
 ---
 
+<div style="
+
 ![](/images/WHY_SHOULD_WE_CARE_ABOUT_DIGITAL_SECURITY_IN_THE_AGE_OF_TRUMP.jpg)
 
 Fam, these are probably going to be some of the hardest years of our
