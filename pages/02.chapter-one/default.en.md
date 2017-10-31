@@ -2,8 +2,6 @@
 title: 'Why Should We Care About Digital Security in The Age Of Trump'
 ---
 
-
-
 ![](WHY_SHOULD_WE_CARE_ABOUT_DIGITAL_SECURITY_IN_THE_AGE_OF_TRUMP.jpg)
 
 Fam, these are probably going to be some of the hardest years of our
@@ -20,7 +18,7 @@ communications.
 We must also keep one another close, the strongest defense against Trump
 is a collective one rooted in community, self-care and accountability.
 
-<div class="" markdown="1" style="background-image: url('/user/pages/02.chapter-one/01.jpg'); background-repeat: repeat-x; background-size: 100% 100%;" >
+
 
 We have a president who is a [RAPIST, RACIST, ]and
 [ISLAMOPHOBE]. He has done terrible, immoral things
@@ -135,4 +133,5 @@ at [equalitylabs.org]{._Hyperlink} so visit us often!
 -   Secure your communications
 
 ![](/images/mus.png)
+<div class="" markdown="1" style="background-image: url('/user/pages/02.chapter-one/01.jpg'); background-repeat: repeat-x; background-size: 100% 100%;" >
 </div>
