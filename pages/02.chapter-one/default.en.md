@@ -2,7 +2,7 @@
 title: 'Why Should We Care About Digital Security in The Age Of Trump'
 ---
 
-<div style="
+<div style="background-image: url('/images/01.jpg'); background-repeat: repeat-x;" markdown="1">
 
 ![](/images/WHY_SHOULD_WE_CARE_ABOUT_DIGITAL_SECURITY_IN_THE_AGE_OF_TRUMP.jpg)
 
@@ -133,3 +133,4 @@ at [equalitylabs.org]{._Hyperlink} so visit us often!
 -   Secure your communications
 
 ![](/images/mus.png)
+</div>
