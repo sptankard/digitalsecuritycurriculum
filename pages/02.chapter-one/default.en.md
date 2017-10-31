@@ -3,7 +3,7 @@ title: 'Why Should We Care About Digital Security in The Age Of Trump'
 ---
 
 ![](01.jpg)
-<div style="background-image: url('/user/pages/02.chapter-one/01.jpg'); background-repeat: repeat-x; background-size: cover cover;" markdown="1">
+<div style="background-image: url('/user/pages/02.chapter-one/01.jpg'); background-repeat: repeat-x; background-size: 100% 100%;" markdown="1">
 
 ![](/images/WHY_SHOULD_WE_CARE_ABOUT_DIGITAL_SECURITY_IN_THE_AGE_OF_TRUMP.jpg)
 
