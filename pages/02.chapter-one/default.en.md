@@ -41,7 +41,7 @@ do.]
 This curriculum aims to present immediate common-sense measures to help
 activists learn how to protect each other and their movements.
 
-![](/images/p6b_(1).png)
+![](p6b_%281%29.png)
 
 While we are still unsure of what this change will bring, we should
 assume that surveillance and censorship will increase, and that the
@@ -110,7 +110,7 @@ into your homes, organizations, and movements. Digital security is a
 process not a destination and we believe that together we can make all
 of us safer!
 
-![](/images/p7b.png)
+![](p7b.png)
 
 We hope this curriculum will arm you with basic digital security
 knowledge and effective, simple-to-follow pointers for staying safe.
@@ -132,6 +132,6 @@ at [equalitylabs.org]{._Hyperlink} so visit us often!
 -   Secure your social networks
 -   Secure your communications
 
-![](/images/mus.png)
+![](mus.png)
 <div class="" markdown="1" style="background-image: url('/user/pages/02.chapter-one/01.jpg'); background-repeat: repeat-x; background-size: 100% 100%;" >
 </div>
