@@ -5,7 +5,7 @@ title: 'Secure Your Android Page 1'
 <div class="" markdown="1" style="height: 540px; width: 960px; background-image: url('/user/pages/12.secure-your-android-page-1/secureyourandroid.png'); background-repeat: norepeat norepeat; background-size: auto auto;" >
 
 <div style="display: table;  width: 100%;">
-	<div style="display: table-cell; width: 380px;">
+	<div style="display: table-cell; width: 375px;">
     	 <!--- spacer div -->
 	</div>
 <div style="font-family:Arial; color:white; font-size:14px;  display: table-cell; width: 425px; " markdown="1"> 
