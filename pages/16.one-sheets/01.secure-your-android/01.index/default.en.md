@@ -23,7 +23,7 @@ title: 'Secure Your Android'
 		  </ol>
 
 		  <div class="carousel-inner" role="listbox">
-		    <div class="item active" style=" background-image: url('http://digitalsecurityforall.com/user/pages/16.one-sheets/01.secure-your-android/01.index/secureyourandroid.png'); background-repeat: norepeat norepeat; background-size: auto auto;">
+		    <div class="item active" style=" background-image: url('http://digitalsecurityforall.com/user/pages/16.one-sheets/01.secure-your-android/01.index/secureyourandroid.png'); ">
 
 			<div style="display: table-cell; width: 425px;">
 			 <!--- spacer div -->
@@ -34,7 +34,7 @@ title: 'Secure Your Android'
                         </div>
                     </div>
            
-		    <div class="item" style=" background-image: url('http://digitalsecurityforall.com/user/pages/16.one-sheets/01.secure-your-android/01.index/secureyourandroid.png'); background-repeat: norepeat norepeat; background-size: auto auto;">
+		    <div class="item" style=" background-image: url('http://digitalsecurityforall.com/user/pages/16.one-sheets/01.secure-your-android/01.index/secureyourandroid.png'); ">
 			<div style="display: table-cell; width: 425px;">
 			 <!--- spacer div -->
 			</div>
@@ -44,7 +44,7 @@ title: 'Secure Your Android'
                         </div>
 		    </div>
 
-		    <div class="item" style=" background-image: url('http://digitalsecurityforall.com/user/pages/16.one-sheets/01.secure-your-android/01.index/secureyourandroid.png'); background-repeat: norepeat norepeat; background-size: auto auto;">
+		    <div class="item" style=" background-image: url('http://digitalsecurityforall.com/user/pages/16.one-sheets/01.secure-your-android/01.index/secureyourandroid.png'); ">
 			<div style="display: table-cell; width: 425px;">
 			 <!--- spacer div -->
 			</div>
