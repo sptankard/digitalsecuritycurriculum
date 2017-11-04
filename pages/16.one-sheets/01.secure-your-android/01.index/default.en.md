@@ -11,7 +11,7 @@ title: 'Secure Your Android'
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-<div class="" markdown="1" style="height: 540px; width: 960px;">
+<div class="" markdown="1" style="height: 540px; width: 960px; background-repeat: norepeat norepeat; background-size: auto auto;">
 
 <div style="display: table;  width: 100%;">
 
