@@ -1,5 +1,5 @@
 ---
-title: 'Secure Your Android'
+title: 'Secure Your Communications'
 ---
 
 <!-- Latest compiled and minified CSS -->
@@ -11,7 +11,7 @@ title: 'Secure Your Android'
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-<div class="" markdown="1" style="height: 540px; width: 960px; background-image: url('http://digitalsecurityforall.com/user/pages/16.one-sheets/04.secure-your-communications/01.index/secureyourcomms.png'); background-repeat: norepeat norepeat; background-size: auto auto;" >
+<div class="" markdown="1" style="height: 540px; width: 960px; background-repeat: norepeat norepeat; background-size: auto auto;" >
 
 <div style="display: table;  width: 100%;">
 
@@ -22,7 +22,7 @@ title: 'Secure Your Android'
 		  </ol>
 
 		  <div class="carousel-inner" role="listbox">
-		    <div class="item active">
+		    <div class="item active" style="background-image: url('http://digitalsecurityforall.com/user/pages/16.one-sheets/04.secure-your-communications/01.index/secureyourcomms.png');">
 
 			<div style="display: table-cell; width: 425px;">
 			 <!--- spacer div -->
@@ -33,7 +33,7 @@ title: 'Secure Your Android'
                         </div>
                     </div>
            
-		    <div class="item">
+		    <div class="item" style="background-image: url('http://digitalsecurityforall.com/user/pages/16.one-sheets/04.secure-your-communications/01.index/secureyourcomms.png');">
 			<div style="display: table-cell; width: 425px;">
 			 <!--- spacer div -->
 			</div>
