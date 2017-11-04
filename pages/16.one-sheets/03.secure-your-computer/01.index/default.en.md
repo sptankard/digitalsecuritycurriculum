@@ -1,5 +1,5 @@
 ---
-title: 'Secure Your Android'
+title: 'Secure Your Computer'
 ---
 
 <!-- Latest compiled and minified CSS -->
@@ -22,7 +22,7 @@ title: 'Secure Your Android'
 		  </ol>
 
 		  <div class="carousel-inner" role="listbox">
-		    <div class="item active">
+		    <div class="item active" style="background-image: url('http://digitalsecurityforall.com/user/pages/16.one-sheets/03.secure-your-computer/01.index/secureyourcomputer.png');">
 
 			<div style="display: table-cell; width: 425px;">
 			 <!--- spacer div -->
@@ -33,7 +33,7 @@ title: 'Secure Your Android'
                         </div>
                     </div>
            
-		    <div class="item">
+		    <div class="item"  style="background-image: url('http://digitalsecurityforall.com/user/pages/16.one-sheets/03.secure-your-computer/01.index/secureyourcomputer.png');" >
 			<div style="display: table-cell; width: 425px;">
 			 <!--- spacer div -->
 			</div>
