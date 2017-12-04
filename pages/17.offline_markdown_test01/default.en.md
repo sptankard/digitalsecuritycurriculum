@@ -41,3 +41,5 @@ Body Content
 <div style="display: block; background: purple; color: white" markdown="1">
 ### Test purple background with white text on top 
 </div>
+
+<div class="blahblah"> this is a type of text class </div>
