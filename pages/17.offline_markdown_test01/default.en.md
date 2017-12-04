@@ -38,6 +38,6 @@ Body Content
 
 [www.test.com](http://www.test.com)
 
-<span style="display: block; background: purple; color: white" markdown="1">
+<div style="display: block; background: purple; color: white" markdown="1">
 ### Test purple background with white text on top 
-</span>
+</div>
