@@ -37,3 +37,5 @@ title: OFFLINE_MARKDOWN_TEST01
 Body Content
 
 [www.test.com](http://www.test.com)
+
+<span style="display: block; background: purple; color: white"> # Test purple background with white text on top </span>
