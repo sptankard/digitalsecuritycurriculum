@@ -1,11 +1,12 @@
 ---
 title: 'Secure Your Android Page 1'
 ---
+✔ PIN பாஸ்கோடைப் பயன்படுத்தவும். ஒருபோதும் டச் ஐடி பயன்படுத்த வேண்டாம். டச் ஐடி சமரசம் செய்யப்படலாம் என்பதால். குறைந்தபட்சம் 8 இலக்கங்களில் உங்களுடைய PIN-ஜ வலுவாக்கவும். இதை நீங்கள் அண்ராய்டுகளுக்காக Settings → Personal → Security → Screen Lock கீழ் பார்க்கலாம்.
 
-<span style="color:purple">✔ USE A PIN PASSCODE. NEVER USE TOUCH ID.</span>  As a Touch ID can be compromised. Make your PIN strong and at least 8 digits. You can find this for Androids under Settings → Personal → Security → Screen Lock.
-
-<span style="color:purple">✔ ENCRYPT AND BACK UP YOUR PHONE.</span> This is automatic with recent versions of Androids. If your device uses Android version 4.0 or newer, you should verify that device encryption is turned on. This can be done in Settings → Personal → Security → Encryption. If it is not follow the steps to encrypt. But just make sure that before starting the encryption process you back up your data, ensure the phone is fully charged and plugged into a power source.
+✔ என்க்ரிப்பட்(மறையாக்கம்) செய்து உங்களை தொலைபேசியை காப்பு பிரதி(பேக் அப்) எடுத்துக்கொள்ளவும். இது அண்ராய்டுகளின் சமீபத்திய பதிப்புகளில் தானாகவே இயங்குகிறது. உங்களுடைய சாதனம் அண்ராய்டு பதிப்பு 4.0 அல்லது அதைவிட புதியதைப் பயன்படுத்துகிறது என்றால், நீங்கள் சாதனத்தின் என்க்ரிப்ஷன்(மறையாக்கம்) ஆன் நிலையில் இருக்கிறதா என்று சரிபார்க்க வேண்டும். இதை Settings → Personal → Security → Encryption-ல் செய்யலாம். என்க்ரிப்ட்(மறையாக்கம்) செய்வதற்கான வழிமுறைகளை அது பின்பற்றவில்லை என்றால் ஆனால் தொலைபேசி முற்றிலும் சார்ஜ் செய்யப்பட்டு மின் ஆதாரத்திற்குள் செருகப்பட்டிருப்பதை உறுதி செய்து, என்க்ரிப்ஷன் செயல்முறையை தொடங்குவதற்கு முன் உங்களுடைய தகவல்களுக்கான காப்பு பிரதி(பேக் அப்) எடுத்துக்கொள்வதை உறுதி செய்யவும். 
  
-<span style="color:purple">✔ SET YOUR SCREEN TO LOCK WHEN NOT UN USE.</span> We recommend that you chose a short amount of time that does not drive you crazy. We use anywhere from 30 sec to a minute. In Android you can find that in  Settings → Personal → Security → Screen Lock. 
+✔ பயன்படுத்தாத போது உங்களுடைய ஸ்கிரீனை லாக் செய்து வைக்கவும். உங்களை பைத்தியக்காரத்தனமாக மாற்றாமல் இருக்க குறுகிய கால நேரத்தை தேர்ந்தெடுக்க வேண்டும் என்று நாங்கள் பரிந்துரைக்கிறோம். நாங்கள் எங்கிருந்தும் 30 விநாடிகள் முதல் ஒரு நிமிடம் வரை பயன்படுத்துவோம். அண்ராய்டில் அதை நீங்கள்  Settings → Personal → Security → Screen Lock-ல் பார்க்கலாம். 
+  
+✔ உங்களுடைய மெசேஜ் திரேட்களை அடிக்கடி நீக்கிவிடவும்
+நீங்கள் இந்த விருப்பத்தேர்வை உங்களுடைய மெசேஜ் ஸ்கிரீனில் பார்க்கலாம். உங்களுடைய தொலைபேசி பறிமுதல் செய்யப்பட்டால் அவர்கள் அதை திறக்கும் படி உங்களை கட்டாயப்படுத்தலாம், உங்களுடைய மெசேஜ் ஹிஸ்டிரில் இருந்து முக்கிமான உள்ளடக்கம் வெளிப்படலாம். 
 
-<span style="color:purple">✔ CLEAR YOUR MESSAGE THREADS FREQUENTLY</span> You’ll find this option in your message screen. If your phone is confiscated they can compel you to open it, sensitive content can be exposed from your message history.
