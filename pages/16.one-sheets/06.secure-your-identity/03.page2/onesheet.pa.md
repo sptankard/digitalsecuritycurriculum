@@ -1,17 +1,7 @@
 ---
-title: 'Secure Your Identity Page 2'
+06.secure-your-identity/03.page2/onesheet.pa.md
 ---
 
-<span style="color:#3b68bd">✔ FIND OUT IF YOU HAVE BEEN THE VICTIM OF A HACK.</span> Visit https://haveibeenpwned.com and enter your e-mail. You can then find out if your email and password has been part of any data breaches. If it has we recommend you change all instances of that password immediately for your password has been compromised.
+�� pqw lgwE ik quhwfy qy hYikµg dw koeI hmlw qW nhIN hoieAw hY[ https://haveibeenpwned.com qy jwE Aqy Awpxw eI myl drj kro[ qusIN iPr pqw lgw skdy ho ik kI quhwfw eImyl Aqy pwsvrf iksy vI qrHW dI fwtw vµf dw ih~sw qW nhIN hY? ijnHW QwvW qy quhwfy pwsvrf dI durvrqoN kIqI geI hY AsIN auhnW QwvW qy quhwƒ Awpxw pwsvrf qurµq bdlx dI isPæwirsæ krdy hW[
 
-<span style="color:#3b68bd">✔ FIND OUT WHAT INFORMATION TROLLS CAN FIND OUT ABOUT YOU.</span> Once you know what exists about you online you can start the process of contacting Data brokers in writing to have your information removed. While it is hard to get all of the content off, every little bit helps you have a strong self-defense in the event of you becoming the target for troll attacks. 
-
-Check your Data leaks here:
-Spokeo (to remove listing: http://www.spokeo.com/opt_out/new)
-Anywho.com (to remove listing: http://www.anywho.com/help/privacy)
-Intelius (to remove listing: https://www.intelius.com/optout.php)
-Whitepages (to remove listing: https://support.whitepages.com/hc/en-us/articles/203263794-
-Remove-my-listing-from-Whitepages-)
-
-Check your information from a more comprehensive list of data brokers at Trollbusters. You can find this list at https://yoursosteam.wordpress.com/2015/08/30/remove-your-mailing-address-from-data-broker-sites/
-
+✔ pqw lgwE ik trol quhwfy bwry kI jwxkwrI pRwpq kr skdy hn[ ie~k vwr jdoN quhwƒ pqw l~gdw hY ik quhwfy bwry AOnlweIn kI k~uJ ipAw hY qW qusIN AwpxI jwxkwrI ƒ htwey jwx leI fwtw brokrW nwl sµprk krn dI pRikirAw sæurU kr skdy ho[ hwlWik swrI sm~grI ƒ htwauxw AOKw hY, pr hr CotI ijhI mdd quhwƒ trol dy hmilAW dw insæwnw bxn dy mwmly iv~c ie~k mjæbUq svY-r~iKAw krn iv~c quhwfI mdd krdI hY[ ie~Qy Awpxy fwtw lIk vyKo:Spokeo (sUcI htwaux leI: http://www.spokeo.com/opt_out/new)Anywho.com (sUcI htwaux leI: http://www.anywho.com/help/privacy)Intelius (sUcI htwaux leI: https://www.intelius.com/optout.php)Whitepages (sUcI htwaux leI: https://support.whitepages.com/hc/en-us/articles/203263794- Remove-my-listing-from-Whitepages-)fwtw brokrW dI ie~k vDyry ivAwpk sUcI qoN trolbstr qy AwpxI jwxkwrI dI jWc kro[ qusIN ies sUcI ƒ https://yoursosteam.wordpress.com/2015/08/30/remove-your-mailing-address-from-data-broker-sites/ qy pRwpq skdy ho[

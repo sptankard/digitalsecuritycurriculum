@@ -1,13 +1,9 @@
 ---
-title: 'Secure Your Android Page 3'
+01.secure-your-android/04.page3/onesheet.ar.md
 ---
 
-<span style="color:purple">✔ INSTALL DUCKDUCKGO AS YOUR NEW WEB BROWSER AND SEARCH ENGINE</span>  Duckduckgo does not track your data, you can be confident that you are not growing a data profile which can be used to profile you by corporations and the government. You can find this app at the Google Play store. Learn more at [https://duckduckgo.com](https://duckduckgo.com)
+��ثبت DUCKDUCKGO بمثابة متصفحك الجديد ومحرك البحث الخاص بكلا يتعقب DUCKDUCKGO بياناتك، يمكنك أن تثق في أنك لا تنشئ ملف بيانات قد يستخدمه المؤسسات والحكومات. قد تجد هذا التطبيق على متجر Google Play. اعرف المزيد من https://duckduckgo.com✔استخدم تطبيق TALKYلاستبدال سكايب وhangouts لـGoogle والمكالمات الصوتية. برنامج Talky هو تطبيق مشفر متطور ويمكن استخدامه من خلال منصات Adnroid، وiOS وجميع منصات الحاسوب. باستخدام التطبيقن يمكنك أن تنشئ جلسة حوار فقط من خلال إدخال اسم ودعوة الناس إلى الرابط الجديد! يمكنك استخدامه من هنا https://talky.io/
 
-<span style="color:purple">✔ USE TALKY</span> to replace skype, google hangouts and audio calls. Talky is end-to-end encrypted and can be used across android, iOS, and all computer platforms. With the app you can create a session simply by entering a name and inviting people to the new link! You can use it here at [https://talky.io/](https://talky.io/)
+✔ للهواتف التي تعمل بنظام Androidثبت برنامج ماسح البرامج الضارة، نرشح لك برنامج malwarebytes. قد تجد هذا التطبيق على متجر Google Play. اعرف المزيد من https://www.malwarebytes.com/
 
-<span style="color:purple">✔ FOR ANDROID PHONES</span> install an anti-malware scanner, we recommend malwarebytes. You can find this app at the Google Play store. Learn more at [https://www.malwarebytes.com/](https://talky.io/)
-
-<span style="color:purple">✔ INSTALL A METADATA SCRUBBER FOR YOUR PHOTOS.</span> That way you don’t leak important data about a photograph when you share it. This can include your location and more. A good app for scrubbing metadata on Android is Exif Eraser. You can find this app at the Google Play store. Learn more at [http://www.exiferaser.com/](http://www.exiferaser.com/)
-
-<span style="color:purple">✔ USE A FARADAY BAG FOR YOUR PHONE</span> when in meetings that are private or during protests. This bag will block electronic signals from and to your phone.
+✔ ثبت تطبيق تنظيف بيانات التعريف لصورك. وبهذه الطريقة، لا يمكن تسرب معلومات هامة عن أي صورة عند مشاركتها. قد يشمل هذا على موقعك وما يزيد. التطبيق الفعال في تنظيف بيانات التعريف على نظام التشغيل Android هو برنامج Exif Eraser. قد تجد هذا التطبيق على متجر Google Play. اعرف المزيد منhttp://www.exiferaser.com/✔استخدم حقيبة FARADAY BAG لهاتفك أثناء الاجتماعات الخاصة أو أثناء الاحتجاجات. ستحظر هذه الحقيبة الإشارات الإلكترونية من وإلى هاتفك.

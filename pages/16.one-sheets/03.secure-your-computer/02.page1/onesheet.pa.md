@@ -1,13 +1,9 @@
 ---
-title: 'Secure Your Computer Page 1'
+03.secure-your-computer/02.page1/onesheet.pa.md
 ---
 
-<span style="color:#5157b1">✔ CREATE A STRONG PASSWORD</span> It should be original, complex, use no personal information, and update it every three months. A good password uses a mix of letters, numbers and symbols and uses words that is unrelated to any personal information. This includes birthdays, family, friends, or pet names, even street addresses. For more on good passwords visit [https://securityinabox.org/en/guide/passwords](https://veracrypt.codeplex.com/)
+�� ie~k mjæbUq pwsvrf bxwE ieh mUl, guµJldwr hoxw cwhIdw hY, koeI in~jI jwxkwrI nhIN vrqxI cwhIdI hY, Aqy hr iqµn mhIinAW bwAd ies ƒ A~pfyt krnw cwhIdw hY[ ie~k cµgw pwsvrf A~KrW, sµiKAwvW Aqy icµnHW dI vrqoN krdw hY Aqy auhnW sæbdW dI vrqoN krdw hY jo iksy vI in~jI jwxkwrI nwl sbµDq nhIN huµdy hn[ ies iv~c jnmidn, pirvwr, dosq jW pwlqU jwnvr dy nwm, sVkW dy pqy vI sæwml hn[ cµgy pwsvrf bwry hor jwxkwrI leI https://securityinabox.org/en/guide/passwords vyKo[
 
-<span style="color:#5157b1">✔ CREATE USER AND ADMIN ACCOUNTS</span> for daily use to avoid digital attacks aimed at the root level of your computer. You can find this on a mac at Apple Menu → System Preferences → Users and Accounts. You can find this on a PC for Windows 10 at  Start → Settings → Accounts → Family & other people → Add someone else to this PC.
+✔ quhwfy kµipaUtr dy rUt p~Dr qy ifjItl hmilAW qoN bcx leI rojæwnw vrqoN leI aupBogqw Aqy AYfimn AkwauNt bxwE[ qusIN iesƒ mYk qy AYpl mynU → isstm pRYPrYNsIj → aupXogkrqw Aqy AkwauNt qy l~B skdy ho[ qusIN ies ƒ ivµfoz 10 vwly PC qy stwrt → sYitµg → AkwaUNt → pirvwr Aqy hor lok → ies PC qy iksy hor ƒ joVo qy l~B skdy ho[
 
-<span style="color:#5157b1">✔ ENCRYPT YOUR COMPUTER</span> and your hard drives On Macs this is done through the security panel in system preferences, turning on Filevault. You can find this at System Preferences → Security & Privacy → FileVault. 
-
-On Windows machines you can check if Device Encryption is enabled by open the Settings app, navigate to System → About, and look for a “Device encryption” setting at the bottom of the About panel. If you don’t see anything about Device Encryption here, your PC doesn’t support Device Encryption. In that case use VeraCrypt a free software that allows you to encrypt all your devices. Learn more at [https://veracrypt.codeplex.com/](https://veracrypt.codeplex.com/)
-
-
+✔ Awpxy kµipaUtr Aqy mYk qy hwrf frweIv ƒ AYNikRpt kro ieh isstm pRYPrYNsIjæ iv~c sur~iKAw pYnl rwhIN PweIlvOlt ƒ cwlU krky kIqw jWdw hY[ qusIN ies ƒ isstm pRYPrYNsIjæ → sur~iKAw Aqy in~jI → PweIlvOlt au~qy l~B skdy ho[ ivµfojæ msæInW qy qusIN sYitµgjæ AYp KolH ky Aqy isstm bwry qy jw ky Aqyy bwry pYnl dy hyT "ifvweIs AYNikRpsæn" sYitµg l~B ky ieh jWc kr skdy ho ik, kI ifvweIs AYNikRpsæn Xog hY jW nhIN[ jykr quhwƒ ie~Qy ifvweIs AYNikRpsæn bwry k~uJ nhIN imldw hY, qW quhwfw PC ifvweIs AYNikRpsæn dy Xog nhIN hY[ ies mwmly iv~c vyrwikRpt ie~k muPq sw~PtvyAr dI vrqoN kro jo quhwƒ AwpxIAW swrIAW ifvweIsW ƒ AYNikRpt krn iv~c mdd krdw hY[ Https://veracrypt.codeplex.com/ qy hor jwxo[

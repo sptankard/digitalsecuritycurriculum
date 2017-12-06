@@ -1,11 +1,9 @@
 ---
-title: 'Secure Your Android Page 1'
+01.secure-your-android/02.page1/onesheet.ar.md
 ---
 
-<span style="color:purple">✔ USE A PIN PASSCODE. NEVER USE TOUCH ID.</span>  As a Touch ID can be compromised. Make your PIN strong and at least 8 digits. You can find this for Androids under Settings → Personal → Security → Screen Lock.
+��استخدم PIN PASSCODE. لا تستخدم أبدًا خاصية TOUCH ID. حيث من الممكن اختراق TOUCH ID. اجعل رمز PIN الخاص بك قويًا ويحتوي على 8 أرقام على الأقل. يمكنك أن تجد هذا لأنظمة التشغيل Android تحت Settings → Personal → Security → Screen Lock.✔شفّر هاتفك وانسخ نسخة احتياطية.هذه عملية تلقائية لدى النسخ الأخيرة من نظام Android. إذا كان يستخدم جهازك نظام تشغيل Android نسخة 4.0 أو نسخة أحدث، عليك أن تتحقق من أن تشفير جهازك يعمل. قد تقوم بهذا من خلال Settings → Personal → Security → Encryption. ما لم يكن التشفير يعمل، اتبع خطوات التشفير. ولكن فقط تأكد قبل أن تبدأ في عملية التشفير، أنك نسخت نسخة احتياطية من بياناتك، وتأكد أن هاتفك مكتمل الشحن ومتصل بمصدر كهربائي. 
 
-<span style="color:purple">✔ ENCRYPT AND BACK UP YOUR PHONE.</span> This is automatic with recent versions of Androids. If your device uses Android version 4.0 or newer, you should verify that device encryption is turned on. This can be done in Settings → Personal → Security → Encryption. If it is not follow the steps to encrypt. But just make sure that before starting the encryption process you back up your data, ensure the phone is fully charged and plugged into a power source.
- 
-<span style="color:purple">✔ SET YOUR SCREEN TO LOCK WHEN NOT UN USE.</span> We recommend that you chose a short amount of time that does not drive you crazy. We use anywhere from 30 sec to a minute. In Android you can find that in  Settings → Personal → Security → Screen Lock. 
+✔ اضبط شاشتك أن تغلق ما لم تستخدم هاتفك.نوصيك بأن تختار فترة قصيرة من الوقت مما لا تصيبك بالهوس. نستخدم في أي مكان من 30 ثانية إلى دقيقة. يمكنك أن تجد ذلك في نظام التشغيل Android فيSettings → Personal → Security → Screen Lock.
 
-<span style="color:purple">✔ CLEAR YOUR MESSAGE THREADS FREQUENTLY</span> You’ll find this option in your message screen. If your phone is confiscated they can compel you to open it, sensitive content can be exposed from your message history.
+✔ امسح سلسلة رسائلك بشكل متكرر ستجد هذا الخيار في شاشة الرسالة. إذا كان هاتفك مُصادر، فقد يرغموك على فتحه، وقد تُعرض محتوياته الحساسة من تاريخ رسائلك.

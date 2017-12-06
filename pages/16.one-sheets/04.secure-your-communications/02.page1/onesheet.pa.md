@@ -1,13 +1,9 @@
 ---
-title: 'Secure Your Communications Page 1'
+04.secure-your-communications/02.page1/onesheet.pa.md
 ---
 
-<span style="color:#ae9055">✔ USE SIGNAL.</span> Add this app to your phone and on your computer through the Chrome browser. When you set up Signal be sure to verify your contacts. You can also activate disappearing messages to keep your message threads clear. Verify your contacts.
+�� inXq qOr qy ie~k mjbUq AYNtI-mlvyAr sw~PtvyAr dI vrqoN kro Bwv hPæqy iv~c ie~k vwr[ AsIN mwlvyArbweIts dI isPæwirsæ krdy hW Aqy Awm qOr qy A~pfyts dI jWc krdy hW[ qusIN ieh ie~Qy https://www.malwarebytes.com/ pRwpq kr skdy ho[ 
 
-<span style="color:#ae9055">✔ ASSUME WHATSAPP, MESSENGER, TEXT, E-MAIL, AND PHONE ARE UNSAFE.</span> If you must use Whatsapp verify your contacts and make sure all folks have the most recent version of Whatsapp so that the messaging threads are end-to-end encrypted. The sad reality is that Whatsapp and Messenger are owned by Facebook; which has dubious privacy policies, with your data stored on their servers, so do not trust them with your security. 
+✔ n~QIAW ƒ nw KolHo! ieh mu~K Fµg hY ijs nwl lokW ƒ hYk kIqw jWdw hY[ swfy qy ivsævws nw kro, fYmokryitk nYsænl pwrtI ƒ pu~Co! jykr koeI quhwƒ iksy vI plytPwrm qy PweIl Byjdw hY Aqy ieh AijhI PweIl hY jo gugl AYps duAwrw KolHI jw skdI hY qW hI Aijhw kro[ ies iv~c vrf, AYksl, PDF, Aqy k~uJ ic~qr PweIlW vI sæwml hn[ ieh ies leI hY ikauNik gugl mwlvyAr ƒ sµBwl skdw hY jo AijhIAW PweIlW iv~c dyKy jw skdy hn jdoN ik quhwfw Awpxw kµipaUtr AijAh nhIN kr skdw hY[ jykr ieh k~uJ Aijhw hY jo qusIN gugl qy Aplof krn iv~c Arwmdyh mihsUs nhIN krdy ho qW iPr PweIl fwaUnlof kro Aqy Awpxy Kud dy AYNtI mwlvyAr sw~PtvyAr nwl skYn kro[ pr XkInI bxwE ik quhwfw AYNtI-mwlvyAr sw~PtvyAr A~pfyt kIqw hoieAw hY[ Aµq iv~c, qusIN Pwiel ƒ virustotal.com qy A~plof kr skdy ho Aqy ie~k ivklpk pRikirAw dy rUp iv~c bhuq swry AYNtI-vweIrs lweIbryrIAW nwl iesƒ skYn kr skdy ho[ 
 
-<span style="color:#ae9055">✔ IF YOU MUST USE EMAIL TRY TO USE GPG ENCRYPTION.</span> Get it for the mac at [https://gpgtools.org/](https://gpgtools.org/) or for the PC at [https://www.gpg4win.org/](https://www.gpg4win.org)
-
-<span style="color:#ae9055">✔ REPLACE ELECTRONIC MAILING LISTS AND PROJECT MANAGEMENT SOFTWARE</span> like Slack with Semaphor by Spider oak. It’s end-to-end encrypted and has both a web and desktop client. Learn more at [https://spideroak.com/solutions/semaphor](https://spideroak.com/solutions/semaphor)
-
-
+✔ Awpxy Epryitµg isstm ƒ Aksr A~pfyt kro[ mYk au~qy qusIN ies ƒ AYpl mynU → AYp stor qy l~B skdy ho[ ivµfojæ 10 iv~c Awpxy PC qy kµtrol pYnl qy jw ky Aqy ieh dyK ky ik quhwfw AwtomYitk A~pfyt cwlU hY qusIN Awpxy A~pfyts ƒ svYcwlq kr skdy ho[ nhIN qW hyTW id~qy gey kdmW dI pwlxw kro:1. Awpxy ivµfoz Epryitµg isstm iv~c Koj bwks q~k phuµc kro, A~pfyt ilKo Aqy iPr ivµfoz A~pfyt ilKo[2. sYitµgjæ bdlo dI cox kro[3. Awpxy Awp hI A~pfyt sQwpq kro (isPwrsæI) qy kil~k kro, jykr ieh pihlW qoN cuixAw hoieAw nhIN hY[

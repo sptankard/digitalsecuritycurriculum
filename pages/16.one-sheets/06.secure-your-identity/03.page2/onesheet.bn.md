@@ -1,17 +1,7 @@
 ---
-title: 'Secure Your Identity Page 2'
+06.secure-your-identity/03.page2/onesheet.bn.md
 ---
 
-<span style="color:#3b68bd">✔ FIND OUT IF YOU HAVE BEEN THE VICTIM OF A HACK.</span> Visit https://haveibeenpwned.com and enter your e-mail. You can then find out if your email and password has been part of any data breaches. If it has we recommend you change all instances of that password immediately for your password has been compromised.
+�� আপনি হ্যাকের শিকার হয়েছেন কিনা তা দেখুন। https://haveibeenpwned.com দেখুন এবং আপনার ইমেল প্রবেশ করান। তারপরে আপনি খুঁজে বের করতে পারেন যে আপনার ইমেল ও পাসওয়ার্ড কোন ডেটা লঙ্ঘনের অংশ হয়েছে কিনা। যদি তা হয়ে থাকে, তাহলে আমরা আপনাকে সেই পাসওয়ার্ডটি সব জায়গায় বদলানোর পরামর্শ দেব, কারণ আপনার পাসওয়ার্ডটি আপোস করা হয়েছে।
 
-<span style="color:#3b68bd">✔ FIND OUT WHAT INFORMATION TROLLS CAN FIND OUT ABOUT YOU.</span> Once you know what exists about you online you can start the process of contacting Data brokers in writing to have your information removed. While it is hard to get all of the content off, every little bit helps you have a strong self-defense in the event of you becoming the target for troll attacks. 
-
-Check your Data leaks here:
-Spokeo (to remove listing: http://www.spokeo.com/opt_out/new)
-Anywho.com (to remove listing: http://www.anywho.com/help/privacy)
-Intelius (to remove listing: https://www.intelius.com/optout.php)
-Whitepages (to remove listing: https://support.whitepages.com/hc/en-us/articles/203263794-
-Remove-my-listing-from-Whitepages-)
-
-Check your information from a more comprehensive list of data brokers at Trollbusters. You can find this list at https://yoursosteam.wordpress.com/2015/08/30/remove-your-mailing-address-from-data-broker-sites/
-
+✔  ট্রোলস (TROLLS) আপনার সম্পর্কে কোন তথ্যগুলি খুঁজে বের করতে পারে তা দেখুন। আপনার সম্পর্কে অনলাইনে কি কি রয়েছে তা আপনি একবার জেনে গেলে আপনি আপনার তথ্য সরানোর জন্য লিখিতভাবে ডেটা ব্রোকারদের সাথে যোগাযোগ করার প্রক্রিয়া শুরু করতে পারেন। সব বিষয় সরিয়ে ফেলা শক্ত হলেও, ট্রোল আক্রমণের শিকার হওয়ার ক্ষেত্রে অল্প অল্প করে মোছাও আত্মরক্ষায় সাহায্য করতে পারে। আপনার ফাঁস হওয়া তথ্য এখানে দেখুন:স্পোকেও (লিস্টিং অপসারণ করতে: http://www.spokeo.com/opt_out/new)Anywho.com (লিস্টিং অপসারণ করতে: http://www.anywho.com/help/privacy)ইন্টেলিয়াস (লিস্টিং অপসারণ করতে:  https://www.intelius.com/optout.php)হোয়াইটপেজেস (লিস্টিং অপসারণ করতে:: https://support.whitepages.com/hc/en-us/articles/203263794-Remove-my-listing-from-Whitepages-)ট্রোলবাস্টার্সে (Trollbusters) ডেটা ব্রোকারদের আরো সর্বাঙ্গীণ তালিকা থেকে আপনার তথ্য দেখুন। আপনি এটি এখানে পেতে পারেন https://yoursosteam.wordpress.com/2015/08/30/remove-your-mailing-address-from-data-broker-sites

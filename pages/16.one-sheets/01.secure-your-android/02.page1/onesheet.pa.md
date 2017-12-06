@@ -1,11 +1,11 @@
 ---
-title: 'Secure Your Android Page 1'
+01.secure-your-android/02.page1/onesheet.pa.md
 ---
 
-<span style="color:purple">✔ USE A PIN PASSCODE. NEVER USE TOUCH ID.</span>  As a Touch ID can be compromised. Make your PIN strong and at least 8 digits. You can find this for Androids under Settings → Personal → Security → Screen Lock.
+�� ie~k PIN pwskof dI vrqoN kro[ t~c ID dI vrqoN nw kro[ ikauNik t~c ID qy hmlw ho skdw hY[ Awpxy PIN ƒ mjæbUq Aqy G~to G~t 8 AµkW vwlw bxwE[ qusIN iesƒ AYNfroief iv~c sYitµgjæ → in~jI → sur~iKAw → skRIn lOk iv~c dyK skdy ho[
 
-<span style="color:purple">✔ ENCRYPT AND BACK UP YOUR PHONE.</span> This is automatic with recent versions of Androids. If your device uses Android version 4.0 or newer, you should verify that device encryption is turned on. This can be done in Settings → Personal → Security → Encryption. If it is not follow the steps to encrypt. But just make sure that before starting the encryption process you back up your data, ensure the phone is fully charged and plugged into a power source.
- 
-<span style="color:purple">✔ SET YOUR SCREEN TO LOCK WHEN NOT UN USE.</span> We recommend that you chose a short amount of time that does not drive you crazy. We use anywhere from 30 sec to a minute. In Android you can find that in  Settings → Personal → Security → Screen Lock. 
+✔ Awpxw Pon AYNikRpt kro Aqy bYk A~p lvo[ ieh AYNfroief dy nvyN sMskrn iv~c AwtomYitk hY[ jykr quhwfI ifvweIs AYNfroief sMskrn 4.0 jW nvyN dI vrqoN krdI hY, qW quhwƒ ieh pusætI krnI cwhIdI hY ik ifvweIs AYNikRpsæn cwl¨ hovy[ ieh sYitµgW → in~jI → sur~iKAw → AYNikRpsæn iv~c kIqw jw skdw hY[ jykr ieh AYNikRpt krn dy kdmW dI pwlxw nhIN krdw hY[ pr ieh XkInI bxwE ik AYNikRpsæn dI pRikirAw SurU krn qoN pihlW qusIN Awpxy fwtw dw bYkA~p lvo, XkInI bxwE ik Pon pUrI qrHW cwrj hY Aqy pwvr sRoq iv~c pl~g kIqw igAw hY[ 
 
-<span style="color:purple">✔ CLEAR YOUR MESSAGE THREADS FREQUENTLY</span> You’ll find this option in your message screen. If your phone is confiscated they can compel you to open it, sensitive content can be exposed from your message history.
+✔ vrqoN iv~c nw hox qy AwpxI skRIn ƒ lOk lgwE[ AsIN isPwrsæ krdy hW ik qusIN QoVHy smyN dI cox coxY kro jo quhwƒ bycYn nw kry[ AsIN 30 sikµt qoN ie~k imµt q~k dI vrqoN krdy hW[ qusIN iesƒ AYNfroief iv~c sYitµgjæ → in~jI → sur~iKAw → skRIn lOk iv~c  dyK skdy ho[
+
+✔ smyN-smyN qy Awpxy sunyhy QRYf ƒ swPæ krdy rho quhwƒ ieh ivklp AwpxI sunyhw skRIn iv~c imlygw[ jykr quhwfw Pon jæbq kIqw igAw hY qW auh quhwƒ ies ƒ KolHx leI mjbUr kr skdy hn, quhwfy sunyhy dy ieiqhws qoN sµvydnsæIl sm~grI dw Kulwsw ho skdw hY[

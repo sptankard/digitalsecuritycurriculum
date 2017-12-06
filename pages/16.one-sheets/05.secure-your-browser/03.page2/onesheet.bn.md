@@ -1,13 +1,11 @@
 ---
-title: 'Secure Your Browser Page 2'
+05.secure-your-browser/03.page2/onesheet.bn.md
 ---
 
-<span style="color:#3cafa8">✔ USE DUCKDUCKGO</span> Duckduckgo does not track your data, you can be confident that you are not growing a data profile which can be used to profile you by corporations and the government. Learn more about it at [https://duckduckgo.com](https://duckduckgo.com)
+�� ডাকডাকগো ব্যবহার করুন। ডাকডাকগো আপনার ডেটা অনুধাবন করে না, আপনি নিশ্চিত থাকতে পারেন যে আপনি এমন কোন ডেটা প্রোফাইল বাড়াচ্ছেন না যা কর্পোরেশন ও সরকারের দ্বারা আপনার প্রোফাইল পেতে ব্যবহার করা যেতে পারে। এটির বিষয়ে https://duckduckgo.com গিয়ে আরো জানুন।
 
-<span style="color:#3cafa8">✔ USE A VIRTUAL PRIVATE NETWORK(VPN) WHEN CONNECTING TO THE INTERNET AT ALL TIMES.</span> We recommend Golden Frog's VyprVpn. You can find it at [https://www.goldenfrog.com/vyprvpn](https://www.goldenfrog.com/vyprvpn/)
+✔ সবসময় ইন্টারনেটের সাথে যুক্ত থাকতে একটি ভারচুয়াল প্রাইভেট নেটওয়ার্ক (ভিপিএন) ব্যবহার করুন। আমরা গোল্ডেন ফ্রগের VyprVpn অনুমোদন করি। আপনি এটি https://www.goldenfrong/vyprvpn-তে খুঁজে পেতে পারেন।
 
-<span style="color:#3cafa8">✔ WHEN NOT USING A VPN, USE TOR BROWSER</span> When not using a VPN, use Tor Browser to bypass censorship and browse anonymously. Always make sure you update your Tor Browser regularly. [https://www.torproject.org/projects/torbrowser](https://www.torproject.org/projects/torbrowser)
+✔ একটি ভিপিএন ব্যবহার না করার সময়, সেন্সরশিপ কাটাতে এবং অপরিচিত অবস্থায় ব্রাউজ করতে টর (Tor ) ব্রাউজার ব্যবহার করুন। সর্বদা আপনি নিয়মিত আপনার টর (Tor) ব্রাউজার আপডেট করাটা নিশ্চিত করুন। https://www.torproject.org/projects/torbrowser
 
-<span style="color:#3cafa8">✔ IF YOU NEED TO SECURELY SHARE FILES USE ONION SHARE.</span> You can download it here: https://onionshare.org/ and read the documentation for it here: [https://github.com/micahflee/onionshare/blob/master/README.md](https://github.com/micahflee/onionshare/blob/master/README.md)
-
-
+✔ যদি আপনাকে নিরাপদে ফাইল ভাগ করতে হয় তাহলে ওনিয়ন শেয়ার (ONION SHARE) ব্যবহার করুন। আপনি এটি https://onionshare.org/ থেকে ডাউনলোড করতে পারেন: এবং এটির নথিগুলি এখানে পড়তে পারেন:

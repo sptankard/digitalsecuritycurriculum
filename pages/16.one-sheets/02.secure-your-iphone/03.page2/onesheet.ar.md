@@ -1,15 +1,11 @@
 ---
-title: 'Secure Your Iphone Page 2'
+02.secure-your-iphone/03.page2/onesheet.ar.md
 ---
 
-<span style="color:pink">✔ ENCRYPT AND BACK UP YOUR PHONE.</span> This is automatic with iPhone when the pin is activated, just make sure that neither your phone or your computer backs up to iCloud. Only back up to a local drive, additionally do not store passwords with iCloud either.
+�� شفّر هاتفك وانسخه نسخة احتياطية.هذه عملية تلقائية في جهاز iPhone عند تفعيل الرمز، تأكد فقط عدم وجود نسخة احتياطية من جهاز هاتفك أو حاسوبك على iCloud. قم بأخذ نسخة احتياطية فقط إلى القرص المحلي، ولا تخزن كلمات المرور على iCloud كذلك.
 
-<span style="color:pink">✔ SET YOUR SCREEN TO LOCK WHEN NOT IN USE.</span> We recommend that you chose a short amount of time that does not drive you crazy. We use anywhere from 30 sec to a minute, you can find it in Settings → Display & Brightness → Auto-Lock.
+✔ اضبط شاشتك أن تغلق ما لم تستخدم هاتفك. نوصيك بأن تختار فترة قصيرة من الوقت بما لا تصيبك بالهوس. نستخدم في أي مكان من 30 ثانية إلى دقيقة، ويمكنك أن تجده في Settings → Display &amp; Brightness → Auto-Lock.✔امسح سلسلة رسائلك بشكل متكرر. ستجد هذا الخيار في شاشة الرسالة. إذا كان هاتفك مُصادر،فقد يرغموك على فتحه عارضًا محتوياته الحساسة من تاريخ رسائلك.
 
-<span style="color:pink">✔ CLEAR YOUR MESSAGE THREADS FREQUENTLY.</span> You’ll find this option in your message screen. If your phone is confiscated they can compel you to open it exposing sensitive content from your message history.
+✔ حافظ على عمل جميع تحديثات نظام تشغيل ios الخاص بك. لتلك التحديثات ملفات أمان مهمة، يمكنك أن تجده تحت Settings → General → Software Update.
 
-<span style="color:pink">✔ MAINTAIN ALL YOUR iOS UPDATES.</span> These updates will have important security patches, you can find it under Settings → General → Software Update.
-
-<span style="color:pink">✔ INSTALL VYPRVPN ON YOUR PHONE TO PROTECT YOUR NETWORK ACCESS.</span> This allows you to anonymize your network traffic and bypass filtering happening at your internet service provider. Look for this application in the app store. Learn more at [https://www.goldenfrog.com/vyprvpn](https://www.goldenfrog.com/vyprvpn)
-
-
+✔ ثبت شبكة VYPRVPN على هاتفك لحماية وصولك للشبكة. وهذا يمّكنك من عدم معرفة هوية مرورك في الشبكة وتجاوز عملية التصفية التي تحدث لدى مورد خدمة الإنترنت الخاص بك. ابحث عن التطبيق في متجر التطبيقات. اعرف المزيد من https://www.goldenfrog.com/vyprvpn

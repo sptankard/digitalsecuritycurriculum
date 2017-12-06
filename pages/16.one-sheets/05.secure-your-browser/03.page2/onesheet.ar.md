@@ -1,13 +1,5 @@
 ---
-title: 'Secure Your Browser Page 2'
+05.secure-your-browser/03.page2/onesheet.ar.md
 ---
 
-<span style="color:#3cafa8">✔ USE DUCKDUCKGO</span> Duckduckgo does not track your data, you can be confident that you are not growing a data profile which can be used to profile you by corporations and the government. Learn more about it at [https://duckduckgo.com](https://duckduckgo.com)
-
-<span style="color:#3cafa8">✔ USE A VIRTUAL PRIVATE NETWORK(VPN) WHEN CONNECTING TO THE INTERNET AT ALL TIMES.</span> We recommend Golden Frog's VyprVpn. You can find it at [https://www.goldenfrog.com/vyprvpn](https://www.goldenfrog.com/vyprvpn/)
-
-<span style="color:#3cafa8">✔ WHEN NOT USING A VPN, USE TOR BROWSER</span> When not using a VPN, use Tor Browser to bypass censorship and browse anonymously. Always make sure you update your Tor Browser regularly. [https://www.torproject.org/projects/torbrowser](https://www.torproject.org/projects/torbrowser)
-
-<span style="color:#3cafa8">✔ IF YOU NEED TO SECURELY SHARE FILES USE ONION SHARE.</span> You can download it here: https://onionshare.org/ and read the documentation for it here: [https://github.com/micahflee/onionshare/blob/master/README.md](https://github.com/micahflee/onionshare/blob/master/README.md)
-
-
+��استخدم DUCKDUCKGO لا يتعقب DUCKDUCKGO  بياناتك، يمكنك أن تثق أنك لا تنشئ ملف بيانات قد يستخدمه المؤسسات والحكومات. تعلم المزيد عنه في https://duckduckgo.com✔استخدم شبكة خاصة افتراضية (VPN) عندما تتصل بالإنترنت في أي وقت.نرشح لك شبكة Golden Frog's VyprVpn. تجده على https://www.goldenfrong/vyprvpn ✔ما لم تستخدم شبكة خاصة افتراضية، استخدم متصفح تورما لم تستخدم شبكة خاصة افتراضية، استخدم متصفح تور لتجاوز المراقبة وتصفح دون معرفة الهوية. تأكد دائمًا من أنك حدثت متصفح تور بشكل يومي.https://www.torproject.org/projects/torbrowser✔إذا احتاجت إلى مشاركة مستندات بآمان، استخدم موقع UnionShare. يمكنك أن تنزله من هنا: https://onionshare.org/ واقرأ التوثيق له من هنا: https://github.com/micahflee/onionshare/blob/master/README.md

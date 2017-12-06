@@ -1,12 +1,11 @@
 ---
-title: 'Secure Your Network Access Page 1'
+07.secure-your-network-access/02.page1/onesheet.pa.md
 ---
 
-Securing your network access is crucial to being able to access the internet safely as your Internet Service provider (ISP) is often where much surveillance happens. If you do not secure your network access you are not only revealing your location and the content of your internet browsing, but the ISP can also filter, surveil, and even block sites from you at their own servers. Secure Network Access softwares take these scenarios into consideration and offers ways to protect your network access. Think of it as a condom to shields and anonymize your computer as it accesses the internet.
+wpxy nY~tvrk dI phuµc ƒ sur~iKAq krnw ieµtrn~Yt dI vrqoN sur~iKAq Fµg nwl krn leI mh~qvpUrn huµdw hY ikauNik quhwfy ieµtrn~Yt syvw pRdwqw (ISP) v~l hI izAwdw srgrmI huµdI hY[ jykr qusIN Awpxy nY~tvrk dI phuµc ƒ sur~iKAq nhIN krdy ho qW qusIN nw isrPæ Awpxy sQwn sbµDI jwxkwrI dw Kulwsw kr rhy ho blik Awpxy ieµtrn~Yt bRwaUjiæµg dI sm~grI dw vI Kulwsw kr rhy ho,ies qoN ielwvw ISP vI Awpxy srvrW qy quhwƒ iPltr, ingrwnI Aqy sweItW ƒ blwk kr skdw hY[ sur~iKAq nY~tvrk phuµc sw~PtvyAr iehnW siQqIAW ƒ iDAwn iv~c r~Kdy hoey quhwfI n~Ytvrk phuµc ƒ sur~iKAq krn dy qrIky pysæ krdy hn[ ieh kµnfom vWg ie~k Fwl hY Aqy quhwfy kµipaUtr qy ieµtrnY~t phuµc ƒ gumnwm bxwauNdw hY[
 
-<span style="color:#34994b">✔ USE A VIRUAL PRIVATE NETWORK (VPN)</span> to connect to the Internet. A Good VPN we recommend is Golden Frogs VYPR VPN. [https://www.goldenfrog.com/vyprvpn](https://www.goldenfrog.com/vyprvpn)
+✔ ieµtrn~Yt nwl knYkt krn leI ie~k vrcUAl pRweIvyt n~Ytvrk (VPN) dI vrqoN kro[ golfn PrOg VYPY VPN ie~k cµgw VPN vweIpIAYn hY ijs dI AsIN quhwƒ isPwrsæ krdy hW[ https://www.goldenfrong/vyprvpn
 
-<span style="color:#34994b">✔ USE TOR.</span> When not using a VPN, use Tor Browser to bypass censorship and browse anonymously. Always make sure you update your Tor Browser regularly. Find it at [https://www.torproject.org](https://www.torproject.org)
+✔ tor dI vrqoN kro[ jdoN VPN dI vrqoN nhIN krdy ho,qW sYNsrsiæp ƒ bweIpws krn leI Aqy bRwaujær ƒ Anwm krn leI tor bRwaUjær dI vrqoN kro[ hmysæw ieh XkInI bxwE ik qusIN Awpxy tor bRwaujær ƒ inXimq qOr qy A~pfyt krdy ho[ ies ƒ https://www.torproject.org qy pRwpq kro
 
-<span style="color:#34994b">✔ USE TAILS.</span> Tails is a live operating system that aims to preserve your privacy and anonymity. It is a complete operating system designed to be used from a DVD, USB stick, or SD card independently of the computer's original operating system. It helps you to use the Internet anonymously and circumvent censorship almost anywhere you go and on any computer but leaving no trace unless you ask it to explicitly. Learn more at [https://tails.boum.org](https://tails.boum.org/)
-
+✔ tyl dI vrqoN kro[ p¨rIAW ie~k lweIv Epryitµg isstm hY jo quhwfI gopnIXqw Aqy Anwm ƒ sur~iKAq r~Kdw hY[ ieh ie~k pUrn Epryitµg isstm hY ijs ƒ qusIN kµipaUtr dy AslI Epryitµg isstm qoN suqµqr ho ky ie~k DVD, USB sit~k, jW SD kwrf dI vrqoN nwl vrq skdy ho[ ieh quhwƒ ieµtrnY~t ƒ gumnwm qrIky nwl vrqoN krn iv~c mdd krdw hY Aqy dunIAw dy iksy vI kµipaUtr qy lgBg hr sYNsriSp ƒ driknwr krn iv~c mdd krdw hY Aqy jdoN q~k qusIN nw cwho audoN q~k koeI inSwn nhIN C~fdw hY[ https://tails.boum.org/ qy hor jwxo[

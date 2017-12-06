@@ -1,13 +1,13 @@
 ---
-title: 'Secure Your Android Page 3'
+01.secure-your-android/04.page3/onesheet.pa.md
 ---
 
-<span style="color:purple">✔ INSTALL DUCKDUCKGO AS YOUR NEW WEB BROWSER AND SEARCH ENGINE</span>  Duckduckgo does not track your data, you can be confident that you are not growing a data profile which can be used to profile you by corporations and the government. You can find this app at the Google Play store. Learn more at [https://duckduckgo.com](https://duckduckgo.com)
+�� DUCKDUCKGO ƒ Awpxy nvyN vYb bRwaUjær Aqy Koj ieµjx dy qOr qy sQwpq kro DUCKDUCKGO quhwfy fwtw ƒ trYk nhIN krdw hY, qusIN Brosw kr skdy ho ik qusIN ie~k fwtw pRoPweIl nhIN bxw rhy ho, ijs dI vrqoN quhwƒ kwrporysænW Aqy srkwr duAwrw pRoPweIl krn leI kIqI jw skdI hY[ qusIN ies AYp ƒ gugl plyA stor qy pRwpq skdy ho[ https://duckduckgo.com qy hor jwxo[
 
-<span style="color:purple">✔ USE TALKY</span> to replace skype, google hangouts and audio calls. Talky is end-to-end encrypted and can be used across android, iOS, and all computer platforms. With the app you can create a session simply by entering a name and inviting people to the new link! You can use it here at [https://talky.io/](https://talky.io/)
+✔ skweIp, gugl hYNgAwaut Aqy Aw~fIE kwlW dI QW twkI dI vrqoN kro[ twkI AYNf -tU-AYNf AYNikRpt hY Aqy AYNfroief, iOS Aqy swry kµipaUtr plytPwrmW qy vriqAw jw skdw hY[ ies AYp dy nwl qusIN ie~k nwm drj krky Aqy lokW ƒ nvyN ilµk qy s~d ky sYsæn bxw skdy ho! qusIN ies dI https://talky.io/ qy vrqoN kr skdy ho[
 
-<span style="color:purple">✔ FOR ANDROID PHONES</span> install an anti-malware scanner, we recommend malwarebytes. You can find this app at the Google Play store. Learn more at [https://www.malwarebytes.com/](https://talky.io/)
+✔ AYNfroief Pon leI ie~k AYNtI-mwlvyAr skYnr sQwpq kro, AsIN mwlvyArbweIts dI isPwrsæ krdy hW[ qusIN ies AYp ƒ gugl plyA stor qy pRwpq skdy ho[ Https://www.malwarebytes.com/ qy hor jwxo[ 
 
-<span style="color:purple">✔ INSTALL A METADATA SCRUBBER FOR YOUR PHOTOS.</span> That way you don’t leak important data about a photograph when you share it. This can include your location and more. A good app for scrubbing metadata on Android is Exif Eraser. You can find this app at the Google Play store. Learn more at [http://www.exiferaser.com/](http://www.exiferaser.com/)
+✔ AwpxIAW qsvIrW leI mYtwfwtw skRbr sQwpq kro[ ies qrHW jdoN qusIN ies ƒ sWJw krdy ho qW Poto bwry mh~qvpUrn fwtw lIk nhIN huµdw hY[ ies iv~c quhwfw sQwn Aqy hor vI sæwml ho skdw hY[ AYNfrOief qy mYtwfwtw ƒ skRibµg krn leI ie~k vDIAw AYplIkysæn hY AYgzI&amp; ierysr[ qusIN ies AYp ƒ gugl plyA stor qy pRwpq skdy ho[ Http://www.exiferaser.com/ qy hor jwxo[
 
-<span style="color:purple">✔ USE A FARADAY BAG FOR YOUR PHONE</span> when in meetings that are private or during protests. This bag will block electronic signals from and to your phone.
+✔ Awpxy Pæon leI PYrwfybYg dI vrqoN kro jdoN in~jI mIitµgW iv~c hovo jW ivroD pRdrsænW iv~c hovo[ ieh bYg quhwfy Pon qoN Aqy q~k ielYktRwink isgnl blOk krygw[

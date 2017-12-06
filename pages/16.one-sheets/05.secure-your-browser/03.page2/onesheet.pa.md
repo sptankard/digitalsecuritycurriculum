@@ -1,13 +1,11 @@
 ---
-title: 'Secure Your Browser Page 2'
+05.secure-your-browser/03.page2/onesheet.pa.md
 ---
 
-<span style="color:#3cafa8">✔ USE DUCKDUCKGO</span> Duckduckgo does not track your data, you can be confident that you are not growing a data profile which can be used to profile you by corporations and the government. Learn more about it at [https://duckduckgo.com](https://duckduckgo.com)
+�� mzbUq pwsvrf bxwE[ iesdw mqlb hY ik hryk Kwqy leI pwsvrf bxwaux leI ie~k pwsvrf pRbµDk dI vrqoN krnw[ Awpxy pwsvrf ƒ inXmq ADwr qy bdlxw mh~qvpUrn huµdw hY, G~to G~t hr iqµn mhIinAW iv~c ie~k vwr[ AsIN https://www.keepassx.org/downloads qy kIppws, https://1password.com/ qy 1pwsvrf Aqy www.lastpass.com qy lwstpws dI isPwrsæ krdy hW[ 
 
-<span style="color:#3cafa8">✔ USE A VIRTUAL PRIVATE NETWORK(VPN) WHEN CONNECTING TO THE INTERNET AT ALL TIMES.</span> We recommend Golden Frog's VyprVpn. You can find it at [https://www.goldenfrog.com/vyprvpn](https://www.goldenfrog.com/vyprvpn/)
+✔ Awpxy eI-myl, Pysbu~k, tvItr, ieµstwgRwm, Aqy snYpt AkwaUNts ƒ kµpwrtmYNtlweIjæ kro[ Awpxy pirvwr, in~jI Aqy rwjnIqk pCwxW leI Alg Kwqy r~Ko[ ie~k pihcwx ƒ nukswn phuµcwaux bwry swvDwn rho[ XkInI bxwE ik iehnW ƒ v~K-v~K eI-mylW Aqy brnr Pon nµbr nwl sQwpq kIqw igAw hovy[ bhuqy Kwqy bxwaux iv~c mdd dI loV hY? eI-myl syvwvW ijvyN ik riseup.net Aqy borr AYp dI vrqoN kro jo quhwƒ v~KrIAW pCwxW bxwaux iv~c shwieqw kr skdIAW hn[
 
-<span style="color:#3cafa8">✔ WHEN NOT USING A VPN, USE TOR BROWSER</span> When not using a VPN, use Tor Browser to bypass censorship and browse anonymously. Always make sure you update your Tor Browser regularly. [https://www.torproject.org/projects/torbrowser](https://www.torproject.org/projects/torbrowser)
+✔ Awpxy swry KwiqAW leI 2-PYktr pRmwixkqw (2FA) ƒ cwl¨Ukro[ 2FA jI-myl, Pysbu~k, tiv~tr Aqy hor leI auplbD hY[ ieh vYbsweIt quhwƒ inrdysæ idµdI hY ik quhwfy swry AkwauNts leI ieh ikvyN krnw hY[ https://www.turnon2fa.com/tutorials/
 
-<span style="color:#3cafa8">✔ IF YOU NEED TO SECURELY SHARE FILES USE ONION SHARE.</span> You can download it here: https://onionshare.org/ and read the documentation for it here: [https://github.com/micahflee/onionshare/blob/master/README.md](https://github.com/micahflee/onionshare/blob/master/README.md)
-
-
+✔ pqw kro ik qusIN gugl ƒ ikhVI jwxkwrI dy rhy ho: https://myactivity.google.com

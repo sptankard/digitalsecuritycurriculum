@@ -1,12 +1,11 @@
 ---
-title: 'Secure Your Identity Page 1'
+06.secure-your-identity/02.page1/onesheet.pa.md
 ---
 
-<span style="color:#3b68bd">✔ CREATE STRONG PASSWORDS.</span> This means using a password manager to generate passwords for every account. It’s important to change your password on a regular basis, preferably at least once every three months. We recommend keepassX at https://www.keepassx.org/downloads, 1password at https://1password.com/ and lastpass at www.lastpass.com.
- 
-<span style="color:#3b68bd">✔ COMPARTMENTALIZE YOUR E-MAIL, FACEBOOK, TWITTER, INSTAGRAM, AND SNAPCHAT ACCOUNTS.</span> Keep separate accounts for your family, personal, and political identities. Be careful about ross-contaminating an identity. Make sure these are set up with different e-mails and burner phone numbers. Need help making multiple accounts? Use email services like riseup.net and burner app which can help you create distinct separate identities.
+�� DUCKDUCKGO dI vrqoN kro DUCKDUCKGO quhwfy fwtw ƒ trYk nhIN krdw hY, qusIN Brosw kr skdy ho ik qusIN ie~k fwtw pRoPweIl nhIN bxw rhy ho, ijs dI vrqoN quhwƒ kwrporysænW Aqy srkwr duAwrw pRoPweIl krn leI kIqI jw skdI hY[ ies bwry https://duckduckgo.com  qy hoey jwxo[
 
-<span style="color:#3b68bd">✔ TURN ON 2-FACTOR AUTHENTICATION (2FA)</span> for all your accounts. 2FA is available for G-mail, Facebook, Twitter, and more. This website gives you directions on how to do it for all of your accounts. https://www.turnon2fa.com/tutorials/
+✔ ie~k vrcuAl pRweIvyt n~Ytvrk (VPN) dI vrqoN kro jdoN vI ieµtrn~Yt nwl knYkt krdy ho[ AsIN golfn PrOg dy VyprVpn dI isPwrsæ krdy hW[ qusIN iesƒ https://www.goldenfrong/vyprvpn qy pRwpq skdy ho[ 
 
-<span style="color:#3b68bd">✔ FIND OUT WHAT YOU ARE LEAKING TO GOOGLE:</span> https://myactivity.google.com
+✔ jdoN VPN dI vrqoN nhIN krdy ho, qW tor brwaUjær dI vrqoN kro jdoN VPN dI vrqoN nhIN krdy ho, qW sYNsriSsp ƒ bweIpws krn leI Aqy brwaUjær ƒ Anwm qrIky nwl vrqx leI tor brwaUjær dI vrqoN kro[ hmysæw ieh insæcq kro ik qusIN Awpxy tor brwaUjær ƒ inXmq qOr qy A~pfyt krdy ho[ https://www.torproject.org/projects/torbrowser
 
+✔ jykr quhwƒ PweIlW ƒ sur~iKAq rUp iv~c sWJw krdy ho qW AOinEn sæyAr dI vrqoN kro[ qusIN ies ƒ ie~Qy fwaunlof kr skdy ho https://onionshare.org/ Aqy ies leI ie~Qy dsqwvyjæ pVo: https://github.com/micahflee/onionshare/blob/master/README.md

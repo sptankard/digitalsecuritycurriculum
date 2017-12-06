@@ -1,17 +1,7 @@
 ---
-title: 'Secure Your Identity Page 2'
+06.secure-your-identity/03.page2/onesheet.hi.md
 ---
 
-<span style="color:#3b68bd">✔ FIND OUT IF YOU HAVE BEEN THE VICTIM OF A HACK.</span> Visit https://haveibeenpwned.com and enter your e-mail. You can then find out if your email and password has been part of any data breaches. If it has we recommend you change all instances of that password immediately for your password has been compromised.
+��पता लगाएं अगर आप हैकिंग के शिकार हैं। https://haveibeenpwned.comपर जाएं और अपना ई-मेल दर्ज करें। आप यहां पता लगा सकते हैं कि आपका ईमेल और पासवर्ड किसी भी डेटा उल्लंघनों/ data breaches का हिस्सा है या नहीं। अगर ऐसा है तो हमारी सलाह है कि आप तुरंत उस पासवर्ड को बदल दें। 
 
-<span style="color:#3b68bd">✔ FIND OUT WHAT INFORMATION TROLLS CAN FIND OUT ABOUT YOU.</span> Once you know what exists about you online you can start the process of contacting Data brokers in writing to have your information removed. While it is hard to get all of the content off, every little bit helps you have a strong self-defense in the event of you becoming the target for troll attacks. 
-
-Check your Data leaks here:
-Spokeo (to remove listing: http://www.spokeo.com/opt_out/new)
-Anywho.com (to remove listing: http://www.anywho.com/help/privacy)
-Intelius (to remove listing: https://www.intelius.com/optout.php)
-Whitepages (to remove listing: https://support.whitepages.com/hc/en-us/articles/203263794-
-Remove-my-listing-from-Whitepages-)
-
-Check your information from a more comprehensive list of data brokers at Trollbusters. You can find this list at https://yoursosteam.wordpress.com/2015/08/30/remove-your-mailing-address-from-data-broker-sites/
-
+✔ पता लगाएं कि कौन से इन्फॉर्मेशन ट्रॉल आप के बारे में पता कर सकते हैं। एक बार जब आपको यह पता चल जाता है कि आपके बारे में ऑनलाइन क्या मौजूद है, तो आप अपनी जानकारी को हटाने के लिए लिखित में डेटा ब्रोकरों से संपर्क करने की प्रक्रिया शुरू कर सकते हैं। हालांकि प्रत्येक सामग्री को बंद करना कठिन है, लेकिन हर एक छोटा सा प्रयास आपको ट्रॉल हमलों का लक्ष्य बनने से रोकने के लिए महत्वपूर्ण है।अपने डेटा लीक यहां देखेंःSpokeo (लिस्टिंग हटाने के लिए: http://www.spokeo.com/opt_out/new)Anywho.com (लिस्टिंग हटाने के लिए: http://www.anywho.com/help/privacy)Intelius (लिस्टिंग हटाने के लिए: https://www.intelius.com/optout.php)Whitepages (लिस्टिंग हटाने के लिए: https://support.whitepages.com/hc/en-us/articles/203263794-Remove-my-listing-from-Whitepages-)Trollbusters पर डेटा ब्रोकरर्स की अधिक विस्तृत सूची से अपनी जानकारी देखें। आप https://yoursosteam.wordpress.com/2015/08/30/remove-your-mailing-address-from-data-broker-sites/ पर यह सूची पा सकते हैं।

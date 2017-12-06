@@ -1,13 +1,9 @@
 ---
-title: 'Secure Your Communications Page 1'
+04.secure-your-communications/02.page1/onesheet.ar.md
 ---
 
-<span style="color:#ae9055">✔ USE SIGNAL.</span> Add this app to your phone and on your computer through the Chrome browser. When you set up Signal be sure to verify your contacts. You can also activate disappearing messages to keep your message threads clear. Verify your contacts.
+��استخدم Signal. أضف هذا التطبيق إلى هاتفك، وعلى حاسوبك من خلال متصفح Chrome. عند تثبيت تطبيق Signal، تأكد من التحقق من بيانات اتصالك. يمكنك كذلك أن تقوم بإخفاء الرسائل للحفاظ على سلسلة الرسائل فارغة. تحقق من بيانات الاتصال بك.✔افترض أن حساباتك على WhatsApp وMessenger وText والبريد الإلكتروني، والهاتف غير آمنة.إذا كان عليك استخدام تطبيق Whatsapp تحقق من بيانات الاتصال بك وتأكد من جميع التطبيقات النظيرة مطبق بها أخر نسخة من تطبيق Whatsapp لكي تصبح سلسلة الرسائل مشفرة متطورة. الحقيقة المؤلمة هي أن تطبيقات Whatsapp وMessenger يملكها Facebook؛ الذي لديه سياسية خصوصية غامضة، وبيانات مخزنة على خوادمهم، وبالتالي لا يمكن أن تثق في أمنك لديهم.
 
-<span style="color:#ae9055">✔ ASSUME WHATSAPP, MESSENGER, TEXT, E-MAIL, AND PHONE ARE UNSAFE.</span> If you must use Whatsapp verify your contacts and make sure all folks have the most recent version of Whatsapp so that the messaging threads are end-to-end encrypted. The sad reality is that Whatsapp and Messenger are owned by Facebook; which has dubious privacy policies, with your data stored on their servers, so do not trust them with your security. 
+✔ إذا كان عليك استخدام البريد الإلكتروني، جرب أن تستخدم تشفير GPG. احصل عليه لنظام التشغيل mac من https://gpgtools.org/ أو للحاسوب منhttps://www.gpg4win.org/
 
-<span style="color:#ae9055">✔ IF YOU MUST USE EMAIL TRY TO USE GPG ENCRYPTION.</span> Get it for the mac at [https://gpgtools.org/](https://gpgtools.org/) or for the PC at [https://www.gpg4win.org/](https://www.gpg4win.org)
-
-<span style="color:#ae9055">✔ REPLACE ELECTRONIC MAILING LISTS AND PROJECT MANAGEMENT SOFTWARE</span> like Slack with Semaphor by Spider oak. It’s end-to-end encrypted and has both a web and desktop client. Learn more at [https://spideroak.com/solutions/semaphor](https://spideroak.com/solutions/semaphor)
-
-
+✔ استبدل قوائم البرد الإلكترونية وبرنامج إدارة المشاريع مثل برنامج Slack وSemaphor بالبرنامج Spider oak. فهو برنامج مشفر متطور وله موقع إلكتروني وعميل سطح مكتب. اعرف المزيد من https://spideroak.com/solutions/semaphor

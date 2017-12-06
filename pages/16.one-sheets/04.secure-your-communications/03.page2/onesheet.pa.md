@@ -1,10 +1,7 @@
 ---
-title: 'Secure Your Computer Page 3'
+04.secure-your-communications/03.page2/onesheet.pa.md
 ---
 
-<span style="color:#ae9055">✔ DOWNLOAD THE TALKY APP OR USE TALKY ON YOUR COMPUTER BROWSER</span> to replace skype, google hangouts and audio calls. Talky is end-to-end encrypted and can be used across android, iOS, and all computer platforms. With the app you can create a session simply by entering a name and inviting people to the new link! You can find it at [https://talky.io/](https://talky.io)
+�� twkI AYp fwaUnlof kro jW Awpxy kµipaUtr brwaUjær qy skweIp, gUgl hYNgAwaut Aqy AwfIE kwlW dI QW twlkI dI vrqoN kro[ twlkI AYNf-tU-AYNf AYNikRpt hY Aqy AYNfroief, iOS Aqy swry kµipaUtr plytPwrmW iv~c vriqAw jw skdw hY[ twkI qy qusIN ie~k nwm drj kr ky Aqy lokW ƒ nvyN ilµk Byj ky s~d ky sYsæn bxw skdy ho! qusIN iesƒ https://talky.io/ qy pRwpq kr skdy ho[
 
-<span style="color:#ae9055">✔ IF YOU NEED AN ALTERNATIVE TO GOOGLE DOCS</span> try using [https://pad.riseup.net/](https://pad.riseup.net) for short term collaborative documents. The etherpad software does not store IP addresses and will delete itself if it is not used in 30 days. You can also find an alternative to google docs using the open source platform Sandstorm. The platform has lots of open sources apps and while it requires some getting used to, it is one step to helping you wean yourself off of google apps. Learn more at https://Sandstorm.io
-
-
-
+✔ jykr quhwƒ gugl foks leI ivklp dI loV hY qW QoVHy smyN dy sihXogI dsqwvyjæW leI https://pad.riseup.net/ dI vrqoN kro[ eIQrpYf sw~PtvyAr IP pqy ƒ stor nhIN krdw hY Aqy Kud Awpxy Awp hI imtw dyvygw jykr ieh 30 idnW iv~c nhIN vriqAw jWdw hY[ qusIN Epn sors plytPwrm sYNtrstwrm dI vrqoN krdy hoey gugl foks dw ivklp vI l~B skdy ho[ ies plytPwrm qy keI swrIAW apn sors Ayps hn Aqy iehnW dI vrqoN nwl jwxU leI k~J smW l~gygw, pr gUgl Ayps qoN Cutkwrw pwaux iv~c mdd v~joN ieh pihlw kdm hY[ https://Sandstorm.io qy hor jwxo[

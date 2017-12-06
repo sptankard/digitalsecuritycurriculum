@@ -1,12 +1,11 @@
 ---
-title: 'Secure Your Android Page 2'
+01.secure-your-android/07.page2/onesheet.ar.md
 ---
 
-<span style="color:purple">✔ MAINTAIN ALL YOUR ANDROID UPDATES.</span> These updates will have important security patches. Not doing an update can leave your device vulnerable, go to Settings → About Phone → Updates → Check for updates. 
+�� حافظ على عمل جميع تحديثات نظام تشغيل Android الخاص بك. لتلك التحديثات ملفات أمان مهمة. عدم القيام بتحديث نظام تشغيلك قد يعرض جهازك للتهديدات، اذهب إلىSettings → About Phone → Updates → Check for updates. 
 
-<span style="color:purple">✔ ADD AN APP LOCK SOFTWARE.</span> For an added layer of protection we recommend Applock for Android. You can find this app at the Google Play store.
+✔ أضف برنامج تأمين التطبيقات. نرشح لك لمستوى أعلى من الحماية ببرنامج AppLock لنظام التشغيل Android. قد تجد هذا التطبيق على Google Play.
 
-<span style="color:purple">✔ TURN OFF LOCATION SERVICES OF ALL BUT NECESSARY ACTIONS.</span> Go to Settings → Personal → Location. To reduce the risk of location tracking don’t have services running by default in the background, it will save battery power and reducing unwanted data streams initiated by applications and your mobile carrier. That said your phone can still reveal your location through triangulation so be intentional about when and where you take it. 
+✔ أوقف تشغيل خدمات الموقع لجميع الإجراءات فيما عدا تلك الضرورية. اذهب إلى Settings → Personal → Location. لتقليل خطورة تعقب موقعك، لا تشغل الخدمات بشكل افتراضي في الخلفية، سيوفر هذا طاقة بطاريتك وسيحد من عمليات تدفق البيانات غير المرغوب فيها من خلال التطبيقات وحامل هاتفك. وهذا يعني أن هاتفك لا يزال يكشف موقعك من خلال التحويل الثلاثي وبالتالي حدد متى وأين تأخذه.
 
-<span style="color:purple">✔ INSTALL VYPRVPN AND ORBOT/ORFOX APP ON YOUR PHONE TO PROTECT ACCESS.</span> This allows you to anonymize your network traffic and bypass filtering happening at your internet service provider. You can find this app at the Google Play store. Learn more at [https://www.goldenfrog.com/vyprvpn](https://www.goldenfrog.com/vyprvpn)
-
+✔ ثبت شبكة VYPRVPN وتطبيق ORBOT/ORFOX APP على هاتفك لحماية الوصول.وهذا يمكنك من عدم معرفة هوية مرورك في الشبكة وتجاوز عملية التصفية التي تحدث لدى مورد خدمة الإنترنت الخاص بك. قد تجد هذا التطبيق على متجر Google Play. اعرف المزيد من https://www.goldenfrog.com/vyprvpn

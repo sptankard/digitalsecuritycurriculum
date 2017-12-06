@@ -1,10 +1,7 @@
 ---
-title: 'Secure Your Computer Page 3'
+04.secure-your-communications/03.page2/onesheet.ar.md
 ---
 
-<span style="color:#ae9055">✔ DOWNLOAD THE TALKY APP OR USE TALKY ON YOUR COMPUTER BROWSER</span> to replace skype, google hangouts and audio calls. Talky is end-to-end encrypted and can be used across android, iOS, and all computer platforms. With the app you can create a session simply by entering a name and inviting people to the new link! You can find it at [https://talky.io/](https://talky.io)
+��نزّل تطبيق TALKY أو استخدمه على متصفح حاسوبكلاستبدال سكايب وhangouts لـGoogle والمكالمات الصوتية. برنامج Talky هو تطبيق مشفر متطور ويمكن استخدامه من خلال منصات Adnroid، وiOS وجميع منصات الحاسوب. باستخدام التطبيق، يمكنك أن تنشئ جلسة حوار فقط من خلال إدخال اسم ثم دعوة الناس إلى الرابط الجديد! قد تجده على https://talky.io/
 
-<span style="color:#ae9055">✔ IF YOU NEED AN ALTERNATIVE TO GOOGLE DOCS</span> try using [https://pad.riseup.net/](https://pad.riseup.net) for short term collaborative documents. The etherpad software does not store IP addresses and will delete itself if it is not used in 30 days. You can also find an alternative to google docs using the open source platform Sandstorm. The platform has lots of open sources apps and while it requires some getting used to, it is one step to helping you wean yourself off of google apps. Learn more at https://Sandstorm.io
-
-
-
+✔ إذا كنت تحتاج إلى بديل لمستندات Googleجرب استخدام https://pad.riseup.net/ لمستندات تعاونية لفترة قصيرة.  لا يمكن أن يخزن برنامج etherpad عناوين IP وسيحذفه تلقائيًا إذا لم يستخدم خلال 30 يومًا. يمكنك أن تجد كذلك بديلًا لمستندات Google باستخدام منصة المصادر المفتوحة Sandstorm. للمنصة العديد من تطبيق المصادر المفتوحة، وبينما تطلب المنصة من البعض استخدامها، فهي الخطوة الأولى لمساعدتك في منع نفسك عن تطبيقات Google. اعرف المزيد من https://Sandstorm.io

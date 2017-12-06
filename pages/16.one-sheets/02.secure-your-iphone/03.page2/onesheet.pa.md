@@ -1,15 +1,13 @@
 ---
-title: 'Secure Your Iphone Page 2'
+02.secure-your-iphone/03.page2/onesheet.pa.md
 ---
 
-<span style="color:pink">✔ ENCRYPT AND BACK UP YOUR PHONE.</span> This is automatic with iPhone when the pin is activated, just make sure that neither your phone or your computer backs up to iCloud. Only back up to a local drive, additionally do not store passwords with iCloud either.
+�� Awpxy Pon AYNkRpt kro Aqy bYk A~p lvo[ ieh AweIPon iv~c AwtomYitk hY jdoN PIN srgrm huµdw hY, isrP ieh XkInI bxwE ik quhwfw Pon jW quhwfw kµipaUtr iCloud q~k bYkA~p nhIN krdw hovy[ kyvl ie~k sQwnk frweIv qy bYkA~p kro, nwl hI nwl iCloud nwl pwsvrf stor nw kro[
 
-<span style="color:pink">✔ SET YOUR SCREEN TO LOCK WHEN NOT IN USE.</span> We recommend that you chose a short amount of time that does not drive you crazy. We use anywhere from 30 sec to a minute, you can find it in Settings → Display & Brightness → Auto-Lock.
+✔ vrqoN iv~c nw hox qy AwpxI skRIn ƒ lOk lgwE[ AsIN isPwrsæ krdy hW ik qusIN QoVHy smyN dI cox kro jo quhwƒ bycYn nw kry[ AsIN 30 sikµt qoN ie~k imµt q~k dI vrqoN krdy hW, qusIN iesƒ sYitµgjæ → ifsplyA Aqy cmk → Awto-lOk iv~c l~B skdy ho[
 
-<span style="color:pink">✔ CLEAR YOUR MESSAGE THREADS FREQUENTLY.</span> You’ll find this option in your message screen. If your phone is confiscated they can compel you to open it exposing sensitive content from your message history.
+✔ smyN-smyN qy Awpxy sunyhy QRYf ƒ swPæ krdy rho[ quhwƒ ieh ivklp AwpxI sunyhw skRIn iv~c imlygw[ jykr quhwfw Pon jæbq kIqw igAw hY qW auh quhwƒ ies ƒ KolHx leI mjbUr kr skdy hn, quhwfy sunyhy dy ieiqhws qoN sµvydnsæIl sm~grI dw Kulwsw ho skdw hY[
 
-<span style="color:pink">✔ MAINTAIN ALL YOUR iOS UPDATES.</span> These updates will have important security patches, you can find it under Settings → General → Software Update.
+✔ Awpxy iOS ƒ A~pfyt kro[ ies A~pfyt iv~c mh~qvpUrn sur~iKAw pYc hoxgy, qusIN ies ƒ sYitµg → Awm → sw~PtvyAr A~pfyt iv~c pRwpq kr skdy ho[
 
-<span style="color:pink">✔ INSTALL VYPRVPN ON YOUR PHONE TO PROTECT YOUR NETWORK ACCESS.</span> This allows you to anonymize your network traffic and bypass filtering happening at your internet service provider. Look for this application in the app store. Learn more at [https://www.goldenfrog.com/vyprvpn](https://www.goldenfrog.com/vyprvpn)
-
-
+✔ qusIN nY~tvrk phuµc ƒ sur~iKAq r~Kx leI Awpxy Pæon qy VYPRVPN sQwpq kro[ ies nwl quhwƒ Awpxy n~Ytvrk tRYiPk ƒ Anwm bxwaux Aqy ieµtrn~Yt syvw pRdwqw ivKy ho rhI iPltr pRikirAw ƒ bweIpws krn iv~c mdd imldI hY[ qusIN ies AYplIkySn nuµ AYp stor qy pRwpq skdy ho[  https://www.goldenfrog.com/vyprvpn qy hor jwxo[

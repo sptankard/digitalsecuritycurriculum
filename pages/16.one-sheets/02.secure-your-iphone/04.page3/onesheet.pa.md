@@ -1,13 +1,11 @@
 ---
-title: 'Secure Your Iphone Page 3'
+02.secure-your-iphone/04.page3/onesheet.pa.md
 ---
 
-<span style="color:pink">✔ INSTALL DUCKDUCKGO AS YOUR NEW WEB BROWSER AND SEARCH ENGINE.</span> Duckduckgo does not track your data, you can be confident that you are not growing a data profile which can be used to profile you by corporations and the government. Look for this application in the app store. Learn more at [https://duckduckgo.com](https://duckduckgo.com)
+�� DUCKDUCKGO ƒ Awpxy nvyN vYb bRwaUjær Aqy Koj ieµjx dy qOr qy sQwpq kro DUCKDUCKGO quhwfy fwtw ƒ trYk nhIN krdw hY, qusIN Brosw kr skdy ho ik qusIN ie~k fwtw pRoPweIl nhIN bxw rhy ho, ijs dI vrqoN quhwƒ kwrporysænW Aqy srkwr duAwrw pRoPweIl krn leI kIqI jw skdI hY[ ies AYplIkySn leI AYp stor qy jwE[ https://duckduckgo.com qy hor jwxo[
 
-<span style="color:pink">✔ INSTALL A METADATA SCRUBBER FOR YOUR PHOTOS.</span> That way you don’t leak important data about a photograph when you share it. This can include your location and more. A good app for scrubbing metadata for iOS is PixlMet. Look for this application in the app store. Learn more at [http://www.pixlmetphoto.com/](http://www.pixlmetphoto.com/)
+✔ AwpxIAW qsvIrW leI mYtwfwtw skRbr sQwpq kro[ ies qrHW jdoN qusIN ies ƒ sWJw krdy ho qW Poto bwry mh~qvpUrn fwtw lIk nhIN huµdw hY[ ies iv~c quhwfw sQwn Aqy hor vI sæwml ho skdw hY[ iOS qy mYtwfwtw ƒ skRibµg krn leI ie~k vDIAw AYplIkysæn hY ipkslmyt[ ies AYplIkySn leI AYp stor qy jwE[ http://www.pixlmetphoto.com/ qy hor jwxo[
 
-<span style="color:pink">✔ DOWNLOAD THE TALKY APP</span> to replace skype, google hangouts and audio calls. Talky is end-to-end encrypted and can be used across android, iOS, and all computer platforms. With the app you can create a session simply by entering a name and inviting people to the new link! You can download it here at [https://talky.io/](https://talky.io) or at the app store.
+✔ skweIp, gugl hYNgAwaut Aqy AwfIE kwlW dI QW twkI dI vrqoN kro[ twkI AYNf -tU-AYNf AYNikRpt hY Aqy AYNfroief, iOS Aqy swry kµipaUtr plytPwrmW qy vriqAw jw skdw hY[ ies AYp dy nwl qusIN ie~k nwm drj krky ky Aqy lokW ƒ nvyN ilµk qy s~d ky sYsæn bxw skdy ho! qusIN ies ƒ https://talky.io/ qoN jW AYp stor qoN fwaUnlof kr skdy ho[
 
-<span style="color:pink">✔ USE A FARADAY BAG</span> when in meetings that are private or during protests. This bag will block electronic signals from and to your phone.
-
-
+✔ PYrwfybYg dI vrqoN kro jdoN in~jI mIitµgW iv~c hovo jW ivroD pRdrsænW iv~c hovo[ ieh bYg quhwfy Pon qoN Aqy q~k ielYktRwink isgnl blOk krygw[

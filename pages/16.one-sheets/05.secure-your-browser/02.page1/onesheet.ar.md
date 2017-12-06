@@ -1,15 +1,5 @@
 ---
-title: 'Secure Your Browser Page 1'
+05.secure-your-browser/02.page1/onesheet.ar.md
 ---
 
-
-<span style="color:#3cafa8">✔ INSTALL THE EXTENSIONS HTTPS EVERYWHERE AND PRIVACY BADGER</span> at [https://www.eff.org/https-everywhere](https://www.eff.org/https-everywhere) and at [https://www.eff.org/privacybadger](https://www.eff.org/privacybadger). These extensions  are crucial for all the browsers you might use and help to ensure you are accessing secure versions of all the sites you visit as well as making sure you can control how sites monitor your usage. 
-
-<span style="color:#3cafa8">✔ WHEN USING A FRIEND’S COMPUTER USE INCOGNITO MODE IN CHROME OR PRIVATE BROWSING IN FIREFOX.</span> This opens a new window in your browser where you can browse the Internet in private without your browser saving the sites you visit. 
-
-Keep in mind though that neither incognito or private browsing Mode won't stop other sources from seeing what sites you’ve visited, including your Internet service provider and the websites you visit themselves.
-
-Additionally, all downloads are saved to your computer’s Downloads folder, even after you close your tabs. You and anyone who uses that computer can see and open the files.
-
-So use wisely. Learn more about incognito mode for Chrome here [https://support.google.com/chrome/answer/95464](https://support.google.com/chrome/answer/95464) and private browsing for Firefox here at [https://blog.mozilla.org/blog/2015/11/03/firefox-now-offers-a-more-private-browsing-experience/](https://blog.mozilla.org/blog/2015/11/03/firefox-now-offers-a-more-private-browsing-experience/)
-
+�� ثبت امتدادات HTTPS في أي مكان والغرير الخاص فيhttps://www.eff.org/https everywhere وفي https://www.eff.org/privacybadger.هذه الامتدادات أساسية لجميع المتصفحات التي قد تستخدمها وتساعدك في أن تضمن لك أن تتصل بنسخ آمنة لجميع المواقع الإلكترونية التي تزورها فضلًا عن التأكد من أنك تتحكم في كيفية مراقبة المواقع لاستخدامك.✔أثناء استخدامك لحاسوبالصديق، استخدم وضع INCOGNITO في متصفح Chrome أو متصفح خاص في Firefox. هذا يفتح لك نافذة جديدة في متصفحك أينما تتصفح الإنترنت في وضع خاص دون أن يحفظ متصفحك المواقع التي تزورها.ضع نصب عينيك أنه لا وضع incognito ولا التصفح بشكل خاص سيحجب عن المصادر الأخرى رؤية المواقع التي رزتها، بما فيها مورد خدمة الإنترنت والمواقع التي تزورها تلقائيًا.وبالإضافة إلى ذلك، تحفظ جميع التنزيلات لملف تنزيلات حاسوبك، حتى بعد أن تغلق علاماتك التبويب الخاصة بك. يمكنك أنت وأي شخص يستخدم ذلك الحاسوب أن يرى المستندات ويفتحها.وبالتالي استخدمها بحكمة. اعلم المزيد عن وضع incognito لمتصف كروم هنا support.google.com/chrome/answer/95464 وعن المتصفح الخاص للمتصفح Firefox هنا https://blog.mozilla.org/blog/2015/11/03/firefox-now-offers-a-more-private-browsing-experience/
