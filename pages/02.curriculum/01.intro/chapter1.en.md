@@ -12,12 +12,9 @@ We need to have a holistic approach to maintaining privacy when it comes to all 
 
 This curriculum will help you make informed decisions about protective measures that can reduce harmful levels of surveillance while helping you navigate new risks as they come up. There will never be a perfect silver bullet in terms of digital surveillance, but we believe we can help you feel safer and informed as you organize because you know the tools and you know your rights. Think of it as harm reduction for the digital organizer!
 
-1  [https://www.youtube.com/watch?v=sTcELLklap4](https://www.youtube.com/watch?v=sTcELLklap4)
-2  [https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
-
 We also know many people in our diverse communities feel powerless and may even argue, “What's the point?”. But in fact, there are simple digital security steps you can take now to help protect you from most threats, and make the remaining threats very expensive for malicious actors to implement.
 
-We hope this curriculum will create a foundation for an education in safety and resilience, and a pathway to bring this crucial conversation into your homes, organizations, and movements. Digital security is a process not a destination and we believe that together we can make all of us safer!
+We hope this curriculum will create a foundation for an education in safety and resilience, and a pathway to bring this crucial conversation into your homes, organizations, and movements. Digital security is a process not a destination and we believe that together we can make all of us safer! 
 
 
 ![](/images/Curriculum_img_5.jpg)
@@ -25,7 +22,7 @@ We hope this curriculum will create a foundation for an education in safety and 
 
 <div class="WHAY_H1" markdown="1"># HOW TO USE THIS CURRICULUM</div>
 
-We hope this curriculum will arm you with basic digital security knowledge and effective, simple-to-follow pointers for staying safe. Read this material, come to the workshops, and refer to the curriculum whenever you need to. We will also be offering curriculum module updates at equalitylabs.org so visit us often!
+We hope this curriculum will arm you with basic digital security knowledge and effective, simple-to-follow pointers for staying safe. Read this material, come to the workshops, and refer to the curriculum whenever you need to. We will also be offering curriculum module updates at http://www.equalitylabs.org so visit us often!
 
 THE CURRICULUM AND WORKSHOP SHOULD HELP YOU:
 
@@ -111,6 +108,9 @@ saying for a long time:
 
 ![](/images/Curriculum_img_8.jpg)
 
+1  [https://www.youtube.com/watch?v=sTcELLklap4](https://www.youtube.com/watch?v=sTcELLklap4)
+
+2  [https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
 
 3  [https://www.law.cornell.edu/constitution/fourth_amendment](https://www.law.cornell.edu/constitution/fourth_amendment)
 
