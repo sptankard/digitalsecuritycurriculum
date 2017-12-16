@@ -2,8 +2,8 @@
 title: 'How To Use This Curriculum'
 ---
 
-(https://www.google.com "Google's Homepage")
-
+www.google.com
+http://www.google.com
 
 At Equality Labs, we believe resistance begins with understanding how we can organize safely, and how to protect ourselves and our communications. We must also keep one another close, the strongest defense against surveillance is a collective one rooted in community, self-care and accountability. This curriculum aims to present immediate common-sense measures to help activists learn how to protect each other and their movements.
 
