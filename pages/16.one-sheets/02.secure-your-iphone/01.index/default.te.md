@@ -30,7 +30,7 @@ title: 'Secure Your Iphone'
 			</div>
 			<div style="display: table-cell; width: 540px;">
 
-		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/en/one-sheets/secure-your-iphone/page1" frameborder="0" allowfullscreen></iframe> 
+		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/te/one-sheets/secure-your-iphone/page1" frameborder="0" allowfullscreen></iframe> 
                         </div>
                     </div>
            
@@ -40,7 +40,7 @@ title: 'Secure Your Iphone'
 			</div>
 			<div style="display: table-cell; width: 540px;">
 
-		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/en/one-sheets/secure-your-iphone/page2" frameborder="0" allowfullscreen></iframe> 
+		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/te/one-sheets/secure-your-iphone/page2" frameborder="0" allowfullscreen></iframe> 
                         </div>
 		    </div>
 
@@ -50,7 +50,7 @@ title: 'Secure Your Iphone'
 			</div>
 			<div style="display: table-cell; width: 540px;">
 
-		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/en/one-sheets/secure-your-iphone/page3" frameborder="0" allowfullscreen></iframe> 
+		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/te/one-sheets/secure-your-iphone/page3" frameborder="0" allowfullscreen></iframe> 
                         </div>
 
 

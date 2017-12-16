@@ -29,7 +29,7 @@ title: 'Secure Your Computer'
 			</div>
 			<div style="display: table-cell; width: 540px;">
 
-		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/en/one-sheets/secure-your-computer/page1" frameborder="0" allowfullscreen></iframe> 
+		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/pa/one-sheets/secure-your-computer/page1" frameborder="0" allowfullscreen></iframe> 
                         </div>
                     </div>
            
@@ -39,7 +39,7 @@ title: 'Secure Your Computer'
 			</div>
 			<div style="display: table-cell; width: 540px;">
 
-		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/en/one-sheets/secure-your-computer/page2" frameborder="0" allowfullscreen></iframe> 
+		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/pa/one-sheets/secure-your-computer/page2" frameborder="0" allowfullscreen></iframe> 
                         </div>
 		    </div>
 

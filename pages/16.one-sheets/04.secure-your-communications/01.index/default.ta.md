@@ -29,7 +29,7 @@ title: 'Secure Your Communications'
 			</div>
 			<div style="display: table-cell; width: 540px;">
 
-		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/en/one-sheets/secure-your-communications/page1" frameborder="0" allowfullscreen></iframe> 
+		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/ta/one-sheets/secure-your-communications/page1" frameborder="0" allowfullscreen></iframe> 
                         </div>
                     </div>
            
@@ -39,7 +39,7 @@ title: 'Secure Your Communications'
 			</div>
 			<div style="display: table-cell; width: 540px;">
 
-		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/en/one-sheets/secure-your-communications/page2" frameborder="0" allowfullscreen></iframe> 
+		           <iframe id="page1" width="540" height="540"  src="http://digitalsecurityforall.com/ta/one-sheets/secure-your-communications/page2" frameborder="0" allowfullscreen></iframe> 
                         </div>
 		    </div>
 
