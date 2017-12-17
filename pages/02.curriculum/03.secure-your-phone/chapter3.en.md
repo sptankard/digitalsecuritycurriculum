@@ -46,7 +46,6 @@ In addition to these scenarios, we face threats of information leaks during the 
 &nbsp;
 
 <div class="GLBL_H2" markdown="1">## 1. LOCK YOUR SIM</div>
-
 If your phone uses a SIM card, you can set a lock on the card so it cannot be used by anyone who does not know the code. If your SIM is stolen, this measure can protect your identity.
 
 <div class="col-xs-12 none">
@@ -54,7 +53,7 @@ If your phone uses a SIM card, you can set a lock on the card so it cannot be us
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Enable Lock SIM card by going to Settings → Personal → Security → Set up SIM card lock. Now, each time your phone is turned on it will require a PIN in order to unlock your SIM card. No one will be able to make calls using your device without the PIN.</span>
 		       </div>
 		     </div>
-
+&nbsp;
 
 ![](/images/Curriculum_img_13.jpg)
 
