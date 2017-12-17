@@ -3,8 +3,7 @@ title: 'How To Use This Curriculum'
 slug: why_should_we_care_about_digital_security
 ---
 
-## This is an H2
-And this line is right below it
+
 
 At Equality Labs, we believe resistance begins with understanding how we can organize safely, and how to protect ourselves and our communications. We must also keep one another close, the strongest defense against surveillance is a collective one rooted in community, self-care and accountability. This curriculum aims to present immediate common-sense measures to help activists learn how to protect each other and their movements.
 
@@ -70,7 +69,7 @@ This legend will help you identify the icons in this curriculum which highlight 
 
 TASKS: When you see this checkmark you should be aware that you are being introduced to a key step that must be completed to ensure the security process being discussed is implemented correctly. Do not proceed to the next security task until you have completed the checkmark at hand as many steps are interdependent of each other.
 
-WHERE DOES THE U.S. STAND ON DIGITAL SECURITY ISSUES TODAY?
+<div class="WHAY_H1" markdown="1"># WHERE DOES THE U.S. STAND ON DIGITAL SECURITY ISSUES TODAY?</div>
 
 <div class="GLBL_H2" markdown="1">## THE RIGHT TO PRIVACY</div>
 
