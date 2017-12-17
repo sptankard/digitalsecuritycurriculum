@@ -7,6 +7,8 @@ slug: what_is_digital_security
 
 
 <div class="WHAY_H1" markdown="1"># HOW TO USE THIS CURRICULUM</div>
+&nbsp;
+
 
 So, now that we know how big the problem is let’s start with a definition: What the heck is digital security anyway?
 
