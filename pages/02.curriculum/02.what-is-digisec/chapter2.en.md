@@ -31,6 +31,7 @@ It's OK if this confusing! The more you start thinking about it on your own and 
                           <span class="tip-icon"><i class="fa fa-lightbulb-o" ></i></span> <span class="tip-highlight">TIP: </span><span class="tip-text" markdown="1">Individuals that love their communities practice good digital security</span>
 		       </div>
 		     </div>
+&nbsp;
 
 <div class="GLBL_H2" markdown="1">## IT’S ALL ABOUT HARM REDUCTION RIGHT NOW</div>
 
