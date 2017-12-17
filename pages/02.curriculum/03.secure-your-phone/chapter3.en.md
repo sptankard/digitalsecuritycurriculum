@@ -87,6 +87,7 @@ We recommended using the PIN or password option, as these are more obstructive t
                           <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">We highly recommend that people DO NOT use the fingerprint login, as you could be forced or manipulated into putting your finger on your screen. There are also more legal protections for the PIN versus the fingerprint login or even swipe access to one's phone. Finally, it is never a good idea to give your biometric data like a fingerprint to a corporation if you can avoid it. So when in doubt use a PIN!</span>
 		       </div>
 		     </div>
+&nbsp;
 
 
 ![](/images/Curriculum_img_15.jpg)
