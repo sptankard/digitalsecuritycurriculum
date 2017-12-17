@@ -3,6 +3,7 @@ title: 'What is Digital Security'
 slug: what_is_digital_security
 ---
 
+<html>
 <table bgcolor="#00FF00">
   <tr>
     <th>Month</th>
@@ -13,7 +14,7 @@ slug: what_is_digital_security
     <td>$100</td>
   </tr>
 </table>
-
+</html>
 ![](/images/Curriculum_img_9.jpg)
 
 &nbsp;
