@@ -8,13 +8,13 @@ slug: why_should_we_care_about_digital_security
 
 <div class="WHAY_H1" markdown="1"># Why Should We Care About Digital Security</div>
 
-At Equality Labs, we believe resistance begins with understanding how we can organize safely, and how to protect ourselves and our communications. We must also keep one another close, the strongest defense against surveillance is a collective one rooted in community, love, self-care, and accountability. This curriculum aims to present immediate common-sense measures to help activists learn how to protect each other and their movements.
+At Equality Labs, we believe resistance begins with understanding how we can organize safely, and how to protect ourselves, our devices, data, and our communications. We must also keep one another close, the strongest defense against surveillance is a collective one rooted in community, love, self-care, and accountability. This curriculum aims to present immediate common-sense measures to help activists learn how to protect each other and their movements.
 
-Although some countries have privacy protection laws governments can still employ surveillance technologies; lawful or not. Depending on the political climate, such laws can change overnight. Further beyond the state, elements of the right wing are also working to track and harass organizers with the end goal of intimidating people from being part of the movement If you are mobilizing against repression, the less information the system has on you the better and this curriculum is designed to show you how.
+Although some countries have privacy protection laws, all governments employ mass surveillance programs that intrude on our internet freedoms.<sup>1</sup> These programs overreach into our private lives outpaces many of the laws that could protect us and as a result we are less secure and more surveilled than any other generation in world history.  Further beyond the state, elements of the right wing are also working to track and harass organizers with large crowd source vigilante surveillance programs that are aimed at tracking and intimidating activists.  If you are mobilizing against repression, the less information the system has on you the better and this curriculum is designed to show you how.
 
 It's easy to assume that repressive or fascist governments would be the only ones to employ invasive surveillance tools but—that is not the case. we need to consistently protect important data no matter what political party is in power in your country. For governments have used shocking events like wars, climate disasters, economic downturns, and even religious conflicts to increase power and suppress opposition by tricking people into giving up their rights. 
 
-In countries around the world we have witnessed the rolling back of civil liberties by authorities limiting or even outlawing the right to protest.<sup>1</sup> We’ve also seen people respond en masse to these tactics with movements that leverage online presence with on the ground movement with much success. This is why we must fight for our internet freedom and ensure our movement's digital resilence by growing the literacy of all our movements in Digital Security.
+In countries around the world we have witnessed the rolling back of civil liberties by authorities limiting or even outlawing the right to protest.<sup>2</sup> We’ve also seen people respond en masse to these tactics with movements that leverage online presence with on the ground movement with much success. This is why we must fight for our internet freedom and ensure our movement's digital resilence by growing the literacy of all our movements in Digital Security.
 
 Digital security will not end repression on its own; but, people must use it to guard data and collective strategies in the process of fighting repression. For where the law has failed in protecting our privacy rights, digital and operational security practices can help us defend them.
 
@@ -127,10 +127,10 @@ Now, the whole country is experiencing what those of us from these communities h
 
 &nbsp;
  
-1  [Take Back the Streets: Repression and Criminalization of Protest Around the World: Repression and
-criminalization of protest around the world](https://www.aclu.org/files/assets/global_protest_suppression_report_inclo.pdf)
+1  [List of Internet Censorship and Surveillance By Country. ](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
 
-2 [List of Internet Censorship and Surveillance By Country ](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
+2 [Take Back the Streets: Repression and Criminalization of Protest Around the World: Repression and
+criminalization of protest around the world.](https://www.aclu.org/files/assets/global_protest_suppression_report_inclo.pdf)
 
 3  [https://www.law.cornell.edu/constitution/fourth_amendment](https://www.law.cornell.edu/constitution/fourth_amendment)
 
