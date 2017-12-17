@@ -76,6 +76,8 @@ TASKS: When you see this checkmark you should be aware that you are being introd
 &nbsp; 
 
 <div class="WHAY_H1" markdown="1"># WHERE DOES THE U.S. STAND ON DIGITAL SECURITY ISSUES TODAY?</div>
+&nbsp; 
+
 
 <div class="GLBL_H2" markdown="1">## THE RIGHT TO PRIVACY</div>
 
