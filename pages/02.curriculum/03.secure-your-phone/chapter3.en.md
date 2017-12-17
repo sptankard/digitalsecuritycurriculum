@@ -24,9 +24,9 @@ As useful as it is, your phone can present pathways to serious violations of you
 ![](/images/Curriculum_img_11a.jpg)
 
 
-Today, law enforcement agencies use technology that provide police with data about the identity, activity, and location of any phone that connects to targeted cell phone towers over a set span of time. A typical broad data search covers multiple towers and wireless providers and can net information from thousands of phones—without need for warrants.1
+Today, law enforcement agencies use technology that provide police with data about the identity, activity, and location of any phone that connects to targeted cell phone towers over a set span of time. A typical broad data search covers multiple towers and wireless providers and can net information from thousands of phones—without need for warrants.<sup>1</sup>
 
-Organizations such as the American Civil Liberties Union (ACLU) and Electronic Privacy Information Center (EPIC), say that the power of even small-town police departments to quickly obtain cell phone data results in the erosion of privacy and the violation of Fourth Amendment protections against unreasonable search and seizure. But thanks to a unanimous Supreme Court decision in Riley v. California, this practice is now officially legal.2
+Organizations such as the American Civil Liberties Union (ACLU) and Electronic Privacy Information Center (EPIC), say that the power of even small-town police departments to quickly obtain cell phone data results in the erosion of privacy and the violation of Fourth Amendment protections against unreasonable search and seizure. But thanks to a unanimous Supreme Court decision in Riley v. California, this practice is now officially legal.<sup>2</sup>
 
 In extreme circumstances, to prevent all tracking of your location from your phone, shut it down completely and remove the battery. This is the easiest way to ensure that you can't be tracked,but it comes at the price of not being able to use your phone at all. If you need access to any data on your phone, back it up to a computer before you power down your device.
 
