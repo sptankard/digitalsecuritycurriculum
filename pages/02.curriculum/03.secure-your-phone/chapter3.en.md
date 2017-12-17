@@ -4,10 +4,12 @@ slug: secure_your_phone
 ---
 
 This is Text line 1
+
 This is Text line 2
 
 
 This is Text line 3
+
 ** This is Text line 4**
 
 
