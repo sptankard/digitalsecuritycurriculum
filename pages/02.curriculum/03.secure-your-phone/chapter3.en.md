@@ -1,9 +1,7 @@
 ---
 title: 'Secure Your Phone'
+slug: secure_your_phone
 ---
-
-
-
 
 ![](/images/Curriculum_img_11.jpg)
 
