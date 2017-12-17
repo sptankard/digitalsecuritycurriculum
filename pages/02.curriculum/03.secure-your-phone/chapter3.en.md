@@ -5,8 +5,8 @@ slug: secure_your_phone
 
 ![](/images/Curriculum_img_11.jpg)
 
+<div class="SECE_H1" markdown="1"># A SECURE PHONE IS ALWAYS THE FOUNDATION!</div>
 
-A SECURE PHONE IS ALWAYS THE FOUNDATION!
 
 Your phone is one of the most critical components of your digital ecosystem. Phones are essential to communication, strategizing, and community organization. Most people communicate primarily through their mobile phone, followed by their computers and tablets. However, for these very reasons, governments and corporations throughout the world use data collected through our phones to perform extensive surveillance.
 
