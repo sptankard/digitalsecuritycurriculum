@@ -104,7 +104,7 @@ The Fourth Amendment to the U.S. Constitution, alludes to the right to privacy, 
 
 “The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing
 
-the place to be searched, and the persons or things to be seized.”3
+the place to be searched, and the persons or things to be seized.”<sup>3</sup> 
 
 The goal of this provision is to protect people’s right to privacy and freedom from arbitrary governmental intrusions. What we currently have in the U.S., is a broken policy framework where the law has failed to protect the rights of certain groups of citizens. Even more drastically, through the frame of “terrorism” the government has an unprecedented ability to surveil anyone who it deems a threat.
 
@@ -127,10 +127,10 @@ Now, the whole country is experiencing what those of us from these communities h
 
 &nbsp;
  
-1  [List of Internet Censorship and Surveillance By Country. ](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
+1  [List of Internet Censorship and Surveillance By Country. https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country ](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
 
 2 [Take Back the Streets: Repression and Criminalization of Protest Around the World: Repression and
-criminalization of protest around the world.](https://www.aclu.org/files/assets/global_protest_suppression_report_inclo.pdf)
+criminalization of protest around the world. https://www.aclu.org/files/assets/global_protest_suppression_report_inclo.pdf](https://www.aclu.org/files/assets/global_protest_suppression_report_inclo.pdf)
 
-3  [https://www.law.cornell.edu/constitution/fourth_amendment](https://www.law.cornell.edu/constitution/fourth_amendment)
+3  [https://www.law.cornell.edu/constitution/fourth_amendment https://www.law.cornell.edu/constitution/fourth_amendment](https://www.law.cornell.edu/constitution/fourth_amendment)
 
