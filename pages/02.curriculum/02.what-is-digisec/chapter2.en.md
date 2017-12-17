@@ -131,7 +131,7 @@ Read the chart below to get an idea of how to think through your threat model. S
     </tr>
      <tbody>
      <tr>
-      <td bgcolor="#ffccc"><strong>Example 1: Someone is accessing my email</strong>. </td>
+      <td><strong>Example 1: Someone is accessing my email</strong>. </td>
       <td>• I've already shared my password. <br>
         <br>
         • My password is weak and the same across multiple accounts. <br>
