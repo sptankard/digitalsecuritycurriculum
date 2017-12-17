@@ -59,15 +59,19 @@ If your phone uses a SIM card, you can set a lock on the card so it cannot be us
 
 
 ![](/images/Curriculum_img_13.jpg)
-
+&nbsp;
 
 <div class="GLBL_H2" markdown="1">## 2. SET UP YOUR PIN AND ACTIVATE A SCREENLOCK</div>
+&nbsp;
+
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Set up a screen lock by accessing Settings → Personal → Security → Screen Lock, to ensure that lists, pictures, and a code, pattern, or password need to be entered in order to unlock the screen. </span>
 		       </div>
 		     </div>
+&nbsp;
+
 
 We recommended using the PIN or password option, as these are more obstructive to law enforcement or adversaries than a fingerprint ID. This measure is particularly important in the event that you are faced with a casual search by police or other authorities.
 
@@ -86,6 +90,7 @@ We recommended using the PIN or password option, as these are more obstructive t
 
 
 ![](/images/Curriculum_img_15.jpg)
+&nbsp;
 
 
 <div class="GLBL_H2" markdown="1">## 3. ACTIVATE A SECURITY LOCK TIMER</div>
