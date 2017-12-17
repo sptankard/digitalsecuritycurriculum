@@ -5,8 +5,6 @@ slug: what_is_digital_security
 
 ![](/images/Curriculum_img_9.jpg)
 
-&nbsp;
-
 
 <div class="WHAY_H1" markdown="1"># HOW TO USE THIS CURRICULUM</div>
 
