@@ -3,8 +3,6 @@ title: 'Secure Your Phone'
 slug: secure_your_phone
 ---
 
-Farts
-
 ![](/images/Curriculum_img_11.jpg)
 
 <div class="SECE_H1" markdown="1"># A SECURE PHONE IS ALWAYS THE FOUNDATION!</div>
