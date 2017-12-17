@@ -3,19 +3,6 @@ title: 'Secure Your Phone'
 slug: secure_your_phone
 ---
 
-This is Text line 1
-
-This is Text line 2
-&nbsp;
-&nbsp;
-
-This is Text line 3
-
-** This is Text line 4**
-
-
-
-
 ![](/images/Curriculum_img_11.jpg)
 
 <div class="SECE_H1" markdown="1"># A SECURE PHONE IS ALWAYS THE FOUNDATION!</div>
