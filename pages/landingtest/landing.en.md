@@ -105,7 +105,7 @@ slug: landingtest
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <p>Copyright © MyWebsite. All rights reserved.</p>
+        <p>Copyright © Equality Labs. All rights reserved.</p>
       </div>
     </div>
   </div>
