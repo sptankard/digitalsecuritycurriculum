@@ -121,7 +121,7 @@ Different adversaries have different capacities and therefore require different 
 <div class="GLBL_H2" markdown="1">## RISK ASSESSMENT MODEL</div>
 Read the chart below to get an idea of how to think through your threat model. Some skills you may not understand quite yet. But return to this table as a model after you have gone through our training or read this curriculum handbook. You will find your understanding will change as you gain digital surveillance literacy. Some visit this page often or better yet make your own!
 
-<table width="700" border="0" cellspacing="5" cellpadding="5" bgcolor="#ffccc">
+<table bgcolor="#ffccc" width="700" border="0" cellspacing="5" cellpadding="5">
   <tr>  
         <td align="center" bgcolor="#993366" font color="#FFFFFF"><strong>THREATS </strong></td>
       <td align="center" bgcolor="#993366"><strong>RISKS </strong></td>
