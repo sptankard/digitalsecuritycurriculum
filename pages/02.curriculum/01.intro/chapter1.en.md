@@ -22,7 +22,6 @@ We hope this curriculum will create a foundation for an education in safety and 
 
 ![](/images/Curriculum_img_5.jpg)
 
-&nbsp; 
 &nbsp;
 
 <div class="WHAY_H1" markdown="1"># HOW TO USE THIS CURRICULUM</div>
@@ -72,6 +71,8 @@ This legend will help you identify the icons in this curriculum which highlight 
 		     </div>
 
 TASKS: When you see this checkmark you should be aware that you are being introduced to a key step that must be completed to ensure the security process being discussed is implemented correctly. Do not proceed to the next security task until you have completed the checkmark at hand as many steps are interdependent of each other.
+
+&nbsp;
 &nbsp; 
 
 <div class="WHAY_H1" markdown="1"># WHERE DOES THE U.S. STAND ON DIGITAL SECURITY ISSUES TODAY?</div>
