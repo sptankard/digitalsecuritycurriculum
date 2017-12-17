@@ -21,20 +21,16 @@ As useful as it is, your phone can present pathways to serious violations of you
 &nbsp;
 
 
-![](/images/Curriculum_img_12.jpg)
+![](/images/Curriculum_img_11a.jpg)
 
 
-XXXXXXXXXXXXXXXXXXX CUSTOM GIF  XXXXXXXXXXXXXXXXXXXX
+Today, law enforcement agencies use technology that provide police with data about the identity, activity, and location of any phone that connects to targeted cell phone towers over a set span of time. A typical broad data search covers multiple towers and wireless providers and can net information from thousands of phones—without need for warrants.1
 
-Today, law enforcement agencies use technology that provide police with data about the identity, activity, and location of any phone that connects to targeted cell phone towers over a set span of time. A typical broad data search covers multiple towers and wireless providers and can net information from thousands of phones—without need for warrants.4
+Organizations such as the American Civil Liberties Union (ACLU) and Electronic Privacy Information Center (EPIC), say that the power of even small-town police departments to quickly obtain cell phone data results in the erosion of privacy and the violation of Fourth Amendment protections against unreasonable search and seizure. But thanks to a unanimous Supreme Court decision in Riley v. California, this practice is now officially legal.2
 
-Organizations such as the American Civil Liberties Union (ACLU) and Electronic Privacy Information Center (EPIC), say that the power of even small-town police departments to quickly obtain cell phone data results in the erosion of privacy and the violation of Fourth Amendment protections against unreasonable search and seizure. But thanks to a unanimous Supreme Court decision in Riley v. California, this practice is now officially legal.5
+In extreme circumstances, to prevent all tracking of your location from your phone, shut it down completely and remove the battery. This is the easiest way to ensure that you can't be tracked,but it comes at the price of not being able to use your phone at all. If you need access to any data on your phone, back it up to a computer before you power down your device.
 
-In extreme circumstances, to prevent all tracking of your location from your phone, shut it down completely and remove the battery. This is the easiest way to ensure that you can't be tracked,
-
-But it comes at the price of not being able to use your phone at all. If you need access to any data on your phone, back it up to a computer before you power down your device.
-
-If your phone’s battery cannot be removed, place it in a Faraday bag, which blocks transmission with its internal lining.6 Not all faraday bags are created equal, so make sure you try it out before you put it into use in everyday life. You want to confirm that, at a minimum, cell and GPS services are blocked.
+If your phone’s battery cannot be removed, place it in a Faraday bag, which blocks transmission with its internal lining.<sup>3</sup> Not all faraday bags are created equal, so make sure you try it out before you put it into use in everyday life. You want to confirm that, at a minimum, cell and GPS services are blocked.
 
 In addition to these scenarios, we face threats of information leaks during the everyday use of our phones. There are several simple safe practices that can be adopted to keep ourselves and our information safe. In the following section, we will explore a few of them.
 
@@ -44,11 +40,7 @@ In addition to these scenarios, we face threats of information leaks during the 
 		       </div>
 		     </div>
 
-4  [http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/](http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/)
 
-5  [https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition](https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition)
-
-6  [https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0](https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0)
 
 <div class="SECE_H1" markdown="1"># SECURE YOUR ANDROID</div>
 
@@ -615,4 +607,11 @@ This app works the same way. When you choose a photo, it shows you the saved met
 
 ![](/images/Curriculum_img_39.jpg)
 
+
+
+1  [http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/](http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/)
+
+2  [https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition](https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition)
+
+3  [https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0](https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0)
 
