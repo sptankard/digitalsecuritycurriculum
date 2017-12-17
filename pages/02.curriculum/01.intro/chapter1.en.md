@@ -1,5 +1,6 @@
 ---
 title: 'How To Use This Curriculum'
+slug: why_should_we_care_about_digital_security
 ---
 
 www.google.com
