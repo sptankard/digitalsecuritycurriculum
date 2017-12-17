@@ -2,8 +2,6 @@
 title: 'What is Digital Security'
 ---
 
-
-
 ![](/images/Curriculum_img_9.jpg)
 
 
@@ -11,11 +9,13 @@ title: 'What is Digital Security'
 
 So, now that we know how big the problem is let’s start with a definition: What the heck is digital security anyway?
 
-Digital security is a set of defensive practices and awarenesses that ensures that all your devices, data, communications, and identity markers are protected to minimize surveillance by entities or individuals that may directly or indirectly wish you harm.
+<span class="well"> Digital security is a set of defensive practices and awarenesses that ensures that all your devices, data, communications, and identity markers are protected to minimize surveillance by entities or individuals that may directly or indirectly wish you harm. </span>
 
 <div class="GLBL_H2" markdown="1">## AN ECOSYSTEM OF DIGITAL SECURITY</div>
 
 Digital security is part of a large ecosystem of thinking in regards to your safety. In this ecosystem each part works with the others to secure the whole. That is why we break down our modules into easily accessible part of this ecosystem.
+
+![](/images/Curriculum_img_9a.png)
 
 The digital security ecosystem includes how you secure your devices and data, the way you access your network, and the means by which you protect your identity and communications. Each part of this ecosystem can be protected or it can be compromised. Our goal is to give you the tools to better understand this ecosystem and show you ways to use more disciplined practices that will help build your digital resilience.
 
