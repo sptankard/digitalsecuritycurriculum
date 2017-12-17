@@ -14,7 +14,7 @@ Although some countries have privacy protection laws governments can still emplo
 
 It's easy to assume that repressive or fascist governments would be the only ones to employ invasive surveillance tools but—that is not the case. we need to consistently protect important data no matter what political party is in power in your country. For governments have used shocking events like wars, climate disasters, economic downturns, and even religious conflicts to increase power and suppress opposition by tricking people into giving up their rights. 
 
-In countries around the world we have witnessed the rolling back of civil liberties by authorities limiting or even outlawing the right to protest. We’ve also seen people respond en masse to these tactics with movements that leverage online presence with on the ground movement with much success. This is why we must fight for our internet freedom and ensure our movement's digital resilence by growing the literacy of all our movements in Digital Security.
+In countries around the world we have witnessed the rolling back of civil liberties by authorities limiting or even outlawing the right to protest.<sup>1</sup> We’ve also seen people respond en masse to these tactics with movements that leverage online presence with on the ground movement with much success. This is why we must fight for our internet freedom and ensure our movement's digital resilence by growing the literacy of all our movements in Digital Security.
 
 Digital security will not end repression on its own; but, people must use it to guard data and collective strategies in the process of fighting repression. For where the law has failed in protecting our privacy rights, digital and operational security practices can help us defend them.
 
@@ -127,7 +127,7 @@ Now, the whole country is experiencing what those of us from these communities h
 
 &nbsp;
  
-1  [https://www.youtube.com/watch?v=sTcELLklap4](https://www.youtube.com/watch?v=sTcELLklap4)
+1  [Take Back the Streets: Repression and Criminalization of Protest Around the World](https://www.aclu.org/files/assets/global_protest_suppression_report_inclo.pdf)
 
 2 [https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
 
