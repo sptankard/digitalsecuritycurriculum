@@ -1,5 +1,5 @@
 ---
-title: 'How To Use This Curriculum'
+title: 'Why Should We Care About Digital Security '
 slug: why_should_we_care_about_digital_security
 ---
 
