@@ -31,7 +31,7 @@ We hope this curriculum will arm you with basic digital security knowledge and e
 
 &nbsp; 
 
-THE CURRICULUM AND WORKSHOP SHOULD HELP YOU:
+**THE CURRICULUM AND WORKSHOP SHOULD HELP YOU:
 
 * Understand the history of surveillance in the United States
 * Understand the basics of digital security
