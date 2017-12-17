@@ -1,5 +1,6 @@
 ---
 title: 'What is Digital Security'
+slug: what_is_digital_security
 ---
 
 ![](/images/Curriculum_img_9.jpg)
