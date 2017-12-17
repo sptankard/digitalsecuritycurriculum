@@ -124,10 +124,10 @@ Read the chart below to get an idea of how to think through your threat model. S
 <table bgcolor="#ffccc" width="700" border="0" cellspacing="5" cellpadding="5">
   <tr>  
         <td align="center" bgcolor="#993366" font color="#FFFFFF"><strong>THREATS </strong></td>
-      <td align="center" bgcolor="#993366"><strong>RISKS </strong></td>
-      <td align="center" bgcolor="#993366"><strong>POSSIBLE ADVERSERIES </strong></td>
-      <td align="center" bgcolor="#993366"><strong>CURRENT CAPACITIES </strong></td>
-      <td align="center" bgcolor="#993366"><strong>CAPACITIES REQUIRED </strong></td>
+      <td align="center"><strong>RISKS </strong></td>
+      <td align="center" ><strong>POSSIBLE ADVERSERIES </strong></td>
+      <td align="center" ><strong>CURRENT CAPACITIES </strong></td>
+      <td align="center" ><strong>CAPACITIES REQUIRED </strong></td>
     </tr>
      <tbody>
      <tr>
