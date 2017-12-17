@@ -5,6 +5,9 @@ slug: why_should_we_care_about_digital_security
 
 ![](/images/Curriculum_img_3.jpg)
 
+
+<div class="WHAY_H1" markdown="1"># Why Should We Care About Digital Security</div>
+
 At Equality Labs, we believe resistance begins with understanding how we can organize safely, and how to protect ourselves and our communications. We must also keep one another close, the strongest defense against surveillance is a collective one rooted in community, love, self-care, and accountability. This curriculum aims to present immediate common-sense measures to help activists learn how to protect each other and their movements.
 
 Although some countries have privacy protection laws governments can still employ surveillance technologies; lawful or not. Depending on the political climate, such laws can change overnight. Further beyond the state, elements of the right wing are also working to track and harass organizers with the end goal of intimidating people from being part of the movement If you are mobilizing against repression, the less information the system has on you the better and this curriculum is designed to show you how.
