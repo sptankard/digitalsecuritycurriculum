@@ -3,8 +3,6 @@ title: 'How To Use This Curriculum'
 slug: why_should_we_care_about_digital_security
 ---
 
-
-
 At Equality Labs, we believe resistance begins with understanding how we can organize safely, and how to protect ourselves and our communications. We must also keep one another close, the strongest defense against surveillance is a collective one rooted in community, self-care and accountability. This curriculum aims to present immediate common-sense measures to help activists learn how to protect each other and their movements.
 
 Although some countries have privacy protection laws governments can still employ surveillance technologies; lawful or not. Depending on the political climate, such laws can change overnight. Further beyond the state, elements of the right wing are also working to track and harass organizers with the end goal of scaring people from being part of the movement If you are mobilizing against repression, the less information the system has on you the better and this curriculum is designed to show you how.
@@ -103,9 +101,7 @@ If you are indigenous, black, Muslim, Latinx, undocumented, or LGBTQ you are see
 
 This increases exponentially if you have been part or are currently in the prison industrial complex.
 
-Now, the whole country is experiencing what those of us from these communities have been
-
-saying for a long time:
+Now, the whole country is experiencing what those of us from these communities have been saying for a long time:
 
 # SHIT IS REAL Y’ALL, and it’s time to get to work!
 
