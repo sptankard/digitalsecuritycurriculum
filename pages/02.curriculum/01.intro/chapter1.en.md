@@ -23,7 +23,7 @@ We hope this curriculum will create a foundation for an education in safety and 
 ![](/images/Curriculum_img_5.jpg)
 
 &nbsp; 
-
+&nbsp;
 
 <div class="WHAY_H1" markdown="1"># HOW TO USE THIS CURRICULUM</div>
 
