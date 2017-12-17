@@ -18,6 +18,7 @@ As useful as it is, your phone can present pathways to serious violations of you
     			  <span class="warn-icon"><i class="fa fa-exclamation-triangle" ></i></span> <span class="warn-highlight">WARNING: </span><span class="warn-text" markdown="1">Governments or malicious actors can turn on your phone’s microphone and camera to listen to you even when the device is turned off?</span>
 		        </div>
 		     </div>
+&nbsp;
 
 
 ![](/images/Curriculum_img_12.jpg)
