@@ -70,7 +70,8 @@ This legend will help you identify the icons in this curriculum which highlight 
 		        </div>
 		     </div>
 
-TASKS: When you see this checkmark you should be aware that you are being introduced to a key step that must be completed to ensure the security process being discussed is implemented correctly. Do not proceed to the next security task until you have completed the checkmark at hand as many steps are interdependent of each other.
+<div class="well none" style="border-radius:0 background=transparent; border=0px;">
+                          <span class="check-icon"><i class="fa fa-check"></i></span><span class="check-highlight">TASKS:</span><span class="check-text" markdown="1"> When you see this checkmark you should be aware that you are being introduced to a key step that must be completed to ensure the security process being discussed is implemented correctly. Do not proceed to the next security task until you have completed the checkmark at hand as many steps are interdependent of each other.</span> </div> </div>
 
 &nbsp;
 &nbsp; 

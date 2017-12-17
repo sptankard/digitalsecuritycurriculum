@@ -73,19 +73,7 @@ Digital security is no different. By thinking through and mapping out the risks 
 * Understand your current or future vulnerabilities so you can account for them.
 * Brainstorm how the vulnerabilities of the network(s) or organizations you are part of can affect you. For example, if you don’t know the technical practices of an organization or network, you may want to rethink the sensitive information you share, it may not be adequately protected.
 
-YOUR RISK ASSESSMENT
-
-HOW MUCH TROUBLE ARE YOU WILLING TO GO THROUGH TO PREVENT THOSE NEGATIVE CONSEQUENCES?
-
-WHAT DO YOU WANT TO PROTECT?
-
-HOW BAD ARE THE CONSEQUENCES IF YOU FAIL?
-
-WHO DO YOU WANT TO PROTECT IT FROM?
-
-HOW LIKELY IS IT YOU WILL
-
-NEED TO PROTECT YOUR ASSETS?
+![](/images/Curriculum_img_10.jpg)
 
 While you are the best person to understand your own risk, make sure to research or talk to people who have a better understanding of your adversaries’ capabilities. This is especially true about digital surveillance strategies and laws that may change quickly from one day to the next.
 
