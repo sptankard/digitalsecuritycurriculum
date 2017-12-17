@@ -108,12 +108,11 @@ Now, the whole country is experiencing what those of us from these communities h
 
 ![](/images/Curriculum_img_8.jpg)
 
-nbsp;
- 
+&nbsp;
  
 1  [https://www.youtube.com/watch?v=sTcELLklap4](https://www.youtube.com/watch?v=sTcELLklap4)
 
-2  [https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
+2 [https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
 
 3  [https://www.law.cornell.edu/constitution/fourth_amendment](https://www.law.cornell.edu/constitution/fourth_amendment)
 
