@@ -44,7 +44,6 @@ THE CURRICULUM AND WORKSHOP SHOULD HELP YOU:
 
 
 <div class="GLBL_H2" markdown="1">## LEGEND</div>
-
 This legend will help you identify the icons in this curriculum which highlight significant information.
 
 <div class="col-xs-12 none">
