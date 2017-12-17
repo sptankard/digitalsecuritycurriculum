@@ -130,7 +130,7 @@ Now, the whole country is experiencing what those of us from these communities h
 1  [Take Back the Streets: Repression and Criminalization of Protest Around the World: Repression and
 criminalization of protest around the world](https://www.aclu.org/files/assets/global_protest_suppression_report_inclo.pdf)
 
-2 [https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
+2 [List of Internet Censorship and Surveillance By Country ](https://en.wikipedia.org/wiki/Internet_censorship_and_surveillance_by_country)
 
 3  [https://www.law.cornell.edu/constitution/fourth_amendment](https://www.law.cornell.edu/constitution/fourth_amendment)
 
