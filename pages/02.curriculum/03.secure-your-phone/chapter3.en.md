@@ -6,11 +6,8 @@ slug: secure_your_phone
 This is Text line 1
 
 This is Text line 2
-
-
-
-
-
+&nbsp;
+&nbsp;
 
 This is Text line 3
 
