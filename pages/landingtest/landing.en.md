@@ -2,7 +2,7 @@
 title: 'landing test'
 slug: landingtest
 ---
-<body>
+
 <nav class="navbar navbar-default">
   <div class="container-fluid"> 
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -101,7 +101,7 @@ slug: landingtest
 <div class="container">
   <div class="row"> </div>
 </div>
-<footer class="text-center">
+
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
@@ -109,5 +109,4 @@ slug: landingtest
       </div>
     </div>
   </div>
-</footer>
 
