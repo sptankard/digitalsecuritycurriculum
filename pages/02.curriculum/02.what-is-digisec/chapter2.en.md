@@ -48,7 +48,6 @@ community that has patience and compassion for each other during this difficult 
 <div class="GLBL_H2" markdown="1">## SIGNS OF SECURITY COMPROMISE</div>
 
 Many people feel safe when, in fact, they already have a compromised digital ecosystems. Do you know what the signs of compromise could be? Here is a list of some examples:
-
 * Passwords that change mysteriously.
 * Private messages that appear to have been read by someone else.
 * Websites that have become inaccessible from certain countries.
