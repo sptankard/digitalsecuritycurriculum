@@ -24,7 +24,9 @@ We hope this curriculum will create a foundation for an education in safety and 
 <div class="WHAY_H1" markdown="1"># HOW TO USE THIS CURRICULUM</div>
 
 We hope this curriculum will arm you with basic digital security knowledge and effective, simple-to-follow pointers for staying safe. Read this material, come to the workshops, and refer to the curriculum whenever you need to. We will also be offering curriculum module updates at [Equality Labs](http://www.equalitylabs.org) so visit us often!
-<br><br>
+
+&nbsp; 
+
 THE CURRICULUM AND WORKSHOP SHOULD HELP YOU:
 
 * Understand the history of surveillance in the United States
