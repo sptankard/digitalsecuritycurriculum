@@ -39,10 +39,11 @@ In addition to these scenarios, we face threats of information leaks during the 
                           <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">The “Secure Your Phone” section is broken up to address actions for Androids and iPhones separately. Please find the section that works for your device and begin.</span>
 		       </div>
 		     </div>
-
-
+&nbsp;
+&nbsp;
 
 <div class="SECE_H1" markdown="1"># SECURE YOUR ANDROID</div>
+&nbsp;
 
 <div class="GLBL_H2" markdown="1">## 1. LOCK YOUR SIM</div>
 
