@@ -86,36 +86,29 @@ It is important to note that in managing risks to improve security there are alw
 Ask yourself a few questions:
 
 What do you want to protect?
-
 What do you have that requires protection? Some examples could include: personal information, sensitive communications, statistical reports, incriminating evidence, photographs, film, documentation of a movement, or written and oral histories of our communities.
 
 Who do you want to protect it from?
-
 The information you have may need to be protected from right-wing adversaries, the police, intelligence officers, movement infiltrators, and the state.
 
 How likely is it that you will need to protect your assets?
-
 What level of protection does your information need? How often are you exposed to a threat?
 
 How bad are the consequences if you fail?
-
 What can happen if the information you care about “leaks”? Could you lose the information completely? What does this mean for you as an individual, our organizations, movements, and our larger community?
 
 How much trouble are you willing to go through in order to prevent those negative consequences?
-
 For example, are you willing to tighten the security on your devices, learn more about digital security principles and use best practices?
 
 Ultimately, by questioning your behavior you can reduce your digital imprint along with the amount of sensitive data you post online.
 
 Let’s do a risk assessment for one of the following scenarios. Before you begin, here are some quick definitions:
-
 * Threat: An entity that can cause harm.
 * Adversary: The opposition that poses this threat.
 * Asset: Something of value that requires protecting.
 * Risk: The likelihood of a threat to a vulnerable asset.
 
 Consider who may present themselves as potential adversaries:
-
 * A roommate
 * A blogger with a grudge
 * An employer
@@ -126,87 +119,79 @@ Consider who may present themselves as potential adversaries:
 Different adversaries have different capacities and therefore require different strategies for mitigating threats. For example, your employer may not break into your home, but they can monitor you at work. Your roommate may not set up a fake cell tower but could have direct physical access to your phone. A police arrest at a protest (generally) won’t lead to a warrant for your email, but the police could get it directly from your phone on site.
 
 <div class="GLBL_H2" markdown="1">## RISK ASSESSMENT MODEL</div>
-
 Read the chart below to get an idea of how to think through your threat model. Some skills you may not understand quite yet. But return to this table as a model after you have gone through our training or read this curriculum handbook. You will find your understanding will change as you gain digital surveillance literacy. Some visit this page often or better yet make your own!
 
-THREATS
+<table width="700" border="0" cellspacing="5" cellpadding="5" bgcolor="#ffccc">
+  <tr>  
+        <td align="center" bgcolor="#993366" font color="#FFFFFF"><strong>THREATS </strong></td>
+      <td align="center" bgcolor="#993366"><strong>RISKS </strong></td>
+      <td align="center" bgcolor="#993366"><strong>POSSIBLE ADVERSERIES </strong></td>
+      <td align="center" bgcolor="#993366"><strong>CURRENT CAPACITIES </strong></td>
+      <td align="center" bgcolor="#993366"><strong>CAPACITIES REQUIRED </strong></td>
+    </tr>
+     <tbody>
+     <tr>
+      <td bgcolor="#ffccc"><strong>Example 1: Someone is accessing my email</strong>. </td>
+      <td>• I've already shared my password. <br>
+        <br>
+        • My password is weak and the same across multiple accounts. <br>
+        <br>
+      • I have a habit of leaving my laptop unattended.&nbsp; </td>
+      <td>• Roomates <br>
+        <br>
+        • "Friends" <br>
+        <br>
+      • Infiltrators&nbsp; </td>
+      <td><br>
+        • I will change my passwords so they are strong. <br>
+        <br>
+        • I will no longer share my passwords with anyone. <br>
+        <br>
+        • I won’t keep my passwords in online documents or emails.&nbsp; <br>
+      <br></td>
+      <td>• I need to install a password manager so I can use strong and diverse passwords for different accounts. <br>
+        <br>
+      • I need to set up two-factor&nbsp; </td>
+    </tr>
+    <tr>
+      <td><strong>Example 2: My mobile phone is confiscated at a protest.</strong></td>
+      <td>• I have a weak password on my phone lock or use fingerprint login. <br>
+        <br>
+        • I have sensitive contacts on my phone under their real names. <br>
+        <br>
+      • I use apps like Gmail, through which anyone who has physical access to my phone can read my email without a password. </td>
+      <td>• The police. <br>
+        <br>
+        • Private security guards. <br>
+        <br>
+      • Department of Homeland Security Officials. </td>
+      <td><br>
+        • I can change my password so it’s stronger. <br>
+        <br>
+        • I can remove the fingerprint login so I’m not compelled to use it unwillingly. <br>
+        <br>
+        • I can use pseudonyms for sensitive contacts. <br>
+        <br>
+        • I can leave my phone at home. <br>
+        <br>
+        • I can delete non-essential apps. <br>
+      <br></td>
+      <td>• I need to encrypt my phone. </td>
+    </tr>
+    <tr>
+      <td><strong>Example 3: Someone hacking my computer.</strong></td>
+      <td>• I don’t know the various ways they can hack into my computer, and I have sensitive information stored on it. </td>
+      <td>• List anyone who would want to hack into your computer: </td>
+      <td><br>
+        • I can keep my operating system and software up to date, and encrypt the hard drive. <br>
+        <br>
+        • I can store sensitive files on a passwordprotected USB drive. <br>
+      <br></td>
+      <td>• I need to research the various ways in which someone can hack into my computer. </td>
+    </tr>
 
-POSSIBLE
-
-ADVERSARIES
-
-RISKS
-
-CURRENT CAPACITIES
-
-CAPACITIES REQUIRED
-
-Example 1:
-
-Someone is accessing my email.
-
-* I will change my passwords so they are strong.
-* I will no longer share my passwords with anyone.
-* I won’t keep my passwords in online documents or emails.
-* I need to install a password manager so I can use strong and diverse passwords for different accounts.
-* I need to set up two-factor
-* I've already shared my password.
-* My password is weak and the same across multiple accounts.
-* I have a habit of leaving my laptop unattended.
-* Roomates
-* “Friends”
-* Infiltrators
-
-THREATS
-
-POSSIBLE
-
-ADVERSARIES
-
-RISKS
-
-CURRENT CAPACITIES
-
-CAPACITIES REQUIRED
-
-Example 2:
-
-My mobile phone is confiscated at a protest.
-
-* I can change my password so it’s stronger.
-* I can remove the fingerprint login so I’m not compelled to use it unwillingly.
-* I can use pseudonyms for sensitive contacts.
-* I can leave my phone at home.
-* I can delete non-essential apps.
-* I need to encrypt my phone.
-* I have a weak password on my phone lock or use fingerprint login.
-* I have sensitive contacts on my phone under their real names.
-* I use apps like Gmail, through which anyone who has physical access to my phone can read my email without a password.
-* The police.
-* Private security guards.
-* Department of Homeland Security Officials.
-
-THREATS
-
-POSSIBLE
-
-ADVERSARIES
-
-RISKS
-
-CURRENT CAPACITIES
-
-CAPACITIES REQUIRED
-
-Example 3:
-
-Someone hacking my computer.
-
-* I can keep my operating system and software up to date, and encrypt the hard drive.
-* I can store sensitive files on a password-protected USB drive.
-* I need to research the various ways in which someone can hack into my computer.
-* I don’t know the various ways they can hack into my computer, and I have sensitive information stored on it.
-* List anyone who would want to hack into your computer:
+  </tbody>
+</table>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
