@@ -30,7 +30,6 @@ We hope this curriculum will arm you with basic digital security knowledge and e
 
 &nbsp; 
 
-&nbsp; 
 
 **THE CURRICULUM AND WORKSHOP SHOULD HELP YOU:**
 
