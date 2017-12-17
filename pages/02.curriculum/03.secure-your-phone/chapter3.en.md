@@ -3,6 +3,8 @@ title: 'Secure Your Phone'
 slug: secure_your_phone
 ---
 
+Farts
+
 ![](/images/Curriculum_img_11.jpg)
 
 <div class="SECE_H1" markdown="1"># A SECURE PHONE IS ALWAYS THE FOUNDATION!</div>
@@ -56,9 +58,6 @@ If your phone uses a SIM card, you can set a lock on the card so it cannot be us
 &nbsp;
 
 ![](/images/Curriculum_img_13.jpg)
-
-
-![](/images/Curriculum_img_13.jpg)
 &nbsp;
 
 <div class="GLBL_H2" markdown="1">## 2. SET UP YOUR PIN AND ACTIVATE A SCREENLOCK</div>
@@ -77,10 +76,7 @@ We recommended using the PIN or password option, as these are more obstructive t
 
 
 ![](/images/Curriculum_img_14.jpg)
-
-
-![](/images/Curriculum_img_14.jpg)
-
+&nbsp;
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
@@ -90,11 +86,12 @@ We recommended using the PIN or password option, as these are more obstructive t
 &nbsp;
 
 
+<div class="GLBL_H2" markdown="1">## 3. ACTIVATE A SECURITY LOCK TIMER</div>
+&nbsp;
+
 ![](/images/Curriculum_img_15.jpg)
 &nbsp;
 
-
-<div class="GLBL_H2" markdown="1">## 3. ACTIVATE A SECURITY LOCK TIMER</div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
