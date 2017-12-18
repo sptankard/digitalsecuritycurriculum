@@ -147,7 +147,7 @@ Switch off **wireless **and **GPS location** (under **Location Services**) and m
 <div class="GLBL_H2" markdown="1">## 7. HIDING CALLER ID</div>
 &nbsp;
 
-You can hide your phone number from showing up to the person you are calling by adjusting this setting on your Android. However, you should note that your phone carrier and legal authorities will still have full access to logs showing who you called and when.
+You can hide your phone number from showing up to the person you are calling by adjusting this setting on your Android.<sup>5</sup> However, you should note that your phone carrier and legal authorities will still have full access to logs showing who you called and when.
 
 Go to **Settings** and then tap on **Call → Additional Settings → Caller ID → Hide Number** and it will be blocked.
 
@@ -176,20 +176,17 @@ Individual apps you have installed: Open the Google Play Store app, and select M
 		       </div>
 		     </div>
 
-7  [https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html](https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html)
 
-<div class="GLBL_H2" markdown="1">## 1. APPLOCK FOR ANDROIDS</div>
 
-Security needs can arise in simple scenarios, such as keeping prying eyes out of certain apps. You might hand your phone to someone so they can make a call or look at a picture. You might be stopped by the police or have your phone confiscated. Once you turn your back, it's easy for that user to dig into your data.
+<div class="GLBL_H2" markdown="1">##8. ADD APPLOCK FOR EXTRA PROTECTION</div>
 
-Fortunately, there are ways to keep certain applications readily available while others are locked down. Keeping a password lock on your phone prevents casual snooping through your contact numbers, texts, and data. In addition to requiring a passcode to unlock your phone, you can also download software that allows you to set a code for individual apps.
+Security needs can arise from simple scenarios. You might hand your phone to someone so they can make a call or look at a picture. You might even be stopped by the police or have your phone confiscated. While you have consented to allow these users to use one application you may want to be able to have additional discretion about whether they can access other apps that you have not given them permission to use. 
+
+Fortunately, there are ways to keep certain applications readily available while others are locked down. Keeping a password lock through an app like [Applock8](https://play.google.com/store/apps/details?id=com.domobile.applock) on your phone prevents casual snooping through your contact numbers, texts, and data. In addition to requiring a passcode to unlock your phone, you can also download software that allows you to set a code for individual apps.
 
 We recommend using AppLock8 on Androids. AppLock is a free app that extends your phone’s access controls to specific applications.
 
-
 ![](/images/Curriculum_img_20.jpg)
-
-
 
 
 8  [https://play.google.com/store/apps/details?id=com.domobile.applock&amp;hl=en](https://play.google.com/store/apps/details?id=com.domobile.applock&amp;hl=en)
@@ -409,7 +406,9 @@ Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Pa
 
 
 
- 4. TURN OFF LOCATION SERVICES
+ 4. TURN OFF
+
+LOCATION SERVICES
 
 The first time an app tries to access your location it will ask for your permission, even when it’s running in the background. The app's developer may also explain how it uses your location.12
 
@@ -502,7 +501,7 @@ With this, you have successfully enabled the Guided Access feature and can now l
 
 Once Guided Access is enabled, anyone trying to use or leave a specific app will require the passcode. Without the code, he or she will not be able to exit Guided Access.
 
-<div class="GLBL_H2" markdown="1">## 2. DEALING WITH METADATA ON PHOTOS</div>
+2. <div class="GLBL_H2" markdown="1">## DEALING WITH METADATA ON PHOTOS</div>
 
 Photos we take on all electronic devices can often carry data that can be used to pinpoint our location and gather other information about us.
 
@@ -576,4 +575,6 @@ This app works the same way. When you choose a photo, it shows you the saved met
 3 [https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics](https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics)
 
 4 [https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0](https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0)
+
+5 [https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html](https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html)
 
