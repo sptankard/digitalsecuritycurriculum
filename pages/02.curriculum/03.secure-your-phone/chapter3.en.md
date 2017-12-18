@@ -90,7 +90,7 @@ Once you have set your PIN/Password the next step is to activate your security l
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">**Go to Settings → Display → Sleep. ** Different versions of the firmware use different names for this menu so you will have to find the one that matches your phone. Now select a time period that is appropriate to your usage habits in the pop-up menu that appears. The change will take place immediately</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to Settings → Display → Sleep. Different versions of the firmware use different names for this menu so you will have to find the one that matches your phone. Now select a time period that is appropriate to your usage habits in the pop-up menu that appears. The change will take place immediately</span>
 		       </div>
 		     </div>
 
