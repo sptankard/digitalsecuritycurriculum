@@ -1,9 +1,7 @@
 ---
-title: 'Conclusion'
+title: Conclusion
+slug: conclusion
 ---
-
-
-
 
 <div class="CONN_H1" markdown="1"># IN CONCLUSION</div>
 
