@@ -402,7 +402,8 @@ This feature also has another limitation—it only encrypts your drive if you si
 		       </div>
 		     </div>
 
-**PC Encryption Using VeraCrypt**
+** PC ENCRYPTION USING VERACRYPT **
+
 
 VeraCrypt is free software you can use to encrypt a whole disk, as well as a partition on a disk. You can download VeraCrypt from [https://veracrypt.codeplex.com/releases/view/629329](https://veracrypt.codeplex.com/releases/view/629329)
 
@@ -555,7 +556,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 
 
-<div class="GLBL_H2" markdown="1">## FULL DISK ENCRYPTION WITH VERACRYPT</div>
+** FULL DISK ENCRYPTION WITH VERACRYPT **
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
