@@ -52,7 +52,7 @@ Many people feel safe when, in fact, they already have a compromised digital eco
 * Private messages that appear to have been read by someone else.
 * Websites that have become inaccessible from certain countries.
 * New pop-ups constantly launch from your browser.
-* Instances when your web browser redirects or crashes
+* Instances when your web browser redirects or crashes.
 * A rapid reduction of battery life, despite little-to-no use
 * Instances when your cursor unexpectedly moves without your direction.
 * Links from people you don’t know via Facebook, Twitter, WhatsApp, or e-mail.
@@ -69,9 +69,9 @@ If you have any of these symptoms don't panic. The best approach is to  take you
 
 Digital security is no different. By thinking through and mapping out the risks we face, we can make better decisions about how to stay safe and protect ourselves and networks. When you take the time to create a risk assessment model for yourself or your organization/network you can:
 
-* Identify your risks—specifically, the people or institutions that may pose a threat—and understand the various ways they could potentially target you.
-* Understand your current or future vulnerabilities so you can account for them.
-* Brainstorm how the vulnerabilities of the network(s) or organizations you are part of can affect you. For example, if you don’t know the technical practices of an organization or network, you may want to rethink the sensitive information you share, it may not be adequately protected.
+* **Identify** your risks—specifically, the people or institutions that may pose a threat—and understand the various ways they could potentially target you.
+* **Understand** your current or future vulnerabilities so you can account for them.
+* **Brainstorm** how the vulnerabilities of the network(s) or organizations you are part of can affect you. For example, if you don’t know the technical practices of an organization or network, you may want to rethink the sensitive information you share, it may not be adequately protected.
 
 ![](/images/Curriculum_img_10a.jpg)
 
