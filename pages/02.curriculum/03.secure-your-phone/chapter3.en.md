@@ -8,14 +8,14 @@ slug: secure_your_phone
 <div class="SECE_H1" markdown="1"># A SECURE PHONE IS ALWAYS THE FOUNDATION!</div>
 
 
-Your phone is one of the most critical components of your digital ecosystem. Phones are essential to communication, strategizing, and community organization. Most people communicate primarily through their mobile phone, followed by their computers and tablets. However, for these very reasons, governments and corporations throughout the world use data collected through our phones to perform extensive surveillance.
+Your phone is one of the most critical components of your digital ecosystem. Phones are essential to communication, strategizing, and community organizing. Most people around the world communicate primarily through their mobile phone, followed by their computers and tablets. However, for these very reasons, governments and corporations throughout the world use data collected through our phones to perform extensive surveillance.
 
-As useful as it is, it is better for you to think about your phone less like an assistant and more like a frenemy. Your phone can present pathways to serious violations of your privacy and security. Below is a graphic that shares all the different ways it collects and shares your personal data with cell phone service providers and phone manufactures. This vulnerability may allow governments and hackers to access information about your physical location at any time, even when it’s turned off.
+As useful as it is, it is better for you to think about your phone less like an assistant and more like a frenemy. Your phone in the wrong hands can be a portal to serious violations of your privacy and security. Below is a graphic that shares all the different ways your phone collects and shares your personal data with cell phone service providers and phone manufacturers. This vulnerability may allow governments and hackers to access information about your physical location at any time, even when it’s turned off.
 
 <div class="col-xs-12 none">
                         
 			<div class="well none" style="border-radius:0">
-    			  <span class="warn-icon"><i class="fa fa-exclamation-triangle" ></i></span> <span class="warn-highlight">WARNING: </span><span class="warn-text" markdown="1">Governments or malicious actors can turn on your phone’s microphone and camera to listen to you even when the device is turned off?</span>
+    			  <span class="warn-icon"><i class="fa fa-exclamation-triangle" ></i></span> <span class="warn-highlight">WARNING: </span><span class="warn-text" markdown="1">Are you aware that your phone's camera and microphone can be used without your consent? Governments or malicious individuals can turn on your phone’s microphone and camera to listen and film you you even when your device is inactive. Protect yourself from these kind of attacks by covering your camera with a sticker and being concious of where you store your phone in relationship to your sensitive conversations. </span>
 		        </div>
 		     </div>
 &nbsp;
@@ -24,11 +24,11 @@ As useful as it is, it is better for you to think about your phone less like an 
 ![](/images/Curriculum_img_11a.jpg)
 
 
-Today, law enforcement agencies use technology that provide police with data about the identity, activity, and location of any phone that connects to targeted cell phone towers over a set span of time. A typical broad data search covers multiple towers and wireless providers and can net information from thousands of phones—without need for warrants.<sup>1</sup>
+Today, law enforcement agencies use technology that provide police with data about the identity, activity, and location of any phone that connects to targeted cell phone towers over a set span of time. A typical broad data search covers multiple towers and wireless providers and can net information from thousands of phones—without the need for warrants.<sup>1</sup>
 
-Organizations such as the American Civil Liberties Union (ACLU) and Electronic Privacy Information Center (EPIC), say that the power of even small-town police departments to quickly obtain cell phone data results in the erosion of privacy and the violation of Fourth Amendment protections against unreasonable search and seizure. But thanks to a unanimous Supreme Court decision in Riley v. California, this practice is now officially legal.<sup>2</sup>
+Organizations such as the [American Civil Liberties Union ](https://www.aclu.org/issues/privacy-technology/location-tracking/cell-phone-privacy)(ACLU) and [Electronic Privacy Information Center](https://www.epic.org/privacy/location/) (EPIC), say that the power of even small-town police departments to quickly obtain cell phone data results in the erosion of privacy and the violation of Fourth Amendment protections against unreasonable search and seizure. But thanks to a unanimous Supreme Court decision in Riley v. California, this practice is now officially legal.<sup>2</sup>
 
-In extreme circumstances, to prevent all tracking of your location from your phone, shut it down completely and remove the battery. This is the easiest way to ensure that you can't be tracked,but it comes at the price of not being able to use your phone at all. If you need access to any data on your phone, back it up to a computer before you power down your device.
+In extreme circumstances, to prevent all tracking of your location from your phone the best option is to leave your phone at home. If that is not an option then shut the phone down and remove the battery. This is the easiest way to ensure that you can't be tracked,but it comes at the price of not being able to use your phone at all. If you need access to any data on your phone, back it up to a notebook or a a computer before you power down your device.
 
 If your phone’s battery cannot be removed, place it in a Faraday bag, which blocks transmission with its internal lining.<sup>3</sup> Not all faraday bags are created equal, so make sure you try it out before you put it into use in everyday life. You want to confirm that, at a minimum, cell and GPS services are blocked.
 
