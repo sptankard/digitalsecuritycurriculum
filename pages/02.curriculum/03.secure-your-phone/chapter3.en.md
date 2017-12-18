@@ -149,7 +149,7 @@ Switch off wireless and **GPS location** (under **Location Services**) and mobil
 
 You can hide your phone number from showing up to the person you are calling by adjusting this setting on your Android. However, you should note that your phone carrier and legal authorities will still have full access to logs showing who you called and when.
 
-Go to Settings and then tap on Call → Additional Settings → Caller ID → Hide Number and it will be blocked.
+Go to Settings and then tap on **Call → Additional Settings → Caller ID → Hide Number** and it will be blocked.
 
 
 ![](/images/Curriculum_img_18.jpg)
