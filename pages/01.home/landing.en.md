@@ -128,6 +128,30 @@ title: 'Digital Security For All'
        </div>
 
     </div>
+    
+    
+    
+    <div class="row">
+      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/10-in-conclusion-256x256.png" data-holder-rendered="true">
+<h4>In Conclusion</h4>
+
+        <a title="modules" href="en/curriculum/conclusion"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+
+        <br />
+        <br />
+        <br />
+       </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
 <br />
 <br />
 
