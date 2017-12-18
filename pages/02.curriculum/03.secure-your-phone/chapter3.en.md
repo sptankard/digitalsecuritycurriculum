@@ -99,7 +99,7 @@ Once you have set your PIN/Password the next step is to activate your security l
 With Androids, encrypting your phone is one of the best ways to protect your data if the device is ever stolen, seized, or confiscated. Encryption in the simplest of terms means the scrambling of data with complex math. 
 The purpose of [encryption ](https://en.wikipedia.org/wiki/Encryption)is to ensure that only someone who is authorized to access your phone’s data will be able to read it using the decryption key.
 
-When your phone is encrypted, its data is stored in an unreadable, seemingly scrambled form. If your phone is stolen, confiscated, or lost, this feature can protect data like your home address, email, bank accounts, communications, etc.
+When your phone is encrypted, its data is stored in an unreadable jumbled form. To  If your phone is stolen, confiscated, or lost, this feature can protect data like your home address, email, bank accounts, communications, and other sensitive data because your phone cannot be used unless the encryption is unscambled by your PIN/Password. 
 
 When you enter your PIN or your pattern on the lock screen, your phone decrypts the data, making it understandable and accessible to you. Without the encryption PIN or password, a malicious actor can’t access your data. This is why Encryption is one of key building blocks of securing your phone.
 
@@ -115,7 +115,7 @@ If Encryption is enabled it will say it here clearly. If not then your next step
 
 Once your PIN is selected make sure you phone is fully charged and backed up as you will not want to disturb the Encryption process. A back up also ensures that if anything goes wrong during encryption that your data is protected and your phone can be restored.
 
-Once the phone is ready and plugged in, please begin Encrypting by hitting Encrypt. The process should last anywhere from 30min to a couple of hours.
+Once the phone is ready and plugged in, please begin by hitting **Encrypt**. The process should last anywhere from 30 min to a couple of hours.
 
 
 ![](/images/Curriculum_img_16.jpg)
@@ -123,12 +123,12 @@ Once the phone is ready and plugged in, please begin Encrypting by hitting Encry
 
 5. ADJUST YOUR NETWORK SETTINGS
 
-We recommend keeping most networks turned off and only manually enabling them when necessary. One example is Bluetooth. Also, ensure that tethering and portable hotspots are switched off when not in use.
+We recommend keeping most networks turned off and only manually enabling them when necessary. One example is Bluetooth. 
 
-Do so by accessing Settings → Wireless &amp; Networks → More → Tethering &amp; Mobile Hotspot.
 
 If your device supports Near Field Communication (NFC), it will be switched on by default and must be disabled manually.
 
+Finally also, ensure that tethering and portable hotspots are switched off when not in use.
 
 ![](/images/Curriculum_img_17.jpg)
 
