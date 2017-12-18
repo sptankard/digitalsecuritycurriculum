@@ -109,7 +109,7 @@ When you enter your PIN or your pattern on the lock screen, your phone decrypts 
 		       </div>
 		     </div>
 
-To begin encryption find out whether or not your Android has Encryption enabled. Some versions of Android come with Encryption already set up while others need to set it up manually. To discover where your phone is at please first visit Settings → Personal → Security → Encryption.
+To begin encryption find out whether or not your Android has Encryption enabled. Some versions of Android come with Encryption already set up while others need to set it up manually. To discover where your phone is at please first visit **Settings → Personal → Security → Encryption.**
 
 If Encryption is enabled it will say it here clearly. If not then your next step will require you to set a screen lock password (described above).
 
