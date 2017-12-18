@@ -1,6 +1,6 @@
 ---
 title: 'Connecting to the Internet'
-slug: connecting_to_the_internet
+slug: secure_your_network
 ---
 
 ![](/images/Curriculum_img_155.jpg)
