@@ -188,7 +188,7 @@ Read the chart below to get an idea of how to think through your threat model. S
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
-                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">If you're working with an organization, [https://safetag.org](https://safetag.org) has both an action guide and a curricula on risk modeling. If you want to think more about your organization’s security culture, in addition to digital security, Ruckus has a great manual: [http://pdf.resistrnc.org/RuckusSecurityCultureForActivists.pdf](http://pdf.resistrnc.org/RuckusSecurityCultureForActivists.pdf)</span>
+                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">If you're working with an organization, [https://safetag.org](https://safetag.org) has both an action guide and a curricula on risk modeling. If you want to think more about your organization’s security culture, in addition to digital security, Ruckus has a great manual which you can find [here](http://pdf.resistrnc.org/RuckusSecurityCultureForActivists.pdf](http://pdf.resistrnc.org/RuckusSecurityCultureForActivists.pdf): 
 		       </div>
 		     </div>
 
