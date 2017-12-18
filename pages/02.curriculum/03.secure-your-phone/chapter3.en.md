@@ -354,15 +354,9 @@ Once your passcode is set your phone is now encrypted. What is crucial then is t
 		        </div>
 		     </div>
 
-Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Passcode Settings page. You should see a message reading “Data protection is enabled.” This means that the device's encryption is now tied to your passcode, and most data on your phone will require that code to unlock.
-
-11  [https://ssd.eff.org/en/module/how-encrypt-your-iphone](https://ssd.eff.org/en/module/how-encrypt-your-iphone)
-
+Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Passcode Settings page. You should see a message reading “Data protection is enabled.” This means that the device's encryption is now tied to your passcode, and most data on your phone will require that code to unlock.<sup>8</8>
 
 ![](/images/Curriculum_img_31.jpg)
-
-
-
 
  4. TURN OFF LOCATION SERVICES
 
@@ -538,3 +532,4 @@ This app works the same way. When you choose a photo, it shows you the saved met
 
 7. [http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/](http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/)
 
+8.[https://ssd.eff.org/en/module/how-encrypt-your-iphone](https://ssd.eff.org/en/module/how-encrypt-your-iphone)
