@@ -10,7 +10,8 @@ slug: what_is_digital_security
 
 So, now that we know how big the problem is let’s start with a definition: What the heck is digital security anyway?
 
-[> <span class="well"> Digital security is a set of defensive practices and awarenesses that ensures that all your devices, data, communications, and identity markers are protected to minimize surveillance by entities or individuals that may directly or indirectly wish you harm. </span>]()
+
+> gjh
 
 <div class="GLBL_H2" markdown="1">## AN ECOSYSTEM OF DIGITAL SECURITY</div>
 
