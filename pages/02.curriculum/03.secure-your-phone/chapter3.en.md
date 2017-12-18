@@ -290,6 +290,8 @@ So lets get started with setting up your iPhone. The first step is to set up the
 
 You should choose a code that is at least six digits long. If you have simple code selected, tap Change Passcode, enter your current code, then choose a harder sequence. Enter your passcode again to verify and activate it.
 
+Additionally, when  you set up your passcode, there is an option to erase data after too many failed attempts. If you have this option selected, your phone will erase all the data after 10 failed passcode attempts. Once this data is erased, it's gone from your device. However if you've been backing up  your phone you can restore it from your most recent backup information. 
+
 Different versions of iPhones may have different ways to get to the settings described in this section. We describe the general method but do a little searching around the settings areas of your particular phone to make sure you achieve the same results. 
 
 ![](/images/Curriculum_img_26.jpg)
