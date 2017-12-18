@@ -1,9 +1,7 @@
 ---
 title: 'Secure Your Communications'
+slug: secure_your_communications
 ---
-
-
-
 
 <div class="SECS_H1" markdown="1"># ENCRYPTION: THE PATH TO SECURE COMMUNICATION</div>
 
