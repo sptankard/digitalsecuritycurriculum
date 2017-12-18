@@ -307,7 +307,8 @@ Additionally if you want further protection you can also lock your SIM Card. Lea
 
 <div class="GLBL_H2" markdown="1">## 2. ACTIVATE YOUR SECURITY LOCK TIMER</div>
 
-Once you have set your PIN/Password the next step is to activate your security lock timer. This determines the amount of time your phone will be open before the phone locks itself. You will vary this time based on the risk of your current activity. For maximum security, always choose the shortest possible time frame that suits you without becoming too taxing. You can always adapt your times to your activities as well. So if you use your phone for recipes keep security lock timer off, but then turn it back on when you resume regular activity. Use your risk assessment to figure out what makes the most sense for you.
+Once you have set your PIN/Password the next step is to activate your security lock timer. This determines the amount of time your phone will be open before the phone locks itself. You will vary this time based on the risk of your current activity. For maximum security, always choose the shortest possible time frame that suits you without becoming too taxing. You can always adapt your times to your activities as well. So if you use your phone for recipes keep security lock timer off, but then turn it back on when you resume regular activity. Use your risk assessment to figure out what makes the most sense for you.<sup>7</sup>
+
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
