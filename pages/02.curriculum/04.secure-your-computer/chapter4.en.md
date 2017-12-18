@@ -21,9 +21,9 @@ Whether you are setting up a new machine or using your day-to-day computer, it�
 
 It is good practice to set up different user accounts on your computer. For example, if one of your accounts is compromised by malicious software you can delete it so that it does not spread. This process helps to compartmentalize damage, allowing you to sandbox different activities on your machine. In general, we recommend having an administrator account and several user accounts. 
 
-The Administrator account should be used to make large-scale changes, such as installing software or changing important settings. Only you or your organization’s system administrator should have access. You can use another standard account for other everyday actions.
+The **Administrator** account should be used to make large-scale changes, such as installing software or changing important settings. Only you or your organization’s system administrator should have access. You can use another standard account for other everyday actions.
 
-When using the Standard account, your computer will typically request an administrator's password as a permission when a user attempts to download, add software, or make changes. This approach will allow you to assess the risk.
+When using the **Standard** account, your computer will typically request an administrator's password as a permission when a user attempts to download, add software, or make changes. This approach will allow you to assess the risk.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
@@ -43,15 +43,23 @@ When using the Standard account, your computer will typically request an adminis
 		       </div>
 		     </div>
 
+![](/images/Curriculum_img_43.jpg)
+
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Under this section, click on the “+” sign to create a new account. Select Standard and name the account. Make sure you keep the “Allow user to administer this computer” option unchecked. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Under this section, click on the “+” sign to create a new account. Select Standard and name the account. </span>
 		       </div>
 		     </div>
 
 
-![](/images/Curriculum_img_43.jpg)
 
+
+
+<div class="col-xs-12 none">
+			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Make sure you keep the “Allow user to administer this computer” option unchecked. </span>
+		       </div>
+		     </div>
 
 
 ![](/images/Curriculum_img_44.jpg)
