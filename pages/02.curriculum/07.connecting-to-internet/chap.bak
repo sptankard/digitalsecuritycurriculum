@@ -1,6 +1,5 @@
 ---
 title: 'Connecting to the Internet'
-slug: 'connecting-to-the-internet'
 ---
 
 
@@ -9,7 +8,7 @@ slug: 'connecting-to-the-internet'
 ![](/images/Curriculum_img_155.jpg)
 
 
-<div class="SECK_H1" markdown="1"># CONNECTING TO THE INTERNET—HOW DOES IT ALL WORK?</div>
+<div class="SECK_H1" markdown="1"># CONNECTING TO THE INTERNET—HOW DOES IT ALL WORK?</div>?
 
 
 ![](/images/Curriculum_img_156.jpg)
@@ -92,6 +91,7 @@ the Tor process. In these diagrams our friend Ambedkar wants to send e-mails to 
 ![](/images/Curriculum_img_159.jpg)
 
 
+![](/images/Curriculum_img_158.jpg)
 
 
 In this next step Ambedkar's client now picks a random path through multiple Tor servers across the world. The first computer is the entry node, and the second computer is the relay node, and the third computer is the exit node. That node is the IP address that is seen by the websites you visit, which recognize the country of origin where the exit node is located.
@@ -104,6 +104,7 @@ please make sure you use the https protocol between sites.
 ![](/images/Curriculum_img_160.jpg)
 
 
+![](/images/Curriculum_img_158.jpg)
 
 
 <div class="col-xs-12 none">
@@ -160,6 +161,7 @@ Encrypting and decrypting data requires processing power. This also means that, 
 ![](/images/Curriculum_img_161.jpg)
 
 
+![](/images/Curriculum_img_161.jpg)
 
 
 31  [https://ssd.eff.org/en/module/choosing-vpn-thats-right-you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
