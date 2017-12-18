@@ -1,5 +1,6 @@
 ---
 title: 'Secure Your Android'
+slug: secure_your_android_00
 ---
 
 <!-- Latest compiled and minified CSS -->
