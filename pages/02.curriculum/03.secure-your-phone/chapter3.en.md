@@ -123,12 +123,7 @@ Once the phone is ready and plugged in, please begin by hitting **Encrypt**. The
 <div class="GLBL_H2" markdown="1">## 5. ADJUST YOUR NETWORK SETTINGS</div>
 &nbsp;
 
-
-
-
-
 We recommend keeping most networks turned off and only manually enabling them when necessary. One example is Bluetooth. 
-
 
 If your device supports Near Field Communication (NFC), it will be switched on by default and must be disabled manually.
 
@@ -136,8 +131,8 @@ Finally also, ensure that tethering and portable hotspots are switched off when 
 
 ![](/images/Curriculum_img_17.jpg)
 
-
-6. YOUR LOCATION SETTINGS
+<div class="GLBL_H2" markdown="1">## 6. YOUR LOCATION SETTINGS</div>
+&nbsp;
 
 Switch off wireless and GPS location (under Location Services) and mobile data (under Settings → Personal → Location)
 
