@@ -84,7 +84,7 @@ slug: landingtest
         <h4>Secure Browsing</h4>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title="modules" href="/curriculum/browsing_and_searching"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
         <a title="one sheets" href="one-sheets/secure-your-browser/secure_your_browser "><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
-        <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+        <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
         <br />
         <br />
         <br />
