@@ -185,10 +185,6 @@ We recommend using AppLock8 on Androids. AppLock is a free app that extends your
 
 ![](/images/Curriculum_img_20.jpg)
 
-
-8  [https://play.google.com/store/apps/details?id=com.domobile.applock&amp;hl=en](https://play.google.com/store/apps/details?id=com.domobile.applock&amp;hl=en)
-
-
 ![](/images/Curriculum_img_21.jpg)
 
 <div class="col-xs-12 none">
