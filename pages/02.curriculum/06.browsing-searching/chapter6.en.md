@@ -460,43 +460,52 @@ This is why choosing a search engine that does not track you is important. Curre
 We recommend DuckDuckGo26, but for folks who want to see a comparison the next page has some great options to explore. Try them and try them often. Once you find one that works switch!
 
 26  [https://duckduckgo.com](https://duckduckgo.com)
+<table width="500" border="1" cellspacing="1" cellpadding="1">
+  <tbody>
+
+    <tr>
+      <td>![](/images/Curriculum_img_152.jpg) </td>
+      <td>![](/images/Curriculum_img_153.jpg)</td>
+      <td>![](/images/Curriculum_img_154.jpg) </td>
+    </tr>
+    <tr>
+      <td>Cookies: Does not use cookies by default </td>
+      <td>Cookies: Does not use cookies by default </td>
+      <td>Cookies: Does not use identifying cookies </td>
+    </tr>
+    <tr>
+      <td>Tracking policy: Does not track and profile users </td>
+      <td>Tracking policy: Does not track and profile users </td>
+      <td> Tracking policy: Does not store its users' IP addresses</td>
+    </tr>
+    <tr>
+      <td>Personal information: Does not collect or store </td>
+      <td>Personal information: Does not collect or store </td>
+      <td>Personal information: does not collect or share personal data </td>
+    </tr>
+    <tr>
+      <td>Encryption? Yes, HTTPS </td>
+      <td>Personal information: Does not collect or store </td>
+      <td>Encryption? Yes, HTTPS </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Owned and managed by: La Quadrature du Net </td>
+      <td>Extra: Offers a free proxy service that allows for anonymous online browsing </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 
-![](/images/Curriculum_img_152.jpg)
-
-
-![](/images/Curriculum_img_153.jpg)
-
-
-![](/images/Curriculum_img_154.jpg)
-
-
-Cookies: Does not use cookies by default
-
-Tracking policy: Does not track and profile users
-
-Personal information: Does not collect or store
-
-Encryption? Yes, HTTPS
-
-Owned and managed by: La Quadrature du Net
-
-Cookies: Does not use identifying cookies
-
-Tracking policy: Does not store its users' IP addresses
-
-Personal information: does not collect or share personal data
-
-Encryption? Yes, HTTPS
-
-Extra: Offers a free proxy service that allows for anonymous online browsing
-
-Cookies: Does not use cookies by default
-
-Tracking policy: Does not track and profile users
-
-Personal information: Does not collect or store
-
-Encryption: Yes, HTTPS
 
 
