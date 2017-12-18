@@ -63,7 +63,7 @@ If you have any of these symptoms don't panic. The best approach is to  take you
 
 <div class="WHAY_H1" markdown="1"># HOW TO MAKE A RISK ASSESSMENT</div>
 
-Risk assessment is a skill that we use in many aspects of our lives. It is what we use when we think about what side of the street to walk on at night, whether we lock our doors in our houses and the numerous other calculations we make to balance risk with the effort it takes to protect ourselves from a threat.
+**Risk assessment** is a skill that we use in many aspects of our lives. It is what we use when we think about what side of the street to walk on at night, whether we lock our doors in our houses and the numerous other calculations we make to balance risk with the effort it takes to protect ourselves from a threat.
 
 Digital security is no different. By thinking through and mapping out the risks we face, we can make better decisions about how to stay safe and protect our friends and networks. When you take the time to create a risk assessment model for yourself or your organization/network you can:
 
