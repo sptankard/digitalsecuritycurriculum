@@ -43,14 +43,14 @@ When using the **Standard** account, your computer will typically request an adm
 		       </div>
 		     </div>
 
+![](/images/Curriculum_img_43.jpg)
+
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Under this section, click on the “+” sign to create a new account. Select Standard and name the account. </span>
 		       </div>
 		     </div>
 
-
-![](/images/Curriculum_img_43.jpg)
 
 
 
