@@ -232,23 +232,22 @@ The metadata in photographs are known as the Exchangeable Image File Format, or 
 * **Descriptions** of a photograph's content.
 * **Copyright** information.
 
+The metadata of an image is not always or always good. It really depends on your user needs. For example if you are shooting content that might be used to document a protest or even a police brutality incident then metadata could be a very crucial layer of additional information that further be used to establish the historicty of your image and bolster its use as evidence. Other times we don't want to share metadata because it can reveal sensitive information or feed corporate tracking of our lives. Only you can decide and it is our hope that these two workflows can help restore your consent to the way your photos are used. 
+
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
                           <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">Different versions of Android may have different ways to get to the settings described in this section. We describe the general method but do a little searching around the settings areas of your particular version of phone to make sure you achieve the same.</span>
 		       </div>
 		     </div>
 
-### SWITCH OFF LOCATION TAGGING FOR YOUR CAMERA
+**SWITCH OFF LOCATION TAGGING FOR YOUR CAMERA**
+The first step to minimizing the metadata in your photographs is to change your Camera app setting and disable geolocation. You can find that setting by **opening** the Camera app and **tap** the circle to the right of the shutter button. From the resulting menu, tap the **Settings** icon. Now, in the settings menu, tap the “**Location**” button. You can tell that geolocation is now disabled because of the icon overlaid on the options button.
 
-Android: Open the Camera app and tap the circle to the right of the shutter button. From the resulting menu, tap the Settings icon. Now, in the settings menu, tap the “Location” button. You can tell that geolocation is now disabled because of the icon overlaid on the options button.
+**INSTALL A THIRD-PARTY APP FOR SCRUBBING METADATA FROM IMAGES**
 
-INSTALL A THIRD-PARTY APP FOR SCRUBBING METADATA FROM IMAGES
+Now we will work to scrub, or remove, existing metadata from images we have taken on our Android. To do this we recommend installing and using [Exif Eraser ](https://play.google.com/store/apps/details?id=jp.wing.exiferaser&hl=en)for Android.
 
-To remove (“scrub”) existing metadata from images we have taken on our Androids we can use third-party apps For Android we recommend installing and using Exif Eraser.
-
-Exif Eraser for Android
-
-After installing Simply pick one or more photos with EXIF information from Gallery or the app.
+After installing Simply pick one or more photos with EXIF information from the Gallery or the app.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
