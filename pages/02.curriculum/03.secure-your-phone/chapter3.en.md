@@ -164,7 +164,7 @@ Go to **Settings** and then tap on **Call → Additional Settings → Caller ID 
 
 <div class="GLBL_H2" markdown="1">## 7. UPDATE YOUR ANDROID</div>
 
-To ensure that your phone remains secure, we strongly recommend you keep your phone and its software updated. These updates are crucial to keep the phone functioning and more importantly contain software patches to address the most recent malware threats. Keep in mind then when you are updateThere are two types of updates to check for:
+To ensure that your phone remains secure, we strongly recommend you keep your phone and its software updated. These updates are crucial to keep the phone functioning and more importantly contain software patches to address the most recent malware threats. Keep in mind that before y**ou update always always backup your data!** There are two types of updates to check for:
 
 * Updates for the phone’s operating system.   Go to **Settings → About phone → Updates → Check for Updates**
 * Updates to individual apps you have installed: Open the Google Play Store app, and select My Apps from the side menu.
@@ -174,8 +174,6 @@ To ensure that your phone remains secure, we strongly recommend you keep your ph
                           <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">It is important to always update your phone’s software from a trusted location—such as your Internet connection at home—somewhere like an Internet cafe or coffee shop.</span>
 		       </div>
 		     </div>
-
-
 
 <div class="GLBL_H2" markdown="1">##8. ADD APPLOCK FOR EXTRA PROTECTION</div>
 
@@ -193,25 +191,15 @@ We recommend using AppLock8 on Androids. AppLock is a free app that extends your
 
 ![](/images/Curriculum_img_21.jpg)
 
-
-
-
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Once you download, install, and open AppLock, you will be prompted to create a password. This is used whenever you re-open AppLock, as well as when you want to access any of the apps you will be protecting, so make sure it's a password you can easily remember. You'll also need to provide a security e-mail address.</span>
 		       </div>
 		     </div>
 
-
 ![](/images/Curriculum_img_22.jpg)
 
-
-
-
 ![](/images/Curriculum_img_23.jpg)
-
-
-
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
@@ -222,30 +210,27 @@ We recommend using AppLock8 on Androids. AppLock is a free app that extends your
 
 ![](/images/Curriculum_img_24.jpg)
 
-
-
-
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Now it is locked, and if you want to access your phone's camera, you will be prompted to enter your passcode.</span>
 		       </div>
 		     </div>
 
-<div class="GLBL_H2" markdown="1">## 2. DEALING WITH METADATA ON PHOTOS</div>
+<div class="GLBL_H2" markdown="1">## 9. DEALING WITH METADATA ON PHOTOS</div>
 
 Photos we take on all electronic devices can often carry data that can be used to pinpoint our location and gather other information about us.
 
-This information can be intercepted and gathered as part of the surveillance of our movements and habits. These details are often shared through something called metadata which is the additional details useful to categorizing, locating, or describing a file. Put simply, metadata refers to data about data.
+This information can be intercepted and gathered as part of the surveillance of our movements and habits. These details are often shared through the **[metadata](https://en.wikipedia.org/wiki/Metadata)** of the picture. Metadata simply means data that provides information about other data. The Metadata in our phone photos will have additional data that would be useful to categorizing, locating, or describing a file.
 
 Many of the files we use and create on our phones have metadata, including emails, text messages, and photos. So one of the ways we can secure our phones is by minimizing the metadata our phones share while we communicate.
 
 The metadata in photographs are known as the Exchangeable Image File Format, or EXIF. This can reveal much about you, your subject, and where a photo was taken. Metadata embedded in a photo includes the following:
 
-* Key identifying information, such as camera or cell phone user, GPS coordinates, and the time and date the photo was taken.
-* Camera settings, including static information such as the camera model and make, and information that varies with each image such as orientation (rotation), aperture, shutter speed, focal length, metering mode, and ISO speed information.
-* A thumbnail preview of the picture on the camera's LCD screen, in file managers, or in photo manipulation software.
-* Descriptions of a photograph's content.
-* Copyright information.
+* **Key identifying information**, such as camera or cell phone user, GPS coordinates, and the time and date the photo was taken.
+* **Camera settings**, including static information such as the camera model and make, and information that varies with each image such as orientation (rotation), aperture, shutter speed, focal length, metering mode, and ISO speed information.
+* **A thumbnail preview of the picture** on the camera's LCD screen, in file managers, or in photo manipulation software.
+* **Descriptions** of a photograph's content.
+* **Copyright** information.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
