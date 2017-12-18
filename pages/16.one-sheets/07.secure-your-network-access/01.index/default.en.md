@@ -1,5 +1,6 @@
 ---
 title: 'Secure Your Network Access'
+slug: secure_your_network_access
 ---
 
 <!-- Latest compiled and minified CSS -->
