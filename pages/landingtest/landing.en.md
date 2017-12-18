@@ -83,7 +83,7 @@ slug: landingtest
       <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/06-Secure-Your-Browsing-256x256.png" data-holder-rendered="true">
         <h4>Secure Browsing</h4>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title="modules" href="/curriculum/browsing_and_searching"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-browser "><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="one-sheets/secure-your-browser/secure_your_browser "><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
         <br />
         <br />
