@@ -228,7 +228,7 @@ The metadata in photographs are known as the Exchangeable Image File Format, or 
 * **Descriptions** of a photograph's content.
 * **Copyright** information.
 
-The metadata of an image is not always or always good. It really depends on your user needs. For example if you are shooting content that might be used to document a protest or even a police brutality incident then metadata could be a very crucial layer of additional information that further be used to establish the historicty of your image and bolster its use as evidence. Other times we don't want to share metadata because it can reveal sensitive information or feed corporate tracking of our lives. Only you can decide and it is our hope that these two workflows can help restore your consent to the way your photos are used. 
+The metadata of an image is not always bad or always good. It really depends on your user needs. For example if you are shooting content that might be used to document a protest or even a police brutality incident then metadata could be a very crucial layer of additional information that further be used to establish the historicty of your image and bolster its use as evidence. Other times we don't want to share metadata because it can reveal sensitive information or feed corporate tracking of our lives. Only you can decide and it is our hope that these two workflows can help restore your consent to the way your photos are used. 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
@@ -450,21 +450,23 @@ With this, you have successfully enabled the Guided Access feature and can now l
 
 Once Guided Access is enabled, anyone trying to use or leave a specific app will require the passcode. Without the code, he or she will not be able to exit Guided Access.
 
-2. <div class="GLBL_H2" markdown="1">## DEALING WITH METADATA ON PHOTOS</div>
+<div class="GLBL_H2" markdown="1">## 6.DEAL WITH THE METADATA IN YOUR PHOTOS</div>
 
 Photos we take on all electronic devices can often carry data that can be used to pinpoint our location and gather other information about us.
 
-This information can be intercepted and gathered as part of the surveillance of our movements and habits. These details are often shared through something called metadata which is the additional details useful to categorizing, locating, or describing a file. Put simply, metadata refers to data about data.
+This information can be intercepted and gathered as part of the surveillance of our movements and habits. These details are often shared through the metadata of the picture. [Metadata](https://en.wikipedia.org/wiki/Metadata) simply means data that provides information about other data. The Metadata in our phone photos will have additional data that would be useful to categorizing, locating, or describing a file.
 
 Many of the files we use and create on our phones have metadata, including emails, text messages, and photos. So one of the ways we can secure our phones is by minimizing the metadata our phones share while we communicate.
 
-The metadata in photographs is known as the Exchangeable Image File Format, or EXIF. This metadata can reveal much about you, your subject, and where a photo was taken. Metadata embedded in a photo includes the following:
+The metadata in photographs are known as the Exchangeable Image File Format, or EXIF. This can reveal much about you, your subject, and where a photo was taken. Metadata embedded in a photo includes the following:
 
-* Key identifying information, such as camera or cell phone user, GPS coordinates, and the time and date the photo was taken
-* Camera settings, including static information such as the camera model and make, and information that varies with each image such as orientation (rotation), aperture, shutter speed, focal length, metering mode, and ISO speed information
-* A thumbnail preview of the picture on the camera's LCD screen, in file managers, or in photo manipulation software.
-* Descriptions of a photographs' content.
-* Copyright information.
+* **Key identifying information**, such as camera or cell phone user, GPS coordinates, and the time and date the photo was taken.
+* **Camera settings**, including static information such as the camera model and make, and information that varies with each image such as orientation (rotation), aperture, shutter speed, focal length, metering mode, and ISO speed information.
+* **A thumbnail preview of the picture** on the camera's LCD screen, in file managers, or in photo manipulation software.
+* **Descriptions** of a photograph's content.
+* **Copyright** information.
+
+The metadata of an image is not always bad or always good. It really depends on your user needs. For example if you are shooting content that might be used to document a protest or even a police brutality incident then metadata could be a very crucial layer of additional information that further be used to establish the historicty of your image and bolster its use as evidence. Other times we don't want to share metadata because it can reveal sensitive information or feed corporate tracking of our lives. Only you can decide and it is our hope that these two workflows can help restore your consent to the way your photos are used.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
@@ -472,11 +474,8 @@ The metadata in photographs is known as the Exchangeable Image File Format, or E
 		       </div>
 		     </div>
 
-<div class="col-xs-12 none">
-			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">SWITCH OFF LOCATION TAGGING FOR YOUR CAMERA</span>
-		       </div>
-		     </div>
+
+**SWITCH OFF LOCATION TAGGING FOR YOUR CAMERA**
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
@@ -484,19 +483,12 @@ The metadata in photographs is known as the Exchangeable Image File Format, or E
 		       </div>
 		     </div>
 
-<div class="col-xs-12 none">
-			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">INSTALL A THIRD-PARTY APP FOR SCRUBBING METADATA FROM IMAGES</span>
-		       </div>
-		     </div>
+**INSTALL A THIRD-PARTY APP FOR SCRUBBING METADATA FROM IMAGES**
+		      
 
-<div class="col-xs-12 none">
-			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">We recommend using PixlMet to remove (“scrub”) existing metadata from photos taken with  your phone.</span>
-		       </div>
-		     </div>
+We recommend using PixlMet for iPhones to remove (“scrub”) existing metadata from photos taken with  your phone.
 
-PixlMet for iPhones
+
 
 This app works the same way. When you choose a photo, it shows you the saved metadata and allows you to share the photo to social media without this data.
 
