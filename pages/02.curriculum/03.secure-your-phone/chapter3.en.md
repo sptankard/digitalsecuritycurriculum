@@ -20,7 +20,7 @@ As useful as it is, it is better for you to think about your phone less like an 
 &nbsp;
 
 
-![](/images/Curriculum_img_11a.jpg)
+![](/images/Curriculum_img_11a.png)
 
 
 Today, law enforcement agencies use technology that provide police with data about the identity, activity, and location of any phone that connects to targeted cell phone towers over a set span of time. A typical broad data search covers multiple towers and wireless providers and can net information from thousands of phones—without the need for warrants.<sup>1</sup>
