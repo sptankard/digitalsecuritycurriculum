@@ -1,5 +1,6 @@
 ---
 title: 'Secure Your Identity'
+slug: secure_your_identity
 ---
 
 <!-- Latest compiled and minified CSS -->
