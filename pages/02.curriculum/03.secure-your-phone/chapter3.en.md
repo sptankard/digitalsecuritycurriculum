@@ -238,7 +238,7 @@ The metadata in photographs are known as the Exchangeable Image File Format, or 
 		       </div>
 		     </div>
 
-SWITCH OFF LOCATION TAGGING FOR YOUR CAMERA
+### SWITCH OFF LOCATION TAGGING FOR YOUR CAMERA
 
 Android: Open the Camera app and tap the circle to the right of the shutter button. From the resulting menu, tap the Settings icon. Now, in the settings menu, tap the “Location” button. You can tell that geolocation is now disabled because of the icon overlaid on the options button.
 
