@@ -333,17 +333,17 @@ Once you have set your PIN/Password the next step is to activate your security l
 
 <div class="GLBL_H2" markdown="1">## 3. IPHONE ENCRYPTION</div>
 
-Encryption is essentially one of the best was to protect your phone’s data if it is stolen, seized, or confiscated. The purpose of encryption is to ensure that only somebody who is authorized to access data will be able to read it, using the decryption key.11
+Encryption is essentially one of the best ways to protect your iPhone’s data if it is stolen, seized, or confiscated. [ Encryption](https://en.wikipedia.org/wiki/Encryption) in the simplest of terms means the scrambling of data with complex math. The purpose of encryption is to ensure that only someone who is authorized to access your iPhone’s data will be able to read it using the decryption key.
 
-With Androids, you must enable device encryption, but most modern Apple devices encrypt their contents by default, with varying levels of protection. However, to protect yourself from someone obtaining your data by physically stealing your device, you need to tie that encryption to a passphrase or code that only you know. The previous section explains how to set a passcode
+When your phone is encrypted,  data is stored in an unreadable jumbled form.  If your phone is stolen, confiscated, or lost, this feature can protect data like your home address, email, bank accounts, communications, and other sensitive data because your phone cannot be used unless the encryption is unscambled by your PIN/Password.
 
-Once your passcode is set your phone is now encrypted. What is crucial is then to only back up to your computer or hard drive and never to icloud. That way you retain maximum control of your data.
+When you enter your PIN or your pattern on the lock screen, your phone decrypts the data, making it understandable and accessible to you. Without the encryption PIN or password, a malicious actor can’t access your data. This is why Encryption is one of key building blocks of securing your phone
 
+With Androids, you must enable device encryption, but almost all current Apple devices encrypt their contents by default. However, to protect yourself from someone obtaining your data by physically stealing your device, you need to tie that encryption to a passphrase or code that only you know. If you do not have your PIN Passcode activated that Encryption will not be enabled on your phone. 
+
+Once your passcode is set your phone is now encrypted. What is crucial then is to only back up to your computer or hard drive and never to icloud. That way you retain maximum control of your data. 
 
 ![](/images/Curriculum_img_30.jpg)
-
-
-
 
 <div class="col-xs-12 none">
                         
