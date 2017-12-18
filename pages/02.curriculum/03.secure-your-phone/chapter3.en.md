@@ -484,18 +484,10 @@ The metadata of an image is not always bad or always good. It really depends on 
 		     </div>
 
 **INSTALL A THIRD-PARTY APP FOR SCRUBBING METADATA FROM IMAGES**
-		      
-
-We recommend using PixlMet for iPhones to remove (“scrub”) existing metadata from photos taken with  your phone.
-
-
-
-This app works the same way. When you choose a photo, it shows you the saved metadata and allows you to share the photo to social media without this data.
+Now we will work to scrub, or remove, existing metadata from images we have taken previously on our iPhone. To do this we recommend installing and using PixlMet for iPhones. PixlMet helps return to consent to your understanding of what you are sharing with your metadata by showing you in its library the metadata for any given photo stored on your phone. It also allows you to share the photo to social media with or without this data whne you send it through the app.
 
 
 ![](/images/Curriculum_img_38.jpg)
-
-
 
 
 <div class="col-xs-12 none">
