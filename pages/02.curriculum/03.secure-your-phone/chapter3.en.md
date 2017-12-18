@@ -57,16 +57,7 @@ If your phone uses a SIM card, you can set a lock on the card so it cannot be us
 <div class="GLBL_H2" markdown="1">## 2. SET UP YOUR PIN AND ACTIVATE A SCREENLOCK</div>
 &nbsp;
 
-
-<div class="col-xs-12 none">
-			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Set up a screen lock by accessing Settings → Personal → Security → Screen Lock, to ensure that lists, pictures, and a code, pattern, or password need to be entered in order to unlock the screen. </span>
-		       </div>
-		     </div>
-&nbsp;
-
-
-We recommended using the PIN or password option, as a PIN or password offers more protection against law enforcement or adversaries. This measure is particularly important in the event that you are faced with a casual search by police or other authorities.  A good PIN/PASSWORD would be at least six digits long and does not use any of the following items:
+We recommended setting your phone by using the PIN or password option to secure who can enter your phone. A PIN or password offers more protection then fingerprint ID's against law enforcement or theives. A good PIN/PASSWORD would be at least six digits long and does not use any of the following items:
 
 * Simple number sequences like 1234 or 0000 (including repetition: 1122 or 2233)
 * Significant dates such as your birth year or spouse’s birthday.
@@ -74,6 +65,12 @@ We recommended using the PIN or password option, as a PIN or password offers mor
 * Any part of your address or phone number.
 * Longer PINs are safer than shorter PINs because there are more ways to mix the numbers together. For example, if you use a four digit PIN, there are 10,000 possible variations (starting with 0000, 0001, 0002, and so on).
 With a six-digit PIN, there are one million possible codes, so it’s harder for thieves and computer programs to successfully guess your PIN.
+
+<div class="col-xs-12 none">
+			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Set up a screen lock by accessing Settings → Personal → Security → Screen Lock, to ensure that lists, pictures, and a code, pattern, or password need to be entered in order to unlock the screen. </span>
+		       </div>
+		     </div>
 
 ![](/images/Curriculum_img_14.jpg)
 &nbsp;
@@ -89,6 +86,7 @@ With a six-digit PIN, there are one million possible codes, so it’s harder for
 ![](/images/Curriculum_img_15.jpg)
 &nbsp;
 
+Once you have set your PIN/Password the next step is to activate your security lock timer. This determines the amount of time your phone will be open before the phone locks itself. You will vary this time based on the risk of your current activity. If you are 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
