@@ -14,10 +14,9 @@ Whether you are setting up a new machine or using your day-to-day computer, itâ€
 
 ![](/images/Curriculum_img_41.png)
 
-
 <div class="SECR_H1" markdown="1"># SECURE YOUR MAC</div>
 
-<div class="GLBL_H2" markdown="1">## 1. SETTING UP USERS AND PASSWORDS</div>
+<div class="GLBL_H2" markdown="1">## 1.SET UP DIFFERENT USER ACCOUNTS AND PASSWORDS</div>
 
 It is good practice to set up different user accounts on your computer. For example, if one of your accounts is compromised by malicious software you can delete it so that it does not spread. This process helps to compartmentalize damage, allowing you to sandbox different activities on your machine. In general, we recommend having an administrator account and several user accounts. 
 
