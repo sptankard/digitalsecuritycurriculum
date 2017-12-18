@@ -345,7 +345,7 @@ With Androids, you must enable device encryption, but almost all current Apple d
 
 Once your passcode is set your phone is now encrypted. What is crucial then is to only back up to your computer or hard drive and **never** to icloud.This can be hard for folks because part of the ease of the apple ecosystem is the convenience of syncing content between your different apple devices. However if you backup your content to iCloud you know are allowing Apple to be a third party that can weigh-in on who can access your data. We recommedn that you retain maximum control of your data and break up with iCloud today and move to backing up your phone to an external hard drive. 
 
-Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Passcode Settings page. You should see a message reading “Data protection is enabled.” This means that the device's encryption is now tied to your passcode, and most data on your phone will require that code to unlock.<sup>8</8>
+Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Passcode Settings page. You should see a message reading “Data protection is enabled.” This means that the device's encryption is now tied to your passcode, and most data on your phone will require that code to unlock.<sup>8</sup>
 
 
 ![](/images/Curriculum_img_30.jpg)
@@ -427,7 +427,7 @@ With this, you have successfully enabled the Guided Access feature and can now l
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Next, triple-click the home button. This will give you options to restrict features within an app, as shown below. This is the best part of this feature, you may have already seen apps that lock other applications, but the ability to lock specific features within an app is new and different. Simply circle any areas of the screen you would like to make inaccessible.13</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Next, triple-click the home button. This will give you options to restrict features within an app, as shown below. This is the best part of this feature, you may have already seen apps that lock other applications, but the ability to lock specific features within an app is new and different. Simply circle any areas of the screen you would like to make inaccessible.</span>
 		       </div>
 		     </div>
 
