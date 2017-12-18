@@ -1,6 +1,5 @@
 ---
 title: 'Secure Your Android Page 1'
-slug: secure_your_android_01
 ---
 
 <span style="color:purple">✔ USE A PIN PASSCODE. NEVER USE TOUCH ID.</span>  As a Touch ID can be compromised. Make your PIN strong and at least 8 digits. You can find this for Androids under Settings → Personal → Security → Screen Lock.
