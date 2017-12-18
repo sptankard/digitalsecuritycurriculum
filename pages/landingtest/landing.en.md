@@ -3,45 +3,6 @@ title: 'landing test'
 slug: landingtest
 ---
 
-<nav class="navbar navbar-default">
-  <div class="container-fluid"> 
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-      <p>EQUALITY<br>
-        LABS </p>
-    </div>
-    
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a> </li>
-        <li><a href="#">Link</a> </li>
-      </ul>
-      <form class="navbar-form navbar-right" role="search">
-        <div class="form-group">
-          <input type="text" class="form-control" placeholder="Search">
-        </div>
-        <button type="submit" class="btn btn-default">Submit</button>
-      </form>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Link</a> </li>
-        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">Dropdown <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a> </li>
-            <li><a href="#">Another action</a> </li>
-            <li><a href="#">Something else here</a> </li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a> </li>
-          </ul>
-        </li>
-      </ul>
-    </div>
-    <!-- /.navbar-collapse --> 
-  </div>
-  <!-- /.container-fluid --> 
-</nav>
-
 <!-- HEADER -->
 <header>
   <div class="jumbotron">
@@ -49,51 +10,135 @@ slug: landingtest
       <div class="row">
         <div class="col-xs-12">
           <h1 class="text-center">Digital Security For All</h1>
-          <p class="text-center">Instructions on how to stay safe when using the internet, phone, and computers</p>
+          <p class="text-center">Instructions on how to stay safe when using the Internet, Phone, and Computers</p>
           <p>&nbsp;</p>
 </div>
       </div>
     </div>
   </div>
 </header>
-<!-- / HEADER --> 
+<!-- / HEADER -->
 
 <!--  SECTION-1 -->
 <section>
 <div class="container ">
     <div class="row">
-      <div class="col-lg-4 col-sm-12 text-center"> <img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/icons/why-should-we-care-256x256.png" data-holder-rendered="true">
-        <h3>Why Should We Care About Digital Security?</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <div class="col-lg-4 col-sm-12 text-center"> <img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/01-why-should-we-care-256x256a.png" data-holder-rendered="true">
+
+        <h4>Why Care About Digital Security?</h4>
+        <a title="modules" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+        <br />
+        <br />
+        <br />
       </div>
-      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/icons/What-is-Digital-Security-256x256.png" data-holder-rendered="true">
-        <h3>What Is Digital Security?</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-      </div>
-      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/icons/Secure-Your-Phone-256x256.png" data-holder-rendered="true">
-        <h3>Secure Your Phone</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-      </div>
-      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/140X140.gif" data-holder-rendered="true">
-        <h3>Lorem ipsum</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-      </div>
-      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/140X140.gif" data-holder-rendered="true">
-        <h3>Lorem ipsum dolor</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-      </div>
-      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="140x140" style="width: 140px; height: 140px;" src="images/140X140.gif" data-holder-rendered="true">
-        <h3>Lorem ipsum</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/02-What-is-Digital-Security-256x256a.png" data-holder-rendered="true">
+       <h4>What Is Digital Security?</h4>
+
+       <a title="modules" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+       <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+       <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+
+        <br />
+        <br />
+        <br />
+
+    </div>
+      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/03-Secure-Your-Phone-256x256.png" data-holder-rendered="true">
+        <h4>Secure Your Phone</h4>
+        &nbsp; &nbsp;<a title="modules" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+      <br />
+
       </div>
     </div>
+    <br />
+      <br />
+
+    <div class="row">
+      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/04-Secure-Your-computer-256x256.png" data-holder-rendered="true">
+        <h4>Secure Your Computer</h4>
+
+        <a title="modules" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+
+        <br />
+        <br />
+        <br />
+
+      </div>
+      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/05-Secure-Your-Identity-256x256.png" data-holder-rendered="true">
+        <h4>Secure Your Identity</h4>
+        <a title="modules" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+        <br />
+        <br />
+        <br />
+
+      </div>
+      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/06-Secure Your Browsing 256x256.png" data-holder-rendered="true">
+        <h4>Secure Browsing</h4>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title="modules" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+        <br />
+        <br />
+        <br />
+      </div>
+    </div>
+    <br />
+    <br />
+    <div class="row">
+      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/07-Secure Your network 256x256.png" data-holder-rendered="true">
+        <h4>Secure Your Network</h4>
+        <a title="modules" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+        <br />
+        <br />
+        <br />
+
+
+      </div>
+      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/08-Secure-Your-Social-Media-256x256.png" data-holder-rendered="true">
+        <h4>Secure Your Social Media</h4>
+
+        <a title="modules" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+
+        <br />
+        <br />
+        <br />
+
+      </div>
+      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/09-Secure-Your-Communications-256x256.png" data-holder-rendered="true">
+        <h4>Secure Your Communications</h4>
+
+        <a title="modules" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+
+        <br />
+        <br />
+        <br />
+       </div>
+
+    </div>
+<br />
+<br />
+
 </div>
 <!-- /container -->
-  
+
   <div class="container">
     <div class="row"> </div>
 </div>
-  <!-- / CONTAINER--> 
+  <!-- / CONTAINER-->
 </section>
 <div class="well"> </div>
 
@@ -101,12 +146,17 @@ slug: landingtest
 <div class="container">
   <div class="row"> </div>
 </div>
-
+<footer class="text-center">
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <p>Copyright © Equality Labs. All rights reserved.</p>
+        <p>Copyright ©2017 Equality Labs. All rights reserved.</p>
       </div>
     </div>
   </div>
-
+</footer>
+<!-- / FOOTER -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.js"></script>
