@@ -55,16 +55,13 @@ The panoramic view, as I tasted the nectar of a precut granny smith apple and ba
 
 Once you have made your passphrase please make sure of the following:
 
-KEEP IT SECRET
-
+**KEEP IT SECRET**
 Do not share your passphrase with anyone unless it is absolutely necessary. And, if you must share a passphrase with a friend, family member or colleague, you should change it to a temporary passphrase first, share that one, then change it back when they are done using it. Often, there are alternatives to sharing a passphrase such as creating a separate account for each individual who needs access.
 
-MAKE IT UNIQUE
-
+**MAKE IT UNIQUE**
 Avoid using the same passphrase for more than one account. That way if one passphrase is compromised hackers won't be able to exploit the rest of your accounts because you used your password  for all of your online services. A good way to keep track of many unique and complex passwords is to use a password managers like Keepass X, Last Pass and 1pass.
 
-KEEP IT FRESH
-
+**KEEP IT FRESH**
 Change your passphrase on a regular basis, preferably at least once every three to six months based on your risk assessment. Some people get quite attached to a particular passphrase and never change it. This is a bad idea. The longer you keep one password, the more opportunity others have to figure it out. Also, if someone is able to use your stolen password to access your information and services without you knowing about it, they will continue to do so until you change the password.16
 
 16  [https://securityinabox.org/en/lgbti-mena/passwords](https://securityinabox.org/en/lgbti-mena/passwords)
@@ -73,7 +70,7 @@ Change your passphrase on a regular basis, preferably at least once every three 
 
 These days we have accounts with a lot of companies. Emails, Social media accounts, online bank accounts and so on. One of the most important things you can do is not use one password for all accounts but generate different passwords for each of your individual accounts.17
 
-NOW, YOU MIGHT BE SAYING WHHAA???????
+**NOW, YOU MIGHT BE SAYING WHHAA???????**
 
 But hear us out. This is actually a good thing. After all, your bank information is likely linked to many of your accounts, as well as your purchase history, media browsing habits, and a slew of other private information that you’d prefer protected. But if you’re the kind of person who constantly forgets and resets passwords and usernames, or worse, recycles the same password you’ve been using for the past seven years, it’s time for a password management tool. If a hacker discovers your password on a list they can then use it to access every tool in your life!
 
@@ -109,9 +106,6 @@ The benefits of KeePassX is that it is open source and is part of constellation 
 
 
 ![](/images/Curriculum_img_82.jpg)
-
-
-
 
 19  [https://www.keepassx.org](https://www.keepassx.org)
 
@@ -166,10 +160,7 @@ Apps also exist for Androids that work similarly. We recommend you sync your dat
 
 ![](/images/Curriculum_img_87.jpg)
 
-
-
-
-SECURE YOUR GMAIL
+<div class="GLBL_H2" markdown="1">## SECURE YOUR GMAIL</div>
 
 Google's Gmail is one of the most used web email apps in the world. This section helps us learn how to secure Gmail and how to identify if you are currently vulnerable. First, let's see whether your account has already been compromised.
 
@@ -215,8 +206,8 @@ Google's Gmail is one of the most used web email apps in the world. This section
 ![](/images/Curriculum_img_91.png)
 
 
-GOOGLE SECURITY CHECK UP
 
+<div class="GLBL_H2" markdown="1">## GOOGLE SECURITY CHECK UP</div>
 
 ![](/images/Curriculum_img_92.jpg)
 
@@ -340,7 +331,7 @@ We recommend you get an IBA Opt Out Extension for your Google Chrome. This tells
 
 
 
-TWO FAC<div class="GLBL_H2" markdown="1">## TOR</div> AUTHENTICATION FOR GMAIL (2FA)
+<div class="GLBL_H2" markdown="1">## TWO FACTOR AUTHENTICATION FOR GMAIL (2FA)</div>
 
 Because passwords can be phished, guessed, cracked, or acquired in other ways (like Keyloggers), you may want to consider adding another barrier to your accounts through two-factor authentication.
 
