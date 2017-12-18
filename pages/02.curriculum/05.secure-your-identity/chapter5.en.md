@@ -1,9 +1,7 @@
 ---
 title: 'Secure Your Identity'
+slug: secure_your_identity
 ---
-
-
-
 
 ![](/images/Curriculum_img_77.jpg)
 
