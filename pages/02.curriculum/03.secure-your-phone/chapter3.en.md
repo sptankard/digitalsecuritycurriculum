@@ -83,10 +83,10 @@ With a six-digit PIN, there are one million possible codes, so it’s harder for
 <div class="GLBL_H2" markdown="1">## 3. ACTIVATE A SECURITY LOCK TIMER</div>
 &nbsp;
 
+Once you have set your PIN/Password the next step is to activate your security lock timer. This determines the amount of time your phone will be open before the phone locks itself. You will vary this time based on the risk of your current activity. If you are at home and using phone for an activity like cooking or reading then you will want to keep your phone from locking. However if you are at work and leave your phone on your desk around other people it would be wise to keep your units of time short so that your phone is protected at all times. If you have done your risk assessment this will help you make this decision and adapt it as your situations changes. 
+
 ![](/images/Curriculum_img_15.jpg)
 &nbsp;
-
-Once you have set your PIN/Password the next step is to activate your security lock timer. This determines the amount of time your phone will be open before the phone locks itself. You will vary this time based on the risk of your current activity. If you are 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
