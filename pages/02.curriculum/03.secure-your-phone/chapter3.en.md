@@ -10,7 +10,7 @@ slug: secure_your_phone
 
 Your phone is one of the most critical components of your digital ecosystem. Phones are essential to communication, strategizing, and community organization. Most people communicate primarily through their mobile phone, followed by their computers and tablets. However, for these very reasons, governments and corporations throughout the world use data collected through our phones to perform extensive surveillance.
 
-As useful as it is, your phone can present pathways to serious violations of your privacy and security. Below is a graphic that shares all the different ways it collects and shares your personal data with cell phone service providers and phone manufactures. This vulnerability may allow governments and hackers to access information about your physical location at any time, even when it’s turned off.
+As useful as it is, it is better for you to think about your phone like a frenemy. Your phone can present pathways to serious violations of your privacy and security. Below is a graphic that shares all the different ways it collects and shares your personal data with cell phone service providers and phone manufactures. This vulnerability may allow governments and hackers to access information about your physical location at any time, even when it’s turned off.
 
 <div class="col-xs-12 none">
                         
