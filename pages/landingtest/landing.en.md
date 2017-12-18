@@ -74,7 +74,7 @@ slug: landingtest
         <h4>Secure Your Identity</h4>
         <a title="modules" href="/curriculum/secure_your_identity"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
         <a title="one sheets" href="one-sheets/secure-your-identity/secure_your_identity"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
-        <a title="video" href="images/icons/subicons/videos.png"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+        <a title="video" href="href="/en/coming-soon""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
         <br />
         <br />
         <br />
