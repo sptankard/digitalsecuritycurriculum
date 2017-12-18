@@ -120,8 +120,12 @@ Once the phone is ready and plugged in, please begin by hitting **Encrypt**. The
 
 ![](/images/Curriculum_img_16.jpg)
 
+<div class="GLBL_H2" markdown="1">## 5. ADJUST YOUR NETWORK SETTINGS</div>
+&nbsp;
 
-5. ADJUST YOUR NETWORK SETTINGS
+
+
+
 
 We recommend keeping most networks turned off and only manually enabling them when necessary. One example is Bluetooth. 
 
