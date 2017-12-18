@@ -358,9 +358,9 @@ Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Pa
 
 ![](/images/Curriculum_img_31.jpg)
 
- 4. TURN OFF LOCATION SERVICES
+<div class="GLBL_H2" markdown="1">##  4. TURN OFF LOCATION SERVICES</div>
 
-The first time an app tries to access your location it will ask for your permission, even when it’s running in the background. The app's developer may also explain how it uses your location.12
+The first time an app tries to access your location it will ask for your permission, even when it’s running in the background. The app's developer may also explain how it uses your location.
 
 Some apps will ask to use your location only while the app is in use. An app is considered “in use” when you are actively using it in the foreground or when it's running idly in the background, which the status bar will indicate.
 
