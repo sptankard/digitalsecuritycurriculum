@@ -1,5 +1,6 @@
 ---
 title: 'Secure Your Browser'
+slug: secure_your_browser
 ---
 
 <!-- Latest compiled and minified CSS -->
