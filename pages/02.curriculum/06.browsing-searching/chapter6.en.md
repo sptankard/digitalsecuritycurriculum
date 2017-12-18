@@ -193,7 +193,7 @@ or
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">2. Firefox →  ☰ → Preferences → Privacy → select use custom settings for history → check: Always use private browsing mode</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">2. Firefox → ☰ → Preferences → Privacy → select use custom settings for history → check: Always use private browsing mode</span>
 		       </div>
 		     </div>
 
@@ -208,22 +208,11 @@ When you close Firefox, the following will be cleared: your browser, search, web
 **USING PRIVATE BROWSING OCCASIONALLY**
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Private Browsing' mode can also be used for a single window: Open Firefox →       → New Private Window</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Private Browsing' mode can also be used for a single window: Open Firefox →   ☰  → New Private Window</span>
 		       </div>
 		     </div>
 
-
-![](/images/Curriculum_img_133.jpg)
-
-
-
-
-
-
 ![](/images/Curriculum_img_134.jpg)
-
-
-
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
@@ -246,17 +235,9 @@ When you close Firefox, the following will be cleared: your browser, search, web
 
 ![](/images/Curriculum_img_135.jpg)
 
-
-
-
 ![](/images/Curriculum_img_136.jpg)
 
-
 ![](/images/Curriculum_img_137.jpg)
-
-
-
-
 
 
 <div class="col-xs-12 none">
