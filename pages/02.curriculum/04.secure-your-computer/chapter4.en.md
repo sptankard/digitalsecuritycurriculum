@@ -1,9 +1,7 @@
 ---
 title: 'Secure Your Computer'
+slug: secure_your_computer
 ---
-
-
-
 
 ![](/images/Curriculum_img_40.jpg)
 
