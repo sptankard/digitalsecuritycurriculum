@@ -394,6 +394,14 @@ When Location Services are turned completely off, no apps can use your location 
 
 <div class="GLBL_H2" markdown="1">## 5. GUIDED ACCESS FOR IPHONES</div>
 
+Guided Access limits your device to a single app and lets you control which app features are available.
+
+You can use Guided Access to:
+
+Temporarily restrict your iOS device to a single app
+Disable areas of the screen that aren’t relevant to a task, or areas where an accidental gesture might cause a distraction
+Disable the hardware buttons
+
 Apple provides a built-in feature to both hide and lock apps on iPhones.
 
 <div class="col-xs-12 none">
