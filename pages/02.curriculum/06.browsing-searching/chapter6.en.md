@@ -37,7 +37,7 @@ To start making the necessary modifications, we need to access the settings area
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Chrome →       → Select “New Incognito Window”</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Chrome →  ⋮   → Select “New Incognito Window”</span>
 		       </div>
 		     </div>
 
@@ -57,7 +57,7 @@ To start making the necessary modifications, we need to access the settings area
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To access the settings area for Google Chrome, click the        button at the top right corner of the browser and select Settings from the drop-down menu.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To access the settings area for Google Chrome, click the ⋮ button at the top right corner of the browser and select Settings from the drop-down menu.</span>
 		       </div>
 		     </div>
 
