@@ -31,6 +31,7 @@ It's OK if this confusing! The more you start thinking about it on your own and 
 
 <div class="GLBL_H2" markdown="1">## IT’S ALL ABOUT HARM REDUCTION RIGHT NOW</div>
 
+
 In our journey toward better digital security one of the hardest lessons to accept is that there is no silver bullet of digital security. Internet security solutions, programs, and services available on the Internet can change their security settings and privacy policies without notice, possibly putting users at risk. New security updates, as well as viruses and malware, are launched every day. This means that what was secure yesterday may be vulnerable to attack today.
 
 There is no alternative to staying aware, informed, and engaged and most importantly fighting back as a community. You are only as safe as the discipline of your digital network.
@@ -65,7 +66,7 @@ If you have any of these symptoms don't panic. The best approach is to  take you
 
 **Risk assessment** is a skill that we use in many aspects of our lives. It is what we use when we think about what side of the street to walk on at night, whether we lock our doors in our houses and the numerous other calculations we make to balance risk with the effort it takes to protect ourselves from a threat.
 
-Digital security is no different. By thinking through and mapping out the risks we face, we can make better decisions about how to stay safe and protect our friends and networks. When you take the time to create a risk assessment model for yourself or your organization/network you can:
+Digital security is no different. By thinking through and mapping out the risks we face, we can make better decisions about how to stay safe and protect ourselves and networks. When you take the time to create a risk assessment model for yourself or your organization/network you can:
 
 * Identify your risks—specifically, the people or institutions that may pose a threat—and understand the various ways they could potentially target you.
 * Understand your current or future vulnerabilities so you can account for them.
@@ -79,19 +80,19 @@ It is important to note that in managing risks to improve security there are alw
 
 Ask yourself a few questions:
 
-What do you want to protect?
+**What do you want to protect?**
 What do you have that requires protection? Some examples could include: personal information, sensitive communications, statistical reports, incriminating evidence, photographs, film, documentation of a movement, or written and oral histories of our communities.
 
-Who do you want to protect it from?
+**Who do you want to protect it from?**
 The information you have may need to be protected from right-wing adversaries, the police, intelligence officers, movement infiltrators, and the state.
 
-How likely is it that you will need to protect your assets?
+**How likely is it that you will need to protect your assets?**
 What level of protection does your information need? How often are you exposed to a threat?
 
-How bad are the consequences if you fail?
+**How bad are the consequences if you fail?**
 What can happen if the information you care about “leaks”? Could you lose the information completely? What does this mean for you as an individual, our organizations, movements, and our larger community?
 
-How much trouble are you willing to go through in order to prevent those negative consequences?
+**How much trouble are you willing to go through in order to prevent those negative consequences?**
 For example, are you willing to tighten the security on your devices, learn more about digital security principles and use best practices?
 
 Ultimately, by questioning your behavior you can reduce your digital imprint along with the amount of sensitive data you post online.
