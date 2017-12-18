@@ -1,5 +1,6 @@
 ---
 title: 'Secure Your Iphone'
+slug: secure_your_iphone
 ---
 
 <!-- Latest compiled and minified CSS -->
