@@ -341,7 +341,7 @@ When you enter your PIN or your pattern on the lock screen, your phone decrypts 
 
 With Androids, you must enable device encryption, but almost all current Apple devices encrypt their contents by default. However, to protect yourself from someone obtaining your data by physically stealing your device, you need to tie that encryption to a passphrase or code that only you know. If you do not have your PIN Passcode activated that Encryption will not be enabled on your phone. 
 
-Once your passcode is set your phone is now encrypted. What is crucial then is to only back up to your computer or hard drive and never to icloud. That way you retain maximum control of your data. 
+Once your passcode is set your phone is now encrypted. What is crucial then is to only back up to your computer or hard drive and **never** to icloud.This can be hard for folks because part of the ease of the apple ecosystem is the convenience of syncing content between your different apple devices. However if you backup your content to iCloud you know are allowing Apple to be a third party that can weigh-in on who can access your data. We recommedn that you retain maximum control of your data and break up with iCloud today and move to backing up your phone to an external hard drive. 
 
 ![](/images/Curriculum_img_30.jpg)
 
