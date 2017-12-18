@@ -178,18 +178,15 @@ Individual apps you have installed: Open the Google Play Store app, and select M
 
 7  [https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html](https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html)
 
-<div class="GLBL_H2" markdown="1">## 1. APPLOCK FOR ANDROIDS</div>
+<div class="GLBL_H2" markdown="1">##8. ADD APPLOCK FOR EXTRA PROTECTION</div>
 
-Security needs can arise in simple scenarios, such as keeping prying eyes out of certain apps. You might hand your phone to someone so they can make a call or look at a picture. You might be stopped by the police or have your phone confiscated. Once you turn your back, it's easy for that user to dig into your data.
+Security needs can arise from simple scenarios. You might hand your phone to someone so they can make a call or look at a picture. You might even be stopped by the police or have your phone confiscated. While you have consented to allow these users to use one application you may want to be able to have discretion about whether they can access other apps that you have not given them permission to use. 
 
 Fortunately, there are ways to keep certain applications readily available while others are locked down. Keeping a password lock on your phone prevents casual snooping through your contact numbers, texts, and data. In addition to requiring a passcode to unlock your phone, you can also download software that allows you to set a code for individual apps.
 
 We recommend using AppLock8 on Androids. AppLock is a free app that extends your phone’s access controls to specific applications.
 
-
 ![](/images/Curriculum_img_20.jpg)
-
-
 
 
 8  [https://play.google.com/store/apps/details?id=com.domobile.applock&amp;hl=en](https://play.google.com/store/apps/details?id=com.domobile.applock&amp;hl=en)
@@ -409,7 +406,9 @@ Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Pa
 
 
 
- 4. TURN OFF LOCATION SERVICES
+ 4. TURN OFF
+
+LOCATION SERVICES
 
 The first time an app tries to access your location it will ask for your permission, even when it’s running in the background. The app's developer may also explain how it uses your location.12
 
