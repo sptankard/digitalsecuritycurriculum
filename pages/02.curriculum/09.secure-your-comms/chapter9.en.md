@@ -9,9 +9,9 @@ Digital communications is the backbone for all of our organizing work. Whether i
 
 The problem is that almost all of these forms of communications are easily surveilled. We must maintain habits that safeguard the data shared when collaborating or working with other communities, activists, and each other. Encrypted communication protects our right to privacy when the laws and corporate platforms do not.
 
-That is where End-to-End Encryption Messaging (E2EE) comes in! E2EE is designed to keep eavesdroppers out of the conversation. Think of it as putting a seal on the users’ messages, especially as they travel across the social web, and only the sender and recipient have the tool to break open this seal. Even companies that own the messaging platform would not have the means to decrypt the files.
+That is where **End-to-End Encryption Messaging** (E2EE) comes in! E2EE is designed to keep eavesdroppers out of the conversation. Think of it as putting a seal on the users’ messages, especially as they travel across the social web, and only the sender and recipient have the tool to break open this seal. Even companies that own the messaging platform would not have the means to decrypt the files.
 
-While many apps say they offer E2EE, we give Signal our highest recommendation because they store the least amount of data and was developed by progressive developers to explicitly protect the right to privacy.
+While many apps say they offer E2EE, we give **[Signal](https://signal.org/#page-top)** our highest recommendation because they store the least amount of data and was developed by progressive developers to explicitly protect the right to privacy.
 
 WhatsApp, Facebook, and Apple Imessage all offer some form of E2EE but these corporations still monitor and share the content of your data while not being transparent about what
 
