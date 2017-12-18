@@ -90,13 +90,14 @@ Once you have set your PIN/Password the next step is to activate your security l
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to Settings → Display → Sleep. Different versions of the firmware use different names for this menu so you will have to find the one that matches your phone. Now select a time period that is appropriate to your usage habits in the pop-up menu that appears. The change will take place immediately</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to Settings → Display → Sleep. Different versions of the firmware use different names for this menu so you will have to find the one that matches your phone. Now select a time period that is appropriate to your usage habits in the pop-up menu that appears. The change will take place immediately.</span>
 		       </div>
 		     </div>
 
 <div class="GLBL_H2" markdown="1">## 4. ANDROID ENCRYPTION</div>
 
-With Androids, encrypting your phone is one of the best ways to protect your data if the device is ever stolen, seized, or confiscated. The purpose of encryption is to ensure that only someone who is authorized to access your phone’s data will be able to read it using the decryption key.
+With Androids, encrypting your phone is one of the best ways to protect your data if the device is ever stolen, seized, or confiscated. Encryption in the simplest of terms means the scrambling of data with complex math. 
+The purpose of [encryption ](https://en.wikipedia.org/wiki/Encryption)is to ensure that only someone who is authorized to access your phone’s data will be able to read it using the decryption key.
 
 When your phone is encrypted, its data is stored in an unreadable, seemingly scrambled form. If your phone is stolen, confiscated, or lost, this feature can protect data like your home address, email, bank accounts, communications, etc.
 
