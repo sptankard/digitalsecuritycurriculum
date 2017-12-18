@@ -23,7 +23,7 @@ slug: landingtest
 <section>
 <div class="container ">
     <div class="row">
-      <div class="col-lg-4 col-sm-12 text-center"> <img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/01-why-should-we-care-256x256a.png" data-holder-rendered="true">
+      <div class="col-lg-4 col-sm-12 text-center"> <img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/01-why-should-we-care-256x256.png" data-holder-rendered="true">
 
         <h4>Why Care About Digital Security?</h4>
         <a title="modules" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
@@ -156,3 +156,7 @@ slug: landingtest
   </div>
 </footer>
 <!-- / FOOTER -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.js"></script>
