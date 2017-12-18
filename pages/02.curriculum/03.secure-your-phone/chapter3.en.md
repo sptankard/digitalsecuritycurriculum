@@ -164,11 +164,10 @@ Go to **Settings** and then tap on **Call → Additional Settings → Caller ID 
 
 <div class="GLBL_H2" markdown="1">## 7. UPDATE YOUR ANDROID</div>
 
-To ensure that your phone remains secure, we strongly recommend you keep your software updated. There are two types of updates to check for:
+To ensure that your phone remains secure, we strongly recommend you keep your phone and its software updated. These updates are crucial to keep the phone functioning and more importantly contain software patches to address the most recent malware threats. Keep in mind then when you are updateThere are two types of updates to check for:
 
-The phone’s operating system: Go to Settings → About phone → Updates → Check for Updates7
-
-Individual apps you have installed: Open the Google Play Store app, and select My Apps from the side menu.
+* Updates for the phone’s operating system.   Go to **Settings → About phone → Updates → Check for Updates**
+* Updates to individual apps you have installed: Open the Google Play Store app, and select My Apps from the side menu.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
