@@ -215,7 +215,7 @@ As always, it is important to keep your software up to date to thwart new securi
 
 
 
-![](/images/Curriculum_img_55.jpg)
+![](/images/Curriculum_img_55.png)
 
 
 <div class="SECR_H1" markdown="1"># SECURE YOUR PC</div>
