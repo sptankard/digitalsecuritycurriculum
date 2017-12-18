@@ -1,6 +1,5 @@
 ---
 title: 'Secure Your Android Page 2'
-slug: secure_your_android_02
 ---
 
 <span style="color:purple">✔ MAINTAIN ALL YOUR ANDROID UPDATES.</span> These updates will have important security patches. Not doing an update can leave your device vulnerable, go to Settings → About Phone → Updates → Check for updates. 
