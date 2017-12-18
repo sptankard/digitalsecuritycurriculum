@@ -47,7 +47,7 @@ slug: landingtest
     </div>
       <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/03-Secure-Your-Phone-256x256.png" data-holder-rendered="true">
         <h4>Secure Your Phone</h4>
-        &nbsp; &nbsp;<a title="modules" href="/one-sheets/secure-your-android"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+        &nbsp; &nbsp;<a title="modules" href="/curriculum/secure_your_phone"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
         <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
       <br />
