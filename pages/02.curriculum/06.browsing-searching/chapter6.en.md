@@ -31,10 +31,6 @@ To start making the necessary modifications, we need to access the settings area
 
 
 
-
-![](/images/Curriculum_img_122.jpg)
-
-
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Chrome →  ⋮   → Select “New Incognito Window”</span>
