@@ -451,7 +451,7 @@ Available for Mozilla Firefox, Google Chrome, and Internet Explorer, Web Of Trus
 ![](/images/Curriculum_img_151.jpg)
 
 
-<div class="SECG_H1" markdown="1"># WHAT ABOUT SEARCH ENGINES?</div>?
+<div class="SECG_H1" markdown="1"># WHAT ABOUT SEARCH ENGINES?</div>
 
 Search Engines are big money for Google and Microsoft because what you search tells a lot about you and what your concerns are. Imagine if I search in one session about the cost of diapers, maternity centers, and child care, one could easily infer that I was thinking about children. Similarly if you are about to hold a protest and you search about non-violent direct action or the number for the lawyers guild, one could then infer you were thinking about a protest or some direct action. In essence who ever owns your search history owns you!
 
