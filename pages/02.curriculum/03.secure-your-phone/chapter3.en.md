@@ -394,15 +394,22 @@ When Location Services are turned completely off, no apps can use your location 
 
 <div class="GLBL_H2" markdown="1">## 5. GUIDED ACCESS FOR IPHONES</div>
 
-Guided Access limits your device to a single app and lets you control which app features are available.
+Whether you're working for an organization that wants to use iPhones or iPads to display information or you'd simply like your child to focus on their homework app, you can use Apple's Guided Access feature to lock your screen on one specific app. 
+
+Built as an Accessibility feature, Guided Accees limits users to one specific app, preventing them from switching to another program or returning to the Home screen. This can be extremely useful in a number of settings, including education, autism research, businesses, restaurants, museums, and more.
+
+Whether it's a writing app, drawing app, music app, math app, or a story, video, or reading app, Guided Access helps make sure that all attention remains on that app. It also prevents you from accidentally exiting to the Home screen or another app when you don't mean to.
+
+Guided Access can even be used to create a "guest mode," allowing you to hand your device to someone so that they can use Safari, iBooks, Video, or a game without having to worry that they'll snoop through your personal information.
+
+This is because Guided Access keeps your iPhone in a single app, lets you disable areas of the screen that aren’t relevant to a task, and disable the hardware buttons. You can end a session by entering a passcode to return your iPad or iPhone to normal mode.
 
 You can use Guided Access to:
 
-Temporarily restrict your iOS device to a single app
-Disable areas of the screen that aren’t relevant to a task, or areas where an accidental gesture might cause a distraction
-Disable the hardware buttons
+* Temporarily restrict your iOS device to a single app.
+* Disable areas of the screen that aren’t relevant to a task, or areas where an accidental gesture might cause a distraction.
+* Disable the hardware buttons.
 
-Apple provides a built-in feature to both hide and lock apps on iPhones.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
@@ -425,9 +432,6 @@ With this, you have successfully enabled the Guided Access feature and can now l
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Next, triple-click the home button. This will give you options to restrict features within an app, as shown below. This is the best part of this feature, you may have already seen apps that lock other applications, but the ability to lock specific features within an app is new and different. Simply circle any areas of the screen you would like to make inaccessible.13</span>
 		       </div>
 		     </div>
-
-13  [http://www.imore.com/how-use-guided-access-iphone-and-ipad](http://www.imore.com/how-use-guided-access-iphone-and-ipad)
-
 
 ![](/images/Curriculum_img_36.jpg)
 
@@ -530,3 +534,4 @@ This app works the same way. When you choose a photo, it shows you the saved met
 7. [http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/](http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/)
 
 8.[https://ssd.eff.org/en/module/how-encrypt-your-iphone](https://ssd.eff.org/en/module/how-encrypt-your-iphone)
+9.[http://www.imore.com/how-use-guided-access-iphone-and-ipad](http://www.imore.com/how-use-guided-access-iphone-and-ipad)
