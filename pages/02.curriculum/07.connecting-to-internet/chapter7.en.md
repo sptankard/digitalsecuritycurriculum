@@ -61,7 +61,7 @@ Your Internet traffic is monitored for keywords.
 
 <div class="GLBL_H2" markdown="1">## TOR</div>
 
-Tor29 is used by political activists, whistleblowers, journalists, domestic violence survivors, and average people around the world who need to shield their identities as they read and write online.
+Tor 29 is used by political activists, whistleblowers, journalists, domestic violence survivors, and average people around the world who need to shield their identities as they read and write online.
 
 It helps you hide your IP address and prevent browser fingerprinting, making it more difficult for online trackers and even governments to surveil you.
 

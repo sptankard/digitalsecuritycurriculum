@@ -81,12 +81,13 @@ It is important to note that in managing risks to improve security there are alw
 Ask yourself a few questions:
 
 **What do you want to protect?**
-What do you have that requires protection? Some examples could include: personal information, sensitive communications, statistical reports, incriminating evidence, photographs, film, documentation of a movement, or written and oral histories of our communities.
+Start your risk assessment with asking yourself what do you have that requires protection?  Some examples of items that need protection include: personal information, sensitive communications, statistical reports, incriminating evidence, photographs, film, documentation of a movement, or written and oral histories of our communities.
 
 **Who do you want to protect it from?**
-The information you have may need to be protected from right-wing adversaries, the police, intelligence officers, movement infiltrators, and the state.
+Thinking about adversaries can be difficult. Many people feel an inherent aversion to thinking about the people that might intend to do violence towards you and your organization. When doing this excercise know that it is okay to have a litle anxiety. It is unpleasant to think about violence period. Have compassion for yourself and know that with risk assessment you are planning for worst and this strategy will help you outhink your opponents. So take a deep breath and dig into identifying all of the opponents who might be interested in targeting what you need to keep safe. This can include police officers,intelligence agents,  right-wing adversaries, movement infiltrators, and even abusive family members. 
 
 **How likely is it that you will need to protect your assets?**
+This question is all about you thinking realistically to parse between what is your anxiety around being attacked and what is the likelihood of an attack. That is 
 What level of protection does your information need? How often are you exposed to a threat?
 
 **How bad are the consequences if you fail?**
