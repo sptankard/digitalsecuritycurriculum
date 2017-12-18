@@ -80,7 +80,7 @@ slug: landingtest
         <br />
 
       </div>
-      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/06-Secure Your Browsing 256x256.png" data-holder-rendered="true">
+      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/06-Secure-Your-Browsing-256x256.png" data-holder-rendered="true">
         <h4>Secure Browsing</h4>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title="modules" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
         <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
