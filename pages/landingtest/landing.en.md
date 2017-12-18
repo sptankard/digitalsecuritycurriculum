@@ -96,7 +96,7 @@ slug: landingtest
       <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/07-Secure-Your-Network-256x256.png" data-holder-rendered="true">
         <h4>Secure Your Network</h4>
         <a title="modules" href="/curriculum/secure_your_network"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-network-access"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="/one-sheets/secure-your-network-access/secure_your_network_access"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
         <br />
         <br />
