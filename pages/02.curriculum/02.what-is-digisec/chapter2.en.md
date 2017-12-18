@@ -31,7 +31,7 @@ It's OK if this confusing! The more you start thinking about it on your own and 
 
 <div class="GLBL_H2" markdown="1">## IT’S ALL ABOUT HARM REDUCTION RIGHT NOW</div>
 
-In our journey toward better digital security, it is important to keep in mind that Internet security solutions, programs, and services available on the Internet can change their security settings and privacy policies without notice, possibly putting users at risk. New security updates, as well as viruses and malware, are launched every day. This means that what was secure yesterday may be vulnerable to attack today.
+In our journey toward better digital security one of the hardest lessons to accept is that there is no silver bullet of digital security. Internet security solutions, programs, and services available on the Internet can change their security settings and privacy policies without notice, possibly putting users at risk. New security updates, as well as viruses and malware, are launched every day. This means that what was secure yesterday may be vulnerable to attack today.
 
 There is no alternative to staying aware, informed, and engaged and most importantly fighting back as a community. You are only as safe as the discipline of your digital network.
 
@@ -41,9 +41,7 @@ Even when you know the problems, some solutions may be out of your hands. Other 
 
 And you know what? All of that is ok. In order to become a digitally resilient community together we have to be patient, firm, and aware that digital security is a journey not a destination. This is why we use the harm reduction framework.
 
-We will make mistakes, and we will also be getting stronger together. We want to be a learning
-
-community that has patience and compassion for each other during this difficult time. So ask questions, ask them frequently, and know the work you begin today will only grow if you stay committed to digital resilience tomorrow.
+We will make mistakes, and we will also be getting stronger together. We want to be a learning community that has patience and compassion for each other during this difficult time. So ask questions, ask them frequently, and know the work you begin today will only grow if you stay committed to digital resilience tomorrow.
 
 <div class="GLBL_H2" markdown="1">## SIGNS OF SECURITY COMPROMISE</div>
 
@@ -57,7 +55,7 @@ Many people feel safe when, in fact, they already have a compromised digital eco
 * Instances when your cursor unexpectedly moves without your direction.
 * Links from people you don’t know via Facebook, Twitter, WhatsApp, or e-mail.
 
-If you have any of these symptoms don't panic. Just take your device to a trusted IT professional and have them take a look. Even if you don't have a security compromise these symptoms can also sometimes point to other serious problems on your machines. The point is to be aware and be proactive about problems so when a real threat arises you are ready.
+If you have any of these symptoms don't panic. The best approach is to  take your device to a trusted IT professional and have them take a look. Even if you don't have a security compromise these symptoms can also sometimes point to other serious problems on your machines. The point is to be aware and be proactive about problems so when a real threat arises you are ready.
 
 
 ![](/images/Curriculum_img_10.jpg)
