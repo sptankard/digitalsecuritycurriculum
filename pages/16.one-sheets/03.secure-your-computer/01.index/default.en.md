@@ -1,5 +1,6 @@
 ---
 title: 'Secure Your Computer'
+slug: secure_your_computer
 ---
 
 <!-- Latest compiled and minified CSS -->
