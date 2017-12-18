@@ -35,7 +35,7 @@ Now let’s explore then how to send End-to-End Encryption Messages on each of t
 
 <div class="SECS_H1" markdown="1"># SIGNAL</div>
 
-Signal35 is a free and open source communication app for Android and iOS that employs end-to-end encryption, allowing users to have encrypted conversations with other Signal users and send end-to-end encrypted texts, group texts, photos, and video messages. Signal uses your data connection, so all parties in a Signal communication must have Internet access on their mobile devices. Signal users don’t incur SMS and MMS fees.
+Signal is a free and open source communication app for Android and iOS that employs end-to-end encryption, allowing users to have encrypted conversations with other Signal users and send end-to-end encrypted texts, group texts, photos, and video messages. Signal uses your data connection, so all parties in a Signal communication must have Internet access on their mobile devices. Signal users don’t incur SMS and MMS fees.
 
 You can download Signal as an app on your phone or use it as a browser extension on your computer.
 
