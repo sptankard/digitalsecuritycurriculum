@@ -150,7 +150,7 @@ If you want to restrict cookies from being stored on your browser and using the 
 
 
 
-![](/images/Curriculum_img_130.jpg)
+![](/images/Curriculum_img_130.png)
 
 
 <div class="col-xs-12 none">
@@ -338,7 +338,7 @@ You can start a private browsing session in Internet Explorer (also called InPri
 		     </div>
 
 
-![](/images/Curriculum_img_142.jpg)
+![](/images/Curriculum_img_142.png)
 
 
 ![](/images/Curriculum_img_143.jpg)

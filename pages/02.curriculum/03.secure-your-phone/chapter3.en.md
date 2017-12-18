@@ -28,9 +28,11 @@ Today, law enforcement agencies use technology that provide police with data abo
 
 Organizations such as the [American Civil Liberties Union ](https://www.aclu.org/issues/privacy-technology/location-tracking/cell-phone-privacy)(ACLU) and [Electronic Privacy Information Center](https://www.epic.org/privacy/location/) (EPIC), say that the power of even small-town police departments to quickly obtain cell phone data results in the erosion of privacy and the violation of Fourth Amendment protections against unreasonable search and seizure. But thanks to a unanimous Supreme Court decision in Riley v. California, this practice is now officially legal.<sup>2</sup>
 
-In extreme circumstances, to prevent all tracking of your location from your phone the best option is to leave your phone at home. If that is not an option then shut the phone down and remove the battery. This is the easiest way to ensure that you can't be tracked,but it comes at the price of not being able to use your phone at all. If you need access to any data on your phone, back it up to a notebook or a a computer before you power down your device.
+In extreme circumstances, to prevent all tracking of your location from your phone the best option is to leave your phone at home. If that is not an option then shut the phone down and remove the battery. This is the easiest way to ensure that you can't be tracked,but it comes at the price of not being able to use your phone at all. If you need access to any data on your phone, back it up to a notebook or a computer before you power down your device.
 
-If your phone’s battery cannot be removed, place it in a Faraday bag, which blocks transmission with its internal lining.<sup>3</sup> Not all faraday bags are created equal, so make sure you try it out before you put it into use in everyday life. You want to confirm that, at a minimum, cell and GPS services are blocked.
+If your phone’s battery cannot be removed, another option is using a **Faraday Bag**. A Faraday bag is a bag which blocks the transmision of electronic fields.<sup>3</sup> Not all faraday bags are created equal and in order to use a faraday bag effectively you should test the bag. You want to confirm that, at a minimum, cell and GPS services are blocked. 
+
+To begin testing place the phone as close as you can to your router. If your phone does not receive the texts then the faraday bag is effectively blocking your cell transmissions. Do the same by testing a GPS enable application. If you find that the phone is blocking that as well then the bag is working. If you are unsure about how to do this process please work with a digital security professional as you do not want to risk being wrong. before putting the bag to use in everyday life.<sup>4</sup> 
 
 In addition to these scenarios, we face threats of information leaks during the everyday use of our phones. There are several simple safe practices that can be adopted to keep ourselves and our information safe. In the following section, we will explore a few of them.
 
@@ -584,5 +586,7 @@ This app works the same way. When you choose a photo, it shows you the saved met
 
 2  [https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition](https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition)
 
-3  [https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0](https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0)
+3 [https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics](https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics)
+
+4 [https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0](https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0)
 

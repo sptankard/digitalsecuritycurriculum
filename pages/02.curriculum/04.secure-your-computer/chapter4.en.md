@@ -13,7 +13,7 @@ SECURE YOUR COMPUTER
 Whether you are setting up a new machine or using your day-to-day computer, it’s a good idea to check your settings. In this section, we lay out some basics of computer security for both Macs and PCs. This section is broken down by operating system. In later editions, we hope to include sections on Linux, ChromeOs, and more, so stay tuned.
 
 
-![](/images/Curriculum_img_41.jpg)
+![](/images/Curriculum_img_41.png)
 
 
 <div class="SECR_H1" markdown="1"># SECURE YOUR MAC</div>
@@ -125,7 +125,7 @@ With FileVault enabled, as soon as your Mac shuts down, its entire drive and dat
 		     </div>
 
 
-![](/images/Curriculum_img_46.jpg)
+![](/images/Curriculum_img_46.png)
 
 
 <div class="col-xs-12 none">
@@ -280,7 +280,7 @@ also be configured to block certain types of outgoing traffic, it can also log s
 Firewalls can be anything from a piece of software running on your laptop (like the firewall included with Windows) to dedicated hardware in a corporate network. Such corporate firewalls could analyze outgoing traffic to ensure no malware was communicating through the network, monitor employee’s Internet use, and filter traffic—for example, a firewall could be configured to only allow web browsing through the firewall, blocking access to other types of applications.
 
 
-![](/images/Curriculum_img_57.jpg)
+![](/images/Curriculum_img_57.png)
 
 
 FIREWALL
@@ -322,7 +322,7 @@ YOUR COMPUTERS
 		     </div>
 
 
-![](/images/Curriculum_img_60.jpg)
+![](/images/Curriculum_img_60.png)
 
 
 <div class="GLBL_H2" markdown="1">## 3. KEEP YOUR USER ACCOUNT CONTROL TURNED ON</div>
@@ -575,6 +575,6 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 		     </div>
 
 
-![](/images/Curriculum_img_76.jpg)
+![](/images/Curriculum_img_76.png)
 
 

@@ -84,7 +84,7 @@ Passphrase managers actually become invaluable once you take the first step—th
 Passphrase managers store all your passwords, generate strong ones for you, and in general, the only password you have to remember is the one to open your password manager. So, make it a strong one.
 
 
-![](/images/Curriculum_img_80.jpg)
+![](/images/Curriculum_img_80.png)
 
 
 17  [http://lifehacker.com/5529133/five-best-password-managers](http://lifehacker.com/5529133/five-best-password-managers)
@@ -214,7 +214,7 @@ Google's Gmail is one of the most used web email apps in the world. This section
 		     </div>
 
 
-![](/images/Curriculum_img_91.jpg)
+![](/images/Curriculum_img_91.png)
 
 
 GOOGLE SECURITY CHECK UP
@@ -573,6 +573,6 @@ Whitepages (to remove listing: [https://support.whitepages.com/hc/en-us/articles
 Finally, there is a more comprehensive list at Trollbusters at this link [https://yoursosteam.wordpress.com/2015/08/30/remove-your-mailing-address-from-data-broker-sites/](https://yoursosteam.wordpress.com/2015/08/30/remove-your-mailing-address-from-data-broker-sites/)
 
 
-![](/images/Curriculum_img_119.jpg)
+![](/images/Curriculum_img_119.png)
 
 

@@ -18,7 +18,7 @@ While many apps say they offer E2EE, we give Signal our highest recommendation b
 WhatsApp, Facebook, and Apple Imessage all offer some form of E2EE but these corporations still monitor and share the content of your data while not being transparent about what
 
 
-![](/images/Curriculum_img_217.jpg)
+![](/images/Curriculum_img_217.png)
 
 
 they would share with a government agency if you are targeted.
@@ -721,7 +721,7 @@ GNU Privacy Assistant is a useful application that's comes bundled with Gpg4win.
 
 
 
-![](/images/Curriculum_img_263.jpg)
+![](/images/Curriculum_img_263.png)
 
 
 

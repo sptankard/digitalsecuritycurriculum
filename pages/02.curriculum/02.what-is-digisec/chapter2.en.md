@@ -59,7 +59,7 @@ Many people feel safe when, in fact, they already have a compromised digital eco
 If you have any of these symptoms don't panic. The best approach is to  take your device to a trusted IT professional and have them take a look. Even if you don't have a security compromise these symptoms can also sometimes point to other serious problems on your machines. The point is to be aware and be proactive about problems so when a real threat arises you are ready.
 
 
-![](/images/Curriculum_img_10.jpg)
+![](/images/Curriculum_img_10.png)
 
 
 <div class="WHAY_H1" markdown="1"># HOW TO MAKE A RISK ASSESSMENT</div>

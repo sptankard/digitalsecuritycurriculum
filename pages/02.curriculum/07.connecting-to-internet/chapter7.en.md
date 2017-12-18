@@ -12,7 +12,7 @@ slug: 'connecting-to-the-internet'
 <div class="SECK_H1" markdown="1"># CONNECTING TO THE INTERNET—HOW DOES IT ALL WORK?</div>
 
 
-![](/images/Curriculum_img_156.jpg)
+![](/images/Curriculum_img_156.png)
 
 
 GOVERNMENT/FIREWALL
@@ -83,13 +83,13 @@ To better understand how Tor works below is a series of diagrams that will help 
 the Tor process. In these diagrams our friend Ambedkar wants to send e-mails to his friend Anita. 
 
 
-![](/images/Curriculum_img_157.jpg)
+![](/images/Curriculum_img_157.png)
 
 
 ![](/images/Curriculum_img_158.jpg)
 
 
-![](/images/Curriculum_img_159.jpg)
+![](/images/Curriculum_img_159.png)
 
 
 
@@ -101,7 +101,7 @@ What is important to know is that the path between Anita and the exit node is UN
 please make sure you use the https protocol between sites.
 
 
-![](/images/Curriculum_img_160.jpg)
+![](/images/Curriculum_img_160.png)
 
 
 
@@ -157,7 +157,7 @@ You are therefore shifting trust away from your ISP (which has no interest in, o
 Encrypting and decrypting data requires processing power. This also means that, technically, the stronger the encryption used, the slower your Internet access. However, given the power of modern computers, this issue is relatively minor compared to the extra distance traveled by your data. Using VPN always introduces another leg to the journey that your data has to travel (i.e. to the VPN server), and thanks to the laws of physics, the further your data has to travel, the longer it takes.
 
 
-![](/images/Curriculum_img_161.jpg)
+![](/images/Curriculum_img_161.png)
 
 
 
@@ -169,7 +169,7 @@ If you connect to the VPN server located geographically nearby in order to acces
 We encourage you to always look through the privacy policies of all VPNs that you work with. Some VPN's we recommend include VyprVPN by Golden Frog. Not all VPNs are transparent about what they share about you and where. Vypr currently has a minimal amount of data stored about you and your usage and they also hold all servers in house. The downside of Vypr is that it is a paid service. You can find it here: [https://www.goldenfrog.com/vyprvpn](https://www.goldenfrog.com/vyprvpn)
 
 
-![](/images/Curriculum_img_162.jpg)
+![](/images/Curriculum_img_162.png)
 
 
 <div class="GLBL_H2" markdown="1">## TOR</div> VS VPN

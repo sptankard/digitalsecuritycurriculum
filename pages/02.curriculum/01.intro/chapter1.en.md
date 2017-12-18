@@ -29,7 +29,7 @@ We also know many people in our diverse communities feel powerless and may even 
 We hope this curriculum will create a foundation for an education in safety and resilience, and a pathway to bring this crucial conversation into your homes, organizations, and movements. Digital security is a process not a destination and we believe that together we can make all of us safer! 
 
 
-![](/images/Curriculum_img_5.jpg)
+![](/images/Curriculum_img_5.png)
 
 
 <div class="WHAY_H1" markdown="1"># HOW TO USE THIS CURRICULUM</div>
@@ -50,7 +50,7 @@ We hope this curriculum will arm you with basic digital security knowledge and e
 * Secure your communications
 
 
-![](/images/Curriculum_img_6.jpg)
+![](/images/Curriculum_img_6.png)
 
 
 <div class="GLBL_H2" markdown="1">## LEGEND</div>
@@ -93,7 +93,7 @@ If a government strips us of privacy in our lives and in our communications, it 
 We should expect an unobstructed furthering of the state’s rights in the face of our own.
 
 
-![](/images/Curriculum_img_7.jpg)
+![](/images/Curriculum_img_7.png)
 
 
 The Fourth Amendment to the U.S. Constitution, alludes to the right to privacy, stating that:
@@ -119,7 +119,7 @@ Now, the whole country is experiencing what those of us from these communities h
 # SHIT IS REAL Y’ALL, and it’s time to get to work!
 
 
-![](/images/Curriculum_img_8.jpg)
+![](/images/Curriculum_img_8.png)
 
 &nbsp;
  

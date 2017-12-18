@@ -259,7 +259,7 @@ It is very important to close these sessions in order to prevent anyone else acc
 		     </div>
 
 
-![](/images/Curriculum_img_175.jpg)
+![](/images/Curriculum_img_175.png)
 
 
 <div class="col-xs-12 none">
@@ -623,7 +623,7 @@ Facebook currently promises not to associate your name or picture with third-par
 
 
 
-![](/images/Curriculum_img_196.jpg)
+![](/images/Curriculum_img_196.png)
 
 
 SOCIAL ADS
