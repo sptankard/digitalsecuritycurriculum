@@ -1,5 +1,6 @@
 ---
 title: 'Secure Your Communications'
+slug: secure_your_communication
 ---
 
 <!-- Latest compiled and minified CSS -->
