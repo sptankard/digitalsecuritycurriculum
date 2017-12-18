@@ -394,15 +394,13 @@ When Location Services are turned completely off, no apps can use your location 
 
 <div class="GLBL_H2" markdown="1">## 5. GUIDED ACCESS FOR IPHONES</div>
 
-Whether you're working for an organization that wants to use iPhones or iPads to display information or you'd simply like your child to focus on their homework app, you can use Apple's Guided Access feature to lock your screen on one specific app. 
+Whether you're working for an organization that wants to use iPhones to display information or you'd simply like your child to focus on their homework app, you can use Apple's Guided Access feature to lock your screen on one specific app. 
 
-Built as an Accessibility feature, Guided Accees limits users to one specific app, preventing them from switching to another program or returning to the Home screen. This can be extremely useful in a number of settings, including education, autism research, businesses, restaurants, museums, and more.
-
-Whether it's a writing app, drawing app, music app, math app, or a story, video, or reading app, Guided Access helps make sure that all attention remains on that app. It also prevents you from accidentally exiting to the Home screen or another app when you don't mean to.
+Built as an Accessibility feature, Guided Accees limits users to one specific app, preventing them from switching to another program or returning to the Home screen. This can be extremely useful in a number of settings, including organizing,research, and businesses. Whatever the task Guided Access helps make sure that all attention remains on that app. It also prevents you from accidentally exiting to the Home screen or another app when you don't mean to.
 
 Guided Access can even be used to create a "guest mode," allowing you to hand your device to someone so that they can use Safari, iBooks, Video, or a game without having to worry that they'll snoop through your personal information.
 
-This is because Guided Access keeps your iPhone in a single app, lets you disable areas of the screen that aren’t relevant to a task, and disable the hardware buttons. You can end a session by entering a passcode to return your iPad or iPhone to normal mode.
+This is because Guided Access keeps your iPhone in a single app, lets you disable areas of the screen that aren’t relevant to a task, and disable the hardware buttons. You can even end a session by entering a passcode to return your iPad or iPhone to normal mode.
 
 You can use Guided Access to:
 
@@ -425,7 +423,7 @@ You can use Guided Access to:
 
 ![](/images/Curriculum_img_35.jpg)
 
-With this, you have successfully enabled the Guided Access feature and can now lock Apps. To do so, open the app you want to lock, for instance, the Camera app.
+With this, you have successfully enabled the Guided Access feature and can now lock Apps. To do so, open the app you want to lock, for instance, the Camera app.<sup>9 </sup>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
