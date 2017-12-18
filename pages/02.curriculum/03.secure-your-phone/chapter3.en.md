@@ -345,6 +345,9 @@ With Androids, you must enable device encryption, but almost all current Apple d
 
 Once your passcode is set your phone is now encrypted. What is crucial then is to only back up to your computer or hard drive and **never** to icloud.This can be hard for folks because part of the ease of the apple ecosystem is the convenience of syncing content between your different apple devices. However if you backup your content to iCloud you know are allowing Apple to be a third party that can weigh-in on who can access your data. We recommedn that you retain maximum control of your data and break up with iCloud today and move to backing up your phone to an external hard drive. 
 
+Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Passcode Settings page. You should see a message reading “Data protection is enabled.” This means that the device's encryption is now tied to your passcode, and most data on your phone will require that code to unlock.<sup>8</8>
+
+
 ![](/images/Curriculum_img_30.jpg)
 
 <div class="col-xs-12 none">
@@ -354,7 +357,6 @@ Once your passcode is set your phone is now encrypted. What is crucial then is t
 		        </div>
 		     </div>
 
-Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Passcode Settings page. You should see a message reading “Data protection is enabled.” This means that the device's encryption is now tied to your passcode, and most data on your phone will require that code to unlock.<sup>8</8>
 
 ![](/images/Curriculum_img_31.jpg)
 
