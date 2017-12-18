@@ -1,9 +1,7 @@
 ---
 title: 'Browsing and Searching'
+slug: browsing_and_searching
 ---
-
-
-
 
 ![](/images/Curriculum_img_120.jpg)
 
