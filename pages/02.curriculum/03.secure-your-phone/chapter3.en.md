@@ -136,7 +136,7 @@ Finally also, ensure that tethering and portable hotspots are switched off when 
 
 Many people do not realize how much location information your phone is sharing with both phone manufactures and the companies who create the apps you use. One way to begin minimizing this information is to monitor and change your location settings on your phone. You can do this in your Android by going to the following settings.
 
-Switch off wireless and **GPS location** (under **Location Services**) and mobile data (under **Settings → Personal → Location**)
+Switch off **wireless **and **GPS location** (under **Location Services**) and mobile data (under **Settings → Personal → Location**)
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
@@ -149,7 +149,7 @@ Switch off wireless and **GPS location** (under **Location Services**) and mobil
 
 You can hide your phone number from showing up to the person you are calling by adjusting this setting on your Android. However, you should note that your phone carrier and legal authorities will still have full access to logs showing who you called and when.
 
-Go to Settings and then tap on **Call → Additional Settings → Caller ID → Hide Number** and it will be blocked.
+Go to **Settings** and then tap on **Call → Additional Settings → Caller ID → Hide Number** and it will be blocked.
 
 
 ![](/images/Curriculum_img_18.jpg)
