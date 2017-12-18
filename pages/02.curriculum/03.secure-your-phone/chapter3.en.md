@@ -83,7 +83,7 @@ With a six-digit PIN, there are one million possible codes, so it’s harder for
 <div class="GLBL_H2" markdown="1">## 3. ACTIVATE A SECURITY LOCK TIMER</div>
 &nbsp;
 
-Once you have set your PIN/Password the next step is to activate your security lock timer. This determines the amount of time your phone will be open before the phone locks itself. You will vary this time based on the risk of your current activity. If you are at home and using phone for an activity like cooking or reading then you will want to keep your phone from locking. However if you are at work and leave your phone on your desk around other people it would be wise to keep your units of time short so that your phone is protected at all times. If you have done your risk assessment this will help you make this decision and adapt it as your situations changes. 
+Once you have set your PIN/Password the next step is to activate your security lock timer. This determines the amount of time your phone will be open before the phone locks itself. You will vary this time based on the risk of your current activity. For maximum security, always choose the shortest possible time frame that suits you without becoming too taxing. You can always adapt your times to your activities as well. So if you use your phone for recipes keep security lock timer off, but then turn it back on when you resume regular activity. Use your risk assessment to figure out what makes the most sense for you.
 
 ![](/images/Curriculum_img_15.jpg)
 &nbsp;
@@ -93,8 +93,6 @@ Once you have set your PIN/Password the next step is to activate your security l
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to Settings → Display → Sleep. Different versions of the firmware use different names for this menu so you will have to find the one that matches your phone. Now select a time period that is appropriate to your usage habits in the pop-up menu that appears. The change will take place immediately</span>
 		       </div>
 		     </div>
-
-For maximum security, always choose the shortest possible time frame that suits you without becoming too taxing. You can always adapt your times to your activities as well. So if you use your phone for recipes keep security lock timer off, but then turn it back on when you resume regular activity. Use your risk assessment to figure out what makes the most sense for you.
 
 <div class="GLBL_H2" markdown="1">## 4. ANDROID ENCRYPTION</div>
 
