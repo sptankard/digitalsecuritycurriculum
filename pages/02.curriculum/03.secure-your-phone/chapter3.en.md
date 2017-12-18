@@ -328,10 +328,7 @@ Once you have set your PIN/Password the next step is to activate your security l
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If you are running iOS 9 or iOS 8, the lock screen option is available in Settings → General → Auto-Lock → Time interval.</span>
 		       </div>
-		     </div><sup>7</sup>
-
-
-
+		     </div> 
 
 <div class="GLBL_H2" markdown="1">## 3. IPHONE ENCRYPTION</div>
 
@@ -364,9 +361,7 @@ Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Pa
 
 
 
- 4. TURN OFF
-
-LOCATION SERVICES
+ 4. TURN OFF LOCATION SERVICES
 
 The first time an app tries to access your location it will ask for your permission, even when it’s running in the background. The app's developer may also explain how it uses your location.12
 
