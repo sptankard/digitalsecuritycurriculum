@@ -198,7 +198,7 @@ How comfortable are you with sharing your physical location with different apps?
 
 
 
-<div class="GLBL_H2" markdown="1">## 5. KEEP YOUR COMPUTER’S SOFTWARE UPDATED</div>
+<div class="GLBL_H2" markdown="1">## 5. KEEP YOUR MAC’S SOFTWARE UPDATED</div>
 
 
 As always, it is important to keep your software up to date to thwart new security threats.
@@ -215,7 +215,7 @@ As always, it is important to keep your software up to date to thwart new securi
 
 
 
-![](/images/Curriculum_img_55.png)
+![](/images/Curriculum_img_55.jpg)
 
 
 <div class="SECR_H1" markdown="1"># SECURE YOUR PC</div>
