@@ -261,8 +261,6 @@ After installing Simply pick one or more photos with EXIF information from the G
 ![](/images/Curriculum_img_25.jpg)
 
 
-
-
 <div class="SECE_H1" markdown="1"># SECURE YOUR IPHONE</div>
 
 <div class="GLBL_H2" markdown="1">## 1. ACTIVATE YOUR PIN AND SCREEN LOCK</div>
@@ -292,18 +290,12 @@ So lets get started with setting up your iPhone. The first step is to set up the
 
 You should choose a code that is at least six digits long. If you have simple code selected, tap Change Passcode, enter your current code, then choose a harder sequence. Enter your passcode again to verify and activate it.
 
-Different versions of iPhones may have different ways to get to the settings described in this section. We describe the general method but do a little searching around the settings areas of your particular version to make sure you achieve the same.
-
+Different versions of iPhones may have different ways to get to the settings described in this section. We describe the general method but do a little searching around the settings areas of your particular phone to make sure you achieve the same results. 
 
 ![](/images/Curriculum_img_26.jpg)
 
 
-
-
 ![](/images/Curriculum_img_27.jpg)
-
-
-
 
 9  [http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/)
 
