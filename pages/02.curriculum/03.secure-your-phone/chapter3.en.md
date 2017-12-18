@@ -564,7 +564,7 @@ This app works the same way. When you choose a photo, it shows you the saved met
 		     </div>
 
 
-![](/images/Curriculum_img_39.jpg)
+![](/images/Curriculum_img_39.png)
 
 
 
