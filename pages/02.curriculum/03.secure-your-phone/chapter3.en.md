@@ -69,9 +69,9 @@ If your phone uses a SIM card, you can set a lock on the card so it cannot be us
 We recommended using the PIN or password option, as a PIN or password offers more protection against law enforcement or adversaries. This measure is particularly important in the event that you are faced with a casual search by police or other authorities.  A good PIN/PASSWORD would be at least six digits long and does not use any of the following items:
 
 * Simple number sequences like 1234 or 0000 (including repetition: 1122 or 2233)
-* Significant dates such as your birth year or spouse’s birthday
-* Any part of your Social Security Number
-* Any part of your address or phone number
+* Significant dates such as your birth year or spouse’s birthday.
+* Any part of your Social Security Number.
+* Any part of your address or phone number.
 * Longer PINs are safer than shorter PINs because there are more ways to mix the numbers together. For example, if you use a four digit PIN, there are 10,000 possible variations (starting with 0000, 0001, 0002, and so on).
 With a six-digit PIN, there are one million possible codes, so it’s harder for thieves and computer programs to successfully guess your PIN.
 
