@@ -137,7 +137,7 @@ title: 'Digital Security For All'
 
         <a title="modules" href="en/curriculum/conclusion"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
         <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
-        <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+        <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
 
         <br />
         <br />
