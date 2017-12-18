@@ -1,10 +1,7 @@
 ---
 title: 'Connecting to the Internet'
-slug: 'connecting-to-the-internet'
+slug: connecting_to_the_internet
 ---
-
-
-
 
 ![](/images/Curriculum_img_155.jpg)
 
