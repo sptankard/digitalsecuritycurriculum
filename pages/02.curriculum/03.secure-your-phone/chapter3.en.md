@@ -278,7 +278,7 @@ So lets get started with setting up your iPhone. The first step is to set up the
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To set these up, go to Settings → Touch ID &amp; Passcode. On devices without Touch ID, go to Settings → Passcode. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To set these up, go to **Settings → Touch ID &amp; Passcode**. On devices without Touch ID, go to Settings → Passcode. </span>
 		       </div>
 		     </div>
 
@@ -294,10 +294,9 @@ Different versions of iPhones may have different ways to get to the settings des
 
 ![](/images/Curriculum_img_26.jpg)
 
-
 ![](/images/Curriculum_img_27.jpg)
 
-9  [http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/)
+Additionally if you want further protection you can also lock your SIM Card. Learn more about how to do that [here](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/). 
 
 <div class="col-xs-12 none">
                         
