@@ -358,19 +358,20 @@ Once you’ve set a passcode, scroll down to the bottom of the Touch ID &amp; Pa
 		     </div>
 
 
-![](/images/Curriculum_img_31.jpg)
 
 <div class="GLBL_H2" markdown="1">##  4. TURN OFF LOCATION SERVICES</div>
 
+Many people do not realize how much location information your iPhone is sharing with both Apple and the companies who create the apps you use. One way to begin minimizing this information is to monitor and change your location settings on your phone. 
+
 The first time an app tries to access your location it will ask for your permission, even when it’s running in the background. The app's developer may also explain how it uses your location.
 
-Some apps will ask to use your location only while the app is in use. An app is considered “in use” when you are actively using it in the foreground or when it's running idly in the background, which the status bar will indicate.
 
-Other apps will ask for access to your location even when they are not in use. Your operating system will remind you which apps have this access with pop-up notifications, triggered when an app uses your location in the background.
+![](/images/Curriculum_img_31.jpg)
+
+Some apps will ask to use your location only while the app is in use. An app is considered “in use” when you are actively using it in the foreground or when it's running idly in the background, which the status bar will indicate. Other apps will ask for access to your location even when they are not in use. Your operating system will remind you which apps have this access with pop-up notifications, triggered when an app uses your location in the background.
 
 
 ![](/images/Curriculum_img_32.jpg)
-
 
 
 
@@ -390,14 +391,17 @@ Other apps will ask for access to your location even when they are not in use. Y
 ![](/images/Curriculum_img_33.jpg)
 
 
-
+When Location Services are turned completely off, no apps can use your location in the foreground or background. This may limit applications like Maps and GPS requiring services like Uber or Lyft. Keep in mind that this workflow only addressed corporate location tracking because your phone can still ping information about your location. If you are concerned about a government agency tracking your locations then the best option is to leave your phone at home or review the section in the curriculum about farraday bags. 
 
 ![](/images/Curriculum_img_34.jpg)
 
+<div class="col-xs-12 none">
+			<div class="well none" style="border-radius:0" >
+                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1"> Only turn on location settings if necessary. When these services aren’t running by default in the background, it reduces the risk of location tracking, saves battery power, and prevents unwanted data streams initiated by applications or your mobile carrier.Keep in mind this only minimizes the sharing of your information with corporations. It does not however to prevent government surveillance of your locations. If you are concerned about this please review the faraday bag section.</span>
+		       </div>
+		     </div>
 
 
-
-When Location Services are turned completely off, no apps can use your location in the foreground or background. This may limit applications like Maps and GPS requiring services like Uber or Lyft.
 
 <div class="SECE_H1" markdown="1"># ADDITIONAL SECURITY APPS FOR IPHONE</div>
 
