@@ -460,13 +460,14 @@ This is why choosing a search engine that does not track you is important. Curre
 We recommend DuckDuckGo26, but for folks who want to see a comparison the next page has some great options to explore. Try them and try them often. Once you find one that works switch!
 
 26  [https://duckduckgo.com](https://duckduckgo.com)
-<table width="500" border="1" cellspacing="1" cellpadding="1">
+
+<table width="500" cellspacing="4" cellpadding="2">
   <tbody>
 
     <tr>
-      <td>![](/images/Curriculum_img_152.jpg) </td>
-      <td>![](/images/Curriculum_img_153.jpg)</td>
-      <td>![](/images/Curriculum_img_154.jpg) </td>
+      <td>DuckDuckGo </td>
+      <td>SearX</td>
+      <td>startpage </td>
     </tr>
     <tr>
       <td>Cookies: Does not use cookies by default </td>
@@ -493,19 +494,9 @@ We recommend DuckDuckGo26, but for folks who want to see a comparison the next p
       <td>Owned and managed by: La Quadrature du Net </td>
       <td>Extra: Offers a free proxy service that allows for anonymous online browsing </td>
     </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
+   
   </tbody>
 </table>
-
 
 
 
