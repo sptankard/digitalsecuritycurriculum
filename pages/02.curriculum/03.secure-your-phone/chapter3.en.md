@@ -267,7 +267,16 @@ After installing Simply pick one or more photos with EXIF information from the G
 
 <div class="GLBL_H2" markdown="1">## 1. ACTIVATE YOUR SCREEN LOCK</div>
 
-First, set up a passcode. Some phones also allow you to set your fingerprint as your password through Touch ID.9  We do not recommend setting up Touch ID, as you can be physically, unwillingly compelled to open your device. Instead, simply set a strong PIN.
+We recommended setting your phone by using the PIN or password option to secure who can enter your phone. A PIN or password offers more protection then fingerprint ID's against law enforcement or theives. A good PIN/PASSWORD would be at least six digits long and does not use any of the following items:
+
+* Simple number sequences like 1234 or 0000 (including repetition: 1122 or 2233)
+* Significant dates such as your birth year or spouse’s birthday.
+* Any part of your Social Security Number.
+* Any part of your address or phone number.
+* Longer PINs are safer than shorter PINs because there are more ways to mix the numbers together. For example, if you use a four digit PIN, there are 10,000 possible variations (starting with 0000, 0001, 0002, and so on).
+With a six-digit PIN, there are one million possible codes, so it’s harder for thieves and computer programs to successfully guess your PIN.
+
+So lets get started with setting up your iPhone. The first step is to set up the passcode. Some phones also allow you to set your fingerprint as your password through Touch ID.9  We do not recommend setting up Touch ID, as you can be physically, unwillingly compelled to open your device. Instead, simply set a strong PIN.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
