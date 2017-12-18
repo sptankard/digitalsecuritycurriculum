@@ -461,7 +461,7 @@ We recommend DuckDuckGo26, but for folks who want to see a comparison the next p
 
 26  [https://duckduckgo.com](https://duckduckgo.com)
 
-<table width="500" cellspacing="4" cellpadding="2">
+<table width="700" cellspacing="4" cellpadding="4">
   <tbody>
 
     <tr>
