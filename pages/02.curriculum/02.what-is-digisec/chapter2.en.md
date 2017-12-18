@@ -15,6 +15,7 @@ So, now that we know how big the problem is let’s start with a definition: Wha
 <div class="GLBL_H2" markdown="1">## AN ECOSYSTEM OF DIGITAL SECURITY</div>
 
 Digital security is part of a large ecosystem of thinking in regards to your safety. In this ecosystem each part works with the others to secure the whole. That is why we break down our modules into easily accessible part of this ecosystem.
+
 ![](/images/Curriculum_img_9a.png)
 
 The digital security ecosystem includes how you secure your devices and data, the way you access your network, and the means by which you protect your identity and communications. Each part of this ecosystem can be protected or it can be compromised. Our goal is to give you the tools to better understand this ecosystem and show you ways to use more disciplined practices that will help build your digital resilience.
