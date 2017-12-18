@@ -314,6 +314,7 @@ Once you have set your PIN/Password the next step is to activate your security l
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to the Settings → Display &amp; Brightness → Auto-Lock. </span>
 		       </div>
 		     </div>
+![](/images/Curriculum_img_28.jpg)
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
@@ -321,28 +322,16 @@ Once you have set your PIN/Password the next step is to activate your security l
 		       </div>
 		     </div>
              
+![](/images/Curriculum_img_29.jpg)
+             
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If you are running iOS 9 or iOS 8, the lock screen option is available in Settings → General → Auto-Lock → Time interval.10</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If you are running iOS 9 or iOS 8, the lock screen option is available in Settings → General → Auto-Lock → Time interval.</span>
 		       </div>
-		     </div>
+		     </div><sup>7</sup>
 
 
 
-
-
-
-![](/images/Curriculum_img_28.jpg)
-
-
-
-
-![](/images/Curriculum_img_29.jpg)
-
-
-
-
-10  [http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/](http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/)
 
 <div class="GLBL_H2" markdown="1">## 3. IPHONE ENCRYPTION</div>
 
@@ -537,15 +526,17 @@ This app works the same way. When you choose a photo, it shows you the saved met
 
 
 
-1  [http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/](http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/)
+1. [http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/](http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/)
 
-2  [https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition](https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition)
+2.  [https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition](https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition)
 
-3 [https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics](https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics)
+3. [https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics](https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics)
 
-4 [https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0](https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0)
+4. [https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0](https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0)
 
-5 [https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html](https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html)
+5. [https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html](https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html)
 
 6.[http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/)
+
+7. [http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/](http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/)
 
