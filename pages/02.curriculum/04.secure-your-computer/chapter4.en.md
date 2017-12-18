@@ -6,7 +6,8 @@ slug: secure_your_computer
 ![](/images/Curriculum_img_40.jpg)
 
 
-SECURE YOUR COMPUTER
+<div class="SECR_H1" markdown="1"># SECURE YOUR COMPUTER</div>
+
 
 Whether you are setting up a new machine or using your day-to-day computer, it’s a good idea to check your settings. In this section, we lay out some basics of computer security for both Macs and PCs. This section is broken down by operating system. In later editions, we hope to include sections on Linux, ChromeOs, and more, so stay tuned.
 
@@ -176,7 +177,8 @@ With FileVault enabled, as soon as your Mac shuts down, its entire drive and dat
 
 
 
-4. AUDIT YOUR SECURITY &amp; PRIVACY SETTINGS
+
+<div class="GLBL_H2" markdown="1">## 4. AUDIT YOUR SECURITY & PRIVACY SETTINGS</div>
 
 How comfortable are you with sharing your physical location with different apps? Do you even know which apps are receiving the changing details of your locations? A quick visit to System Preferences can reveal all.
 
@@ -280,19 +282,7 @@ Firewalls can be anything from a piece of software running on your laptop (like 
 
 ![](/images/Curriculum_img_57.png)
 
-
-FIREWALL
-
-THE
-
-INTERNET
-
-YOUR COMPUTERS
-
-
 ![](/images/Curriculum_img_58.jpg)
-
-
 
 
 <div class="col-xs-12 none">
@@ -383,7 +373,8 @@ In case you choose to install a security product that doesn’t include a firewa
 		       </div>
 		     </div>
 
-6. DEVICE ENCRYPTION FOR PC'S
+
+<div class="GLBL_H2" markdown="1">## 6. DEVICE ENCRYPTION FOR PC'S</div>
 
 The foundation of protecting your computer is encryption. Encryption scrambles your data so that
 
@@ -411,7 +402,7 @@ This feature also has another limitation—it only encrypts your drive if you si
 		       </div>
 		     </div>
 
-PC Encryption Using VeraCrypt
+**PC Encryption Using VeraCrypt**
 
 VeraCrypt is free software you can use to encrypt a whole disk, as well as a partition on a disk. You can download VeraCrypt from [https://veracrypt.codeplex.com/releases/view/629329](https://veracrypt.codeplex.com/releases/view/629329)
 
