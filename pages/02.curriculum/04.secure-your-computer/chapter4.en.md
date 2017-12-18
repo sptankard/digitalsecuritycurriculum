@@ -124,7 +124,7 @@ With FileVault enabled, as soon as your Mac shuts down, its entire drive and dat
 		     </div>
 
 
-![](/images/Curriculum_img_46.png)
+![](/images/Curriculum_img_46.jpg)
 
 
 <div class="col-xs-12 none">
