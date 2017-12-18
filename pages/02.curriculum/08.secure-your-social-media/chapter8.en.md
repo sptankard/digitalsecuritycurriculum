@@ -1,10 +1,7 @@
 ---
 title: 'Secure Your Social Media'
+slug: secure_your_social_media
 ---
-
-
-
-
 
 ![](/images/Curriculum_img_163.jpg)
 
