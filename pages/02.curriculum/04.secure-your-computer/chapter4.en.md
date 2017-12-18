@@ -198,8 +198,8 @@ How comfortable are you with sharing your physical location with different apps?
 
 
 
+<div class="GLBL_H2" markdown="1">## 5. KEEP YOUR COMPUTER’S SOFTWARE UPDATED</div>
 
-5. KEEP YOUR COMPUTER’S SOFTWARE UPDATED
 
 As always, it is important to keep your software up to date to thwart new security threats.
 
