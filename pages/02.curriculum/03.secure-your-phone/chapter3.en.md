@@ -320,19 +320,7 @@ Once you have set your PIN/Password the next step is to activate your security l
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Choose the time interval. This means that, if you have not used your phone for the amount of time specified, it will automatically lock. Do not choose “Never”, as that will leave you vulnerable; instead, select an interval between 30 seconds and one minute.</span>
 		       </div>
 		     </div>
-
-<div class="col-xs-12 none">
-			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">For maximum security, always choose the shortest possible time frame that suits you without becoming too taxing. You can always adapt your times to your activities as well. So if you use your phone for recipes keep security lock timer off, but then turn it back on when you resume regular activity. Use your risk assessment to figure out what makes the most sense for you. </span>
-		       </div>
-		     </div>
-
-<div class="col-xs-12 none">
-			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If necessary, you can change it to a longer interval to complete a specific task, but make sure you change it back! </span>
-		       </div>
-		     </div>
-
+             
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If you are running iOS 9 or iOS 8, the lock screen option is available in Settings → General → Auto-Lock → Time interval.10</span>
