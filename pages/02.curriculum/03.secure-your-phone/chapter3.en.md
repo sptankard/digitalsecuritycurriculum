@@ -296,7 +296,7 @@ Different versions of iPhones may have different ways to get to the settings des
 
 ![](/images/Curriculum_img_27.jpg)
 
-Additionally if you want further protection you can also lock your SIM Card. Learn more about how to do that [here](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/). 
+Additionally if you want further protection you can also lock your SIM Card. Learn more about how to do that [here](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/).<sup>6</sup> 
 
 <div class="col-xs-12 none">
                         
@@ -556,4 +556,6 @@ This app works the same way. When you choose a photo, it shows you the saved met
 4 [https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0](https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0)
 
 5 [https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html](https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html)
+
+6.[http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/)
 
