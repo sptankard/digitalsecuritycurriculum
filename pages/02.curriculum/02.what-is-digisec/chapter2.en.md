@@ -87,35 +87,32 @@ Start your risk assessment with asking yourself what do you have that requires p
 Thinking about adversaries can be difficult. Many people feel an inherent aversion to thinking about the people that might intend to do violence towards you and your organization. When doing this excercise know that it is okay to have a litle anxiety. It is unpleasant to think about violence period. Have compassion for yourself and know that with risk assessment you are planning for worst and this strategy will help you outhink your opponents. So take a deep breath and dig into identifying all of the opponents who might be interested in targeting what you need to keep safe. This can include police officers,intelligence agents,  right-wing adversaries, movement infiltrators, and even abusive family members. 
 
 **How likely is it that you will need to protect your assets?**
-This question is all about you thinking realistically to parse between what is your anxiety around being attacked and what is the likelihood of an attack. That is 
-What level of protection does your information need? How often are you exposed to a threat?
+This question is all about you thinking realistically to parse between what is your anxiety around being attacked and what is the likelihood of an attack. Oftentimes when you start this part of the risk assessment people often find that there fears start to lessen because what they had imagined as a threat is not as stark and in fact only a narrow set of attacks need to be strategized around. Other times people may find they lack the experience to make this part of the assessment in which case doing this assessment with an expert can be incredibly useful so that you or your organization can move forward. In either case this is a critical part of the assessment and it will require you to make an honest and informed calculation between what level of protection does your information needd as well as how often are you exposed to a threat.
 
 **How bad are the consequences if you fail?**
-What can happen if the information you care about “leaks”? Could you lose the information completely? What does this mean for you as an individual, our organizations, movements, and our larger community?
+This is where the risk assessment is asking you to really commit to thinking through the worse case scenarios of a compromise. Ask yourself what can happen if the information you care about “leaks”? Could you lose the information completely? What does this mean for you as an individual, an organization, and even your  larger community?
 
 **How much trouble are you willing to go through in order to prevent those negative consequences?**
-For example, are you willing to tighten the security on your devices, learn more about digital security principles and use best practices?
-
-Ultimately, by questioning your behavior you can reduce your digital imprint along with the amount of sensitive data you post online.
+Having gone through thinking about the worse, you can know adequately understand how much of an investment you are willing to avoid the worst case scenarios. For example, are you willing to tighten the security on your devices, learn more about digital security principles and use best practices? Would you be willing to commit to training, new devices, and even if necessary moving if require. The severity of the threat will determine your response but it always important in your risk asssement to give yourself options of responses. 
 
 Let’s do a risk assessment for one of the following scenarios. Before you begin, here are some quick definitions:
-* Threat: An entity that can cause harm.
-* Adversary: The opposition that poses this threat.
-* Asset: Something of value that requires protecting.
-* Risk: The likelihood of a threat to a vulnerable asset.
+
+* **Threat:** An entity that can cause harm.
+* **Adversary:** The opposition that poses this threat.
+* **Asset:** Something of value that requires protecting.
+* **Risk:** The likelihood of a threat to a vulnerable asset.
 
 Consider who may present themselves as potential adversaries:
-* A roommate
-* A blogger with a grudge
-* An employer
-* The police department through an untargeted arrest at a protest
-* Police or the FBI targeting you
-* The NSA targeting you
+* A roommate.
+* A troll with a grudge.
+* An employer.
+* The police through an untargeted arrest at a protest.
+* The NSA targeting you.
 
 Different adversaries have different capacities and therefore require different strategies for mitigating threats. For example, your employer may not break into your home, but they can monitor you at work. Your roommate may not set up a fake cell tower but could have direct physical access to your phone. A police arrest at a protest (generally) won’t lead to a warrant for your email, but the police could get it directly from your phone on site.
 
 <div class="GLBL_H2" markdown="1">## RISK ASSESSMENT MODEL</div>
-Read the chart below to get an idea of how to think through your threat model. Some skills you may not understand quite yet. But return to this table as a model after you have gone through our training or read this curriculum handbook. You will find your understanding will change as you gain digital surveillance literacy. Some visit this page often or better yet make your own!
+Read the chart below to get an idea of how to think through your threat model. Some skills you may not understand quite yet. But return to this table as a model after you have gone through our training or read this curriculum handbook. You will find your understanding will change as you gain digital surveillance literacy. Some visit this page often for review or better yet make your own!
 
 <table bgcolor="#ffccc" width="700" border="0" cellspacing="5" cellpadding="5">
   <tr>  
