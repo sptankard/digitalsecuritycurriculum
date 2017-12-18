@@ -8,7 +8,7 @@ slug: browsing_and_searching
 
 <div class="SECG_H1" markdown="1"># NAVIGATING THE ONLINE: SEARCHING, BROWSING, AND EXTENSIONS</div>
 
-BROWSERS’ BROWSER BROWSERS
+**BROWSERS' BROWSER BROWSERS**
 
 A web browser is a software application used to browse, search, and display content on the World Wide Web. Today, some of the most popular web browsers, like Internet Explorer, Mozilla Firefox and Google Chrome are installed on most operating systems. And it is easy to notice the increasing threat coming from online criminals that try to take advantage of web browsers and their vulnerabilities. Some of the biggest networks, like Google, also have the ability to keep tracking you even when you're not signed in or on their page and follow you around the Internet to serve you with “relevant” advertising and content. Since almost everyone on the Internet has some sort of account with a Google service, one can only imagine, the amount of data on civilians they hold.
 
@@ -185,7 +185,7 @@ Setting private browsing by default can be done in two ways:
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">1. Find multiple →            → Preferences → Privacy → select Never remember history</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">1. Find multiple →  ☰  → Preferences → Privacy → select Never remember history</span>
 		       </div>
 		     </div>
 
@@ -193,7 +193,7 @@ or
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">2. Firefox →            → Preferences → Privacy → select use custom settings for history → check: Always use private browsing mode</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">2. Firefox →  ☰ → Preferences → Privacy → select use custom settings for history → check: Always use private browsing mode</span>
 		       </div>
 		     </div>
 
@@ -205,8 +205,7 @@ When you close Firefox, the following will be cleared: your browser, search, web
 * Private browsing excludes the files you download and the pages you bookmark. These are saved.
 * Private Browsing does not make you anonymous on the internet.
 
-USING PRIVATE BROWSING OCCASIONALLY
-XXXXXXXXXXXXXXX CUSTOM GIF BELOW FIX MISSING IMAGES XXXXXXXXXXXXXXXXXXX
+**USING PRIVATE BROWSING OCCASIONALLY**
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Private Browsing' mode can also be used for a single window: Open Firefox →       → New Private Window</span>
