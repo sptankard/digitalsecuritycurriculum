@@ -101,15 +101,13 @@ You can change this and tell your operating system to display a login screen whe
 
 <div class="GLBL_H2" markdown="1">## 3. ENABLE FULL DISK ENCRYPTION</div>
 
-The foundation of protecting your computer is encryption. Encryption scrambles your data so that
+The foundation of protecting the data on your computer is [encryption](https://en.wikipedia.org/wiki/Encryption). Encryption protects your mac's data if it is stolen, seized, or confiscated. Encryption in the simplest of terms means the scrambling of data with complex math. The purpose of encryption is to ensure that only someone who is authorized to access your Mac will be able to read it.
 
-no one can read its contents unless you have your password. While there are many ways to encrypt your hard drive Apple offers FileVault full disk encryption14 as an easy option for you to begin encrypting. FileVault can encrypt your entire hard drive using a secure encryption algorithm.
+When your computer is encrypted, data is stored in an unreadable jumbled form. If your Mac is stolen, confiscated, or lost, this feature can protect data like your home address, email, bank accounts, communications, and other sensitive data because your phone cannot be used unless the encryption is unscambled by your PIN/Password.
 
-14  [https://www.intego.com/mac-security-blog/15-mac-hardening-security-tips-to-protect-your-privacy/](https://www.intego.com/mac-security-blog/15-mac-hardening-security-tips-to-protect-your-privacy/)
+While there are many ways to encrypt your hard drive Apple offers FileVault full disk encryption as an easy option for you to begin encrypting. FileVault can encrypt your entire hard drive using a secure encryption algorithm. <sup>1</sup>
 
-If you do not enable this feature on your Mac hard drive, anyone who manages to steal your computer can access any data on it.
-
-With FileVault enabled, as soon as your Mac shuts down, its entire drive and data are scrambled and rendered inaccessible without your password. The drive’s contents only unlock when an authorized user powers up the Mac and logs in. File Vault encryption is an absolutely necessary layer of protection so let's get started in activating it on your computer!
+With FileVault enabled, as soon as your Mac shuts down, its entire drive and data are scrambled and rendered inaccessible without your password. The drive’s contents only unlock when an authorized user powers up the Mac and logs in. [File Vault](https://en.wikipedia.org/wiki/FileVault) encryption is an absolutely necessary layer of protection so let's get started in activating it on your computer!
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
@@ -118,7 +116,7 @@ With FileVault enabled, as soon as your Mac shuts down, its entire drive and dat
 		     </div>
 
 
-![](/images/Curriculum_img_46.jpg)
+![](/images/Curriculum_img_46.png)
 
 
 <div class="col-xs-12 none">
@@ -126,10 +124,6 @@ With FileVault enabled, as soon as your Mac shuts down, its entire drive and dat
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Make sure you have logged into OS X with an administrator's account, then go to System Preferences → Security &amp; Privacy → FileVault. </span>
 		       </div>
 		     </div>
-
-
-
-
 
 
 ![](/images/Curriculum_img_47.jpg)
@@ -206,8 +200,27 @@ As always, it is important to keep your software up to date to thwart new securi
 
 ![](/images/Curriculum_img_54.jpg)
 
+<div class="GLBL_H2" markdown="1">## 6. INSTALL A GOOD ANTI-VIRUS AND ANTI-MALWARE PROGRAM</div>
+
+Do you know what the difference is between [malware](https://en.wikipedia.org/wiki/Malware) and a [virus](https://en.wikipedia.org/wiki/Computer_virus)? Malware is a broad term used to describe all sorts of unwanted or malicious code while computer viruses are a specific type of malware (designed to replicate and spread).Further a lot of people think that because you have a Mac you dont have to worry about Malware or viruses on their computer. We hate to be the bearer of bad news, but that is a myth created by Apple Marketing. Mac's do get  Malware and so you have to be careful and protect yourself
+
+Now here is no silver bullet to protect yourself from these attacks so what we recommend is to install one security tool (like Bitdefender, McAfee or Norton) that scans for as much as possible, and that has an on-access scanning engine that protects you from threats while you surf the web, install applications, and open files. Then, install another anti-malware tool (like Malwarebytes Anti-Malware) that you can occasionally use on demand to make sure nothing got through or has been overlooked. With this combination, you'll protect yourself from as much as possible. Also key to this combination is that you must keep both softwares updated otherwise you will find yourself struggling. 
 
 
+
+In the end, good browsing habits and common sense should be your first line of defense against malware, spyware, and viruses. However, we recommend running a good security suite in the background and an on-demand malware tool to cover everything else. That way you're always protected, and you can scan your system for malware whenever you want to.
+
+<div class="col-xs-12 none">
+                        <div class="well none" style="border-radius:0" >
+                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">It is generally not good idea to use two security tools that both run all the time in the background on your computer. They'll likely interfere with each other, and possibly even slow down your computer. Use one that runs in the background, and one that runs on-demand, and disable the background one when you run your on-demand one.</span>
+                       </div>
+                     </div>
+
+
+
+<div class="col-xs-12 none">
+			<div class="well none" style="border-radius:0">
+              
 
 ![](/images/Curriculum_img_130.png)
 
