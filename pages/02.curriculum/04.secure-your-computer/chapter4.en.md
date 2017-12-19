@@ -107,7 +107,7 @@ When your computer is encrypted, data is stored in an unreadable jumbled form. I
 
 While there are many ways to encrypt your hard drive Apple offers FileVault full disk encryption as an easy option for you to begin encrypting. FileVault can encrypt your entire hard drive using a secure encryption algorithm. <sup>1</sup>
 
-With FileVault enabled, as soon as your Mac shuts down, its entire drive and data are scrambled and rendered inaccessible without your password. The drive’s contents only unlock when an authorized user powers up the Mac and logs in. File Vault encryption is an absolutely necessary layer of protection so let's get started in activating it on your computer!
+With FileVault enabled, as soon as your Mac shuts down, its entire drive and data are scrambled and rendered inaccessible without your password. The drive’s contents only unlock when an authorized user powers up the Mac and logs in. [File Vault](https://en.wikipedia.org/wiki/FileVault) encryption is an absolutely necessary layer of protection so let's get started in activating it on your computer!
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0" >
