@@ -95,7 +95,7 @@ You can change this and tell your operating system to display a login screen whe
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To do so, go to the Security &amp; Privacy preferences under the System Preferences → Security & Privacy→ General tab. There, you will see an option to Disable Automatic Login. Additionally you can alos set the units of time for your screen lock so that your computer brings up the login screen if it is idle. This is a great addition to protecting your data and we recommend you set that here at this time. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To do so, go to the Security &amp; Privacy preferences under the System Preferences → Security & Privacy→ General tab. There, you will see an option to Disable Automatic Login. Additionally you can also set the units of time for your screen lock so that your computer brings up the login screen if it is idle. This is a great addition to protecting your data and we recommend you set that here at this time. </span>
 		       </div>
 		     </div>
 
