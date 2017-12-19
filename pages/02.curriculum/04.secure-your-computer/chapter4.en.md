@@ -101,7 +101,7 @@ You can change this and tell your operating system to display a login screen whe
 
 <div class="GLBL_H2" markdown="1">## 3. ENABLE FULL DISK ENCRYPTION</div>
 
-The foundation of protecting the data on your computer is encryption. Encryption protects your mac's data if it is stolen, seized, or confiscated. Encryption in the simplest of terms means the scrambling of data with complex math. The purpose of encryption is to ensure that only someone who is authorized to access your Mac will be able to read it.
+The foundation of protecting the data on your computer is [encryption](https://en.wikipedia.org/wiki/Encryption). Encryption protects your mac's data if it is stolen, seized, or confiscated. Encryption in the simplest of terms means the scrambling of data with complex math. The purpose of encryption is to ensure that only someone who is authorized to access your Mac will be able to read it.
 
 When your computer is encrypted, data is stored in an unreadable jumbled form. If your Mac is stolen, confiscated, or lost, this feature can protect data like your home address, email, bank accounts, communications, and other sensitive data because your phone cannot be used unless the encryption is unscambled by your PIN/Password.
 
