@@ -5,16 +5,10 @@ title: 'Digital Security For All'
 <!-- HEADER -->
 <header>
   <div class="jumbotron">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">
-          <h1 class="text-center">Digital Security For All</h1>
-          <p class="text-center">Instructions on how to stay safe when using the Internet, Phone, and Computers</p>
-          <p>&nbsp;</p>
-</div>
+      <div class="container">
+        <img src="images/heading.jpg" width="1250" align="top">
       </div>
-    </div>
-  </div>
+</div>
 </header>
 <!-- / HEADER -->
 
