@@ -373,11 +373,18 @@ After the initial installation of available updates for your Windows operating s
 
 <div class="GLBL_H2" markdown="1">## 5. INSTALL A GOOD ANTI-VIRUS AND ANTI-MALWARE PROGRAM</div>
 
-Use a known antivirus product from a big security company. It is important to have a reliable security solution on your system, which should include real-time scanning, automatic update and a firewall.
+Do you know what the difference is between [malware](https://en.wikipedia.org/wiki/Malware) and a [virus](https://en.wikipedia.org/wiki/Computer_virus)? Malware is a broad term used to describe all sorts of unwanted or malicious code while computer viruses are a specific type of malware (designed to replicate and spread).
 
-To find the best solution, check the antivirus test results in AV Comparatives, PC Magazine, AV-TEST, or Virus Bulletin and select the best solution for your system.
+Now here is no silver bullet to protect yourself from these attacks so what we recommend is to install one security tool (like Bitdefender, McAfee or Norton) that scans for as much as possible, and that has an on-access scanning engine that protects you from threats while you surf the web, install applications, and open files. Then, install another anti-malware tool (like Malwarebytes Anti-Malware) that you can occasionally use on demand to make sure nothing got through or has been overlooked. With this combination, you'll protect yourself from as much as possible. Also key to this combination is that you must keep both softwares updated otherwise you will find yourself struggling. 
 
-In case you choose to install a security product that doesn’t include a firewall, make sure you have the Windows firewall turned on.
+In the end, good browsing habits and common sense should be your first line of defense against malware, spyware, and viruses. However, we recommend running a good security suite in the background and an on-demand malware tool to cover everything else. That way you're always protected, and you can scan your system for malware whenever you want to.
+
+<div class="col-xs-12 none">
+                        <div class="well none" style="border-radius:0" >
+                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">It is generally not good idea to use two security tools that both run all the time in the background on your computer. They'll likely interfere with each other, and possibly even slow down your computer. Use one that runs in the background, and one that runs on-demand, and disable the background one when you run your on-demand one.</span>
+                       </div>
+                     </div>              
+
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
