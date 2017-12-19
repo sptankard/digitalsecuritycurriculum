@@ -101,13 +101,11 @@ You can change this and tell your operating system to display a login screen whe
 
 <div class="GLBL_H2" markdown="1">## 3. ENABLE FULL DISK ENCRYPTION</div>
 
-The foundation of protecting your computer is encryption. Encryption scrambles your data so that
+The foundation of protecting the data on your computer is encryption. Encryption protects your mac's data if it is stolen, seized, or confiscated. Encryption in the simplest of terms means the scrambling of data with complex math. The purpose of encryption is to ensure that only someone who is authorized to access your Mac will be able to read it.
 
-no one can read its contents unless you have your password. While there are many ways to encrypt your hard drive Apple offers FileVault full disk encryption14 as an easy option for you to begin encrypting. FileVault can encrypt your entire hard drive using a secure encryption algorithm.
+When your computer is encrypted, data is stored in an unreadable jumbled form. If your Mac is stolen, confiscated, or lost, this feature can protect data like your home address, email, bank accounts, communications, and other sensitive data because your phone cannot be used unless the encryption is unscambled by your PIN/Password.
 
-14  [https://www.intego.com/mac-security-blog/15-mac-hardening-security-tips-to-protect-your-privacy/](https://www.intego.com/mac-security-blog/15-mac-hardening-security-tips-to-protect-your-privacy/)
-
-If you do not enable this feature on your Mac hard drive, anyone who manages to steal your computer can access any data on it.
+While there are many ways to encrypt your hard drive Apple offers FileVault full disk encryption as an easy option for you to begin encrypting. FileVault can encrypt your entire hard drive using a secure encryption algorithm. <sup>1</sup>
 
 With FileVault enabled, as soon as your Mac shuts down, its entire drive and data are scrambled and rendered inaccessible without your password. The drive’s contents only unlock when an authorized user powers up the Mac and logs in. File Vault encryption is an absolutely necessary layer of protection so let's get started in activating it on your computer!
 
@@ -126,10 +124,6 @@ With FileVault enabled, as soon as your Mac shuts down, its entire drive and dat
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Make sure you have logged into OS X with an administrator's account, then go to System Preferences → Security &amp; Privacy → FileVault. </span>
 		       </div>
 		     </div>
-
-
-
-
 
 
 ![](/images/Curriculum_img_47.jpg)
