@@ -200,8 +200,15 @@ As always, it is important to keep your software up to date to thwart new securi
 
 ![](/images/Curriculum_img_54.jpg)
 
+<div class="GLBL_H2" markdown="1">## 6. INSTALL A GOOD ANTI-VIRUS AND ANTI-MALWARE PROGRAM</div>
 
+Do you know what the difference is between [malware](https://en.wikipedia.org/wiki/Malware) and a [virus](https://en.wikipedia.org/wiki/Computer_virus)? Malware is a broad term used to describe all sorts of unwanted or malicious code while computer viruses are a specific type of malware (designed to replicate and spread).Further a lot of people think that because you have a Mac you dont have to worry about Malware or viruses on their computer. We hate to be the bearer of bad news, but that is a myth created by Apple Marketing. Mac's do get  Malware and so you have to be careful and protect yourself
 
+Now here is no silver bullet to protect yourself from these attacks so what we recommend is to install one security tool (like Bitdefender, McAfee or Norton) that scans for as much as possible, and that has an on-access scanning engine that protects you from threats while you surf the web, install applications, and open files. Then, install another anti-malware tool (like Malwarebytes Anti-Malware) that you can occasionally use on demand to make sure nothing got through or has been overlooked. With this combination, you'll protect yourself from as much as possible. Also key to this combination is that you must keep both softwares updated otherwise you will find yourself struggling. 
+
+Note that it's not a good idea to use two security tools that both run all the time in the background on your computer. They'll likely interfere with each other, and possibly even slow down your computer. Use one that runs in the background, and one that runs on-demand, and disable the background one when you run your on-demand one.
+
+In the end, good browsing habits and common sense should be your first line of defense against malware, spyware, and viruses. However, we recommend running a good security suite in the background and an on-demand malware tool to cover everything else. That way you're always protected, and you can scan your system for malware whenever you want to.
 
 ![](/images/Curriculum_img_130.png)
 
