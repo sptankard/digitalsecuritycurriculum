@@ -281,9 +281,9 @@ Do you know what makes a good password? A good password has to be easy enough fo
 
 <div class="GLBL_H2" markdown="1">## 2. TURN ON YOUR FIREWALL</div>
 
-One important defense for windows users is a Firewall, it is a piece of software and/or hardware that sits between a computer (or local network) and other networks (such as the Internet), controlling the incoming and outgoing network traffic.
+One important defense for windows users is a [Firewall](https://en.wikipedia.org/wiki/Firewall_(computing)), it is a piece of software and/or hardware that sits between a computer (or local network) and other networks (such as the Internet), controlling the incoming and outgoing network traffic.
 
-Without a firewall, anything can pass through your network. With a firewall, the firewall’s rules determine which traffic is allowed through and which isn’t.
+Without a firewall, anything can pass through your network. With  fairewall, the firewall’s rules determine which traffic is allowed through and which isn’t.
 
 This prevents people on the Internet from connecting to local network services on your computer. It also controls access to network services from other computers on your local network. That’s why you’re asked what type of network it is when you connect to one in Windows. If you connect to a Home network, the firewall will allow access to these services. If you connect to a Public network, the firewall will deny access.
 
