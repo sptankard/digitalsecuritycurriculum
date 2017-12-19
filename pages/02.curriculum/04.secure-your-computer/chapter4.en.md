@@ -53,6 +53,14 @@ When using the **Standard** account, your computer will typically request an adm
 
 ![](/images/Curriculum_img_44.jpg)
 
+
+<div class="col-xs-12 none">
+			<div class="well none" style="border-radius:0">
+                          <span class="tip-icon"><i class="fa fa-lightbulb-o" ></i></span> <span class="tip-highlight">TIP: </span><span class="tip-text" markdown="1">Using a standard account ensures that a piece of malware that infects a limited account, won’t do as much damage as one that infects an administrator account.</span>
+		       </div>
+		     </div>
+
+
 Once you have set up different accounts it is important to set up strong and different **passwords** for **each** account. Many organizations skip this step but a srong password is the first line of defense when protecting your Mac. 
 
 Do you know what makes a good password? A good password has to be easy enough for you to remember but also complex enough that it is not easy to guess, particulary when it might be a computer on the other end attempting to make the guess. To be safe here are some good rules for passwords:
@@ -73,12 +81,6 @@ Do you know what makes a good password? A good password has to be easy enough fo
 		     </div>
 
 
-
-<div class="col-xs-12 none">
-			<div class="well none" style="border-radius:0">
-                          <span class="tip-icon"><i class="fa fa-lightbulb-o" ></i></span> <span class="tip-highlight">TIP: </span><span class="tip-text" markdown="1">Using a standard account ensures that a piece of malware that infects a limited account, won’t do as much damage as one that infects an administrator account.</span>
-		       </div>
-		     </div>
 
 
 ![](/images/Curriculum_img_45.jpg)
