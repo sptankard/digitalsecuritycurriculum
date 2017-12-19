@@ -227,11 +227,11 @@ It is good practice to set up different user accounts on your computer. For exam
 
 Windows grants a certain level of rights and privileges depending on what kind of user account you have. You may have a standard user account or an administrator user account.
 
-The Administrator account should be used to make large-scale changes, such as installing software or changing important settings. Only you or your organization’s system administrator should have access. You can use another standard account for other everyday actions.
+The **Administrator** account should be used to make large-scale changes, such as installing software or changing important settings. Only you or your organization’s system administrator should have access. You can use another standard account for other everyday actions.
 
 We recommend using standard accounts for your computer to prevent users from making changes that affect everyone who uses it, such as deleting important Windows files necessary for the operating system.
 
-When using the Standard account, your computer will typically request an administrator's password as a permission when a user attempts to download, add software, or make changes. This approach will allow you to assess the risk.
+When using the **Standard** account, your computer will typically request an administrator's password as a permission when a user attempts to download, add software, or make changes. This approach will allow you to assess the risk.
 
 If you want to install an application or make security changes, Windows will ask you to provide the credentials for an administrator account.
 
