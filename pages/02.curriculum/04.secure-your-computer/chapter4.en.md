@@ -373,7 +373,7 @@ After the initial installation of available updates for your Windows operating s
 
 
 
-<div class="GLBL_H2" markdown="1">## 5. INSTALL A TRADITIONAL ANTIVIRUS FOR REACTIVE PROTECTION</div>
+<div class="GLBL_H2" markdown="1">## 5. INSTALL A GOOD ANTI-VIRUS AND ANTI-MALWARE PROGRAM</div>
 
 Use a known antivirus product from a big security company. It is important to have a reliable security solution on your system, which should include real-time scanning, automatic update and a firewall.
 
