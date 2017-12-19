@@ -241,12 +241,25 @@ If you want to install an application or make security changes, Windows will ask
 		       </div>
 		     </div>
 
-Also see page 71 on Rules for best passwords. If you don’t want (or don’t have time) to use a password manager or set a strong password, at least make sure you follow a few simple rules:
+Once you have set up different accounts it is important to set up strong and different **passwords** for **each** account. Many organizations skip this step but a srong password is the first line of defense when protecting your Mac. 
 
-* The password should contain around 20 characters.
-* Combine upper and lowercase locate, retrieve, and symbols.
-* Don’t use the same password for other accounts.
-* Change your password at least every three months or more frequently based on your risk assessment.
+Do you know what makes a good password? A good password has to be easy enough for you to remember but also complex enough that it is not easy to guess, particulary when it might be a computer on the other end attempting to make the guess. To be safe here are some good rules for passwords:
+
+* The password should contain around **20** characters.
+* The password should combine **upper** and **lowercase** characters, numbers, and symbols.
+* The password should be **unique** to your computer and should not use the same password for other accounts.That way if one passphrase is compromised hackers won't be able to exploit the rest of your accounts because you used your password for all of your online services. A good way to keep track of many unique and complex passwords is to use a password managers like [Keepass X](https://www.keepassx.org/), [Last Pass](https://www.lastpass.com/), [1password](https://1password.com/), and [Dashlane](https://www.dashlane.com/).
+* The password should be kept **secret**. Do not share your passphrase with anyone unless it is absolutely necessary. And, if you must share a passphrase with a friend, family member or colleague, you should change it to a temporary passphrase first, share that one, then change it back when they are done using it. Often, there are alternatives to sharing a passphrase such as creating a separate account for each individual who needs access.
+* The password should be **changed** at least every three months or more frequently based on your risk assessment.Some people get quite attached to a particular passphrase and never change it. This is a bad idea. The longer you keep one password, the more opportunity others have to figure it out. Also, if someone is able to use your stolen password to access your information and services without you knowing about it, they will continue to do so until you change the password.
+
+
+
+<div class="col-xs-12 none">
+                     
+			<div class="well none" style="border-radius:0">
+    			  <span class="warn-icon"><i class="fa fa-exclamation-triangle" ></i></span> <span class="warn-highlight">WARNING: </span><span class="warn-text" markdown="1">If you did not select strong passwords, you will underride all other efforts to secure your computer. See the Secure Your Identity Password section for what makes a good password on page.</span>
+		        </div>
+		     </div>
+
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
