@@ -287,9 +287,7 @@ Without a firewall, anything can pass through your network. With  fairewall, the
 
 This prevents people on the Internet from connecting to local network services on your computer. It also controls access to network services from other computers on your local network. That’s why you’re asked what type of network it is when you connect to one in Windows. If you connect to a Home network, the firewall will allow access to these services. If you connect to a Public network, the firewall will deny access.
 
-A firewall’s main security purpose for home users is blocking unsolicited incoming network traffic, but firewalls can do much more than that. It can analyze all traffic reaching or leaving the network, making decisions on whether to block it or let it pass. For example, a firewall could
-
-also be configured to block certain types of outgoing traffic, it can also log suspicious traffic or all traffic.
+A firewall’s main security purpose for home users is blocking unsolicited incoming network traffic, but firewalls can do much more than that. It can analyze all traffic reaching or leaving the network, making decisions on whether to block it or let it pass. For example, a firewall could also be configured to block certain types of outgoing traffic, it can also log suspicious traffic or all traffic.
 
 Firewalls can be anything from a piece of software running on your laptop (like the firewall included with Windows) to dedicated hardware in a corporate network. Such corporate firewalls could analyze outgoing traffic to ensure no malware was communicating through the network, monitor employee’s Internet use, and filter traffic—for example, a firewall could be configured to only allow web browsing through the firewall, blocking access to other types of applications.
 
