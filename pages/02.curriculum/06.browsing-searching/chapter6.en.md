@@ -1,6 +1,6 @@
 ---
 title: 'Browsing and Searching'
-slug: browsing_and_searching
+slug: secure_your_browser
 ---
 
 ![](/images/Curriculum_img_120.jpg)

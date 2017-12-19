@@ -3,7 +3,7 @@ title: Secure Your Computer
 slug: secure_your_computer
 ---
 
-![](/var/www/digitalsecurityforall/user/pages/images/coverchap_4.jpg)
+![](/images/coverchap_4.jpg)
 
 
 

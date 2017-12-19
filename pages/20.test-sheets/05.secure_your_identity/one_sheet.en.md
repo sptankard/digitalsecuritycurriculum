@@ -3,7 +3,7 @@ title: Secure Your Identity
 slug: secure_your_identity
 ---
 
-![](/var/www/digitalsecurityforall/user/pages/images/coverchap_5.jpg)
+![](/images/coverchap_5.jpg)
 
 
 

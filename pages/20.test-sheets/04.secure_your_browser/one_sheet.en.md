@@ -3,7 +3,7 @@ title: Secure Your Browser
 slug: secure_your_browser
 ---
 
-![](/var/www/digitalsecurityforall/user/pages/images/coverchap_6.jpg)
+![](/images/coverchap_6.jpg)
 
 
 

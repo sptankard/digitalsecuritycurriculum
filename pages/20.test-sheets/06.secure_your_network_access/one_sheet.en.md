@@ -3,7 +3,7 @@ title: Secure Your Network Access
 slug: secure_your_network_access
 ---
 
-![](/var/www/digitalsecurityforall/user/pages/images/coverchap_7.jpg)
+![](/images/coverchap_7.jpg)
 
 
 
