@@ -385,14 +385,6 @@ In the end, good browsing habits and common sense should be your first line of d
                        </div>
                      </div>              
 
-
-<div class="col-xs-12 none">
-			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To enable it, go to Control Panel → Firewall → Turn Windows Firewall on or off. Then, choose Turn on Windows Firewall for all options.</span>
-		       </div>
-		     </div>
-
-
 <div class="GLBL_H2" markdown="1">## 6. DEVICE ENCRYPTION FOR PC'S</div>
 
 The foundation of protecting your computer is encryption. Encryption scrambles your data so that
