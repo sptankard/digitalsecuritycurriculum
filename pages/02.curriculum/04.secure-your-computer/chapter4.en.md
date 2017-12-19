@@ -76,14 +76,10 @@ Do you know what makes a good password? A good password has to be easy enough fo
 <div class="col-xs-12 none">
                      
 			<div class="well none" style="border-radius:0">
-    			  <span class="warn-icon"><i class="fa fa-exclamation-triangle" ></i></span> <span class="warn-highlight">WARNING: </span><span class="warn-text" markdown="1">If you did not select strong passwords, you will underride all other efforts to secure your computer. See the Secure Your Identity Password section for what makes a good password on page (71).</span>
+    			  <span class="warn-icon"><i class="fa fa-exclamation-triangle" ></i></span> <span class="warn-highlight">WARNING: </span><span class="warn-text" markdown="1">If you did not select strong passwords, you will underride all other efforts to secure your computer. See the Secure Your Identity Password section for what makes a good password on page.</span>
 		        </div>
 		     </div>
 
-
-
-
-![](/images/Curriculum_img_45.jpg)
 
 
 
@@ -94,9 +90,12 @@ Automatic login is the default setting on your computer. However, we highly reco
 
 You can change this and tell your operating system to display a login screen when you start your computer.
 
+![](/images/Curriculum_img_45.jpg)
+
+
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To do so, go to the Security &amp; Privacy preferences under the System Preferences panel and click on the General tab. There, you will see an option to Disable Automatic Login.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To do so, go to the Security &amp; Privacy preferences under the System Preferences → Security & Privacy→ General tab. There, you will see an option to Disable Automatic Login. Additionally you can alos set the units of time for your screen lock so that your computer brings up the login screen if it is idle. This is a great addition to protecting your data and we recommend you set that here at this time. </span>
 		       </div>
 		     </div>
 
