@@ -214,13 +214,7 @@ In the end, good browsing habits and common sense should be your first line of d
                         <div class="well none" style="border-radius:0" >
                           <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">It is generally not good idea to use two security tools that both run all the time in the background on your computer. They'll likely interfere with each other, and possibly even slow down your computer. Use one that runs in the background, and one that runs on-demand, and disable the background one when you run your on-demand one.</span>
                        </div>
-                     </div>
-
-
-
-<div class="col-xs-12 none">
-			<div class="well none" style="border-radius:0">
-              
+                     </div>              
 
 ![](/images/Curriculum_img_130.png)
 
