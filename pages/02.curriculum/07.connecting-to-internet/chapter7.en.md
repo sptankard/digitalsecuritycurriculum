@@ -12,17 +12,8 @@ slug: secure_your_network
 ![](/images/Curriculum_img_156.png)
 
 
-GOVERNMENT/FIREWALL
-
-HACKERS
-
-SECURE
-
-VPN27
 
 The first step to connect to the Internet is typically made through an Internet Service Provider (ISP) at your home, office, cafe, library, or Internet cafe. Common ISP’s in the US are Verizon Fios, Xfinity, and Time Warner Cable.
-
-27  [https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention](https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention)
 
 The ISP then assigns your computer an IP address, which various Internet services can use to identify you and send you information, such as the emails and webpages you request.
 
@@ -52,8 +43,6 @@ Your Internet traffic is monitored for keywords.
 * Blocked sites are blacklisted by both their IP addresses and their domain names.
 * You may be given an unclear or misleading reason to explain why a blocked site fails to load.
 
-28  [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
-
 <div class="SECK_H1" markdown="1"># BROWSE THE INTERNET ANONYMOUSLY AND BYPASS CENSORSHIP</div>
 
 <div class="GLBL_H2" markdown="1">## TOR</div>
@@ -65,10 +54,6 @@ It helps you hide your IP address and prevent browser fingerprinting, making it 
 In countries where huge swaths of the Internet are blocked, people use Tor to access the open, uncensored web. Tor is an effective censorship circumvention tool, allowing its users to reach otherwise blocked destinations or content.
 
 The range of people who use Tor are actually part of what makes it so secure. Tor hides you among the other users on the network, so the more populous and diverse the user base for Tor is, the more your anonymity will be protected.30
-
-29  [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
-
-30  [https://www.torproject.org/about/overview](https://www.torproject.org/about/overview)
 
 There are lots of reasons you might want to use Tor. They can include:
 
@@ -87,8 +72,6 @@ the Tor process. In these diagrams our friend Ambedkar wants to send e-mails to 
 
 
 ![](/images/Curriculum_img_159.png)
-
-
 
 
 In this next step Ambedkar's client now picks a random path through multiple Tor servers across the world. The first computer is the entry node, and the second computer is the relay node, and the third computer is the exit node. That node is the IP address that is seen by the websites you visit, which recognize the country of origin where the exit node is located.
@@ -215,4 +198,8 @@ LOGGING
 
 In short, Tor is slower but offers more privacy, and a VPN is necessary when dealing with sites that will not open in Tor. In either case, always check for HTTPS or you will be voiding your secure network access.
 
+27  [https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention](https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention)
+28  [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
+29  [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
+30  [https://www.torproject.org/about/overview](https://www.torproject.org/about/overview)
 
