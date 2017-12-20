@@ -61,9 +61,6 @@ Here are some ways we can assign settings that make our experiences on Facebook 
 
 ![](/images/Curriculum_img_164.jpg)
 
-
-
-
 This will take you to the Settings menu. On the left-hand side, you can choose different categories of settings. The first tab is General Account Settings, where you can edit information about your name, username, email, password, networks, and language.
 
 You should update your password regularly, preferably at least once every three months. Remember, it is extremely important that you choose a strong password to protect your account and your information.
@@ -71,23 +68,16 @@ You should update your password regularly, preferably at least once every three 
 
 ![](/images/Curriculum_img_165.jpg)
 
-
-
-
 ![](/images/Curriculum_img_166.jpg)
-
-
-
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
                            <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">SECURITY SETTINGS</span>
 		       </div>
 		     </div>
-XXXXXXXXXXXXXXX CUSTOM GIF FIX IMAGE MISSING BELOW XXXXXXXXXXXXXXXXXXXX
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click on                    in the menu on the left hand side. This will open the Security Settings page.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click on SECURITY in the menu on the left hand side. This will open the Security Settings page.</span>
 		       </div>
 		     </div>
 
@@ -124,7 +114,7 @@ XXXXXXXXXXXXXXX CUSTOM GIF FIX IMAGE MISSING BELOW XXXXXXXXXXXXXXXXXXXX
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">LOGIN APPROVALS (TWO-FAC<div class="GLBL_H2" markdown="1">## TOR</div> AUTHENTICATION)</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">LOGIN APPROVALS (TWO-FACTOR AUTHENTICATION)<div class="GLBL_H2" markdown="1" </div> </span>
 		       </div>
 		     </div>
 
@@ -148,7 +138,7 @@ XXXXXXXXXXXXXXX CUSTOM GIF FIX IMAGE MISSING BELOW XXXXXXXXXXXXXXXXXXXX
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">CODE GENERA<div class="GLBL_H2" markdown="1">## TOR</div></span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">CODE GENERATOR</span>
 		       </div>
 		     </div>
 
