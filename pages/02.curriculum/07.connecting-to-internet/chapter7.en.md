@@ -180,8 +180,6 @@ There are subtle, but important differences between using Tor and a VPN:
     <td width="319" valign="top"><p>A VPN company may log    your traffic without your knowledge or consent </p></td>
   </tr>
 </table>
-LOGGING
-
 In short, Tor is slower but offers more privacy, and a VPN is necessary when dealing with sites that will not open in Tor. In either case, always check for HTTPS or you will be voiding your secure network access.
 
 27  [https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention](https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention)
