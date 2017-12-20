@@ -147,42 +147,43 @@ There are subtle, but important differences between using Tor and a VPN:
 
 <div class="GLBL_H2" markdown="1">## TOR</div>
 
-Tor is a network run by global volunteers
-
-Tor nodes are distributed and harder to shutdown
-
-Traffic through Tor is going through several parties and usually has a significant slowdown
-
-You cannot guarantee the exit node IP Address will be the same between requests and sessions
-
-Tor has encryption between all of the nodes, but does not have guaranteed end-to-end encryption
-
-Nodes are usually configured not to log traffic
-
-VPN
-
-A VPN is usually run by a private company unless you are using your own activist VPN
-
-A VPN company can be a target for legal requests to shut down or divulge data. You will have to trust your VPN partner to have good business practices
-
-Traffic is going only through your VPN and is much faster than Tor
-
-You can choose a fixed IP Address from which your traffic will originate from
-
-All traffic between you and the exit node is encrypted
-
-A VPN company may log your traffic without your knowledge or consent
-
-ORGANIZATION
-
-RESILIENCY
-
-SPEED
-
-EXIT NODE IP ADDRESS
-
-END-TO-END ENCRYPTION
-
+<table border="1" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="319" valign="top"><p>&nbsp;</p></td>
+    <td width="319" valign="top"><p>TOR </p></td>
+    <td width="319" valign="top"><p>VPN </p></td>
+  </tr>
+  <tr>
+    <td width="319" valign="top"><p>ORGANIZATION</p></td>
+    <td width="319" valign="top"><p>Tor is a network    run by global volunteers </p></td>
+    <td width="319" valign="top"><p>A VPN is usually    run by a private company unless you are using your own activist VPN </p></td>
+  </tr>
+  <tr>
+    <td width="319" valign="top"><p>RESILIENCEY</p></td>
+    <td width="319" valign="top"><p>Tor nodes are    distributed and harder to shutdown </p></td>
+    <td width="319" valign="top"><p>A VPN company can    be a target for legal requests to shut down or divulge data. You will have to    trust your VPN partner to have good business practices </p></td>
+  </tr>
+  <tr>
+    <td width="319" valign="top"><p>SPEED</p></td>
+    <td width="319" valign="top"><p>Traffic through Tor    is going through several parties and usually has a significant slowdown </p></td>
+    <td width="319" valign="top"><p>Traffic is going    only through your VPN and is much faster than Tor </p></td>
+  </tr>
+  <tr>
+    <td width="319" valign="top"><p>EXIT NODE IP ADDRESS</p></td>
+    <td width="319" valign="top"><p>You cannot    guarantee the exit node IP Address will be the same between requests and    sessions </p></td>
+    <td width="319" valign="top"><p>You can choose a    fixed IP Address from which your traffic will originate from </p></td>
+  </tr>
+  <tr>
+    <td width="319" valign="top"><p>END-TO-END ENCRYPTION</p></td>
+    <td width="319" valign="top"><p>Tor has encryption    between all of the nodes, but does not have guaranteed end-to-end encryption </p></td>
+    <td width="319" valign="top"><p>All traffic between    you and the exit node is encrypted </p></td>
+  </tr>
+  <tr>
+    <td width="319" valign="top"><p>LOGGING</p></td>
+    <td width="319" valign="top"><p>Nodes are usually    configured not to log traffic </p></td>
+    <td width="319" valign="top"><p>A VPN company may log    your traffic without your knowledge or consent </p></td>
+  </tr>
+</table>
 LOGGING
 
 In short, Tor is slower but offers more privacy, and a VPN is necessary when dealing with sites that will not open in Tor. In either case, always check for HTTPS or you will be voiding your secure network access.
