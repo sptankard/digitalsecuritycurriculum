@@ -85,7 +85,6 @@ Tor is only as good as the more diverse communities use it. If you want to learn
 
 <div class="GLBL_H2" markdown="1">## VIRTUAL PRIVATE NETWORKS (VPN)</div>
 
-
 Another option for securely accessing the Internet is a Virtual Private Networks or VPN. VPN’s allow you to connect to the Internet via a server run by a VPN provider. All data traveling between your computer, phone or tablet, and this “VPN server” is securely encrypted. As a result of this setup, VPNs:
 
 * Provide privacy by hiding your Internet activity from your ISP and the government.
@@ -127,11 +126,6 @@ Encrypting and decrypting data requires processing power. This also means that, 
 
 
 ![](/images/Curriculum_img_161.png)
-
-
-
-
-
 
 If you connect to the VPN server located geographically nearby in order to access a website that is also located nearby, expect a 10% decrease in Internet speed. If you connect to a server half way across the planet, you should expect a much greater decrease in speed.
 
