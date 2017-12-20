@@ -5,13 +5,9 @@ slug: secure_your_network
 
 ![](/images/Curriculum_img_155.jpg)
 
-
 <div class="SECK_H1" markdown="1"># CONNECTING TO THE INTERNET—HOW DOES IT ALL WORK?</div>
 
-
 ![](/images/Curriculum_img_156.png)
-
-
 
 The first step to connect to the Internet is typically made through an Internet Service Provider (ISP) at your home, office, cafe, library, or Internet cafe. Common ISP’s in the US are Verizon Fios, Xfinity, and Time Warner Cable.
 
@@ -66,10 +62,6 @@ the Tor process. In these diagrams our friend Ambedkar wants to send e-mails to 
 
 
 ![](/images/Curriculum_img_157.png)
-
-
-![](/images/Curriculum_img_158.jpg)
-
 
 ![](/images/Curriculum_img_159.png)
 
