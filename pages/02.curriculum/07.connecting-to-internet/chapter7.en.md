@@ -137,15 +137,11 @@ If you connect to the VPN server located geographically nearby in order to acces
 
 We encourage you to always look through the privacy policies of all VPNs that you work with. Some VPN's we recommend include VyprVPN by Golden Frog. Not all VPNs are transparent about what they share about you and where. Vypr currently has a minimal amount of data stored about you and your usage and they also hold all servers in house. The downside of Vypr is that it is a paid service. You can find it here: [https://www.goldenfrog.com/vyprvpn](https://www.goldenfrog.com/vyprvpn)
 
-
 ![](/images/Curriculum_img_162.png)
-
 
 <div class="GLBL_H2" markdown="1">## TOR VS VPN</div> 
 
 There are subtle, but important differences between using Tor and a VPN:
-
-<div class="GLBL_H2" markdown="1">## TOR</div>
 
 <table border="1" cellspacing="0" cellpadding="0">
   <tr>
