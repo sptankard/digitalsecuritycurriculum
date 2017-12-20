@@ -72,11 +72,7 @@ What is important to know is that the path between Anita and the exit node is UN
 
 please make sure you use the https protocol between sites.
 
-
 ![](/images/Curriculum_img_160.png)
-
-
-
 
 <div class="col-xs-12 none">
                         
@@ -87,7 +83,8 @@ please make sure you use the https protocol between sites.
 
 Tor is only as good as the more diverse communities use it. If you want to learn more about Tor or even join the Tor community please visit www.torproject.org
 
-VIRTUAL PRIVATE NETWORKS (VPN)
+<div class="GLBL_H2" markdown="1">## VIRTUAL PRIVATE NETWORKS (VPN)</div>
+
 
 Another option for securely accessing the Internet is a Virtual Private Networks or VPN. VPN’s allow you to connect to the Internet via a server run by a VPN provider. All data traveling between your computer, phone or tablet, and this “VPN server” is securely encrypted. As a result of this setup, VPNs:
 
@@ -134,7 +131,7 @@ Encrypting and decrypting data requires processing power. This also means that, 
 
 
 
-31  [https://ssd.eff.org/en/module/choosing-vpn-thats-right-you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
+
 
 If you connect to the VPN server located geographically nearby in order to access a website that is also located nearby, expect a 10% decrease in Internet speed. If you connect to a server half way across the planet, you should expect a much greater decrease in speed.
 
@@ -144,7 +141,7 @@ We encourage you to always look through the privacy policies of all VPNs that yo
 ![](/images/Curriculum_img_162.png)
 
 
-<div class="GLBL_H2" markdown="1">## TOR</div> VS VPN
+<div class="GLBL_H2" markdown="1">## TOR VS VPN</div> 
 
 There are subtle, but important differences between using Tor and a VPN:
 
@@ -194,4 +191,5 @@ In short, Tor is slower but offers more privacy, and a VPN is necessary when dea
 28  [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
 29  [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
 30  [https://www.torproject.org/about/overview](https://www.torproject.org/about/overview)
+31  [https://ssd.eff.org/en/module/choosing-vpn-thats-right-you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
 
