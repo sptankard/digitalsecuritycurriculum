@@ -6,7 +6,7 @@ slug: secure_your_phone
 ![](/images/coverchap_3.jpg)
 
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Android</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR ANDROID</div>
 
 
 
@@ -35,7 +35,7 @@ slug: secure_your_phone
 
 ✔ ثبت تطبيق تنظيف بيانات التعريف لصورك. وبهذه الطريقة، لا يمكن تسرب معلومات هامة عن أي صورة عند مشاركتها. قد يشمل هذا على موقعك وما يزيد. التطبيق الفعال في تنظيف بيانات التعريف على نظام التشغيل Android هو برنامج Exif Eraser. قد تجد هذا التطبيق على متجر Google Play. اعرف المزيد من[http://www.exiferaser.com/✔استخدم](http://www.exiferaser.com/✔استخدم) حقيبة FARADAY BAG لهاتفك أثناء الاجتماعات الخاصة أو أثناء الاحتجاجات. ستحظر هذه الحقيبة الإشارات الإلكترونية من وإلى هاتفك.
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Iphone</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR IPHONE</div>
 
 
 

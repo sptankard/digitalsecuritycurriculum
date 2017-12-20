@@ -6,7 +6,7 @@ slug: secure_your_phone
 ![](/images/coverchap_3.jpg)
 
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Android</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR ANDROID</div>
 
 
 
@@ -45,7 +45,7 @@ slug: secure_your_phone
 ✔ ਆਪਣੇ ਫ਼ੋਨ ਲਈ ਫੈਰਾਡੇਬੈਗ ਦੀ ਵਰਤੋਂ ਕਰੋ ਜਦੋਂ ਨਿੱਜੀ ਮੀਟਿੰਗਾਂ ਵਿੱਚ ਹੋਵੋ ਜਾਂ ਵਿਰੋਧ ਪ੍ਰਦਰਸ਼ਨਾਂ ਵਿੱਚ ਹੋਵੋ। ਇਹ ਬੈਗ ਤੁਹਾਡੇ ਫੋਨ ਤੋਂ ਅਤੇ ਤੱਕ ਇਲੈਕਟ੍ਰਾਨਿਕ ਸਿਗਨਲ ਬਲੌਕ ਕਰੇਗਾ।
 
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Iphone</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR IPHONE</div>
 
 
 

@@ -4,10 +4,8 @@ title: 'Digital Security For All'
 
 <!-- HEADER -->
 <header>
-  <div class="jumbotron">
-      <div class="container">
-        <img src="images/heading.jpg" width="1250" align="top">
-      </div>
+<div class="container">
+        <img src="images/heading.jpg" width="1250" align="top" class="img-responsive">
 </div>
 </header>
 <!-- / HEADER -->
@@ -41,7 +39,7 @@ title: 'Digital Security For All'
       <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/03-Secure-Your-Phone-256x256.png" data-holder-rendered="true">
         <h4>Secure Your Phone</h4>
         &nbsp; &nbsp;<a title="modules" href="/curriculum/secure_your_phone"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-android/secure_your_android"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="/one_sheets/secure_your_phone"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
       <br />
 
@@ -55,7 +53,7 @@ title: 'Digital Security For All'
         <h4>Secure Your Computer</h4>
 
         <a title="modules" href="/curriculum/secure_your_computer"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-computer/secure_your_computer"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="/one_sheets/secure_your_computer"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
 
         <br />
@@ -66,7 +64,7 @@ title: 'Digital Security For All'
       <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/05-Secure-Your-Identity-256x256.png" data-holder-rendered="true">
         <h4>Secure Your Identity</h4>
         <a title="modules" href="/curriculum/secure_your_identity"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="one-sheets/secure-your-identity/secure_your_identity"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="one_sheets/secure_your_identity"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
         <br />
         <br />
@@ -76,7 +74,7 @@ title: 'Digital Security For All'
       <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/06-Secure-Your-Browsing-256x256.png" data-holder-rendered="true">
         <h4>Secure Browsing</h4>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title="modules" href="/curriculum/browsing_and_searching"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-browser/secure_your_browser"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="/one_sheets/secure_your_browser"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
         <br />
         <br />
@@ -89,7 +87,7 @@ title: 'Digital Security For All'
       <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/07-Secure-Your-Network-256x256.png" data-holder-rendered="true">
         <h4>Secure Your Network</h4>
         <a title="modules" href="/curriculum/secure_your_network"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-network-access/secure_your_network_access"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="/one_sheets/secure_your_network_access"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
         <br />
         <br />
@@ -113,7 +111,7 @@ title: 'Digital Security For All'
         <h4>Secure Your Communications</h4>
 
         <a title="modules" href="/curriculum/secure_your_communications"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-communications/secure_your_communication"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="/one_sheets/secure_your_communications"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
 
         <br />

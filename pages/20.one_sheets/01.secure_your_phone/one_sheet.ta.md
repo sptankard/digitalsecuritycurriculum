@@ -6,7 +6,7 @@ slug: secure_your_phone
 ![](/images/coverchap_3.jpg)
 
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Android</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR ANDROID</div>
 
 
 
@@ -45,7 +45,7 @@ slug: secure_your_phone
 
 ✔ உங்களுடைய தொலைபேசிக்காக ஃபாராடே பேக் பயன்படுத்தவும் தனிப்பட்ட கூட்டங்களில் இருக்கும் போது மற்றும் ஆர்ப்பாட்டங்களில். இந்த பேக் உங்களுடைய தொலைபேசியிலிருந்து மற்றும் தொலைபேசிக்கு மின்னணு கிக்னல்களைத் தடுக்கும்.
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Iphone</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR IPHONE</div>
 
 
 

@@ -6,7 +6,7 @@ slug: secure_your_phone
 ![](/images/coverchap_3.jpg)
 
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Android</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR ANDROID</div>
 
 
 
@@ -39,7 +39,7 @@ slug: secure_your_phone
 
 ✔ जब आप निजी बैठकों में हों या प्रदर्शनों के दौरान, अपने फोन के लिए एक फारदा बैग/ FARADAY BAG का उपयोग करें। यह बैग आपके फोन के आने जाने वाले इलेक्ट्रॉनिक सिग्नलों को रोक देगा।
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Iphone</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR IPHONE</div>
 
 
 

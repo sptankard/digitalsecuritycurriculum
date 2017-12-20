@@ -465,7 +465,7 @@ We recommend DuckDuckGo26, but for folks who want to see a comparison the next p
   <tbody>
 
     <tr>
-      <td>DuckDuckGo </td>
+      <td>**DuckDuckGo** </td>
       <td>SearX</td>
       <td>startpage </td>
     </tr>

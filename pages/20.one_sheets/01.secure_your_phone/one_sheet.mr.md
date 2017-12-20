@@ -6,7 +6,7 @@ slug: secure_your_phone
 ![](/images/coverchap_3.jpg)
 
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Android</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR ANDROID</div>
 
 
 
@@ -25,7 +25,7 @@ slug: secure_your_phone
 
 ✔ खासगी बैठकींमध्ये असताना किंवा विरोध करतांना तुमच्या फोनसाठी एक फॅरेडे बॅग वापरा. ही बॅग तुमच्या फोनकडे येणारे आणि फोनकडून जाणाÚया इलेक्ट्रॉनिक सिग्नल्सना ब्लॉक करेल.
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Iphone</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR IPHONE</div>
 
 
 

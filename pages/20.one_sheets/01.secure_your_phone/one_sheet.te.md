@@ -6,7 +6,7 @@ slug: secure_your_phone
 ![](/images/coverchap_3.jpg)
 
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Android</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR ANDROID</div>
 
 
 
@@ -45,7 +45,7 @@ slug: secure_your_phone
 
 ✔ మీ ఫోన్ కొరకు ఒక ఫారడే బ్యాగ్ ఉపయోగించండి.వ్యక్తిగత సమావేశాలు లేదా నిరసనలలో ఉన్నప్పుడు. ఈ బ్యాగ్ మీ ఫోన్ నుండి మరియు ఫోన్‌కు ఎలక్ట్రానిక్ సంకేతాలను ఆపివేస్తుంది.
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Iphone</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR IPHONE</div>
 
 
 

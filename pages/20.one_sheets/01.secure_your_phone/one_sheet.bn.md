@@ -6,7 +6,7 @@ slug: secure_your_phone
 ![](/images/coverchap_3.jpg)
 
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Android</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR ANDROID</div>
 
 
 
@@ -43,7 +43,7 @@ slug: secure_your_phone
 
 ✔ ব্যক্তিগত সাক্ষাতে থাকার সময় বা প্রতিবাদ চলার সময় আপনার ফোনের জন্য একটি ফারাডে ব্যাগ ব্যবহার করুন। এই ব্যাগটি আপনার ফোন থেকে যাওয়া এবং আসা ইলেকট্রনিক সংকেত অবরুদ্ধ করবে।
 
-<div class="SECPHONE_H2" markdown="1">## Secure Your Iphone</div>
+<div class="SECPHONE_H2" markdown="1">## SECURE YOUR IPHONE</div>
 
 
 
