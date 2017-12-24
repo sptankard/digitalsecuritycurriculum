@@ -25,7 +25,7 @@ slug: landingtest
     <div class="row">
       <div class="col-lg-4 col-sm-12 text-center"> <img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/01-why-should-we-care-256x256.png" data-holder-rendered="true">
 
-        <h4>Why Care About Digital security?</h4>
+        <h4>Why Care About Digital Security?</h4>
         <a title="modules" href="/en/curriculum/why_should_we_care_about_digital_security"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
         <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
