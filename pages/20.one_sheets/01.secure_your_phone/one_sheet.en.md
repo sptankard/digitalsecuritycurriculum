@@ -12,13 +12,13 @@ slug: secure_your_phone
 
 
 
-<span class="leadtip" style="color:pink">✔ USE A PIN PASSCODE.</span> NEVER USE TOUCH ID. As a Touch ID can be compromised. Make your PIN strong and at least 8 digits. You can find this for Androids under Settings → Personal → Security → Screen Lock.
+<span class="leadtip" style="color:purple">✔ USE A PIN PASSCODE. NEVER USE TOUCH ID.</span> As a Touch ID can be compromised. Make your PIN strong and at least 8 digits. You can find this for Androids under Settings → Personal → Security → Screen Lock.
 
-<span class="leadtip" style="color:pink">✔ ENCRYPT AND BACK UP YOUR PHONE.</span> This is automatic with recent versions of Androids. If your device uses Android version 4.0 or newer, you should verify that device encryption is turned on. This can be done in Settings → Personal → Security → Encryption. If it is not follow the steps to encrypt. But just make sure that before starting the encryption process you back up your data, ensure the phone is fully charged and plugged into a power source. 
+<span class="leadtip" style="color:purple">✔ ENCRYPT AND BACK UP YOUR PHONE.</span> This is automatic with recent versions of Androids. If your device uses Android version 4.0 or newer, you should verify that device encryption is turned on. This can be done in Settings → Personal → Security → Encryption. If it is not follow the steps to encrypt. But just make sure that before starting the encryption process you back up your data, ensure the phone is fully charged and plugged into a power source. 
 
 <span class="leadtip" style="color:purple">✔ SET YOUR SCREEN TO LOCK WHEN NOT UN USE.</span> We recommend that you chose a short amount of time that does not drive you crazy. We use anywhere from 30 sec to a minute. In Android you can find that in  Settings → Personal → Security → Screen Lock. 
 
-<span class="leadtip" style="color:pink"><span class="leadtip" style="color:purple">✔ CLEAR YOUR MESSAGE THREADS FREQUENTLY</span>.</span>You’ll find this option in your message screen. If your phone is confiscated they can compel you to open it, sensitive content can be exposed from your message history.
+<span class="leadtip" style="color:purple">✔ CLEAR YOUR MESSAGE THREADS FREQUENTLY</span> You’ll find this option in your message screen. If your phone is confiscated they can compel you to open it, sensitive content can be exposed from your message history.
 
 
 
@@ -32,15 +32,15 @@ slug: secure_your_phone
 
 
 
-<span class="leadtip" style="color:purple"><span class="leadtip" style="color:pink">✔ INSTALL DUCKDUCKGO AS YOUR NEW WEB BROWSER AND SEARCH ENGINE.</span>/span>  Duckduckgo does not track your data, you can be confident that you are not growing a data profile which can be used to profile you by corporations and the government. You can find this app at the Google Play store. Learn more at [https://duckduckgo.com](https://duckduckgo.com)
+<span class="leadtip" style="color:purple">✔ INSTALL DUCKDUCKGO AS YOUR NEW WEB BROWSER AND SEARCH ENGINE</span>  Duckduckgo does not track your data, you can be confident that you are not growing a data profile which can be used to profile you by corporations and the government. You can find this app at the Google Play store. Learn more at [https://duckduckgo.com](https://duckduckgo.com)
 
 <span class="leadtip" style="color:purple">✔ USE TALKY</span> to replace skype, google hangouts and audio calls. Talky is end-to-end encrypted and can be used across android, iOS, and all computer platforms. With the app you can create a session simply by entering a name and inviting people to the new link! You can use it here at [https://talky.io/](https://talky.io/)
 
 <span class="leadtip" style="color:purple">✔ FOR ANDROID PHONES</span> install an anti-malware scanner, we recommend malwarebytes. You can find this app at the Google Play store. Learn more at [https://www.malwarebytes.com/](https://www.malwarebytes.com/)
 
-<span class="leadtip" style="color:pink">✔ INSTALL A METADATA SCRUBBER FOR YOUR PHOTOS.</span> That way you don’t leak important data about a photograph when you share it. This can include your location and more. A good app for scrubbing metadata on Android is Exif Eraser. You can find this app at the Google Play store. Learn more at [http://www.exiferaser.com/](http://www.exiferaser.com/)
+<span class="leadtip" style="color:purple">✔ INSTALL A METADATA SCRUBBER FOR YOUR PHOTOS.</span> That way you don’t leak important data about a photograph when you share it. This can include your location and more. A good app for scrubbing metadata on Android is Exif Eraser. You can find this app at the Google Play store. Learn more at [http://www.exiferaser.com/](http://www.exiferaser.com/)
 
-<span class="leadtip" style="color:purple"><span class="leadtip" style="color:pink">✔ USE A FARADAY BAG</span> FOR YOUR PHONE</span> when in meetings that are private or during protests. This bag will block electronic signals from and to your phone.
+<span class="leadtip" style="color:purple">✔ USE A FARADAY BAG FOR YOUR PHONE</span> when in meetings that are private or during protests. This bag will block electronic signals from and to your phone.
 
 <div class="SECPHONE_H2" markdown="1">## SECURE YOUR IPHONE</div>
 
@@ -58,7 +58,7 @@ slug: secure_your_phone
 
 <span class="leadtip" style="color:pink">✔ SET YOUR SCREEN TO LOCK WHEN NOT IN USE.</span> We recommend that you chose a short amount of time that does not drive you crazy. We use anywhere from 30 sec to a minute, you can find it in Settings → Display &amp; Brightness → Auto-Lock.
 
-<span class="leadtip" style="color:pink"><span class="leadtip" style="color:purple">✔ CLEAR YOUR MESSAGE THREADS FREQUENTLY</span>.</span> You’ll find this option in your message screen. If your phone is confiscated they can compel you to open it exposing sensitive content from your message history.
+<span class="leadtip" style="color:pink">✔ CLEAR YOUR MESSAGE THREADS FREQUENTLY.</span> You’ll find this option in your message screen. If your phone is confiscated they can compel you to open it exposing sensitive content from your message history.
 
 <span class="leadtip" style="color:pink">✔ MAINTAIN ALL YOUR iOS UPDATES.</span> These updates will have important security patches, you can find it under Settings → General → Software Update.
 
@@ -66,7 +66,7 @@ slug: secure_your_phone
 
 
 
-<span class="leadtip" style="color:purple"><span class="leadtip" style="color:pink">✔ INSTALL DUCKDUCKGO AS YOUR NEW WEB BROWSER AND SEARCH ENGINE.</span>/span>. Duckduckgo does not track your data, you can be confident that you are not growing a data profile which can be used to profile you by corporations and the government. Look for this application in the app store. Learn more at [https://duckduckgo.com](https://duckduckgo.com)
+<span class="leadtip" style="color:pink">✔ INSTALL DUCKDUCKGO AS YOUR NEW WEB BROWSER AND SEARCH ENGINE.</span> Duckduckgo does not track your data, you can be confident that you are not growing a data profile which can be used to profile you by corporations and the government. Look for this application in the app store. Learn more at [https://duckduckgo.com](https://duckduckgo.com)
 
 <span class="leadtip" style="color:pink">✔ INSTALL A METADATA SCRUBBER FOR YOUR PHOTOS.</span> That way you don’t leak important data about a photograph when you share it. This can include your location and more. A good app for scrubbing metadata for iOS is PixlMet. Look for this application in the app store. Learn more at [http://www.pixlmetphoto.com/](http://www.pixlmetphoto.com/)
 

@@ -1,21 +1,12 @@
 ---
-title: 'landing test'
-slug: landingtest
+title: 'Digital Security For All'
 ---
 
 <!-- HEADER -->
 <header>
-  <div class="jumbotron">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12">
-          <h1 class="text-center">Digital Security For All</h1>
-          <p class="text-center">Instructions on how to stay safe when using the Internet, Phone, and Computers</p>
-          <p>&nbsp;</p>
+<div class="container">
+        <img src="images/heading.jpg" width="1250" align="top" class="img-responsive">
 </div>
-      </div>
-    </div>
-  </div>
 </header>
 <!-- / HEADER -->
 
@@ -25,7 +16,7 @@ slug: landingtest
     <div class="row">
       <div class="col-lg-4 col-sm-12 text-center"> <img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/01-why-should-we-care-256x256.png" data-holder-rendered="true">
 
-        <h4>Why Care About Digital security?</h4>
+        <h4>Why Care About Digital Security?</h4>
         <a title="modules" href="/en/curriculum/why_should_we_care_about_digital_security"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
         <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href=""><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
@@ -48,7 +39,7 @@ slug: landingtest
       <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/03-Secure-Your-Phone-256x256.png" data-holder-rendered="true">
         <h4>Secure Your Phone</h4>
         &nbsp; &nbsp;<a title="modules" href="/curriculum/secure_your_phone"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-android/secure_your_android"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="/one_sheets/secure_your_phone"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
       <br />
 
@@ -62,7 +53,7 @@ slug: landingtest
         <h4>Secure Your Computer</h4>
 
         <a title="modules" href="/curriculum/secure_your_computer"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-computer/secure_your_computer"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="/one_sheets/secure_your_computer"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
 
         <br />
@@ -73,7 +64,7 @@ slug: landingtest
       <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/05-Secure-Your-Identity-256x256.png" data-holder-rendered="true">
         <h4>Secure Your Identity</h4>
         <a title="modules" href="/curriculum/secure_your_identity"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="one-sheets/secure-your-identity/secure_your_identity"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="one_sheets/secure_your_identity"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
         <br />
         <br />
@@ -83,7 +74,7 @@ slug: landingtest
       <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/06-Secure-Your-Browsing-256x256.png" data-holder-rendered="true">
         <h4>Secure Browsing</h4>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title="modules" href="/curriculum/browsing_and_searching"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-browser/secure_your_browser"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="/one_sheets/secure_your_browser"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
         <br />
         <br />
@@ -96,7 +87,7 @@ slug: landingtest
       <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/07-Secure-Your-Network-256x256.png" data-holder-rendered="true">
         <h4>Secure Your Network</h4>
         <a title="modules" href="/curriculum/secure_your_network"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-network-access/secure_your_network_access"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="/one_sheets/secure_your_network_access"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
         <br />
         <br />
@@ -120,7 +111,7 @@ slug: landingtest
         <h4>Secure Your Communications</h4>
 
         <a title="modules" href="/curriculum/secure_your_communications"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
-        <a title="one sheets" href="/one-sheets/secure-your-communications/secure_your_communication"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href="/one_sheets/secure_your_communications"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
         <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
 
         <br />
@@ -129,6 +120,30 @@ slug: landingtest
        </div>
 
     </div>
+    
+    
+    
+    <div class="row">
+      <div class="col-lg-4 col-sm-12 text-center"><img class="img-circle" alt="256x256" style="width: 256px; height: 256px;" src="images/icons/10-in-conclusion-256x256.png" data-holder-rendered="true">
+<h4>In Conclusion</h4>
+
+        <a title="modules" href="en/curriculum/conclusion"><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/modules.png" data-holder-rendered="true"></a>
+        <a title="one sheets" href=""><img alt="140x140" class = "img-thumbnail"  src="images/icons/subicons/onesheets.png" data-holder-rendered="true"></a>
+        <a title="video" href="/en/coming-soon"><img alt="140x140"   class = "img-thumbnail"  src="images/icons/subicons/videos.png" data-holder-rendered="true"></a>
+
+        <br />
+        <br />
+        <br />
+       </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
 <br />
 <br />
 
@@ -140,7 +155,7 @@ slug: landingtest
 </div>
   <!-- / CONTAINER-->
 </section>
-<div class="well"> </div>
+
 
 <!-- FOOTER -->
 <div class="container">
