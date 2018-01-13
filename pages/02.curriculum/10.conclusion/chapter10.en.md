@@ -84,7 +84,7 @@ FIREWALL
 
 A firewall is a software utility or hardware device that limits outside network access to a computer or local network by blocking or restricting network ports. Firewalls help prevent unauthorized access to a company or home network.
 
-BROWSING HIS<div class="GLBL_H2" markdown="1">## TOR</div>Y
+BROWSING HISTORY
 
 Web browsing history refers to the list of web pages a user has visited recently—along with associated data such as page title and time of visit—which is recorded by web browser software for a certain period of time. Web browser software does this to provide the user with a back button and a history list they can use to return to pages they’ve visited. It also as well as displaying visited links so the user doesn't have to remember where they’ve been on the web. In addition to the web browser software itself, third-party services can also record a user's complete or partial web browsing history. For example, in Google's web History, registered users clicks are recorded and stored in individual user histories, each of which are browsable and searchable by that user.
 

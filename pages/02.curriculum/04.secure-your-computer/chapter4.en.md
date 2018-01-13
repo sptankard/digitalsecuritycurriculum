@@ -26,7 +26,7 @@ When using the **Standard** account, your computer will typically request an adm
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To make this change, go to Apple Menu → System Preferences → Users and Accounts.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To make this change, go to Apple Menu → System Preferences → Users and Accounts.</span>
 		       </div>
 		     </div>
 
@@ -46,7 +46,7 @@ When using the **Standard** account, your computer will typically request an adm
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Under this section, click on the “+” sign to create a new account. Select Standard and name the account.Make sure you keep the “Allow user to administer this computer” option unchecked. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Under this section, click on the “+” sign to create a new account. Select Standard and name the account.Make sure you keep the “Allow user to administer this computer” option unchecked. </span>
 		       </div>
 		     </div>
 
@@ -95,7 +95,7 @@ You can change this and tell your operating system to display a login screen whe
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To do so, go to the Security &amp; Privacy preferences under the System Preferences → Security & Privacy→ General tab. There, you will see an option to Disable Automatic Login. Additionally you can also set the units of time for your screen lock so that your computer brings up the login screen if it is idle. This is a great addition to protecting your data and we recommend you set that here at this time. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To do so, go to the Security &amp; Privacy preferences under the System Preferences → Security & Privacy→ General tab. There, you will see an option to Disable Automatic Login. Additionally you can also set the units of time for your screen lock so that your computer brings up the login screen if it is idle. This is a great addition to protecting your data and we recommend you set that here at this time. </span>
 		       </div>
 		     </div>
 
@@ -121,7 +121,7 @@ With FileVault enabled, as soon as your Mac shuts down, its entire drive and dat
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Make sure you have logged into OS X with an administrator's account, then go to System Preferences → Security &amp; Privacy → FileVault. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Make sure you have logged into OS X with an administrator's account, then go to System Preferences → Security &amp; Privacy → FileVault. </span>
 		       </div>
 		     </div>
 
@@ -133,7 +133,7 @@ With FileVault enabled, as soon as your Mac shuts down, its entire drive and dat
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You now have two options: Allow your iCloud account to unlock your disk, or to create a recovery key. DO NOT CHOOSE THE ICLOUD OPTION! This surrenders access to your drive to Apple when you might not want to grant this access. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You now have two options: Allow your iCloud account to unlock your disk, or to create a recovery key. DO NOT CHOOSE THE ICLOUD OPTION! This surrenders access to your drive to Apple when you might not want to grant this access. </span>
 		       </div>
 		     </div>
 
@@ -150,7 +150,7 @@ With FileVault enabled, as soon as your Mac shuts down, its entire drive and dat
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Once there, press Turn on FileVault. Use the “Create a recovery key” option and write down and save the key in a safe place. Then click on Continue.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Once there, press Turn on FileVault. Use the “Create a recovery key” option and write down and save the key in a safe place. Then click on Continue.</span>
 		       </div>
 		     </div>
 
@@ -172,7 +172,7 @@ How comfortable are you with sharing your physical location with different apps?
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To update these settings, click on Security &amp; Privacy and choose the Privacy tab. Once there, you can choose Location Services and view whether they are enabled, and if so, which apps can access your location. To make changes to these settings, you may need to unlock the padlock by entering an administrator password.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To update these settings, click on Security &amp; Privacy and choose the Privacy tab. Once there, you can choose Location Services and view whether they are enabled, and if so, which apps can access your location. To make changes to these settings, you may need to unlock the padlock by entering an administrator password.</span>
 		       </div>
 		     </div>
 
@@ -193,7 +193,7 @@ As always, it is important to keep your software up to date to thwart new securi
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Going to the Apple Menu → App Store will lead you to the software updates section.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Going to the Apple Menu → App Store will lead you to the software updates section.</span>
 		       </div>
 		     </div>
 
@@ -263,13 +263,13 @@ Do you know what makes a good password? A good password has to be easy enough fo
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To create a new account on Windows 10, select Start → Settings → Accounts → Family &amp; other people → Add someone else to this PC</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To create a new account on Windows 10, select Start → Settings → Accounts → Family &amp; other people → Add someone else to this PC</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To create a new account on previous versions click Start → Control Panel → User Accounts and Family Safety → User Accounts → Manage another account → Create a new account.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To create a new account on previous versions click Start → Control Panel → User Accounts and Family Safety → User Accounts → Manage another account → Create a new account.</span>
 		       </div>
 		     </div>
 
@@ -299,13 +299,13 @@ Firewalls can be anything from a piece of software running on your laptop (like 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You can find the Windows firewall in previous versions by going to Start → Control Panel → System and Security → Windows Firewall</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You can find the Windows firewall in previous versions by going to Start → Control Panel → System and Security → Windows Firewall</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">For Windows 10 users click on Start at the bottom left hand corner of the screen, type “firewall” into the search box, select “firewall.cpl”</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">For Windows 10 users click on Start at the bottom left hand corner of the screen, type “firewall” into the search box, select “firewall.cpl”</span>
 		       </div>
 		     </div>
 
@@ -317,7 +317,7 @@ Firewalls can be anything from a piece of software running on your laptop (like 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Check basic firewall settings, then ensure the firewall is turned on for private and public networks and that notifications are enabled.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Check basic firewall settings, then ensure the firewall is turned on for private and public networks and that notifications are enabled.</span>
 		       </div>
 		     </div>
 
@@ -347,19 +347,19 @@ To get these security updates automatically, go to Control Panel and check wheth
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Access the search box in your Windows operating system, type “update”, and then select Windows Update.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Access the search box in your Windows operating system, type “update”, and then select Windows Update.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Select “Change settings”.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Select “Change settings”.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click “Install updates automatically (recommended)”, in case it is not already selected.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click “Install updates automatically (recommended)”, in case it is not already selected.</span>
 		       </div>
 		     </div>
 
@@ -397,7 +397,7 @@ This feature also has another limitation—it only encrypts your drive if you si
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To check if Device Encry [http://about.complex.com/](http://about.complex.com/) option is enabled, open the Settings app, navigate to System → About, and look for a “Device Encryption” setting at the bottom of the About panel. If you don’t see anything about Device Encryption here, your PC doesn’t support it and it’s not enabled.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To check if Device Encry [http://about.complex.com/](http://about.complex.com/) option is enabled, open the Settings app, navigate to System → About, and look for a “Device Encryption” setting at the bottom of the About panel. If you don’t see anything about Device Encryption here, your PC doesn’t support it and it’s not enabled.</span>
 		       </div>
 		     </div>
 
@@ -426,7 +426,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To start, open Veracrypt after you have installed it, and click the “Create Volume”</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To start, open Veracrypt after you have installed it, and click the “Create Volume”</span>
 		       </div>
 		     </div>
 
@@ -438,7 +438,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Then check “Create an encrypted file container”</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Then check “Create an encrypted file container”</span>
 		       </div>
 		     </div>
 
@@ -450,7 +450,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">For right now, we will create a Standard Veracrypt volume.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">For right now, we will create a Standard Veracrypt volume.</span>
 		       </div>
 		     </div>
 
@@ -462,7 +462,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Now choose “select file”. You will be prompted with an file explorer dialogue. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Now choose “select file”. You will be prompted with an file explorer dialogue. </span>
 		       </div>
 		     </div>
 
@@ -474,7 +474,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In this step, we will be Creating a file that will store all your encrypted content. Later in the process, we will “mount” this file, so that it will show up looking like a folder or hard drive. But for now, select a location on your hard disk where this encrypted content will reside. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In this step, we will be Creating a file that will store all your encrypted content. Later in the process, we will “mount” this file, so that it will show up looking like a folder or hard drive. But for now, select a location on your hard disk where this encrypted content will reside. </span>
 		       </div>
 		     </div>
 
@@ -491,13 +491,13 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go ahead and click Next in this next step.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Go ahead and click Next in this next step.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In this next step, we choose which encryption techniques we should apply. Don’t worry if this doesn’t make sense, we can click “next” with the default options. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In this next step, we choose which encryption techniques we should apply. Don’t worry if this doesn’t make sense, we can click “next” with the default options. </span>
 		       </div>
 		     </div>
 
@@ -509,7 +509,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In this step, you will need to choose how much of your disk space you want to dedicate to this encrypted segment. Make sure that you have that space available on your hard drive. Choose more space if you will be storing movies, video, audio, etc. You can dedicate less space if you are only encrypting text documents or photos. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In this step, you will need to choose how much of your disk space you want to dedicate to this encrypted segment. Make sure that you have that space available on your hard drive. Choose more space if you will be storing movies, video, audio, etc. You can dedicate less space if you are only encrypting text documents or photos. </span>
 		       </div>
 		     </div>
 
@@ -521,7 +521,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Next, you will select a password. Write this password down. Make sure it is a secure password as per the rules described on pages 71–72</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Next, you will select a password. Write this password down. Make sure it is a secure password as per the rules described on pages 71–72</span>
 		       </div>
 		     </div>
 
@@ -533,7 +533,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Next, move your mouse around randomly for about 1 minute. This will generate “random noise” that will then be fed into the encryption in order to make it more uncrackable. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Next, move your mouse around randomly for about 1 minute. This will generate “random noise” that will then be fed into the encryption in order to make it more uncrackable. </span>
 		       </div>
 		     </div>
 
@@ -545,7 +545,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">At this point, you should see a volume successfully being created That is good, but we are not quite yet done.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">At this point, you should see a volume successfully being created That is good, but we are not quite yet done.</span>
 		       </div>
 		     </div>
 
@@ -557,7 +557,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Now, we are going to select an available drive letter in order to make the encrypted partition you just made visible as an extra hard drive. Go ahead and select any of the letters in the list and then click on “Select File” </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Now, we are going to select an available drive letter in order to make the encrypted partition you just made visible as an extra hard drive. Go ahead and select any of the letters in the list and then click on “Select File” </span>
 		       </div>
 		     </div>
 
@@ -571,7 +571,7 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">We do not recommend encrypting your whole disk with Veracrypt if you are a beginner. If you feel confident with your tech skills to troubleshoot, then proceed in this section. You will need a USB Stick to finish this process. You will also need to Boot into your BIOS and Disable Secure Boot in your BIOS.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">We do not recommend encrypting your whole disk with Veracrypt if you are a beginner. If you feel confident with your tech skills to troubleshoot, then proceed in this section. You will need a USB Stick to finish this process. You will also need to Boot into your BIOS and Disable Secure Boot in your BIOS.</span>
 		       </div>
 		     </div>
 

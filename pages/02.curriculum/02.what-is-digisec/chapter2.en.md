@@ -114,51 +114,51 @@ Different adversaries have different capacities and therefore require different 
 <div class="GLBL_H2" markdown="1">## RISK ASSESSMENT MODEL</div>
 Read the chart below to get an idea of how to think through your threat model. Some skills you may not understand quite yet. But return to this table as a model after you have gone through our training or read this curriculum handbook. You will find your understanding will change as you gain digital surveillance literacy. Some visit this page often for review or better yet make your own!
 
-<table bgcolor="#ffccc" width="700" border="0" cellspacing="5" cellpadding="5">
-  <tr>  
-        <td align="center" bgcolor="#993366" font color="#FFFFFF"><strong>THREATS </strong></td>
-      <td align="center"><strong>RISKS </strong></td>
-      <td align="center" ><strong>POSSIBLE ADVERSERIES </strong></td>
-      <td align="center" ><strong>CURRENT CAPACITIES </strong></td>
-      <td align="center" ><strong>CAPACITIES REQUIRED </strong></td>
+<table  width="700" border="0" cellspacing="5" cellpadding="5">
+  <tr style="border-left: 1px solid #9e7d94; border-right: 1px solid #9e7d94">  
+        <td align="center"  style="background-color:#9e7d94; color:white; border-left: 1px solid #9e7d94; border-right: 1px solid #9e7d94"><strong>THREATS </strong></td>
+      <td align="center" style="background-color:#9e7d94; color:white;border-left: 1px solid #9e7d94; border-right: 1px solid #9e7d94"><strong>RISKS </strong></td>
+      <td align="center" style="background-color:#9e7d94; color:white;"><strong>POSSIBLE ADVERSERIES </strong></td>
+      <td align="center" style="background-color:#9e7d94; color:white;"><strong>CURRENT CAPACITIES </strong></td>
+      <td align="center" style="background-color:#9e7d94; color:white;"><strong>CAPACITIES REQUIRED </strong></td>
     </tr>
      <tbody>
-     <tr>
-      <td><strong>Example 1: Someone is accessing my email</strong>. </td>
-      <td>• I've already shared my password. <br>
+     <tr "border-bottom: 1px solid #000;">
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94"><strong>Example 1: Someone is accessing my email</strong>. </td>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94">• I've already shared my password. <br>
         <br>
         • My password is weak and the same across multiple accounts. <br>
         <br>
       • I have a habit of leaving my laptop unattended.&nbsp; </td>
-      <td>• Roomates <br>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94">• Roomates <br>
         <br>
         • "Friends" <br>
         <br>
       • Infiltrators&nbsp; </td>
-      <td><br>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94"><br>
         • I will change my passwords so they are strong. <br>
         <br>
         • I will no longer share my passwords with anyone. <br>
         <br>
         • I won’t keep my passwords in online documents or emails.&nbsp; <br>
       <br></td>
-      <td>• I need to install a password manager so I can use strong and diverse passwords for different accounts. <br>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94">• I need to install a password manager so I can use strong and diverse passwords for different accounts. <br>
         <br>
       • I need to set up two-factor&nbsp; </td>
     </tr>
     <tr>
-      <td><strong>Example 2: My mobile phone is confiscated at a protest.</strong></td>
-      <td>• I have a weak password on my phone lock or use fingerprint login. <br>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94"><strong>Example 2: My mobile phone is confiscated at a protest.</strong></td>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94">• I have a weak password on my phone lock or use fingerprint login. <br>
         <br>
         • I have sensitive contacts on my phone under their real names. <br>
         <br>
       • I use apps like Gmail, through which anyone who has physical access to my phone can read my email without a password. </td>
-      <td>• The police. <br>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94">• The police. <br>
         <br>
         • Private security guards. <br>
         <br>
       • Department of Homeland Security Officials. </td>
-      <td><br>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94"><br>
         • I can change my password so it’s stronger. <br>
         <br>
         • I can remove the fingerprint login so I’m not compelled to use it unwillingly. <br>
@@ -169,30 +169,26 @@ Read the chart below to get an idea of how to think through your threat model. S
         <br>
         • I can delete non-essential apps. <br>
       <br></td>
-      <td>• I need to encrypt my phone. </td>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94">• I need to encrypt my phone. </td>
     </tr>
-    <tr>
-      <td><strong>Example 3: Someone hacking my computer.</strong></td>
-      <td>• I don’t know the various ways they can hack into my computer, and I have sensitive information stored on it. </td>
-      <td>• List anyone who would want to hack into your computer: </td>
-      <td><br>
+    <tr style="border-bottom: 5px solid #9e7d94;">
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94"><strong>Example 3: Someone hacking my computer.</strong></td>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94">• I don’t know the various ways they can hack into my computer, and I have sensitive information stored on it. </td>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94">• List anyone who would want to hack into your computer: </td>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94"><br>
         • I can keep my operating system and software up to date, and encrypt the hard drive. <br>
         <br>
         • I can store sensitive files on a passwordprotected USB drive. <br>
       <br></td>
-      <td>• I need to research the various ways in which someone can hack into my computer. </td>
+      <td style="border-left: 5px solid #9e7d94; border-right: 5px solid #9e7d94">• I need to research the various ways in which someone can hack into my computer. </td>
     </tr>
 
   </tbody>
 </table>
-
+<BR>
 <div class="col-xs-12 none">
-			<div class="well none" style="border-radius:0" >
-                          <span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><span class="note-text" markdown="1">If you're working with an organization, [https://safetag.org](https://safetag.org) has both an action guide and a curricula on risk modeling. If you want to think more about your organization’s security culture, in addition to digital security, Ruckus has a great manual which you can find [here. ](http://pdf.resistrnc.org/RuckusSecurityCultureForActivists.pdf)
-                          
-                     
-                        
-		       </div>
-		     </div>
+			<div class="well none" style="border-radius:0">
+<span class="note-icon"><i class="fa fa-pencil" ></i></span> <span class="note-highlight">NOTE: </span><div class="note-text" markdown="1" style="display:inline" > If you're working with an organization, [https://safetag.org](https://safetag.org) has both an action guide and a curricula on risk modeling. If you want to think more about your organization’s security culture, in addition to digital security, Ruckus has a great manual which you can find [here. ](http://pdf.resistrnc.org/RuckusSecurityCultureForActivists.pdf) </div>
+</div>
 
 

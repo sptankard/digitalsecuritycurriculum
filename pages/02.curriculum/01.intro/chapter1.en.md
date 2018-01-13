@@ -20,6 +20,8 @@ In countries around the world we have witnessed the rolling back of civil libert
 
 Digital security will not end repression on its own; but, people must use it to guard data and collective strategies in the process of fighting repression. For where the law has failed in protecting our privacy rights, digital and operational security practices can help us defend them.
 
+![](/images/Curriculum_img_4.jpg)
+
 We encourage all activists to have a holistic approach to maintaining privacy when it comes to our countries. If you are making non-secure communications across borders, you may be putting your contacts or even yourself at risk. It's also important to have constructive conversations with people in your national or international movements who do not have routines around digital security to inspire them to join the conversation and participate in our collective resilence. 
 
 This curriculum will help you make informed decisions about current protective measures that can reduce harmful levels of surveillance while also helping you be more literate about how to  navigate new risks as they come up. There will never be a perfect silver bullet in terms of digital security, but we believe we can help you feel safer and more informed as you organize because once you know your rights it is easier to fight and learn the tools. Think of this curriculum then as harm reduction for the digital organizer!

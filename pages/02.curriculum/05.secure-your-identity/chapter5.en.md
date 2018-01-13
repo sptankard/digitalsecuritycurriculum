@@ -151,7 +151,7 @@ The 1Password app has its own built-in browser that can take advantage of saved 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If on a page with a login or other input field, simply tap the Share icon, then the iPassword icon. The app will ask for your master password, then it will fill in the requested information, just as it does on the Mac.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">If on a page with a login or other input field, simply tap the Share icon, then the iPassword icon. The app will ask for your master password, then it will fill in the requested information, just as it does on the Mac.</span>
 		       </div>
 		     </div>
 
@@ -166,13 +166,13 @@ Google's Gmail is one of the most used web email apps in the world. This section
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To check for signs of a hack, look at the bottom right hand side. It will tell you when the last activity on your account took place. Make sure the dates and times align with your use.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To check for signs of a hack, look at the bottom right hand side. It will tell you when the last activity on your account took place. Make sure the dates and times align with your use.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Additionally, you can click on “Details” below to view a list of all the activity on your account.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Additionally, you can click on “Details” below to view a list of all the activity on your account.</span>
 		       </div>
 		     </div>
 
@@ -192,13 +192,13 @@ Google's Gmail is one of the most used web email apps in the world. This section
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To set your account security for gmail and your google accounts in general, click on your profile picture on the top of your gmail screen and click on “My Account”</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To set your account security for gmail and your google accounts in general, click on your profile picture on the top of your gmail screen and click on “My Account”</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You will be taken to a master settings page. Here you can make sure your basic settings are set to protect you. Fists, do an overall security check by clicking on “Get Started” under the “Security Check Up” option.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You will be taken to a master settings page. Here you can make sure your basic settings are set to protect you. Fists, do an overall security check by clicking on “Get Started” under the “Security Check Up” option.</span>
 		       </div>
 		     </div>
 
@@ -224,7 +224,7 @@ Check that your recovery phone or email are accurate and up-to-date. This will b
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Next, you can check that any recent changes made to the account settings were in fact made by you from a location you recognize.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Next, you can check that any recent changes made to the account settings were in fact made by you from a location you recognize.</span>
 		       </div>
 		     </div>
 
@@ -236,7 +236,7 @@ Check that your recovery phone or email are accurate and up-to-date. This will b
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Check that the devices from which you access your account look normal.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Check that the devices from which you access your account look normal.</span>
 		       </div>
 		     </div>
 
@@ -248,7 +248,7 @@ Check that your recovery phone or email are accurate and up-to-date. This will b
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Check that the apps you have allowed access to your gmail account are there as you specified. We strongly recommend you do not allow access to random apps that are less secure as they can compromise your security and gather data about you.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Check that the apps you have allowed access to your gmail account are there as you specified. We strongly recommend you do not allow access to random apps that are less secure as they can compromise your security and gather data about you.</span>
 		       </div>
 		     </div>
 
@@ -260,7 +260,7 @@ Check that your recovery phone or email are accurate and up-to-date. This will b
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Lastly, check your 2-step verification settings and make sure you have your backup codes. To see more on this, see page 90</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Lastly, check your 2-step verification settings and make sure you have your backup codes. To see more on this, see page 90</span>
 		       </div>
 		     </div>
 
@@ -287,13 +287,13 @@ Now, back in your accounts page you can also perform a Privacy Check up.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click on it and choose settings that minimize your exposure to the Internet in general</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on it and choose settings that minimize your exposure to the Internet in general</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">For example, uncheck the following suggestions so that only people you give your phone number to can contact you.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">For example, uncheck the following suggestions so that only people you give your phone number to can contact you.</span>
 		       </div>
 		     </div>
 
@@ -307,7 +307,7 @@ Google can collect information on you to send you “personalized ads”. This m
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To do this you need to toggle the “Opt Out”, switch to the “OFF” position.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To do this you need to toggle the “Opt Out”, switch to the “OFF” position.</span>
 		       </div>
 		     </div>
 
@@ -321,7 +321,7 @@ We recommend you get an IBA Opt Out Extension for your Google Chrome. This tells
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To install this go to Chrome → Windows → Extensions. Scroll to the bottom of the page and click on “Get more Extensions”. Search for Google Opt out and Install.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To install this go to Chrome → Windows → Extensions. Scroll to the bottom of the page and click on “Get more Extensions”. Search for Google Opt out and Install.</span>
 		       </div>
 		     </div>
 
@@ -374,19 +374,19 @@ If turned on, signing in to your account will work a little differently:
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Whenever you sign-in to Google, you'll enter your password as usual.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Whenever you sign-in to Google, you'll enter your password as usual.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You will be asked for something else. Then, a code will be sent to your phone via text, voice call, or our mobile app.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You will be asked for something else. Then, a code will be sent to your phone via text, voice call, or our mobile app.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To set up 2FA on your gmail account, go to your profile pic/icon on the top right and click on “My Account.”, click on Sign in and Security. Then click to turn 2FA on.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To set up 2FA on your gmail account, go to your profile pic/icon on the top right and click on “My Account.”, click on Sign in and Security. Then click to turn 2FA on.</span>
 		       </div>
 		     </div>
 
@@ -406,7 +406,7 @@ Google will ask you for your phone number to send you the verification codes. On
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In the page that follows, enter the code you received via text </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In the page that follows, enter the code you received via text </span>
 		       </div>
 		     </div>
 
@@ -423,7 +423,7 @@ Google will ask you for your phone number to send you the verification codes. On
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">It's a good idea to set up backup codes to access your account when you don't have your phone at hand. When you click on backup codes, a list of codes comes up. Save these codes somewhere for future use.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">It's a good idea to set up backup codes to access your account when you don't have your phone at hand. When you click on backup codes, a list of codes comes up. Save these codes somewhere for future use.</span>
 		       </div>
 		     </div>
 

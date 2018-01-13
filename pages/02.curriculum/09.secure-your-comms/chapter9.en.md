@@ -45,7 +45,7 @@ When you search for the app on your mobile device, make sure to select the versi
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click Accept. After Signal has finished downloading, click Open to launch the app.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click Accept. After Signal has finished downloading, click Open to launch the app.</span>
 		       </div>
 		     </div>
 
@@ -71,13 +71,13 @@ When you search for the app on your mobile device, make sure to select the versi
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">INSTALLING <div class="SECS_H1" markdown="1"># SIGNAL</div> AND REGISTERING YOUR NUMBER </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">INSTALLING <div class="SECS_H1" markdown="1"># SIGNAL</div> AND REGISTERING YOUR NUMBER </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Register and verify your phone number. You will see a screen that looks like this:</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Register and verify your phone number. You will see a screen that looks like this:</span>
 		       </div>
 		     </div>
 
@@ -89,7 +89,7 @@ When you search for the app on your mobile device, make sure to select the versi
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Enter your mobile phone number and click Register. In order to verify your number, you will be sent an SMS text with a six-digit code. Since Signal can access your SMS text messages, it will automatically recognize when you’ve received the code and complete your registration.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Enter your mobile phone number and click Register. In order to verify your number, you will be sent an SMS text with a six-digit code. Since Signal can access your SMS text messages, it will automatically recognize when you’ve received the code and complete your registration.</span>
 		       </div>
 		     </div>
 
@@ -101,13 +101,13 @@ When you search for the app on your mobile device, make sure to select the versi
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">MAKING PHONE CALLS USING <div class="SECS_H1" markdown="1"># SIGNAL</div> </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">MAKING PHONE CALLS USING <div class="SECS_H1" markdown="1"># SIGNAL</div> </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In order to use Signal, the person you are contacting must also have Signal for Android or iOS installed. If you use Signal to send a message to someone who does not use the app, it will send a standard, non-encrypted text message. If you try to call the person, it will place a standard phone call. To get started, click the pencil icon in the lower-right corner of the screen.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In order to use Signal, the person you are contacting must also have Signal for Android or iOS installed. If you use Signal to send a message to someone who does not use the app, it will send a standard, non-encrypted text message. If you try to call the person, it will place a standard phone call. To get started, click the pencil icon in the lower-right corner of the screen.</span>
 		       </div>
 		     </div>
 
@@ -119,7 +119,7 @@ When you search for the app on your mobile device, make sure to select the versi
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You will see a list of all the registered Signal users in your contacts. You can also enter the phone number of a Signal user who isn’t in your contacts. When they are selected, you can choose to either call them or send them a message.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You will see a list of all the registered Signal users in your contacts. You can also enter the phone number of a Signal user who isn’t in your contacts. When they are selected, you can choose to either call them or send them a message.</span>
 		       </div>
 		     </div>
 
@@ -131,13 +131,13 @@ When you search for the app on your mobile device, make sure to select the versi
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To initiate an encrypted call to a contact, first check to see that the person can accept Signal calls. Select the contact from your list, then look for a small padlock icon next to the phone icon. Click the phone icon to initiate a call.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To initiate an encrypted call to a contact, first check to see that the person can accept Signal calls. Select the contact from your list, then look for a small padlock icon next to the phone icon. Click the phone icon to initiate a call.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">The most trustworthy way to verify a caller's identity is to use out-of-band verification        to verify the word pair. You can also read the words aloud if you recognize the caller’s voice, although very sophisticated attackers might be able to defeat this. The word pair must be identical on both users' phones for you to be sure your message is not being intercepted.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">The most trustworthy way to verify a caller's identity is to use out-of-band verification        to verify the word pair. You can also read the words aloud if you recognize the caller’s voice, although very sophisticated attackers might be able to defeat this. The word pair must be identical on both users' phones for you to be sure your message is not being intercepted.</span>
 		       </div>
 		     </div>
 
@@ -159,13 +159,13 @@ When you search for the app on your mobile device, make sure to select the versi
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">SENDING ENCRYPTED TEXTS</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">SENDING ENCRYPTED TEXTS</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In order to send an end-to-end encrypted text, picture, or video message, navigate to your contact list, click on the contact’s name, and send your message.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In order to send an end-to-end encrypted text, picture, or video message, navigate to your contact list, click on the contact’s name, and send your message.</span>
 		       </div>
 		     </div>
 
@@ -177,7 +177,7 @@ When you search for the app on your mobile device, make sure to select the versi
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You can send an encrypted group message by clicking the overflow icon (the three dots in the upper-right corner of the screen) and selecting “New group”.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You can send an encrypted group message by clicking the overflow icon (the three dots in the upper-right corner of the screen) and selecting “New group”.</span>
 		       </div>
 		     </div>
 
@@ -198,13 +198,13 @@ Signal's Google Chrome extension allows you to seamlessly continue text conversa
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click on Add to Chrome. You will see a scan code, as below. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on Add to Chrome. You will see a scan code, as below. </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Open the Signal app on your phone. Go to Settings → Linked Devices → Link New Device. This selection will activate your camera and allow you to scan the code on your computer screen. When prompted, click on Link New Device.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Open the Signal app on your phone. Go to Settings → Linked Devices → Link New Device. This selection will activate your camera and allow you to scan the code on your computer screen. When prompted, click on Link New Device.</span>
 		       </div>
 		     </div>
 
@@ -232,13 +232,13 @@ Safety numbers allow Signal users to verify the privacy of their communication w
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To set this up, open the screen where you are able to message your contact, as described above. From this screen, tap the name of your contact at the top of the screen.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To set this up, open the screen where you are able to message your contact, as described above. From this screen, tap the name of your contact at the top of the screen.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">On the following screen, tap Verify Safety Numbers.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">On the following screen, tap Verify Safety Numbers.</span>
 		       </div>
 		     </div>
 
@@ -250,7 +250,7 @@ Safety numbers allow Signal users to verify the privacy of their communication w
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">This will take you to a screen with a QR code and a list of “safety numbers.” This code will be unique for every contact. Have your contact navigate to the corresponding screen for their conversation with you, so they have a QR code displayed on their screen as well.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">This will take you to a screen with a QR code and a list of “safety numbers.” This code will be unique for every contact. Have your contact navigate to the corresponding screen for their conversation with you, so they have a QR code displayed on their screen as well.</span>
 		       </div>
 		     </div>
 
@@ -262,7 +262,7 @@ Safety numbers allow Signal users to verify the privacy of their communication w
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Tap Scan Code. At this point, Signal may ask for permission to access the camera. Tap OK.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Tap Scan Code. At this point, Signal may ask for permission to access the camera. Tap OK.</span>
 		       </div>
 		     </div>
 
@@ -274,7 +274,7 @@ Safety numbers allow Signal users to verify the privacy of their communication w
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If verification didn't work, you'll see a notification that says “Failed to Verify Safety Numbers!”</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">If verification didn't work, you'll see a notification that says “Failed to Verify Safety Numbers!”</span>
 		       </div>
 		     </div>
 
@@ -286,7 +286,7 @@ Safety numbers allow Signal users to verify the privacy of their communication w
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You may want to avoid discussing sensitive topics with anyone until you have verified keys with them.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You may want to avoid discussing sensitive topics with anyone until you have verified keys with them.</span>
 		       </div>
 		     </div>
 
@@ -308,7 +308,7 @@ Signal has a feature called “disappearing messages” that automatically remov
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You'll then see a slider that allows you to choose how quickly messages will disappear.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You'll then see a slider that allows you to choose how quickly messages will disappear.</span>
 		       </div>
 		     </div>
 
@@ -320,7 +320,7 @@ Signal has a feature called “disappearing messages” that automatically remov
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">After you select an option, tap the &lt; icon at the top-left corner of the screen. You should see a notification indicating that disappearing messages has been enabled.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">After you select an option, tap the &lt; icon at the top-left corner of the screen. You should see a notification indicating that disappearing messages has been enabled.</span>
 		       </div>
 		     </div>
 
@@ -332,7 +332,7 @@ Signal has a feature called “disappearing messages” that automatically remov
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You can now send messages with the assurance that they will be erased after the chosen amount of time.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You can now send messages with the assurance that they will be erased after the chosen amount of time.</span>
 		       </div>
 		     </div>
 
@@ -396,13 +396,13 @@ To verify that a chat is end-to-end encrypted
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Open the chat, tap on your contact's name to open their info screen.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Open the chat, tap on your contact's name to open their info screen.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Tap Encryption to view the QR code and the 60-digit number.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Tap Encryption to view the QR code and the 60-digit number.</span>
 		       </div>
 		     </div>
 
@@ -540,19 +540,19 @@ How to send encrypted email
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Download and install the GPG suite from here</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Download and install the GPG suite from here</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Create a private and public key pair for your use (in other words, generate both your lock and your key). You only need to do this once.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Create a private and public key pair for your use (in other words, generate both your lock and your key). You only need to do this once.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">On the GPG Keychain program window, click File → New Key → Enter your name, your email address and your passphrase.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">On the GPG Keychain program window, click File → New Key → Enter your name, your email address and your passphrase.</span>
 		       </div>
 		     </div>
 
@@ -583,7 +583,7 @@ Next, if you are frequently communicating with new contacts add your key to the 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To add your key to the server, first you must export it by clicking on Export in the GPG keychain. Open that file on your desktop and copy it. Then, go to pgp.mit.edu and enter your key into the text box under “Submit a key” and click “Submit this key to the keyserver! Here you can also look for other users by searching for names, emails, or specific key IDs in the “Search String” field. Finally, you can also use the file of your exported key to send your public key to a collaborator via email.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To add your key to the server, first you must export it by clicking on Export in the GPG keychain. Open that file on your desktop and copy it. Then, go to pgp.mit.edu and enter your key into the text box under “Submit a key” and click “Submit this key to the keyserver! Here you can also look for other users by searching for names, emails, or specific key IDs in the “Search String” field. Finally, you can also use the file of your exported key to send your public key to a collaborator via email.</span>
 		       </div>
 		     </div>
 
@@ -599,7 +599,7 @@ First, find your recipient's key on the PGP key server.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You can do so by going to Key → Look up key on server. In the search box, enter the email address of the person you are looking for.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You can do so by going to Key → Look up key on server. In the search box, enter the email address of the person you are looking for.</span>
 		       </div>
 		     </div>
 
@@ -611,7 +611,7 @@ First, find your recipient's key on the PGP key server.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Find the person you wish to communicate with in the search results. Click on their name, then click Retrieve Key.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Find the person you wish to communicate with in the search results. Click on their name, then click Retrieve Key.</span>
 		       </div>
 		     </div>
 
@@ -630,7 +630,7 @@ Once you have their key, you are ready to send an encrypted message.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Open TextEdit on your computer. Type your email message, highlight all of the text, and right-click (or Control + click). Click on the option “Open PGP: Encrypt Selection to a New Window.”</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Open TextEdit on your computer. Type your email message, highlight all of the text, and right-click (or Control + click). Click on the option “Open PGP: Encrypt Selection to a New Window.”</span>
 		       </div>
 		     </div>
 
@@ -642,7 +642,7 @@ Once you have their key, you are ready to send an encrypted message.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">A window will pop up asking you to select the recipients with keys on your list. Select one or more recipients to whom you would like to send the message.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">A window will pop up asking you to select the recipients with keys on your list. Select one or more recipients to whom you would like to send the message.</span>
 		       </div>
 		     </div>
 
@@ -654,7 +654,7 @@ Once you have their key, you are ready to send an encrypted message.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Copy the body of this message and email it to your collaborator.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Copy the body of this message and email it to your collaborator.</span>
 		       </div>
 		     </div>
 
@@ -671,7 +671,7 @@ Once you have their key, you are ready to send an encrypted message.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Once they receive the email, they will select use their passphrase to decrypt the message and read it in plain text.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Once they receive the email, they will select use their passphrase to decrypt the message and read it in plain text.</span>
 		       </div>
 		     </div>
 
@@ -693,13 +693,13 @@ GNU Privacy Assistant is a useful application that's comes bundled with Gpg4win.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">CREATE AND PUBLISH A KEY</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">CREATE AND PUBLISH A KEY</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Create a public/private key pair for yourself by going to Keys → New key. You will be asked to give a name and email address for this key. The private key will be for your use only and kept secret at all times. Others will use your public key to encrypt messages to you. You can also use your public key to “digitally sign” your communications.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Create a public/private key pair for yourself by going to Keys → New key. You will be asked to give a name and email address for this key. The private key will be for your use only and kept secret at all times. Others will use your public key to encrypt messages to you. You can also use your public key to “digitally sign” your communications.</span>
 		       </div>
 		     </div>
 
@@ -726,7 +726,7 @@ GNU Privacy Assistant is a useful application that's comes bundled with Gpg4win.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Once the private/public key pair is created, you will want to publish your public key on the Internet to a keyserver, so that people who wish to communicate with you can search for you and find your keys. You can publish your public key at [https://pgp.mit.edu/.](https://pgp.mit.edu/.) This is like making sure you are listed in the yellow pages of the PGP community. Depending on how tied this key is to your personal identity, you may choose instead to share it directly with people you wish to correspond with, as opposed to sharing it publicly.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Once the private/public key pair is created, you will want to publish your public key on the Internet to a keyserver, so that people who wish to communicate with you can search for you and find your keys. You can publish your public key at [https://pgp.mit.edu/.](https://pgp.mit.edu/.) This is like making sure you are listed in the yellow pages of the PGP community. Depending on how tied this key is to your personal identity, you may choose instead to share it directly with people you wish to correspond with, as opposed to sharing it publicly.</span>
 		       </div>
 		     </div>
 
@@ -738,7 +738,7 @@ GNU Privacy Assistant is a useful application that's comes bundled with Gpg4win.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To do so, you'll first export your key by right-clicking on the new key that appears in the Key Manager. Then, select Key. You will see a notification that says, “The keys have been copied to the clipboard.”</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To do so, you'll first export your key by right-clicking on the new key that appears in the Key Manager. Then, select Key. You will see a notification that says, “The keys have been copied to the clipboard.”</span>
 		       </div>
 		     </div>
 
@@ -750,7 +750,7 @@ GNU Privacy Assistant is a useful application that's comes bundled with Gpg4win.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to pgp.mit.edu. There, you can upload your key by copy-pasting from the clipboard. You can also look for other users by searching for names, emails, or specific key IDs (as can anyone!). Finally, you can also use the file of your exported key to send your public key to collaborator (over email).</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Go to pgp.mit.edu. There, you can upload your key by copy-pasting from the clipboard. You can also look for other users by searching for names, emails, or specific key IDs (as can anyone!). Finally, you can also use the file of your exported key to send your public key to collaborator (over email).</span>
 		       </div>
 		     </div>
 
@@ -764,13 +764,13 @@ ENCRYPT A MESSAGE
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In order to encrypt a message, you will need to obtain your collaborator’s public key. You will use their public key to encrypt your message, which they will later decrypt using their private key. You can use the MIT PGP Public Key Server to look up your collaborator’s public key, if it’s published there. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In order to encrypt a message, you will need to obtain your collaborator’s public key. You will use their public key to encrypt your message, which they will later decrypt using their private key. You can use the MIT PGP Public Key Server to look up your collaborator’s public key, if it’s published there. </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">The keyserver will associate an ID with the key that looks something like “0x5db78.7” You can make note of this ID and ensure that it is the correct (authentic) with your collaborator via phone or email. This step will add an additional layer of security, similar to the two-factor authentication used in WhatsApp or Gmail. Once you confirm the key, go ahead and copy it into your clipboard, starting with the line that begins with “-----BEGIN PGP PUBLIC KEY BLOCK-----.”</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">The keyserver will associate an ID with the key that looks something like “0x5db78.7” You can make note of this ID and ensure that it is the correct (authentic) with your collaborator via phone or email. This step will add an additional layer of security, similar to the two-factor authentication used in WhatsApp or Gmail. Once you confirm the key, go ahead and copy it into your clipboard, starting with the line that begins with “-----BEGIN PGP PUBLIC KEY BLOCK-----.”</span>
 		       </div>
 		     </div>
 
@@ -782,13 +782,13 @@ ENCRYPT A MESSAGE
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Once you've copied the key, you can import your collaborator's public key by clicking “Import.”</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Once you've copied the key, you can import your collaborator's public key by clicking “Import.”</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">After you’ve imported the public key, you are ready to encrypt a message. To do so, click on “Clipboard” and enter your message.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">After you’ve imported the public key, you are ready to encrypt a message. To do so, click on “Clipboard” and enter your message.</span>
 		       </div>
 		     </div>
 
@@ -805,13 +805,13 @@ ENCRYPT A MESSAGE
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In the clipboard window click on “encrypt” and use your collaborators public key to encrypt. If you check the “sign” box, your message will be “signed” using your key. This way, your collaborator can verify that the message that is sent is really coming from you. Your text in the clipboard should transform into an encrypted block. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In the clipboard window click on “encrypt” and use your collaborators public key to encrypt. If you check the “sign” box, your message will be “signed” using your key. This way, your collaborator can verify that the message that is sent is really coming from you. Your text in the clipboard should transform into an encrypted block. </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You are now ready to send your encrypted email. Copy and paste the encrypted block into an email or SMS, and send it to your collaborator.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You are now ready to send your encrypted email. Copy and paste the encrypted block into an email or SMS, and send it to your collaborator.</span>
 		       </div>
 		     </div>
 
@@ -819,7 +819,7 @@ DECRYPT A MESSAGE
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">When you receive an encrypted message that was sent using your public key, you can copy that message into the clipboard, hit the Decrypt button, and enter private key and password.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">When you receive an encrypted message that was sent using your public key, you can copy that message into the clipboard, hit the Decrypt button, and enter private key and password.</span>
 		       </div>
 		     </div>
 

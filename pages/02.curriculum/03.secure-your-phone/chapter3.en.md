@@ -48,7 +48,7 @@ If your phone uses a SIM card, you can set a lock on the card so it cannot be us
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Enable Lock SIM card by going to Settings → Personal → Security → Set up SIM card lock. Now, each time your phone is turned on it will require a PIN in order to unlock your SIM card. No one will be able to make calls using your device without the PIN.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Enable Lock SIM card by going to Settings → Personal → Security → Set up SIM card lock. Now, each time your phone is turned on it will require a PIN in order to unlock your SIM card. No one will be able to make calls using your device without the PIN.</span>
 		       </div>
 		     </div>
 ![](/images/Curriculum_img_13.jpg)
@@ -68,7 +68,7 @@ With a six-digit PIN, there are one million possible codes, so it’s harder for
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Set up a screen lock by accessing Settings → Personal → Security → Screen Lock, to ensure that lists, pictures, and a code, pattern, or password need to be entered in order to unlock the screen. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Set up a screen lock by accessing Settings → Personal → Security → Screen Lock, to ensure that lists, pictures, and a code, pattern, or password need to be entered in order to unlock the screen. </span>
 		       </div>
 		     </div>
 
@@ -90,7 +90,7 @@ Once you have set your PIN/Password the next step is to activate your security l
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to Settings → Display → Sleep. Different versions of the firmware use different names for this menu so you will have to find the one that matches your phone. Now select a time period that is appropriate to your usage habits in the pop-up menu that appears. The change will take place immediately.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Go to Settings → Display → Sleep. Different versions of the firmware use different names for this menu so you will have to find the one that matches your phone. Now select a time period that is appropriate to your usage habits in the pop-up menu that appears. The change will take place immediately.</span>
 		       </div>
 		     </div>
 
@@ -189,7 +189,7 @@ We recommend using AppLock8 on Androids. AppLock is a free app that extends your
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Once you download, install, and open AppLock, you will be prompted to create a password. This is used whenever you re-open AppLock, as well as when you want to access any of the apps you will be protecting, so make sure it's a password you can easily remember. You'll also need to provide a security e-mail address.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Once you download, install, and open AppLock, you will be prompted to create a password. This is used whenever you re-open AppLock, as well as when you want to access any of the apps you will be protecting, so make sure it's a password you can easily remember. You'll also need to provide a security e-mail address.</span>
 		       </div>
 		     </div>
 
@@ -199,7 +199,7 @@ We recommend using AppLock8 on Androids. AppLock is a free app that extends your
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">After that, you are all set to start locking individual apps, such as Phone, Messenger, Facebook, and so on. If you want to lock the Camera app, for example, you'll simply tap the lock icon.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">After that, you are all set to start locking individual apps, such as Phone, Messenger, Facebook, and so on. If you want to lock the Camera app, for example, you'll simply tap the lock icon.</span>
 		       </div>
 		     </div>
 
@@ -208,7 +208,7 @@ We recommend using AppLock8 on Androids. AppLock is a free app that extends your
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Now it is locked, and if you want to access your phone's camera, you will be prompted to enter your passcode.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Now it is locked, and if you want to access your phone's camera, you will be prompted to enter your passcode.</span>
 		       </div>
 		     </div>
 
@@ -247,13 +247,13 @@ After installing Simply pick one or more photos with EXIF information from the G
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Choose whether you want to replace the photo, create a new copy, or simply share the photo (e.g. to Facebook). </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Choose whether you want to replace the photo, create a new copy, or simply share the photo (e.g. to Facebook). </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Then, you are free to share your EXIF-free photos without compromising your privacy.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Then, you are free to share your EXIF-free photos without compromising your privacy.</span>
 		       </div>
 		     </div>
 
@@ -278,13 +278,13 @@ So lets get started with setting up your iPhone. The first step is to set up the
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To set these up, go to **Settings → Touch ID &amp; Passcode**. On devices without Touch ID, go to Settings → Passcode. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To set these up, go to **Settings → Touch ID &amp; Passcode**. On devices without Touch ID, go to Settings → Passcode. </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Tap Turn Passcode On. Then, tap Passcode Options to switch to a four-digit numeric code, a custom numeric code, or a custom alphanumeric code. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Tap Turn Passcode On. Then, tap Passcode Options to switch to a four-digit numeric code, a custom numeric code, or a custom alphanumeric code. </span>
 		       </div>
 		     </div>
 
@@ -314,14 +314,14 @@ Once you have set your PIN/Password the next step is to activate your security l
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to the Settings → Display &amp; Brightness → Auto-Lock. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Go to the Settings → Display &amp; Brightness → Auto-Lock. </span>
 		       </div>
 		     </div>
 ![](/images/Curriculum_img_28.jpg)
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Choose the time interval. This means that, if you have not used your phone for the amount of time specified, it will automatically lock. Do not choose “Never”, as that will leave you vulnerable; instead, select an interval between 30 seconds and one minute.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Choose the time interval. This means that, if you have not used your phone for the amount of time specified, it will automatically lock. Do not choose “Never”, as that will leave you vulnerable; instead, select an interval between 30 seconds and one minute.</span>
 		       </div>
 		     </div>
              
@@ -329,7 +329,7 @@ Once you have set your PIN/Password the next step is to activate your security l
              
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If you are running iOS 9 or iOS 8, the lock screen option is available in Settings → General → Auto-Lock → Time interval.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">If you are running iOS 9 or iOS 8, the lock screen option is available in Settings → General → Auto-Lock → Time interval.</span>
 		       </div>
 		     </div> 
 
@@ -375,7 +375,7 @@ Some apps will ask to use your location only while the app is in use. An app is 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">You can control your phone’s location settings at Settings → Privacy → Location Services. You can turn Location Services on either during the initial Setup Assistant process or later via the Location Services screen. After this, you will be able to control which individual apps and system services have access to your location data.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">You can control your phone’s location settings at Settings → Privacy → Location Services. You can turn Location Services on either during the initial Setup Assistant process or later via the Location Services screen. After this, you will be able to control which individual apps and system services have access to your location data.</span>
 		       </div>
 		     </div>
 
@@ -411,13 +411,13 @@ You can use Guided Access to:
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to Settings and tap General → Accessibility → Guided Access. Under Guided Access, toggle Guided Access to ON. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Go to Settings and tap General → Accessibility → Guided Access. Under Guided Access, toggle Guided Access to ON. </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">This will give you an option for—Passcode Settings. Now, you can set a Guided Access password.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">This will give you an option for—Passcode Settings. Now, you can set a Guided Access password.</span>
 		       </div>
 		     </div>
 
@@ -427,7 +427,7 @@ With this, you have successfully enabled the Guided Access feature and can now l
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Next, triple-click the home button. This will give you options to restrict features within an app, as shown below. This is the best part of this feature, you may have already seen apps that lock other applications, but the ability to lock specific features within an app is new and different. Simply circle any areas of the screen you would like to make inaccessible.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Next, triple-click the home button. This will give you options to restrict features within an app, as shown below. This is the best part of this feature, you may have already seen apps that lock other applications, but the ability to lock specific features within an app is new and different. Simply circle any areas of the screen you would like to make inaccessible.</span>
 		       </div>
 		     </div>
 
@@ -438,7 +438,7 @@ With this, you have successfully enabled the Guided Access feature and can now l
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Tap on Options in the bottom left corner to choose whether you want to grant access to the sleep/wake button, volume buttons, touch screen, and motion. Tap Done to save your selections. Tap on Start at the top of the screen to begin Guided Access.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Tap on Options in the bottom left corner to choose whether you want to grant access to the sleep/wake button, volume buttons, touch screen, and motion. Tap Done to save your selections. Tap on Start at the top of the screen to begin Guided Access.</span>
 		       </div>
 		     </div>
 
@@ -479,7 +479,7 @@ The metadata of an image is not always bad or always good. It really depends on 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">iPhone: Open the Settings app, then tap Privacy. Tap Location Services, find and tap Camera in the list of apps. Under, Allow Loaction Access, select Never.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">iPhone: Open the Settings app, then tap Privacy. Tap Location Services, find and tap Camera in the list of apps. Under, Allow Loaction Access, select Never.</span>
 		       </div>
 		     </div>
 

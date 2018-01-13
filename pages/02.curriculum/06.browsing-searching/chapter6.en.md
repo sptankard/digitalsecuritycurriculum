@@ -33,13 +33,13 @@ To start making the necessary modifications, we need to access the settings area
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Chrome →  ⋮   → Select “New Incognito Window”</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Chrome →  ⋮   → Select “New Incognito Window”</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Using Chrome's Incognito Mode means that when you close your browser, a number of traces created during the session are automatically cleared: your browser, search, web form and download histories, as well as cookies and temporary files.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Using Chrome's Incognito Mode means that when you close your browser, a number of traces created during the session are automatically cleared: your browser, search, web form and download histories, as well as cookies and temporary files.</span>
 		       </div>
 		     </div>
 
@@ -53,13 +53,13 @@ To start making the necessary modifications, we need to access the settings area
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To access the settings area for Google Chrome, click the ⋮ button at the top right corner of the browser and select Settings from the drop-down menu.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To access the settings area for Google Chrome, click the ⋮ button at the top right corner of the browser and select Settings from the drop-down menu.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">As soon as you access the Settings area, you will notice Advanced Sync Settings at the top, in the Sign-in section.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">As soon as you access the Settings area, you will notice Advanced Sync Settings at the top, in the Sign-in section.</span>
 		       </div>
 		     </div>
 
@@ -90,25 +90,25 @@ To improve your security, you need to set a passphrase, which is an additional c
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If you scroll down at the bottom of the page, you will see a Show Advanced Settings option.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">If you scroll down at the bottom of the page, you will see a Show Advanced Settings option.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click the link in order to access the advanced settings available.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click the link in order to access the advanced settings available.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">The Clear Browsing Data option gives you the possibility to delete your browsing history, so don’t forget to use that option if you are using a computer in a shared environment.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">The Clear Browsing Data option gives you the possibility to delete your browsing history, so don’t forget to use that option if you are using a computer in a shared environment.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">The Clear Browsing Data option gives you the possibility to delete your browsing history, so don’t forget to use that option if you are using a computer in a shared environment.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">The Clear Browsing Data option gives you the possibility to delete your browsing history, so don’t forget to use that option if you are using a computer in a shared environment.</span>
 		       </div>
 		     </div>
 
@@ -120,7 +120,7 @@ To improve your security, you need to set a passphrase, which is an additional c
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">The Content Settings option gives you more possibilities to address and improve your overall browsing security.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">The Content Settings option gives you more possibilities to address and improve your overall browsing security.</span>
 		       </div>
 		     </div>
 
@@ -134,7 +134,7 @@ If you want to restrict cookies from being stored on your browser and using the 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To make the necessary changes in the Content settings window, you will need to scroll down in order to access the other options.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To make the necessary changes in the Content settings window, you will need to scroll down in order to access the other options.</span>
 		       </div>
 		     </div>
 
@@ -149,7 +149,7 @@ If you want to restrict cookies from being stored on your browser and using the 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Scrolling down, you find other options: You can control the behavior of your browser plug-ins, you can block pop-ups from disturbing your browsing session and you can stop a website from tracking your physical location.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Scrolling down, you find other options: You can control the behavior of your browser plug-ins, you can block pop-ups from disturbing your browsing session and you can stop a website from tracking your physical location.</span>
 		       </div>
 		     </div>
 
@@ -161,7 +161,7 @@ If you want to restrict cookies from being stored on your browser and using the 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If you continue scrolling down to the bottom of the Content settings window, you will find the option to block websites from using a plugin to access your computer. There is also an option to block sites from downloading multiple files automatically on your computer, This can also further protect you from being exposed to sites that try to deposit security threats on to your device.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">If you continue scrolling down to the bottom of the Content settings window, you will find the option to block websites from using a plugin to access your computer. There is also an option to block sites from downloading multiple files automatically on your computer, This can also further protect you from being exposed to sites that try to deposit security threats on to your device.</span>
 		       </div>
 		     </div>
 
@@ -181,7 +181,7 @@ Setting private browsing by default can be done in two ways:
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">1. Find multiple →  ☰  → Preferences → Privacy → select Never remember history</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">1. Find multiple →  ☰  → Preferences → Privacy → select Never remember history</span>
 		       </div>
 		     </div>
 
@@ -189,7 +189,7 @@ or
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">2. Firefox → ☰ → Preferences → Privacy → select use custom settings for history → check: Always use private browsing mode</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">2. Firefox → ☰ → Preferences → Privacy → select use custom settings for history → check: Always use private browsing mode</span>
 		       </div>
 		     </div>
 
@@ -204,7 +204,7 @@ When you close Firefox, the following will be cleared: your browser, search, web
 **USING PRIVATE BROWSING OCCASIONALLY**
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Private Browsing' mode can also be used for a single window: Open Firefox →   ☰  → New Private Window</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Private Browsing' mode can also be used for a single window: Open Firefox →   ☰  → New Private Window</span>
 		       </div>
 		     </div>
 
@@ -218,13 +218,13 @@ When you close Firefox, the following will be cleared: your browser, search, web
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In the Options window, you need to access first the General category from the top menu.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In the Options window, you need to access first the General category from the top menu.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Under this section, you can select the option “Always ask me where to save files”. This way, you won’t have a web location trying to automatically save dangerous content to your computer. At the same time, you have the option to place suspicious content in a location where you can analyze it afterwards.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Under this section, you can select the option “Always ask me where to save files”. This way, you won’t have a web location trying to automatically save dangerous content to your computer. At the same time, you have the option to place suspicious content in a location where you can analyze it afterwards.</span>
 		       </div>
 		     </div>
 
@@ -238,13 +238,13 @@ When you close Firefox, the following will be cleared: your browser, search, web
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In the Tracking section, check “Tell sites that I do not want to be tracked.” Selecting this option informs a website that you would like to opt-out of third-party tracking for advertising purposes. In the “History” section, choose your browser Never remember history, especially if you are using a computer from a public location or you know that computer is used by more people.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In the Tracking section, check “Tell sites that I do not want to be tracked.” Selecting this option informs a website that you would like to opt-out of third-party tracking for advertising purposes. In the “History” section, choose your browser Never remember history, especially if you are using a computer from a public location or you know that computer is used by more people.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">For a more detailed configuration of your History section, select from the drop-down menu Use custom settings for history.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">For a more detailed configuration of your History section, select from the drop-down menu Use custom settings for history.</span>
 		       </div>
 		     </div>
 
@@ -270,7 +270,7 @@ You can start a private browsing session in Internet Explorer (also called InPri
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click on Settings → Safety → InPrivate Browsing. You can also use the keyboard shortcut Ctrl+Shift+P to launch it. Alternatively, you can right-click on the IE taskbar icon and select Start InPrivate Browsing.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on Settings → Safety → InPrivate Browsing. You can also use the keyboard shortcut Ctrl+Shift+P to launch it. Alternatively, you can right-click on the IE taskbar icon and select Start InPrivate Browsing.</span>
 		       </div>
 		     </div>
 
@@ -295,19 +295,19 @@ You can start a private browsing session in Internet Explorer (also called InPri
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To improve your Internet Explorer settings, access the Internet Options area. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To improve your Internet Explorer settings, access the Internet Options area. </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to the Security tab from the top menu.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Go to the Security tab from the top menu.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In this area you can locate: Your trusted sites and security zones for your computer. You also have the possibility to customize each security zone.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In this area you can locate: Your trusted sites and security zones for your computer. You also have the possibility to customize each security zone.</span>
 		       </div>
 		     </div>
 
@@ -322,31 +322,31 @@ You can start a private browsing session in Internet Explorer (also called InPri
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">For the Internet zone we recommend selecting the High security level. This selection will disable some browser features, such as ActiveX, Active scripting and Java, which can act as security breaches creating opening for threats to occur.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">For the Internet zone we recommend selecting the High security level. This selection will disable some browser features, such as ActiveX, Active scripting and Java, which can act as security breaches creating opening for threats to occur.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To customize the security settings for a zone, choose the Custom Level option. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To customize the security settings for a zone, choose the Custom Level option. </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In this area you can enable or disable specific security options for your selected Internet area. To return to the default levels for the selected Internet zone, simply click the “Reset” button.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In this area you can enable or disable specific security options for your selected Internet area. To return to the default levels for the selected Internet zone, simply click the “Reset” button.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If we return to the initial window and click the Trusted sites option, we find a security zone for sites which are safe to access.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">If we return to the initial window and click the Trusted sites option, we find a security zone for sites which are safe to access.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If you consider a particular website to be a safe online location that can be trusted, you can choose to add it to this area. To do this, click Sites.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">If you consider a particular website to be a safe online location that can be trusted, you can choose to add it to this area. To do this, click Sites.</span>
 		       </div>
 		     </div>
 
@@ -388,7 +388,7 @@ This area contains settings that apply to all security zones.
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">From this tab, we recommend you to uncheck Enable third-party browser extensions option. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">From this tab, we recommend you to uncheck Enable third-party browser extensions option. </span>
 		       </div>
 		     </div>
 

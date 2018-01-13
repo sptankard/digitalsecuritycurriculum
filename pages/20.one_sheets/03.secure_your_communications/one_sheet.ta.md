@@ -3,7 +3,7 @@ title: Secure Your Communications
 slug: secure_your_communications
 ---
 
-![](/images/coverchap_8.jpg)
+![](/images/coverchap_9.jpg)
 
 
 

@@ -48,13 +48,13 @@ Here are some ways we can assign settings that make our experiences on Facebook 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">GENERAL SETTINGS AND TOOLS </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">GENERAL SETTINGS AND TOOLS </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">From your Facebook Home page, click on the small arrow beside Home in the top right-hand corner and select Settings.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">From your Facebook Home page, click on the small arrow beside Home in the top right-hand corner and select Settings.</span>
 		       </div>
 		     </div>
 
@@ -72,12 +72,12 @@ You should update your password regularly, preferably at least once every three 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">SECURITY SETTINGS</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">SECURITY SETTINGS</span>
 		       </div>
 		     </div>
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click on SECURITY in the menu on the left hand side. This will open the Security Settings page.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on SECURITY in the menu on the left hand side. This will open the Security Settings page.</span>
 		       </div>
 		     </div>
 
@@ -89,13 +89,13 @@ You should update your password regularly, preferably at least once every three 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">LOGIN APPROVALS</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">LOGIN APPROVALS</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click on Login Notifications. Here, you can choose to be notified if an attempt is made to log in to your Facebook page from a device which you have not used before. Choose whether to receive by Email or Text Message/Push Notification.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on Login Notifications. Here, you can choose to be notified if an attempt is made to log in to your Facebook page from a device which you have not used before. Choose whether to receive by Email or Text Message/Push Notification.</span>
 		       </div>
 		     </div>
 
@@ -114,13 +114,13 @@ You should update your password regularly, preferably at least once every three 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">LOGIN APPROVALS (TWO-FACTOR AUTHENTICATION)<div class="GLBL_H2" markdown="1" </div> </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">LOGIN APPROVALS (TWO-FACTOR AUTHENTICATION)<div class="GLBL_H2" markdown="1" </div> </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">For added security, you can choose to enter a security code every time your account is accessed from a computer or device Facebook does not recognize. The security code will be sent as SMS to your mobile phone.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">For added security, you can choose to enter a security code every time your account is accessed from a computer or device Facebook does not recognize. The security code will be sent as SMS to your mobile phone.</span>
 		       </div>
 		     </div>
 
@@ -138,13 +138,13 @@ You should update your password regularly, preferably at least once every three 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">CODE GENERATOR</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">CODE GENERATOR</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">This setting allows you to use the Facebook mobile app on your smartphone in order to generate login codes or new passwords.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">This setting allows you to use the Facebook mobile app on your smartphone in order to generate login codes or new passwords.</span>
 		       </div>
 		     </div>
 
@@ -156,13 +156,13 @@ You should update your password regularly, preferably at least once every three 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">APPLICATION PASSWORDS </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">APPLICATION PASSWORDS </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If you use applications on Facebook, this option allows you to generate individual passwords for them. Unless you have a specific need to do so. However, we recommend avoiding Facebook applications.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">If you use applications on Facebook, this option allows you to generate individual passwords for them. Unless you have a specific need to do so. However, we recommend avoiding Facebook applications.</span>
 		       </div>
 		     </div>
 
@@ -174,13 +174,13 @@ You should update your password regularly, preferably at least once every three 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">TRUSTED CONTACTS </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">TRUSTED CONTACTS </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">This option allows you to select certain contacts from your Facebook friends who can help you to log-in to your account if for some reason you are otherwise unable to. This is done through sharing a secret code with your contact. If you decide to use this option, be sure to choose your trusted contacts carefully and establish a secure means of communication for sharing the code.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">This option allows you to select certain contacts from your Facebook friends who can help you to log-in to your account if for some reason you are otherwise unable to. This is done through sharing a secret code with your contact. If you decide to use this option, be sure to choose your trusted contacts carefully and establish a secure means of communication for sharing the code.</span>
 		       </div>
 		     </div>
 
@@ -192,25 +192,25 @@ You should update your password regularly, preferably at least once every three 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">TRUSTED BROWSERS</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">TRUSTED BROWSERS</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Here you can review the browsers most frequently used to access your Facebook account.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Here you can review the browsers most frequently used to access your Facebook account.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">ACTIVE SESSIONS </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">ACTIVE SESSIONS </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">This shows details of any Facebook session that you may have forgotten to logout of—for example in an Internet café, or a friend's computer—and therefore is still active. The location is determined by the IP address.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">This shows details of any Facebook session that you may have forgotten to logout of—for example in an Internet café, or a friend's computer—and therefore is still active. The location is determined by the IP address.</span>
 		       </div>
 		     </div>
 
@@ -229,19 +229,19 @@ It is very important to close these sessions in order to prevent anyone else acc
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">SPECIFIC PRIVACY SETTINGS </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">SPECIFIC PRIVACY SETTINGS </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">AND TOOLS</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">AND TOOLS</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To edit your Facebook Privacy Settings, click on the small arrow beside Home in the top right-hand corner and select Settings.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To edit your Facebook Privacy Settings, click on the small arrow beside Home in the top right-hand corner and select Settings.</span>
 		       </div>
 		     </div>
 
@@ -251,7 +251,7 @@ It is very important to close these sessions in order to prevent anyone else acc
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">This will take you to the Settings menu. On the left-hand side, choose Privacy.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">This will take you to the Settings menu. On the left-hand side, choose Privacy.</span>
 		       </div>
 		     </div>
 
@@ -263,19 +263,19 @@ It is very important to close these sessions in order to prevent anyone else acc
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">WHO CAN SEE MY STUFF?</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">WHO CAN SEE MY STUFF?</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">The first option here creates a default rule for your future status updates: Who can see your future posts? Here, you can choose between making them available to the entire public, your Facebook friends, yourself only, or a custom group which you can determine. Note that you can also change this for individual status updates, so that you can decide which ones are public, which ones are for friends or which ones are for a specific group. It's also worth noting, though, that everything you post is recorded by Facebook (including when you select Only Me) and can be handed over by them to third parties.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">The first option here creates a default rule for your future status updates: Who can see your future posts? Here, you can choose between making them available to the entire public, your Facebook friends, yourself only, or a custom group which you can determine. Note that you can also change this for individual status updates, so that you can decide which ones are public, which ones are for friends or which ones are for a specific group. It's also worth noting, though, that everything you post is recorded by Facebook (including when you select Only Me) and can be handed over by them to third parties.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">The second option allows you to review the posts which other Facebook users have tagged you in. To see this, click on Use Activity Log.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">The second option allows you to review the posts which other Facebook users have tagged you in. To see this, click on Use Activity Log.</span>
 		       </div>
 		     </div>
 
@@ -287,7 +287,7 @@ It is very important to close these sessions in order to prevent anyone else acc
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">The third option allows you to restrict access to previous status updates of yours which may have been public.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">The third option allows you to restrict access to previous status updates of yours which may have been public.</span>
 		       </div>
 		     </div>
 
@@ -321,7 +321,7 @@ Here, you can limit the ease with which people can look you up by knowing your p
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click Edit on the first two options and ensure that only Friends can search for you by your email address and phone number. For the third option, click Edit and uncheck the box which says Let other search engines link to your timeline.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click Edit on the first two options and ensure that only Friends can search for you by your email address and phone number. For the third option, click Edit and uncheck the box which says Let other search engines link to your timeline.</span>
 		       </div>
 		     </div>
 
@@ -337,7 +337,7 @@ As we have mentioned before, your information security on Facebook has a lot to 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In the left-hand sidebar, click on the Timeline and Tagging menu.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In the left-hand sidebar, click on the Timeline and Tagging menu.</span>
 		       </div>
 		     </div>
 
@@ -353,7 +353,7 @@ Here, you can decide what happens when other friends tag you in their posts and 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">It is advisable that you click edit and enable the Review posts that friends tag you in option so that you can prevent any irresponsible tagging appearing on your timeline. However, this will not prevent their posts (including your tag) from being visible to their friends, or perhaps even the public, depending on their settings.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">It is advisable that you click edit and enable the Review posts that friends tag you in option so that you can prevent any irresponsible tagging appearing on your timeline. However, this will not prevent their posts (including your tag) from being visible to their friends, or perhaps even the public, depending on their settings.</span>
 		       </div>
 		     </div>
 
@@ -367,7 +367,7 @@ Who can see things on my timeline? This item is associated with the previous opt
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If you click Edit, you can change these settings so that either everyone, friends of friends, a custom group of people, or only yourself can see posts you've been tagged in, or things others post on your timeline.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">If you click Edit, you can change these settings so that either everyone, friends of friends, a custom group of people, or only yourself can see posts you've been tagged in, or things others post on your timeline.</span>
 		       </div>
 		     </div>
 
@@ -392,7 +392,7 @@ photographs that look like you among your friends and contacts photos. Facebook 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">It's strongly recommended that you deactivate this option if it is available to you.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">It's strongly recommended that you deactivate this option if it is available to you.</span>
 		       </div>
 		     </div>
 
@@ -404,13 +404,13 @@ photographs that look like you among your friends and contacts photos. Facebook 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">BLOCKING USERS AND APPS</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">BLOCKING USERS AND APPS</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In the menu on the left, select Blocking. Here, Facebook offers ample opportunities for blocking unwanted, intrusive, and sometimes potentially dangerous information.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In the menu on the left, select Blocking. Here, Facebook offers ample opportunities for blocking unwanted, intrusive, and sometimes potentially dangerous information.</span>
 		       </div>
 		     </div>
 
@@ -420,7 +420,7 @@ Here, you can discreetly add Facebook friends to a list which will limit them to
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">click Edit List.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">click Edit List.</span>
 		       </div>
 		     </div>
 
@@ -432,13 +432,13 @@ Here, you can discreetly add Facebook friends to a list which will limit them to
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">BLOCK USERS</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">BLOCK USERS</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Here you can block a user from accessing your Facebook page, any of your content, or adding you as a friend.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Here you can block a user from accessing your Facebook page, any of your content, or adding you as a friend.</span>
 		       </div>
 		     </div>
 
@@ -450,13 +450,13 @@ Here, you can discreetly add Facebook friends to a list which will limit them to
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">BLOCK APP INVITES</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">BLOCK APP INVITES</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Often, we will have Facebook friends who are enthusiastic about a particular application, often a game, and they will continuously send us invites to join this game. Here, you can block application invites from such friends.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Often, we will have Facebook friends who are enthusiastic about a particular application, often a game, and they will continuously send us invites to join this game. Here, you can block application invites from such friends.</span>
 		       </div>
 		     </div>
 
@@ -468,13 +468,13 @@ Here, you can discreetly add Facebook friends to a list which will limit them to
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">BLOCK EVENT INVITES</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">BLOCK EVENT INVITES</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Similarly, here you can block invitations to events from certain Facebook friends.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Similarly, here you can block invitations to events from certain Facebook friends.</span>
 		       </div>
 		     </div>
 
@@ -486,13 +486,13 @@ Here, you can discreetly add Facebook friends to a list which will limit them to
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">BLOCK APPLICATION</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">BLOCK APPLICATION</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">As the name suggests, here you can prevent an application from accessing all but your public information.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">As the name suggests, here you can prevent an application from accessing all but your public information.</span>
 		       </div>
 		     </div>
 
@@ -508,7 +508,7 @@ Facebook gives you the option of allowing people to subscribe to your news feed,
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click on Followers from the menu on the left. Ensure that Friends is selected.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on Followers from the menu on the left. Ensure that Friends is selected.</span>
 		       </div>
 		     </div>
 
@@ -526,7 +526,7 @@ Many Facebook users love and actively add third party applications in order to p
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click on Apps in the menu on the left.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on Apps in the menu on the left.</span>
 		       </div>
 		     </div>
 
@@ -542,13 +542,13 @@ Here, you can enable or disable the so-called “Facebook Platform” which allo
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">If using Apps is not important to you or your work, we recommended that you click Turn Off Platform in order to better protect your privacy. If you do decide to leave the option enabled, then pay attention to the list of applications already installed at this point. Do you really need them all?</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">If using Apps is not important to you or your work, we recommended that you click Turn Off Platform in order to better protect your privacy. If you do decide to leave the option enabled, then pay attention to the list of applications already installed at this point. Do you really need them all?</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">By clicking on an app you can see what information it has access to.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">By clicking on an app you can see what information it has access to.</span>
 		       </div>
 		     </div>
 
@@ -560,7 +560,7 @@ Here, you can enable or disable the so-called “Facebook Platform” which allo
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To remove an application, click on the 'x' beside the app in the list, and then click Remove in the warning window which pops up.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To remove an application, click on the 'x' beside the app in the list, and then click Remove in the warning window which pops up.</span>
 		       </div>
 		     </div>
 
@@ -576,7 +576,7 @@ We also have to consider that some of our Facebook friends bring our information
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">By clicking on Apps others use, you can uncheck the boxes beside categories of your information which you do not want to share with your friend's applications.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">By clicking on Apps others use, you can uncheck the boxes beside categories of your information which you do not want to share with your friend's applications.</span>
 		       </div>
 		     </div>
 
@@ -592,7 +592,7 @@ Advertising is fundamentally important to social networking companies because it
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In the column on the left, select Ads.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In the column on the left, select Ads.</span>
 		       </div>
 		     </div>
 
@@ -600,7 +600,7 @@ Facebook currently promises not to associate your name or picture with third-par
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click Edit beside Third Party Sites. Select No-one and select Save Changes.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click Edit beside Third Party Sites. Select No-one and select Save Changes.</span>
 		       </div>
 		     </div>
 
@@ -619,7 +619,7 @@ Here, Facebook encourages users to become ambassadors for products or pages they
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Under Ads and friends, click Edit and select No-One from the drop-down menu.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Under Ads and friends, click Edit and select No-One from the drop-down menu.</span>
 		       </div>
 		     </div>
 
@@ -633,7 +633,7 @@ By default Facebook tries to display targeted advertising on your tastes and int
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">To get rid of this, you need to click on the Opt Out link in this paragraph.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">To get rid of this, you need to click on the Opt Out link in this paragraph.</span>
 		       </div>
 		     </div>
 
@@ -647,7 +647,7 @@ This will open a page titled Custom Audiences from your Website and Mobile App, 
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In the middle of the text is the Opt Out button for you to confirm.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In the middle of the text is the Opt Out button for you to confirm.</span>
 		       </div>
 		     </div>
 
@@ -700,7 +700,7 @@ Twitter's Basic Account Settings allow you to control how people can find your p
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In order to access your account settings, log in to your account using your browser and click on the        icon at the top right of the screen to open the Options menu</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In order to access your account settings, log in to your account using your browser and click on the        icon at the top right of the screen to open the Options menu</span>
 		       </div>
 		     </div>
 
@@ -712,7 +712,7 @@ Twitter's Basic Account Settings allow you to control how people can find your p
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In the drop-down menu, choose Settings. This will open the settings page. You will find a list of pages on the left-hand side where you can click between various categories of settings.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In the drop-down menu, choose Settings. This will open the settings page. You will find a list of pages on the left-hand side where you can click between various categories of settings.</span>
 		       </div>
 		     </div>
 
@@ -724,7 +724,7 @@ Twitter's Basic Account Settings allow you to control how people can find your p
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">At the top of the Account Settings list, you will find the username and e-mail settings. Choose carefully whether you want to use your real name or a pseudonym as your username, and which email address you wish to associate with your profile. It may be best to set up a new e-mail address using the Tor Browser and connect to Twitter only using Tor if you wish to protect your identity.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">At the top of the Account Settings list, you will find the username and e-mail settings. Choose carefully whether you want to use your real name or a pseudonym as your username, and which email address you wish to associate with your profile. It may be best to set up a new e-mail address using the Tor Browser and connect to Twitter only using Tor if you wish to protect your identity.</span>
 		       </div>
 		     </div>
 
@@ -736,19 +736,19 @@ Twitter's Basic Account Settings allow you to control how people can find your p
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">SECURITY AND PRIVACY SETTINGS ON <div class="GLBL_H2" markdown="1">## TWITTER</div></span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">SECURITY AND PRIVACY SETTINGS ON <div class="GLBL_H2" markdown="1">## TWITTER</div></span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Click on Security and privacy in the left-hand sidebar in order to access the Security and Privacy settings page. </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on Security and privacy in the left-hand sidebar in order to access the Security and Privacy settings page. </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Twitter gives you the option of sending a message to your mobile phone or smartphone any time your account is accessed. This is recommendable if you are also using the Twitter application on your smartphone. In this case, choose the Send login verifications to the Twitter app option.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Twitter gives you the option of sending a message to your mobile phone or smartphone any time your account is accessed. This is recommendable if you are also using the Twitter application on your smartphone. In this case, choose the Send login verifications to the Twitter app option.</span>
 		       </div>
 		     </div>
 
@@ -767,7 +767,7 @@ Twitter's Basic Account Settings allow you to control how people can find your p
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">In the photo-tagging section, Twitter allows you to control who, if anyone, can tag you in photos they upload. Since there is no option to approve or disapprove tagging in photos, it's advised that you choose the option Do not allow anyone to tag me in photos. This is particularly important in cases where you may be photographed during protests, for example, which could later be used as evidence.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">In the photo-tagging section, Twitter allows you to control who, if anyone, can tag you in photos they upload. Since there is no option to approve or disapprove tagging in photos, it's advised that you choose the option Do not allow anyone to tag me in photos. This is particularly important in cases where you may be photographed during protests, for example, which could later be used as evidence.</span>
 		       </div>
 		     </div>
 
@@ -775,7 +775,7 @@ Twitter allows you to control who can see your tweets: the public in general, or
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to Tweet Privacy settings. Choose the Protect My Tweets option.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Go to Tweet Privacy settings. Choose the Protect My Tweets option.</span>
 		       </div>
 		     </div>
 
@@ -800,13 +800,13 @@ In the Personalization and Promotion section, Twitter gives you the option of al
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">PASSWORD SETTINGS ON <div class="GLBL_H2" markdown="1">## TWITTER</div></span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">PASSWORD SETTINGS ON <div class="GLBL_H2" markdown="1">## TWITTER</div></span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Here, Twitter allows you to change your password. It's recommended that you select a strong, memorable password and update it regularly. For more, see section on “How to create and maintain strong passwords.” Page 71</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Here, Twitter allows you to change your password. It's recommended that you select a strong, memorable password and update it regularly. For more, see section on “How to create and maintain strong passwords.” Page 71</span>
 		       </div>
 		     </div>
 
@@ -842,19 +842,19 @@ sites. These third-party sites have their own terms of use, privacy policies and
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Should you wish to revoke the access of an application to your Twitter profile, go to Settings of your account and click the Apps tab on the left-hand side.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Should you wish to revoke the access of an application to your Twitter profile, go to Settings of your account and click the Apps tab on the left-hand side.</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Having opened the list of apps connected to your Twitter account, select the app to which you wish to revoke access, </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Having opened the list of apps connected to your Twitter account, select the app to which you wish to revoke access, </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">click</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">click</span>
 		       </div>
 		     </div>
 
@@ -885,25 +885,25 @@ To set your posts to private from the Instagram app:
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">IPHONE OR WINDOWS PHONE</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">IPHONE OR WINDOWS PHONE</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to your profile by tapping </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Go to your profile by tapping </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Tap </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Tap </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Turn on the Private Account setting</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Turn on the Private Account setting</span>
 		       </div>
 		     </div>
 
@@ -922,25 +922,25 @@ To set your posts to private from the Instagram app:
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">ANDROID</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">ANDROID</span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Go to your profile by tapping </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Go to your profile by tapping </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Tap </span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Tap </span>
 		       </div>
 		     </div>
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Turn on the Private Account setting</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Turn on the Private Account setting</span>
 		       </div>
 		     </div>
 
@@ -971,7 +971,7 @@ Things to keep in mind about private posts:
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight">TIP: </span><span class="check-text" markdown="1">Under settings in instagram, go to Linked Accounts and delink any other accounts associated.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Under settings in instagram, go to Linked Accounts and delink any other accounts associated.</span>
 		       </div>
 		     </div>
 
