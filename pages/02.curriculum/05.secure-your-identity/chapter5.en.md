@@ -24,15 +24,15 @@ Computers are now fast enough to quickly guess passwords shorter than ten or so 
 
 To learn how to make a good passphrase we are going to follow the wonderfully easy workflow set up by our friends at the Electronic Frontier Foundation:
 
-Step 1: Roll five dice all at once. Note the faces that come up without looking at the wordlist yet. (On our dice, the EFF logo is equivalent to rolling a one.)
+     Step 1: Roll five dice all at once. Note the faces that come up without looking at the wordlist yet. (On our dice, the EFF logo is equivalent to rolling a one.)
 
-Step 2: Your results might look like this reading left to right: 4, 3, 4, 6, 3. Write those numbers down.
+     Step 2: Your results might look like this reading left to right: 4, 3, 4, 6, 3. Write those numbers down.
 
-Step 3: Open EFF's Long Wordlist [.txt] to find the corresponding word next to 43463.
+     Step 3: Open EFF's Long Wordlist [.txt] to find the corresponding word next to 43463.
 
-Step 4: You will find the word “panoramic.” This is the first word in your passphrase, so write it down.
+     Step 4: You will find the word “panoramic.” This is the first word in your passphrase, so write it down.
 
-Step 5: Repeat steps 1–4 five more times to come up with a total of SIX words.
+     Step 5: Repeat steps 1–4 five more times to come up with a total of SIX words.
 
 When you are done, your passphrase may look something like this:
 
@@ -565,3 +565,4 @@ Finally, there is a more comprehensive list at Trollbusters at this link [https:
 ![](/images/Curriculum_img_119.png)
 
 
+[https://securityinabox.org/en/guide/passwords](https://securityinabox.org/en/guide/passwords) & [https://www.eff.org/dice](https://www.eff.org/dice)
