@@ -502,18 +502,11 @@ Now we will work to scrub, or remove, existing metadata from images we have take
 
 
 1. [http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/](http://www.usatoday.com/story/news/nation/2013/12/08/cellphone-data-spying-nsa-police/3902809/)
-
 2.  [https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition](https://www.eff.org/deeplinks/2014/08/cell-phone-guide-protesters-updated-2014-edition)
-
 3. [https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics](https://mosequipment.com/blogs/news/56937861-how-to-choose-the-right-faraday-bag-for-forensics)
-
 4. [https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0](https://www.amazon.com/Black-Hole-Faraday-Bag-Anti-tracking/dp/B0091WILY0)
-
 5. [https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html](https://videotron.tmtx.ca/en/topic/google_nexus6p/hiding_your_phone_number.html)
-
 6.[http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/](http://www.pcadvisor.co.uk/how-to/mobile-phone/how-to-set-up-a-sim-lock-on-an-apple-iphone-3304041/)
-
 7. [http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/](http://www.howtoisolve.com/turn-on-off-change-auto-lock-screen-time-iphone/)
-
 8.[https://ssd.eff.org/en/module/how-encrypt-your-iphone](https://ssd.eff.org/en/module/how-encrypt-your-iphone)
 9.[http://www.imore.com/how-use-guided-access-iphone-and-ipad](http://www.imore.com/how-use-guided-access-iphone-and-ipad)
