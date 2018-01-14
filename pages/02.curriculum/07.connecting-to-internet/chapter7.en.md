@@ -77,7 +77,7 @@ please make sure you use the https protocol between sites.
 <div class="col-xs-12 none">
                         
 			<div class="well none" style="border-radius:0">
-    			  <span class="warn-icon"><i class="fa fa-exclamation-triangle" ></i></span> <span class="warn-highlight">WARNING: </span><span class="warn-text" markdown="1">Tor is only protecting the network access. If your computer is communicating with a final destination site that is not using HTTPS then the content sent by the final node through the intermediate Internet route to the destination server will be UNENCRYPTED! YOU MUST USE HTTPS TO REMAIN PROTECTED. So check your URL's and use <div class="GLBL_H2" markdown="1">## HTTPS EVERYWHERE</div> as your browser extension.</span>
+    			  <span class="warn-icon"><i class="fa fa-exclamation-triangle" ></i></span> <span class="warn-highlight">WARNING: </span><span class="warn-text" markdown="1">Tor is only protecting the network access. If your computer is communicating with a final destination site that is not using HTTPS then the content sent by the final node through the intermediate Internet route to the destination server will be UNENCRYPTED! YOU MUST USE HTTPS TO REMAIN PROTECTED. So check your URL's and use HTTPS EVERYWHERE as your browser extension.</span>
 		        </div>
 		     </div>
 
@@ -176,9 +176,8 @@ There are subtle, but important differences between using Tor and a VPN:
 </table>
 In short, Tor is slower but offers more privacy, and a VPN is necessary when dealing with sites that will not open in Tor. In either case, always check for HTTPS or you will be voiding your secure network access.
 
-27  [https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention](https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention)
-28  [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
-29  [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
-30  [https://www.torproject.org/about/overview](https://www.torproject.org/about/overview)
-31  [https://ssd.eff.org/en/module/choosing-vpn-thats-right-you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
-
+1. [https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention](https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention)
+2. [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
+3. [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
+4. [https://www.torproject.org/about/overview](https://www.torproject.org/about/overview)
+5. [https://ssd.eff.org/en/module/choosing-vpn-thats-right-you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
