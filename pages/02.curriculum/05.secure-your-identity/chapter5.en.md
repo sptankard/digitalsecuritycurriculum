@@ -22,7 +22,8 @@ Computers are now fast enough to quickly guess passwords shorter than ten or so 
 
 To learn how to make a good passphrase we are going to follow the wonderfully easy workflow set up by our friends at the Electronic Frontier Foundation:
 
-     Step 1: Roll five dice all at once. Note the faces that come up without looking at the wordlist yet. (On our dice, the EFF logo is equivalent to rolling a one.)
+     Step 1: Roll five dice all at once. Note the faces that come up without looking at the wordlist yet. 
+     (On our dice, the EFF logo is equivalent to rolling a one.)
 
      Step 2: Your results might look like this reading left to right: 4, 3, 4, 6, 3. Write those numbers down.
 
