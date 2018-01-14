@@ -579,3 +579,4 @@ Here, we will create a Virtual Encrypted Partition—a file on your hard drive t
 ![](/images/Curriculum_img_76.png)
 
 
+1. https://www.intego.com/mac-security-blog/15-mac-hardening-security-tips-to-protect-your-privacy/
