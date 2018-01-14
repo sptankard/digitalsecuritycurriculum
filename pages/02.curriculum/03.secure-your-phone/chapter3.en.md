@@ -125,9 +125,9 @@ Once the phone is ready and plugged in, please begin by hitting **Encrypt**. The
 
 We recommend keeping most networks turned off and only manually enabling them when necessary. One example is Bluetooth. 
 
-If your device supports Near Field Communication (NFC), it will be switched on by default and must be disabled manually.
+*If your device supports Near Field Communication (NFC), it will be switched on by default and must be disabled manually.
 
-Finally also, ensure that tethering and portable hotspots are switched off when not in use.
+*Finally also, ensure that tethering and portable hotspots are switched off when not in use.
 
 ![](/images/Curriculum_img_17.jpg)
 
