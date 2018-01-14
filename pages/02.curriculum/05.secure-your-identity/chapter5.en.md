@@ -67,7 +67,7 @@ Change your passphrase on a regular basis, preferably at least once every three 
 
 <div class="GLBL_H2" markdown="1">## PASSPHRASE MANAGER</div>
 
-These days we have accounts with a lot of companies. Emails, Social media accounts, online bank accounts and so on. One of the most important things you can do is not use one password for all accounts but generate different passwords for each of your individual accounts.17
+These days we have accounts with a lot of companies. Emails, Social media accounts, online bank accounts and so on. One of the most important things you can do is not use one password for all accounts but generate different passwords for each of your individual accounts.
 
 **NOW, YOU MIGHT BE SAYING WHHAA???????**
 
@@ -560,6 +560,6 @@ Finally, there is a more comprehensive list at Trollbusters at this link [https:
 3. [http://lifehacker.com/5529133/five-best-password-managers](http://lifehacker.com/5529133/five-best-password-managers)
 4. [https://lastpass.com/how-it-works/](https://lastpass.com/how-it-works/)
 5. [https://www.keepassx.org](https://www.keepassx.org)
-6. [https://1password.com/](h)ttps://1password.com/)
+6. [https://1password.com/](https://1password.com/)
 7. [http://gizmodo.com/its-time-to-enable-two-step-authentication-on-everythin-1646242605](http://gizmodo.com/its-time-to-enable-two-step-authentication-on-everythin-1646242605) & [http://searchsecurity.techtarget.com/definition/two-factor-authentication](http://searchsecurity.techtarget.com/definition/two-factor-authentication)
-8. [https://ssd.eff.org/en/module/how-avoid-phishing-attacks](https://ssd.eff.org/en/module/how-avoid-phishing-attacks) & https://www.eff.org/issues/state-sponsored-malware](https://www.eff.org/issues/state-sponsored-malware)
+8. [https://ssd.eff.org/en/module/how-avoid-phishing-attacks](https://ssd.eff.org/en/module/how-avoid-phishing-attacks) &[https://www.eff.org/issues/state-sponsored-malware](https://www.eff.org/issues/state-sponsored-malware)
