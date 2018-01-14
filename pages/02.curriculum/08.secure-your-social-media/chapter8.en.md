@@ -972,7 +972,7 @@ Things to keep in mind about private posts:
 		     </div>
 
 
-![](/images/Curriculum_img_216.jpg)
+
 
 1. [https://securityinabox.org/ru/twitter_main](https://securityinabox.org/ru/twitter_main)
 2. [https://securityinabox.org/ru/twitter_clients#2.0](https://securityinabox.org/ru/twitter_clients#2.0)
