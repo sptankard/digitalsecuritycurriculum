@@ -178,5 +178,5 @@ In short, Tor is slower but offers more privacy, and a VPN is necessary when dea
 
 1. [https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention](https://securityinabox.org/en/lgbti-mena/anonymity-and-circumvention)
 2. [https://www.eff.org/torchallenge/](https://www.eff.org/torchallenge/)
-4. [https://www.torproject.org/about/overview](https://www.torproject.org/about/overview)
-5. [https://ssd.eff.org/en/module/choosing-vpn-thats-right-you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
+3. [https://www.torproject.org/about/overview](https://www.torproject.org/about/overview)
+4. [https://ssd.eff.org/en/module/choosing-vpn-thats-right-you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you)
