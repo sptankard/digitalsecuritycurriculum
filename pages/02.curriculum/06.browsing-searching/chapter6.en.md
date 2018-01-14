@@ -270,7 +270,7 @@ You can start a private browsing session in Internet Explorer (also called InPri
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
-                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on Settings → Safety → InPrivate Browsing. You can also use the keyboard shortcut Ctrl+Shift+P to launch it. Alternatively, you can right-click on the IE taskbar icon and select Start InPrivate Browsing.</span>
+                           <span class="check-icon"><i class="fa fa-check" ></i></span> <span class="check-highlight"></span><span class="check-text" markdown="1">Click on Settings → Safety → InPrivate Browsing. You can also use the keyboard shortcut Ctrl+Shift+P to launch it. Alternatively, you can right-click on the IE taskbar icon and select Start InPrivate Browsing.<sup>1</sup></span>
 		       </div>
 		     </div>
 
@@ -282,10 +282,6 @@ You can start a private browsing session in Internet Explorer (also called InPri
 
 ![](/images/Curriculum_img_140.jpg)
 
-
-
-
-24  [https://heimdalsecurity.com/blog/ultimate-guide-secure-online-browsing/](https://heimdalsecurity.com/blog/ultimate-guide-secure-online-browsing/)
 
 
 ![](/images/Curriculum_img_141.jpg)
@@ -418,9 +414,7 @@ If an advertiser seems to be tracking you across multiple websites without your 
 
 To the advertiser, it's like you suddenly disappeared. Privacy Badger was born out of the desire to be able to recommend a single extension that would automatically analyze and block any tracker or ad that violated the principle of user consent.
 
-Although extensions like Disconnect, Adblock Plus, Ghostery work well, (in fact Privacy Badger is based on the ABP code!), all of them require some custom configuration to block non-consensual trackers and could have some conflict of interests in their business model.
-
-25  [https://heimdalsecurity.com/blog/ultimate-guide-secure-online-browsing/](https://heimdalsecurity.com/blog/ultimate-guide-secure-online-browsing/)
+Although extensions like Disconnect, Adblock Plus, Ghostery work well, (in fact Privacy Badger is based on the ABP code!), all of them require some custom configuration to block non-consensual trackers and could have some conflict of interests in their business model.<sup>2</sup>
 
 The Internet freedom non-profit EFF developed Privacy Badger to be heuristic, which means it gets better at creating blacklists and blocking websites as time goes on, making it unique when compared to other blockers. Out of the box, Privacy Badger won’t block nearly as many third-party requests as the commercial options but it does get better over time with frequent use. It will discover which hosts to block, it will also create a whitelist for important sites that are visited on a regular basis.
 
@@ -457,9 +451,8 @@ Search Engines are big money for Google and Microsoft because what you search te
 
 This is why choosing a search engine that does not track you is important. Currently all of your searches on engines like Google and Bing are used to help inform and create a very large Data shadow about you and your concerns. Imagine what that could reveal and how it could be used against you. The best option then is to use search engines that do not track you.
 
-We recommend DuckDuckGo26, but for folks who want to see a comparison the next page has some great options to explore. Try them and try them often. Once you find one that works switch!
+We recommend DuckDuckGo26, but for folks who want to see a comparison the next page has some great options to explore. Try them and try them often. Once you find one that works switch!<sup>3</sup>
 
-26  [https://duckduckgo.com](https://duckduckgo.com)
 
 <table width="700" cellspacing="4" cellpadding="4" bgcolor="cccccc">
   <tbody>
@@ -497,6 +490,10 @@ We recommend DuckDuckGo26, but for folks who want to see a comparison the next p
    
   </tbody>
 </table>
+
+1. [https://heimdalsecurity.com/blog/ultimate-guide-secure-online-browsing/](https://heimdalsecurity.com/blog/ultimate-guide-secure-online-browsing/)
+2. [https://heimdalsecurity.com/blog/ultimate-guide-secure-online-browsing/](https://heimdalsecurity.com/blog/ultimate-guide-secure-online-browsing/)
+3. [https://duckduckgo.com](https://duckduckgo.com)
 
 
 
