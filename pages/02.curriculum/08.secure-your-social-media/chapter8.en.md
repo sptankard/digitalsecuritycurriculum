@@ -674,7 +674,7 @@ After a request for confirmation, you will see the result:
 
 <div class="GLBL_H2" markdown="1">## TWITTER</div>
 
-Twitter32 has become a valuable platform where activists around the world break their stories and ideas. It's become a place for, real on the ground news updates on movements and protest, where the oppressed have a voice and are able to connect with people in a real and powerful way.
+Twitter<sup>1</sup> has become a valuable platform where activists around the world break their stories and ideas. It's become a place for, real on the ground news updates on movements and protest, where the oppressed have a voice and are able to connect with people in a real and powerful way.
 
 Twitter states in its terms of service: “This license is you authorizing us to make your Tweets available to the rest of the world and to let others do the same. But what’s yours is yours—you own your content.” While this may be the case, Twitter reserves the right to hand over your information to governments should a request be made.
 
@@ -690,7 +690,7 @@ BASIC ACCOUNT SETTINGS ON <div class="GLBL_H2" markdown="1">## TWITTER</div>
 
 Twitter's Basic Account Settings allow you to control how people can find your profile, what information you share and the level of security your account requires when you are using the web-browser based version of Twitter (that is to say, not a client, smartphone app, or GSM phone).
 
-32  [https://securityinabox.org/ru/twitter_main](https://securityinabox.org/ru/twitter_main)
+
 
 
 ![](/images/Curriculum_img_201.jpg)
@@ -828,9 +828,7 @@ You can open Twitter's mobile settings by clicking on Mobile in the menu on the 
 
 GENERAL GUIDELINES ON CLIENTS AND APPS
 
-Twitter users can allow various third-party applications, including other social networking and photo-sharing sites to interact with their Twitter accounts, for example in order to share photos uploaded via websites such as Instagram, or TwitPic.33 However, data when using social networking sites you must be careful when integrating your profiles on different social networking
-
-33  [https://securityinabox.org/ru/twitter_clients#2.0](https://securityinabox.org/ru/twitter_clients#2.0)
+Twitter users can allow various third-party applications, including other social networking and photo-sharing sites to interact with their Twitter accounts, for example in order to share photos uploaded via websites such as Instagram, or TwitPic.<sup>2</sup> However, data when using social networking sites you must be careful when integrating your profiles on different social networking
 
 sites. These third-party sites have their own terms of use, privacy policies and privacy settings which are not necessarily the same as Twitter's. Even if your Twitter account is relatively secure, your profiles on a third-party app/website may be completely exposed. Using the same username for multiple sites and accounts can make it easier for you to be tracked, using different names decreases that risk. The number of third-party sites and apps are vast, and only a few are explored in this guide. However, it is vital that you research and update your security settings on all third-party apps linked to your Twitter page. If you do not consider them secure enough, delete your profile and revoke its access to your Twitter account.
 
@@ -871,7 +869,7 @@ sites. These third-party sites have their own terms of use, privacy policies and
 
 <div class="GLBL_H2" markdown="1">## INSTAGRAM</div>
 
-Instagram34 is a popular image-sharing smartphone application which belongs to Facebook and is often used in conjunction with Twitter. Since it is primarily a mobile application that is also owned by Facebook, using Instagram with Twitter and Facebook associates your account to your mobile device, which can mean a lot of information and metadata on your phone can be shared between these platforms all of whom can then share them with the state. It is not recommended that you use Instagram if you are concerned about sharing your location and other personal details.
+Instagram<sup>2</sup> is a popular image-sharing smartphone application which belongs to Facebook and is often used in conjunction with Twitter. Since it is primarily a mobile application that is also owned by Facebook, using Instagram with Twitter and Facebook associates your account to your mobile device, which can mean a lot of information and metadata on your phone can be shared between these platforms all of whom can then share them with the state. It is not recommended that you use Instagram if you are concerned about sharing your location and other personal details.
 
 By default, anyone can view your profile and posts on Instagram, you can make both private which grands access to followers that you have approved or that were following you before you made your account private. If your posts are set to private, only your approved followers will be able to see them in the Photos tab of Search &amp; Explore or on hashtag or location pages.
 
@@ -917,8 +915,6 @@ To set your posts to private from the Instagram app:
 
 
 
-
-34  [https://help.instagram.com/116024195217477/](https://help.instagram.com/116024195217477/)
 
 <div class="col-xs-12 none">
 			<div class="well none" style="border-radius:0; background=transparent; border=0px;">
@@ -978,4 +974,6 @@ Things to keep in mind about private posts:
 
 ![](/images/Curriculum_img_216.jpg)
 
-
+1. [https://securityinabox.org/ru/twitter_main](https://securityinabox.org/ru/twitter_main)
+2. [https://securityinabox.org/ru/twitter_clients#2.0](https://securityinabox.org/ru/twitter_clients#2.0)
+3. [https://help.instagram.com/116024195217477/](https://help.instagram.com/116024195217477/)
