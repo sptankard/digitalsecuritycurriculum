@@ -16,11 +16,9 @@ Good Passphrases are the Best Defense!15
 
 A “passphrase” is a long phrase used as a password, which is stronger than a secular word password. The increased length can allow for a greater number of possibilities, a passphrases made of randomly-chosen words can be both easy to remember and hard for someone else to guess, which is what we want.
 
-Computers are now fast enough to quickly guess passwords shorter than ten or so characters—and sometimes quite a few more. That means short passwords of any kind, even totally random ones like nQ\m=8*x, or !s7e&amp;nUY, or gaG5^bG, may be too weak, especially for settings where an attacker is able to quickly try an unlimited number of guesses. This is not necessarily true for an online account, where the speed and quantity of guesses will be limited, but it could be true in other cases (for instance, if someone gets ahold of your device and is trying to crack its encryption password).
+Computers are now fast enough to quickly guess passwords shorter than ten or so characters—and sometimes quite a few more. That means short passwords of any kind, even totally random ones like nQ\m=8*x, or !s7e&amp;nUY, or gaG5^bG, may be too weak, especially for settings where an attacker is able to quickly try an unlimited number of guesses. This is not necessarily true for an online account, where the speed and quantity of guesses will be limited, but it could be true in other cases (for instance, if someone gets ahold of your device and is trying to crack its encryption password).<sup>1</sup>
 
-15  [https://securityinabox.org/en/guide/passwords](https://securityinabox.org/en/guide/passwords) 
 
-[https://www.eff.org/dice](https://www.eff.org/dice)
 
 To learn how to make a good passphrase we are going to follow the wonderfully easy workflow set up by our friends at the Electronic Frontier Foundation:
 
