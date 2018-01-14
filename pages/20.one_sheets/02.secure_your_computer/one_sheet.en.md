@@ -1,11 +1,11 @@
 ---
-title: Secure Your Computer
+title: 'Secure Your Computer'
 slug: secure_your_computer
 ---
 
 ![](/images/coverchap_4.jpg)
 
-
+ 
 
 
 <span class="leadtip" style="color:#5157b1">✔ CREATE A STRONG PASSWORD</span> It should be original, complex, use no personal information, and update it every three months. A good password uses a mix of letters, numbers and symbols and uses words that is unrelated to any personal information. This includes birthdays, family, friends, or pet names, even street addresses. For more on good passwords visit [https://securityinabox.org/en/guide/passwords](https://securityinabox.org/en/guide/passwords)
