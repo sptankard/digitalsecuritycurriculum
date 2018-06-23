@@ -1,46 +1,20 @@
-DIGITAL SECURITY / PRIVACY WORKSHOP. INTRO SEGMENT.
-===================================================
+.. DIGITAL SECURITY / PRIVACY WORKSHOP. INTRO SEGMENT.
 
 .. contents::
    
-Contents:
-   
-1.  The Harm Reduction Approach
-2.  Why We Should CareAnd Act
-3.  Seven Keys To Digital Security
-4.  Some actual tech advice: The Minimum Viable Teaching
-5.  A positive security culture for organizers
+..
+  Short contents:
 
-Long contents::
+  1.  The Harm Reduction Approach
+  2.  Why We Should Care -- And Act
+  3.  Seven Keys To Digital Security
+  4.  Some actual tech advice: The Minimum Viable Teaching
+  5.  A positive security culture for organizers
 
- 1  The Harm Reduction Approach
-   1.1  Everyone deserves digital security and privacy.
-   1.2  Remove the stigma of bad security or privacy practices.
-   1.3  Increasing your digital safety is a process.
-   1.4  Harm reduction is collective.
- 2  Why We Should CareAnd Act
-   2.1  Nothing-to-Hide Apathy
-   2.2  Security Paralysis
-   2.3  Technical Confusion
-   2.4  Security Nihilism
- 3  Seven Keys To Digital Security
-   3.1  Knowledge is Power
-   3.2  The Weakest Link
-   3.3  Simpler is Safer and Easier
-   3.4  More Expensive Doesn't Mean More Secure
-   3.5  It's Okay To Trust *Someone* (But Always Know Who You're Trusting)
-   3.6  There is No Perfect SecurityThere’s Always a Trade-Off
-   3.7  What's Secure Today May Not Be Secure Tomorrow
- 4  Some actual tech advice: The Minimum Viable Teaching
-   4.1  Turn on encryption.
-   4.2  Pick a long password.
-   4.3  Don’t reuse your passwords!
-   4.4  Turn on two-factor authentication.
-   4.5  Avoid clicking on strange links or email attachments.
-   4.6  Use an end-to-end encrypted messenger app like Signal or WhatsApp.
-   4.7  To be anonymous online, use the Tor Browser.
- 5  A positive security culture for organizers
-    
+..
+  Long contents:
+  ..put stuff in here later...
+ 
 The Harm Reduction Approach
 ---------------------------
 
@@ -74,7 +48,7 @@ audience, then they need and deserve advice that allows them to be as
 safe on Facebook as possible.
 
 Remove the stigma of bad security or privacy practices.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Everyone has made digital privacy or security mistakes, including
 trainers and "experts". Stigmatizing or shaming people for confessing
@@ -84,12 +58,12 @@ shortcomings is sometimes a good ice-breaker and helps make everyone
 feel more comfortable.
 
 Increasing your digital safety is a process.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When learning about what we need to do to improve our digital security
 and privacy, it’s common to feel overwhelmed. Don't be too hard on
 yourself -- instead, we can see our work towards better security
-habits as a process that will take time\ *. *\ The goal isn't to lock
+habits as a process that will take time. The goal isn't to lock
 everything down in one day or one week. It takes time and patience to
 learn, and it’s important to give ourselves credit for how we have
 *already* improved our digital safety, even as we take further steps
@@ -112,8 +86,8 @@ weak password, take the time to explain how to create a more robust
 one. There’s a million ways we can help our networks reduce the harm
 from poor digital security habits and build better security cultures.
 
-Why We Should CareAnd Act
----------------------------
+Why We Should Care -- And Act
+-----------------------------
 
 It's important to understand not just the what and the how of digital
 security, but the *why*. Why should we care about digital security?
@@ -160,29 +134,30 @@ Nothing-to-Hide Apathy
 People with this attitude typically do not feel a personal stake in
 their digital privacy and security, and therefore do not feel
 compelled to act. They may associate digital security concepts with
-high-profile state actors, whistleblowers, and public figuresnot with
-“normal” people like us.
+high-profile state actors, whistleblowers, and public figures -- not
+with “normal” people like us.
 
-Talking through the first step of threat modelingthe question “What
-do you want to protect?”can also be helpful towards finding your own
-stake in digital security. 
+Talking through the first step of threat modeling -- the question
+“What do you want to protect?” can also be helpful towards finding
+your own stake in digital security.
 
 Some examples:
 
--  Credit card and bank account information (both on the associated
-   websites and on any commerce websites like Amazon, PayPal, or
-   Venmo).
--  The information often found on “people finder” siteslike full names,
-   home addresses, and family connections.
-
+- Credit card and bank account information (both on the associated
+  websites and on any commerce websites like Amazon, PayPal, or
+  Venmo).
+- The information often found on “people finder” sites -- like full
+  names, home addresses, and family connections.
 
 It’s also common for the “nothing to hide argument” to become so
 dominant that we forget what’s at play when we talk about privacy.
 What is privacy and what does it mean to people? What are we really
 talking about when we talk about privacy? This is a complex topic, but
-as one researcher puts it: "Privacy is Consent. Privacy is the right
-to consent. Privacy is the right to withdraw consent. Privacy is
-nothing more than that, but that is everything."
+as one researcher puts it:
+
+  Privacy is Consent. Privacy is the right to consent.
+  Privacy is the right to withdraw consent.
+  Privacy is nothing more than that, but that is everything.
 
 Finally, sometimes someone with this attitude is making a logical
 decision based on their own threat model. Having identified what they
@@ -210,7 +185,8 @@ overwhelmed and helpless in the face of various digital threats.
 In this case, it can be helpful to emphasize one’s personal agency.
 At the same time,
 acknowledge the reality that it may very well be impossible
-to control all the information about one person onlineand *that’s okay*.
+to control all the information about one person online -- and
+*that’s okay*.
 Instead, we can shift the goal
 from erasing all our information
 to just minimizing our information.
@@ -246,11 +222,12 @@ background that has not given them consistent access to cutting-edge
 devices and software. Just like security paralysis, this person
 typically does not know where to start.
 
-If this is your case, it can help to focus on the security principles
-behind the technology. Technology changes quickly and can be
-confusing, but fundamental security principlesthreat modeling/risk
-assessment, tradeoffs, and deciding who and what to trustcan all act
-as steadfast guides as technology changes and evolves. 
+If this is your case,
+it can help to focus on the security principles behind the technology.
+Technology changes quickly and can be confusing,
+but fundamental security principles --
+threat modeling/risk assessment, tradeoffs, and deciding who and what to trust --
+can all act as steadfast guides as technology changes and evolves.
 
 Security is more than just tools. It’s about adopting a “security
 mindset” over time.
@@ -301,7 +278,7 @@ digital security.
 3. Simpler is Safer and Easier
 4. More Expensive Doesn't Mean More Secure
 5. It's Okay To Trust *Someone* (But Always Know Who You're Trusting)
-6. There is No Perfect SecurityThere’s Always a Trade-Off
+6. There is No Perfect Security -- There’s Always a Trade-Off
 7. What's Secure Today May Not Be Secure Tomorrow
 
 
@@ -369,14 +346,14 @@ lawyer.
 What's tricky in the digital space is understanding who you
 are trusting, and with what. You might deposit a list of passwords
 with your lawyers: but you should think about what power that might
-give themor how easily they might be maliciously attacked. You might
+give them -- or how easily they might be maliciously attacked. You might
 write documents in a cloud service like Dropbox or Microsoft OneDrive
 that are only for you: but you're also letting Dropbox and Microsoft
 access them, too. Online or offline, the fewer people you share a
 secret with, the better chance you have of keeping it secret.
 
-There is No Perfect SecurityThere’s Always a Trade-Off
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+There is No Perfect Security -- There’s Always a Trade-Off
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Set security policies that are reasonable for your lifestyle, for the
 risks you face, and for the implementation steps you and your
