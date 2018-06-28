@@ -1,4 +1,10 @@
-.. DIGITAL SECURITY / PRIVACY WORKSHOP. INTRO SEGMENT.
+.. DIGITAL SECURITY / PRIVACY WORKSHOP.
+
+.. Intro segment
+   =============
+
+Overview
+--------
 
 .. contents::
    
