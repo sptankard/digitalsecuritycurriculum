@@ -6,15 +6,14 @@ Intro segment
 
 This workshop is designed to be read collaboratively/collectively,
 going around in a circle.
-The text is based on material from EFF and Equality Labs.[#]_
+The text is based on material from EFF and Equality Labs. [#]_
 
 .. [#] Sources:
-       https://sec.eff.org/articles/harm-reduction
-       https://sec.eff.org/articles/why-your-audience-should-care
-       https://ssd.eff.org/en/module/seven-steps-digital-security
-       https://sec.eff.org/articles/minimum-viable-teaching
-       
-       https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
+   * https://sec.eff.org/articles/harm-reduction
+   * https://sec.eff.org/articles/why-your-audience-should-care
+   * https://ssd.eff.org/en/module/seven-steps-digital-security
+   * https://sec.eff.org/articles/minimum-viable-teaching
+   * https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
 
 .. contents::
 
