@@ -6,6 +6,15 @@ Intro segment
 
 This workshop is designed to be read collaboratively/collectively,
 going around in a circle.
+The text is based on material from EFF and Equality Labs.[#]_
+
+.. [#] Sources:
+       https://sec.eff.org/articles/harm-reduction
+       https://sec.eff.org/articles/why-your-audience-should-care
+       https://ssd.eff.org/en/module/seven-steps-digital-security
+       https://sec.eff.org/articles/minimum-viable-teaching
+       
+       https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
 
 .. contents::
 
@@ -603,15 +612,3 @@ part of your core skills as an organizer. There is no silver bullet to
 digital security -- it is an awareness and a practice. It gets better
 with reiteration and with a community committed together to stay safe.
 The best defense is a collective one and we are all in it together. :)
-
-
-
-.. sidebar:: References -- original source material
-
-   The text is based on material from EFF and Equality Labs::
-
-      https://sec.eff.org/articles/harm-reduction
-      https://sec.eff.org/articles/why-your-audience-should-care
-      https://ssd.eff.org/en/module/seven-steps-digital-security
-      https://sec.eff.org/articles/minimum-viable-teaching
-      https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
