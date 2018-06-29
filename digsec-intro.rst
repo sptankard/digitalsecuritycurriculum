@@ -6,14 +6,7 @@ Intro segment
 
 This workshop is designed to be read collaboratively/collectively,
 going around in a circle.
-The text is based on material from EFF and Equality Labs. [#]_
-
-.. [#] Sources:
-   * https://sec.eff.org/articles/harm-reduction
-   * https://sec.eff.org/articles/why-your-audience-should-care
-   * https://ssd.eff.org/en/module/seven-steps-digital-security
-   * https://sec.eff.org/articles/minimum-viable-teaching
-   * https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
+The text is based on material from EFF and Equality Labs. [#sources]_
 
 .. contents::
 
@@ -563,18 +556,7 @@ Here's what they put in the intro to their guide:
    
    [...] Post Charlottesville, Boston, and the Bay Area Anti-White
    supremacist marches we are seeing an unprecedented number of doxing
-   attacks on all members of the movements. [#]_
-
-.. [#] From the ANTI-DOXING GUIDE FOR ACTIVISTS FACING ATTACKS FROM THE ALT-RIGHT.
-       See:
-       
-       https://github.com/sptankard/digitalsecuritycurriculum/blob/master/anti_doxing_guide.md
-
-       Adapted version of guide originally published by Equality Labs, 12017
-       Sep 1.
-
-       https://equalitylabs.org ,
-       https://medium.com/@EqualityLabs/
+   attacks on all members of the movements. [#eqlabsguide]_
 
 "Security culture" is important for crisis times, but it's also
 important for the long run. Additionally, it's important to ensure
@@ -611,3 +593,25 @@ part of your core skills as an organizer. There is no silver bullet to
 digital security -- it is an awareness and a practice. It gets better
 with reiteration and with a community committed together to stay safe.
 The best defense is a collective one and we are all in it together. :)
+
+
+.. rubric:: Footnotes
+
+.. [#sources] Sources:
+   
+   - https://sec.eff.org/articles/harm-reduction
+   - https://sec.eff.org/articles/why-your-audience-should-care
+   - https://ssd.eff.org/en/module/seven-steps-digital-security
+   - https://sec.eff.org/articles/minimum-viable-teaching
+   - https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
+
+.. [#eqlabsguide] From the ANTI-DOXING GUIDE FOR ACTIVISTS FACING
+   ATTACKS FROM THE ALT-RIGHT. See:
+   
+   https://github.com/sptankard/digitalsecuritycurriculum/blob/master/anti_doxing_guide.md
+   
+   Adapted version of guide originally published by Equality Labs,
+   12017 Sep 1.
+   
+   https://equalitylabs.org ,
+   https://medium.com/@EqualityLabs/
