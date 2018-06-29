@@ -27,6 +27,7 @@ html_theme_options = { 'style_external_links': True }
 html_static_path = ['_static']
 htmlhelp_basename = 'Digitalsecurityandprivacyworkshopdoc'
 
+latex_show_urls = 'footnote'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
