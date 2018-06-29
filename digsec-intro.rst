@@ -574,9 +574,9 @@ What to do? What is security culture? The basic idea is to adopt best
 practices to stay safe. These are things that should be incorporated
 into your regular digital security practices, and into your regular
 habits more generally. The practices will help lock you down through
-attacks. But it's not enough to just do it once and then move on: You
-need to maintain these things to keep your digital resilience.\ *
-"Security is a process, not a product."*
+attacks. But it's not enough to just do it once and then move on:
+You need to maintain these things to keep your digital resilience.
+*"Security is a process, not a product."*
 
 Stop LAPD Spying Coalition talk about adopting a vision of *security
 culture* that centers all collective security practices as a form of
