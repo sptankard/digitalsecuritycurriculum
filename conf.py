@@ -21,8 +21,9 @@ pygments_style = 'sphinx'
 
 todo_include_todos = False
 
-html_theme = 'default'
-# html_theme = 'sphinx_rtd_theme'
+html_theme = 'default' # 'sphinx_rtd_theme'
+html_theme_options = { 'style_external_links': True }
+
 html_static_path = ['_static']
 htmlhelp_basename = 'Digitalsecurityandprivacyworkshopdoc'
 
