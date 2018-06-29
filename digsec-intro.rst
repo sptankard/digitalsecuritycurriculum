@@ -1,10 +1,23 @@
 .. DIGITAL SECURITY / PRIVACY WORKSHOP.
 
+=============
 Intro segment
 =============
 
+This workshop is designed to be read collaboratively/collectively,
+going around in a circle.
+The text is based on material from EFF and Equality Labs.[#]_
+
+.. [#] Sources:
+       https://sec.eff.org/articles/harm-reduction
+       https://sec.eff.org/articles/why-your-audience-should-care
+       https://ssd.eff.org/en/module/seven-steps-digital-security
+       https://sec.eff.org/articles/minimum-viable-teaching
+       
+       https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
+
 .. contents::
-   
+
 ..
   Short contents:
 
@@ -14,10 +27,9 @@ Intro segment
   4.  Some actual tech advice: The Minimum Viable Teaching
   5.  A positive security culture for organizers
 
-..
   Long contents:
-  ..put stuff in here later...
- 
+  ...put stuff in here later...
+
 The Harm Reduction Approach
 ---------------------------
 
