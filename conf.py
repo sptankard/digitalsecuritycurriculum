@@ -45,19 +45,24 @@ latex_elements = {
     # 'figure_align': 'htbp',
 }
 
+full_title = u'Digital security and privacy workshop'
+
 latex_documents = [
-    (master_doc, 'Digitalsecurityandprivacyworkshop.tex', u'Digital security and privacy workshop',
-     u'People', 'manual'),
+    (master_doc, 'Digitalsecurityandprivacyworkshop.tex',
+     full_title,
+     u'People', 'howto'),
 ]
 
 man_pages = [
-    (master_doc, 'digitalsecurityandprivacyworkshop', u'Digital security and privacy workshop',
-     [author], 1)
+    (master_doc, 'digitalsecurityandprivacyworkshop',
+     full_title, [author], 1)
 ]
 
 texinfo_documents = [
-    (master_doc, 'Digitalsecurityandprivacyworkshop', u'Digital security and privacy workshop',
-     author, 'Digitalsecurityandprivacyworkshop', 'One line description of project.',
+    (master_doc, 'Digitalsecurityandprivacyworkshop',
+     full_title,
+     author, 'Digitalsecurityandprivacyworkshop',
+     'One line description of project.',
      'Miscellaneous'),
 ]
 
