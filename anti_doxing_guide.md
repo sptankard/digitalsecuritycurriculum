@@ -1,4 +1,4 @@
-# ANTI-DOXING GUIDE FOR ACTIVISTS FACING ATTACKS FROM THE ALT-RIGHT
+# Anti-doxing guide for activists facing attacks from the alt-right
 
 Adapted from: https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
 
@@ -404,7 +404,7 @@ This is going to take some time so take a couple of hours and follow the Equalit
 
 https://docs.google.com/presentation/d/1rtWqtbY_tVnncCEEEfRXInN1atSjodloBAaJqRICxAg/edit?usp=sharing
 
-### Conclusions
+## Conclusions
 
 OKAY! We know that is a lot but keep in mind. But: 
 
