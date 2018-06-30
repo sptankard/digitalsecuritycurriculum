@@ -64,13 +64,13 @@ latex_documents = [
      False
     ),
 
-    (master_doc,
-     'Digitalsecurityandprivacyworkshop-full.tex',
-     full_title,
-     u'', # u'People',
-     'manual',
-     True
-    ),
+    # (master_doc,
+    #  'Digitalsecurityandprivacyworkshop-full.tex',
+    #  full_title,
+    #  u'', # u'People',
+    #  'manual',
+    #  True
+    # ),
 
 ]
 
