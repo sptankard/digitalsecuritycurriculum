@@ -12,3 +12,4 @@ Digital security and privacy workshop
    :caption: Other materials
    
    anti_doxing_guide
+   EqLabs-Digital_Security_In_The_Era_Of_Trump
