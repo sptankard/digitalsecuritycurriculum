@@ -135,7 +135,7 @@ This is crucial to:
 
 A sample log could look like this:
 
-![Incident response log. Columns: date, time, description, result/recommendation](https://cdn-images-1.medium.com/max/1600/1*J3t67fwqvZljZWdDHZXn4w.jpeg)
+![Incident response log. Columns: date, time, description, result/recommendation](img/incident-response-log.jpeg)
 
 (Just a simple table with four columns: date, time, description, result/recommendation.)
 
