@@ -97,9 +97,10 @@ Final little note -- Actually, install [Signal](https://signal.org) immediately.
 * Everybody should be using it all the time.
 * Install Signal! & use it :)
 
-## Details
+With that, here is our check-list for protecting your identity...
 
-Here is our check-list for protecting your identity...
+
+## Logistics and human-y stuff
 
 ### ✔ CREATE A SELF-CARE PLAN 
 
@@ -157,6 +158,9 @@ But please note: we recommend that you keep incident logs not in google docs but
 
 * Etherpad on Riseup at https://pad.riseup.net or 
 * Cryptpad at https://cryptpad.fr
+
+
+## Techy stuff *immediately*
 
 ### ✔ CHANGE YOUR EXISTING PASSWORDS
 
@@ -223,6 +227,9 @@ Not going to lie to you, at first you are going to find 2fa a little annoying. B
 
 * **It's worth it.** It really is.
 * It will get less annoying pretty quickly as you get used to it.
+
+
+## Techy stuff step/day 2
 
 ### ✔ FIND OUT WHAT INFORMATION TROLLS CAN FIND OUT ABOUT YOU. 
 
@@ -326,6 +333,9 @@ Go get it
 * Handy mini-guide/shameless self-plug: https://medium.com/@sptanager/intro-to-signal-d3bc095a115a
 
 Go get it now. What are you waiting for?
+
+
+## Techy stuff steps/days 3 & 4+
 
 ### ✔WEAN YOURSELF OFF G-MAIL AND BEGIN USING ENCRYPTED E-MAIL. 
 
