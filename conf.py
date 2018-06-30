@@ -7,7 +7,7 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 project = u'Digital security and privacy workshop'
-copyright = u'2018, People'
+copyright = u'and copyleft 12018, People'
 author = u'People'
 
 version = u''
