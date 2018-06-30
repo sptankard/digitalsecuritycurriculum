@@ -9,6 +9,7 @@ going around in a circle.
 The text is based on material from EFF and Equality Labs. [#sources]_
 
 .. contents::
+   :local:
 
 ..
   Short contents:
