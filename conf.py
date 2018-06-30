@@ -41,6 +41,7 @@ latex_elements = {
 \usepackage{lastpage}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
+\fancyhead{} % clear all header fields
 \cfoot{\thepage\ / \pageref{LastPage}}
 
 ''',
