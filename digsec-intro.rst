@@ -82,16 +82,26 @@ Harm reduction is collective.
 Because of the many ways our digital lives are inherently intertwined,
 it’s important to remember that we are responsible for each others’
 safety and privacy. It’s upon us to collectively support each other as
-we learn about each other’s privacy preferences. We can coordinate in
+we learn about each other’s privacy preferences.
+
+We can coordinate in
 reducing threats and vulnerabilities that affect us as co-workers,
 family members, activists, or even just neighbors using the same cafe
-Wi-Fi to browse the web. When you notice that others have unsafe
+WiFi to browse the web. When you notice that others have unsafe
 settings or are leaking personal data, you can tell them. If you
 prefer not to be tagged in photos on social media, let others know and
 ask others what their preferences are. If you see your parents have a
 weak password, take the time to explain how to create a more robust
-one. There’s a million ways we can help our networks reduce the harm
+one.
+
+There’s a million ways we can help our networks reduce the harm
 from poor digital security habits and build better security cultures.
+
+While many people often use military or war analogies
+when talking about digital security,
+thinking about it that way can often be misleading.
+In many ways, analogies to public health and medicine
+can be much more informative and helpful.
 
 Why We Should Care -- And Act
 -----------------------------
@@ -224,7 +234,7 @@ browser extensions, and encryption. While they have abundant
 information, they have no idea where to start or exactly how all these
 things are connected. Often, these learners have less experience with
 technology than the average trainer, but they are detail-oriented and
-cautious. They may be senior citizens, or come from a low-resource
+cautious. They may be elders, or come from a low-resource
 background that has not given them consistent access to cutting-edge
 devices and software. Just like security paralysis, this person
 typically does not know where to start.
@@ -311,7 +321,7 @@ The security of the asset depends on the strength of all the
 components in the system. The old adage that "a chain is only as
 strong as its weakest link" applies to security too: The system as a
 whole is only as strong as the weakest component. For example, the
-best door lock is of no use if you have cheap window latches.
+best door lock is of no use if you have weak window latches.
 Encrypting your email so it won't get intercepted in transit won't
 protect the confidentiality of that email if you store an unencrypted
 copy on your laptop and your laptop is stolen. That doesn't mean you
@@ -408,8 +418,8 @@ into a half-day of teaching, but the short version is good too.
    end-to-end encrypted messenger app like Signal or WhatsApp. If you want
    to be anonymous online, try using the Tor Browser.”
 
-Well, that was the powdered-juice-concentrate version. Now let's break
-it down and talk about it.
+Well, that was the concentrated version.
+Now let's break it down and talk about it.
 
 The basics:
 
@@ -427,6 +437,7 @@ time.
 
 Turn on encryption.
 ^^^^^^^^^^^^^^^^^^^
+
 We say “turn on encryption” because that phrase typed into a search
 engine gives you good links to general instructions on encryption.
 (Unfortunately we can’t say “turn on encryption” on Windows, because
@@ -434,6 +445,7 @@ only Windows Professional offers full disk encryption.)
 
 Pick a long password.
 ^^^^^^^^^^^^^^^^^^^^^
+
 “Long” is more understandable than “strong.” PIN is understood as the
 number that locks your phone, so you can extend this by including it
 in the same sentence to include desktop PC or laptop device logins.
@@ -443,6 +455,7 @@ internally about whether we should say “six” or “seven”!
 
 Don’t reuse your passwords!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Reusing passwords is one of the top ways that accounts can be
 compromised, but it can be hard to stop doing it. One thing that can
 really help is to use a tool called a “password manager”. There are a
@@ -458,6 +471,7 @@ people all the time.
 
 Turn on two-factor authentication.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 In an attempt to “avoid jargon,” almost every web service uses a
 different term for two-factor authentication. We say “two-factor or
 two-step” to imply that it might be called a number of different
@@ -465,8 +479,8 @@ things. We also give the basic reason why you should turn on
 two-factor authentication: it will help stop your logins and accounts
 from being hacked.
 
-Understanding *why* two-factor might protect you is difficult to
-understand, but the benefit is not.
+Understanding *why* two-factor might protect you is difficult,
+but getting the benefit from it is not.
 
 For info on how to tell what accounts offer two-factor authentication,
 you can use websites like
@@ -475,13 +489,14 @@ https://www.twofactorauth.org/.
 
 Avoid clicking on strange links or email attachments.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 We say this to reinforce the idea that you are most vulnerable to
 phishing when presented with links or attachments, but security
 experts have long internal debates about this advice too. Can anyone
 really go through life not clicking on any links or email attachments?
 Can anyone confidently tell when a link or attachment is “strange”
-(i.e. a fraudulent attempt to trick you into accepting malware onto
-your computer?).
+(that is, a fraudulent attempt to trick you into accepting malware onto
+your computere)?
 
 In concrete terms, if you receive strange attachments or links, one
 thing you can do is talk to the supposed sender in person or over the
