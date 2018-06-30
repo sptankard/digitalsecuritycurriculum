@@ -21,8 +21,8 @@ pygments_style = 'sphinx'
 
 todo_include_todos = False
 
-html_theme = 'default' # 'sphinx_rtd_theme'
-html_theme_options = { 'style_external_links': True }
+html_theme = 'sphinx_rtd_theme' # 'default'
+#html_theme_options = { 'style_external_links': True }
 
 html_static_path = ['_static']
 htmlhelp_basename = 'Digitalsecurityandprivacyworkshopdoc'
@@ -52,22 +52,38 @@ latex_elements = {
 full_title = u'Digital security and privacy workshop'
 
 latex_documents = [
-    (master_doc, 'Digitalsecurityandprivacyworkshop.tex',
+    ('digsec-intro',
+     'digsec-intro.tex',
      full_title,
-     u'People', 'howto'),
+     u'People',
+     'howto'
+    ),
+    (master_doc,
+     'Digitalsecurityandprivacyworkshops-full.tex',
+     full_title,
+     u'People',
+     'howto'
+    ),
 ]
 
 man_pages = [
-    (master_doc, 'digitalsecurityandprivacyworkshop',
-     full_title, [author], 1)
+    (master_doc,
+     'digitalsecurityandprivacyworkshop',
+     full_title,
+     [author],
+     1
+    )
 ]
 
 texinfo_documents = [
-    (master_doc, 'Digitalsecurityandprivacyworkshop',
+    (master_doc,
+     'Digitalsecurityandprivacyworkshop',
      full_title,
-     author, 'Digitalsecurityandprivacyworkshop',
+     author,
+     'Digitalsecurityandprivacyworkshop',
      'One line description of project.',
-     'Miscellaneous'),
+     'Miscellaneous'
+    ),
 ]
 
 epub_title = project
