@@ -382,11 +382,12 @@ What's Secure Today May Not Be Secure Tomorrow
 
 It is also crucially important to continually re-evaluate your
 security practices. Just because they were secure last year or last
-week doesn't mean they're still secure! Keep checking sites like SSD
-(EFF's *Surveillance Self-Defense* guide, at ssd.eff.org), because we
-will update our advice to reflect changes in our understanding and the
-realities of digital security. Security is never a one-off act: it's a
-process.
+week doesn't mean they're still secure!
+Keep checking sites like
+[SSD -- EFF's *Surveillance Self-Defense* guide]( https://ssd.eff.org ),
+because they will update their advice to reflect changes in their
+understanding and the realities of digital security. Security is never
+a one-off act: it's a process.
 
 Some actual tech advice: The Minimum Viable Teaching
 ----------------------------------------------------
