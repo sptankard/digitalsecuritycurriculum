@@ -40,7 +40,8 @@ latex_elements = {
 
 \usepackage{lastpage}
 \usepackage{fancyhdr}
-\cfoot{\thepage\ / \pageref*{LastPage}}
+\pagestyle{fancy}
+\cfoot{\thepage\ / \pageref{LastPage}}
 
 ''',
 }
