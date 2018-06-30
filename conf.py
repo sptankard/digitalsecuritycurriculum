@@ -42,7 +42,9 @@ latex_elements = {
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead{} % clear all header fields
-\cfoot{\thepage\ / \pageref{LastPage}}
+\cfoot{\thepage\ / \pageref*{LastPage}}
+
+\usepackage[scaled=0.95]{ebgaramond}
 
 ''',
 }
