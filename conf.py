@@ -38,6 +38,9 @@ latex_elements = {
     # Additional stuff for the LaTeX preamble.
     'preamble': r'''
 
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
 \usepackage{lastpage}
 \usepackage{fancyhdr}
     \pagestyle{fancy}
@@ -52,18 +55,23 @@ latex_elements = {
 full_title = u'Digital security and privacy workshop'
 
 latex_documents = [
+
     ('digsec-intro',
      'digsec-intro.tex',
-     full_title,
-     u'People',
-     'howto'
+     full_title + u'\\\\  --  Intro segment',
+     u'', # u'People',
+     'howto',
+     False
     ),
+
     (master_doc,
-     'Digitalsecurityandprivacyworkshops-full.tex',
+     'Digitalsecurityandprivacyworkshop-full.tex',
      full_title,
-     u'People',
-     'howto'
+     u'', # u'People',
+     'manual',
+     True
     ),
+
 ]
 
 man_pages = [
