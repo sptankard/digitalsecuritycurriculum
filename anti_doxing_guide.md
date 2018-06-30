@@ -1,16 +1,16 @@
 # Anti-doxing guide for activists facing attacks from the alt-right
 
-Adapted from: https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c
-
-Originally published by equality labs, 12017 Sep 1. 
-
-[equalitylabs.org](https://equalitylabs.org)
+Adapted from [this blog post](https://medium.com/@EqualityLabs/anti-doxing-guide-for-activists-facing-attacks-from-the-alt-right-ec6c290f543c)
+originally published by equality labs, 12017 Sep 1.
+[EqualityLabs.org](https://equalitylabs.org)
 
 > Hey Movement Fam,
 > 
 > It is the folks from Equality Labs and we have an urgent Anti-Doxing guide to support the activists who are getting slammed by Alt-right Forces around the country for coming out and resisting Nazis from Charlottesville to Berkeley.
 > 
 > [...] Post Charlottesville, Boston, and the Bay Area Anti-White supremacist marches we are seeing an unprecedented number of doxing attacks on all members of the movements.
+
+![](img/secure-your-identity-blue.jpeg)
 
 This guide has been created to deal with the current issues we are seeing.
 
@@ -307,6 +307,8 @@ Tor also comes with security downsides:
 Tor is the only tech that offers real, strong anonymity, but it's not a tool for everything.
 
 Learn a bit about the tools and know when to use what for what.
+
+![Bits of Freedom diagram of how Tor works, showing guard/relay/exit nodes, etc.](img/wat-is-tor.jpeg)
 
 ### ✔INSTALL SIGNAL. 
 
